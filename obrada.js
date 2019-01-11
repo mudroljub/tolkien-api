@@ -1,26 +1,12 @@
 const fs = require('fs')
 const ostalo = require('./data/ostalo.json')
 
-const rase = [
-  "Men",
-  "Elves",
-  "Dwarves",
-  "Hobbits",
-  "Valar",
-  "Maiar",
-  "Orcs", 
-  "Balrogs",
-  "Huorns",
-  "Beorning",
-  "Dragons",
-  "Ents",
-  "Trolls",
-  "Giants", 
-  "Uruk-hai",
-  "Half-orc",
-  "Half-elven"
-]
+const filtrirano = ostalo.map(x => {
+  const index = x.text.indexOf("\n\nPortrayal in adaptations")
+  if (index > 0) {
+    x.text = x.text.substring(0, index)
+  }
+  return x
+})
 
-const filtrirano = ostalo.filter(x => rase.includes(x.title))
-
-fs.writeFileSync('rase.json', JSON.stringify(filtrirano, null, 2))
+fs.writeFileSync('ostalo.json', JSON.stringify(filtrirano, null, 2))
