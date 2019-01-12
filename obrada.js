@@ -1,8 +1,14 @@
 const fs = require('fs')
-const ostalo = require('./data/ostalo.json')
+const ostalo = require('./ostalo.json')
 
-const filtrirano = ostalo
-.filter(x => x.title.toLowerCase().split(' ').includes('song'))
+let pesme = require('./pesme.json')
+let pesmeOstale = require('./pesme-ostale.json')
+
+pesme = pesme.map(p => p.title)
+filtrirano = pesmeOstale.filter(p => !pesme.includes(p))
+
+// const filtrirano = ostalo
+// .filter(x => pesmeOstale.includes(x.title))
 // .map(x => {
 //   const index = x.text.indexOf("\n\nTrivia")
 //   if (index > 0) {
@@ -11,4 +17,4 @@ const filtrirano = ostalo
 //   return x
 // })
 
-fs.writeFileSync('pesme.json', JSON.stringify(filtrirano, null, 2))
+// fs.writeFileSync('pesme-ostale.json', JSON.stringify(filtrirano, null, 2))
