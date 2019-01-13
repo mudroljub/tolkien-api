@@ -12,7 +12,8 @@
     "data_race": "Elves",
     "gender": "Male",
     "hair": "Golden",
-    "culture": "Ñoldor (House of Finarfin), Falmari (House of Olwë)"
+    "culture": "Ñoldor (House of Finarfin), Falmari (House of Olwë)",
+    "page_id": "2680"
   },
   {
     "name": "Adrahil II",
@@ -25,7 +26,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain (House of Dol Amroth), Men of Gondor"
+    "culture": "Dúnedain (House of Dol Amroth), Men of Gondor",
+    "page_id": "8682"
   },
   {
     "name": "Aerin",
@@ -38,7 +40,8 @@
     "spouse": "Brodda",
     "data_race": "Men",
     "gender": "Female",
-    "culture": "Edain (House of Hador), Men of Dor-lómin"
+    "culture": "Edain (House of Hador), Men of Dor-lómin",
+    "page_id": "8764"
   },
   {
     "name": "Adrahil I",
@@ -52,7 +55,8 @@
     "weapon": "Sword, Bow",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain, Men of Gondor"
+    "culture": "Dúnedain, Men of Gondor",
+    "page_id": "11284"
   },
   {
     "name": "Adanel",
@@ -62,7 +66,8 @@
     "spouse": "Belemir",
     "data_race": "Men",
     "gender": "Female",
-    "culture": "Edain (House of Marach)"
+    "culture": "Edain (House of Marach)",
+    "page_id": "2529"
   },
   {
     "name": "Aldamir",
@@ -78,7 +83,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain, Men of Gondor (House of Anárion)"
+    "culture": "Dúnedain, Men of Gondor (House of Anárion)",
+    "page_id": "628"
   },
   {
     "name": "Algund",
@@ -91,7 +97,8 @@
     "weapon": "Sword, Bow ?",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain (Men of Dor-lómin)"
+    "culture": "Edain (Men of Dor-lómin)",
+    "page_id": "21848"
   },
   {
     "name": "Aglahad",
@@ -104,7 +111,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain, Men of Gondor (House of Dol Amroth)"
+    "culture": "Dúnedain, Men of Gondor (House of Dol Amroth)",
+    "page_id": "9624"
   },
   {
     "name": "Aldor",
@@ -121,7 +129,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Rohirrim (House of Eorl)"
+    "culture": "Rohirrim (House of Eorl)",
+    "page_id": "2286"
   },
   {
     "name": "Almarian",
@@ -133,7 +142,8 @@
     "spouse": "Tar-Meneldur",
     "data_race": "Men",
     "gender": "Female",
-    "culture": "Númenórean"
+    "culture": "Númenórean",
+    "page_id": "10162"
   },
   {
     "name": "Amarië",
@@ -145,7 +155,8 @@
     "spouse": "Loved Finrod but it is unknown whether they married",
     "data_race": "Elves",
     "gender": "Female",
-    "culture": "Vanyar"
+    "culture": "Vanyar",
+    "page_id": "3708"
   },
   {
     "name": "Ailinel",
@@ -157,7 +168,8 @@
     "spouse": "Orchaldor",
     "data_race": "Men",
     "gender": "Female",
-    "culture": "Númenóreans (House of Elros)"
+    "culture": "Númenóreans (House of Elros)",
+    "page_id": "3701"
   },
   {
     "name": "Amandil",
@@ -172,7 +184,8 @@
     "parentage": "Númendil",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Númenóreans (House of Elros)\nThe Faithful"
+    "culture": "Númenóreans (House of Elros)\nThe Faithful",
+    "page_id": "2498"
   },
   {
     "name": "Almiel",
@@ -184,7 +197,8 @@
     "spouse": "Unknown",
     "data_race": "Men",
     "gender": "Female",
-    "culture": "Númenóreans (House of Elros)"
+    "culture": "Númenóreans (House of Elros)",
+    "page_id": "11286"
   },
   {
     "name": "Alphros",
@@ -197,7 +211,8 @@
     "spouse": "Unknown",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain, Men of Gondor (House of Dol Amroth)"
+    "culture": "Dúnedain, Men of Gondor (House of Dol Amroth)",
+    "page_id": "11215"
   },
   {
     "name": "Amras",
@@ -214,7 +229,8 @@
     "data_race": "Elves",
     "gender": "Male",
     "hair": "Dark red",
-    "culture": "Ñoldor (House of Fëanor)"
+    "culture": "Ñoldor (House of Fëanor)",
+    "page_id": "2661"
   },
   {
     "name": "Amdír",
@@ -231,7 +247,8 @@
     "weapon": "Bow, sword (presumably)",
     "data_race": "Elves",
     "gender": "Male",
-    "culture": "Sindar, Elves of Doriath, Galadhrim"
+    "culture": "Sindar, Elves of Doriath, Galadhrim",
+    "page_id": "3235"
   },
   {
     "name": "Amrod",
@@ -246,7 +263,8 @@
     "data_race": "Elves",
     "gender": "Male",
     "hair": "Dark red",
-    "culture": "Ñoldor (House of Fëanor)"
+    "culture": "Ñoldor (House of Fëanor)",
+    "page_id": "660"
   },
   {
     "name": "Amroth",
@@ -262,7 +280,8 @@
     "data_race": "Elves",
     "gender": "Male",
     "hair": "Golden[3]",
-    "culture": "Sindar (Galadhrim) (Elves of Lórien)"
+    "culture": "Sindar (Galadhrim) (Elves of Lórien)",
+    "page_id": "34"
   },
   {
     "name": "Amlaith",
@@ -279,7 +298,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur)"
+    "culture": "Dúnedain of the North (House of Isildur)",
+    "page_id": "2920"
   },
   {
     "name": "Amrothos",
@@ -291,7 +311,8 @@
     "spouse": "Unknown",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain, Men of Gondor (House of Dol Amroth)"
+    "culture": "Dúnedain, Men of Gondor (House of Dol Amroth)",
+    "page_id": "3723"
   },
   {
     "name": "Anborn",
@@ -304,7 +325,8 @@
     "data_race": "Men",
     "gender": "Male",
     "hair": "Dark",
-    "culture": "Dúnedain, Men of Gondor"
+    "culture": "Dúnedain, Men of Gondor",
+    "page_id": "76"
   },
   {
     "name": "Andreth",
@@ -319,7 +341,8 @@
     "data_race": "Men",
     "gender": "Female",
     "hair": "Dark brown",
-    "culture": "Edain (House of Bëor)"
+    "culture": "Edain (House of Bëor)",
+    "page_id": "2683"
   },
   {
     "name": "Anairë",
@@ -330,7 +353,8 @@
     "spouse": "Fingolfin",
     "data_race": "Elves",
     "gender": "Female",
-    "culture": "Ñoldor (House of Fingolfin)"
+    "culture": "Ñoldor (House of Fingolfin)",
+    "page_id": "2662"
   },
   {
     "name": "Anardil",
@@ -346,7 +370,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain,\nMen of Gondor (House of Anárion)"
+    "culture": "Dúnedain,\nMen of Gondor (House of Anárion)",
+    "page_id": "517"
   },
   {
     "name": "Angbor",
@@ -358,7 +383,8 @@
     "weapon": "Sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain,\nMen of Gondor"
+    "culture": "Dúnedain,\nMen of Gondor",
+    "page_id": "8622"
   },
   {
     "name": "Andróg",
@@ -371,7 +397,8 @@
     "weapon": "Bow, sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain, Men of Dor-lómin"
+    "culture": "Edain, Men of Dor-lómin",
+    "page_id": "8121"
   },
   {
     "name": "Angelimir",
@@ -383,7 +410,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain (House of Dol Amroth), Men of Gondor"
+    "culture": "Dúnedain (House of Dol Amroth), Men of Gondor",
+    "page_id": "9669"
   },
   {
     "name": "Angamaitë",
@@ -395,7 +423,8 @@
     "spouse": "Unknown",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain (House of Anárion),\nHaradrim,\nCorsairs of Umbar"
+    "culture": "Dúnedain (House of Anárion),\nHaradrim,\nCorsairs of Umbar",
+    "page_id": "19101"
   },
   {
     "name": "Angrod",
@@ -410,7 +439,8 @@
     "data_race": "Elves",
     "gender": "Male",
     "hair": "Golden",
-    "culture": "Ñoldor (House of Finarfin)\nFalmari (House of Olwë)"
+    "culture": "Ñoldor (House of Finarfin)\nFalmari (House of Olwë)",
+    "page_id": "2444"
   },
   {
     "name": "Annael",
@@ -422,7 +452,8 @@
     "spouse": "Unknown",
     "data_race": "Elves",
     "gender": "Male",
-    "culture": "Sindar, Elves of Mithrim"
+    "culture": "Sindar, Elves of Mithrim",
+    "page_id": "10463"
   },
   {
     "name": "Ar-Adûnakhôr",
@@ -439,7 +470,8 @@
     "weapon": "Aranrúth",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Númenórean (House of Elros), King's Men"
+    "culture": "Númenórean (House of Elros), King's Men",
+    "page_id": "2535"
   },
   {
     "name": "Ar-Gimilzôr",
@@ -456,7 +488,8 @@
     "weapon": "Aranrúth",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Númenórean (King's Men)"
+    "culture": "Númenórean (King's Men)",
+    "page_id": "2824"
   },
   {
     "name": "Ar-Pharazôn",
@@ -475,7 +508,8 @@
     "data_race": "Men",
     "gender": "Male",
     "height": "Tall",
-    "culture": "Númenóreans (King's Men), House of Elros"
+    "culture": "Númenóreans (King's Men), House of Elros",
+    "page_id": "2499"
   },
   {
     "name": "Anárion",
@@ -493,7 +527,8 @@
     "weapon": "Sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Númenórean (House of Elendil)"
+    "culture": "Númenórean (House of Elendil)",
+    "page_id": "541"
   },
   {
     "name": "Ar-Sakalthôr",
@@ -510,7 +545,8 @@
     "weapon": "Aranrúth",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Númenóreans, King's Men"
+    "culture": "Númenóreans, King's Men",
+    "page_id": "2825"
   },
   {
     "name": "Aragorn I",
@@ -524,7 +560,8 @@
     "weapon": "Shards of Narsil, Chieftain’s sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North"
+    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North",
+    "page_id": "259"
   },
   {
     "name": "Araglas",
@@ -538,7 +575,8 @@
     "weapon": "Shards of Narsil, Chieftain's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North"
+    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North",
+    "page_id": "2930"
   },
   {
     "name": "Arador",
@@ -554,7 +592,8 @@
     "gender": "Male",
     "hair": "Dark, then grey (film)",
     "eyes": "Hazel (film)",
-    "culture": "Dúnedain of the North, (House of Isildur), Rangers of the North"
+    "culture": "Dúnedain of the North, (House of Isildur), Rangers of the North",
+    "page_id": "454"
   },
   {
     "name": "Ar-Zimrathôn",
@@ -571,7 +610,8 @@
     "weapon": "Aranrúth",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Númenórean (House of Elros), King's Men"
+    "culture": "Númenórean (House of Elros), King's Men",
+    "page_id": "2826"
   },
   {
     "name": "Arahael",
@@ -585,7 +625,8 @@
     "weapon": "Shards of Narsil, sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (Rangers of the North)"
+    "culture": "Dúnedain of the North (Rangers of the North)",
+    "page_id": "2927"
   },
   {
     "name": "Aragost",
@@ -599,7 +640,8 @@
     "weapon": "Shards of Narsil, Chieftain's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North"
+    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North",
+    "page_id": "2934"
   },
   {
     "name": "Arahad I",
@@ -613,7 +655,8 @@
     "weapon": "Shards of Narsil, Chieftain's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North"
+    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North",
+    "page_id": "2931"
   },
   {
     "name": "Arahad II",
@@ -627,7 +670,8 @@
     "weapon": "Shards of Narsil, Chieftain's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North"
+    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North",
+    "page_id": "2936"
   },
   {
     "name": "Aragorn II Elessar",
@@ -651,7 +695,8 @@
     "hair": "Dark, flecked with grey",
     "eyes": "Grey",
     "culture": "Dúnedain (House of Isildur)",
-    "actor": "Viggo Mortensen"
+    "actor": "Viggo Mortensen",
+    "page_id": "130"
   },
   {
     "name": "Aranwë",
@@ -661,7 +706,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Elves",
     "gender": "Male",
-    "culture": "Ñoldor (House of Fingolfin), Gondolindrim"
+    "culture": "Ñoldor (House of Fingolfin), Gondolindrim",
+    "page_id": "9432"
   },
   {
     "name": "Aranuir",
@@ -675,7 +721,8 @@
     "weapon": "Shards of Narsil, Chieftain's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North"
+    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North",
+    "page_id": "2928"
   },
   {
     "name": "Aranarth",
@@ -689,7 +736,8 @@
     "weapon": "Shards of Narsil, Chieftain's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North"
+    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North",
+    "page_id": "2843"
   },
   {
     "name": "Araphant",
@@ -705,7 +753,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur)"
+    "culture": "Dúnedain of the North (House of Isildur)",
+    "page_id": "2898"
   },
   {
     "name": "Arantar",
@@ -721,7 +770,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur)"
+    "culture": "Dúnedain of the North (House of Isildur)",
+    "page_id": "2764"
   },
   {
     "name": "Arathorn II",
@@ -735,7 +785,8 @@
     "weapon": "Shards of Narsil,\nChieftain's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (Rangers of the North)"
+    "culture": "Dúnedain of the North (Rangers of the North)",
+    "page_id": "2941"
   },
   {
     "name": "Araphor",
@@ -751,7 +802,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur)"
+    "culture": "Dúnedain of the North (House of Isildur)",
+    "page_id": "2923"
   },
   {
     "name": "Aratan",
@@ -764,7 +816,8 @@
     "weapon": "Sword, spear, bow ?",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain (House of Isildur)"
+    "culture": "Dúnedain (House of Isildur)",
+    "page_id": "4512"
   },
   {
     "name": "Arassuil",
@@ -778,7 +831,8 @@
     "weapon": "Shards of Narsil, Chieftain's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North"
+    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North",
+    "page_id": "2937"
   },
   {
     "name": "Arathorn I",
@@ -792,7 +846,8 @@
     "weapon": "Shards of Narsil, Chieftain's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur)\nRangers of the North"
+    "culture": "Dúnedain of the North (House of Isildur)\nRangers of the North",
+    "page_id": "2938"
   },
   {
     "name": "Ardamir (son of Axantur)",
@@ -804,7 +859,8 @@
     "spouse": "Unknown",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Númenórean (House of Elros)"
+    "culture": "Númenórean (House of Elros)",
+    "page_id": "29228"
   },
   {
     "name": "Araval",
@@ -820,7 +876,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur)"
+    "culture": "Dúnedain of the North (House of Isildur)",
+    "page_id": "2926"
   },
   {
     "name": "Arciryas",
@@ -832,7 +889,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Men of Gondor (House of Anárion)"
+    "culture": "Men of Gondor (House of Anárion)",
+    "page_id": "10465"
   },
   {
     "name": "Aravir",
@@ -846,7 +904,8 @@
     "weapon": "Shards of Narsil, Chieftain's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (Rangers of the North)"
+    "culture": "Dúnedain of the North (Rangers of the North)",
+    "page_id": "2929"
   },
   {
     "name": "Aravorn",
@@ -860,7 +919,8 @@
     "weapon": "Shards of Narsil, Chieftain's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North"
+    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North",
+    "page_id": "2935"
   },
   {
     "name": "Aredhel",
@@ -876,7 +936,8 @@
     "gender": "Female",
     "height": "Tall",
     "hair": "Dark",
-    "culture": "Ñoldor (House of Fingolfin)\nGondolindrim"
+    "culture": "Ñoldor (House of Fingolfin)\nGondolindrim",
+    "page_id": "2673"
   },
   {
     "name": "Argon",
@@ -894,7 +955,8 @@
     "gender": "Male",
     "height": "Tallest of his siblings",
     "hair": "Possibly dark",
-    "culture": "Ñoldor (House of Fingolfin)"
+    "culture": "Ñoldor (House of Fingolfin)",
+    "page_id": "2771"
   },
   {
     "name": "Argonui",
@@ -908,7 +970,8 @@
     "weapon": "Shards of Narsil, Chieftain's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North"
+    "culture": "Dúnedain of the North (House of Isildur), Rangers of the North",
+    "page_id": "2939"
   },
   {
     "name": "Argeleb I",
@@ -924,7 +987,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur)"
+    "culture": "Dúnedain of the North (House of Isildur)",
+    "page_id": "2846"
   },
   {
     "name": "Argeleb II",
@@ -940,7 +1004,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur)"
+    "culture": "Dúnedain of the North (House of Isildur)",
+    "page_id": "648"
   },
   {
     "name": "Arminas",
@@ -952,7 +1017,8 @@
     "spouse": "Unknown",
     "data_race": "Elves",
     "gender": "Male",
-    "culture": "Ñoldor (House of Finarfin)\nElves of Dorthonion\nElves of the Havens of Sirion"
+    "culture": "Ñoldor (House of Finarfin)\nElves of Dorthonion\nElves of the Havens of Sirion",
+    "page_id": "11529"
   },
   {
     "name": "Arthad",
@@ -965,7 +1031,8 @@
     "weapon": "Bow, sword ?",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain (House of Bëor), Men of Dorthonion"
+    "culture": "Edain (House of Bëor), Men of Dorthonion",
+    "page_id": "12243"
   },
   {
     "name": "Arvedui",
@@ -981,7 +1048,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur)"
+    "culture": "Dúnedain of the North (House of Isildur)",
+    "page_id": "2630"
   },
   {
     "name": "Arveleg I",
@@ -997,7 +1065,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur)"
+    "culture": "Dúnedain of the North (House of Isildur)",
+    "page_id": "2922"
   },
   {
     "name": "Arvegil",
@@ -1013,7 +1082,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur)"
+    "culture": "Dúnedain of the North (House of Isildur)",
+    "page_id": "2924"
   },
   {
     "name": "Atanatar I",
@@ -1029,7 +1099,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain, Men of Gondor (House of Anárion)"
+    "culture": "Dúnedain, Men of Gondor (House of Anárion)",
+    "page_id": "521"
   },
   {
     "name": "Arveleg II",
@@ -1045,7 +1116,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur)"
+    "culture": "Dúnedain of the North (House of Isildur)",
+    "page_id": "2925"
   },
   {
     "name": "Atanatar II",
@@ -1062,7 +1134,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain, Men of Gondor (House of Anárion)"
+    "culture": "Dúnedain, Men of Gondor (House of Anárion)",
+    "page_id": "590"
   },
   {
     "name": "Arwen",
@@ -1085,7 +1158,8 @@
     "hair": "Black[3]",
     "eyes": "Grey",
     "culture": "Elves of Lindon,\nElves of Rivendell",
-    "actor": "Liv Tyler"
+    "actor": "Liv Tyler",
+    "page_id": "186"
   },
   {
     "name": "Atanalcar",
@@ -1097,7 +1171,8 @@
     "spouse": "Possible unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Númenóreans (House of Elros)"
+    "culture": "Númenóreans (House of Elros)",
+    "page_id": "22168"
   },
   {
     "name": "Azaghâl",
@@ -1110,7 +1185,8 @@
     "weapon": "Axe and knife",
     "data_race": "Dwarves",
     "gender": "Male",
-    "culture": "Dwarves of Belegost: Broadbeams"
+    "culture": "Dwarves of Belegost: Broadbeams",
+    "page_id": "754"
   },
   {
     "name": "Axantur",
@@ -1122,7 +1198,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Númenóreans (House of Elros)"
+    "culture": "Númenóreans (House of Elros)",
+    "page_id": "29185"
   },
   {
     "name": "Angelica Baggins",
@@ -1136,7 +1213,8 @@
     "hair": "Blonde",
     "eyes": "Blue",
     "culture": "Shire-Hobbits",
-    "voice": "Kath Soucie"
+    "voice": "Kath Soucie",
+    "page_id": "798"
   },
   {
     "name": "Bungo Baggins",
@@ -1147,7 +1225,8 @@
     "death": "TA 2926 (SR 1326)",
     "data_race": "Hobbit",
     "gender": "Male",
-    "culture": "Shire-hobbit"
+    "culture": "Shire-hobbit",
+    "page_id": "809"
   },
   {
     "name": "Belladonna (Took) Baggins",
@@ -1162,7 +1241,8 @@
     "gender": "Female",
     "hair": "Black",
     "culture": "Shire-hobbits",
-    "actor": "Sonia Forbes-Adam"
+    "actor": "Sonia Forbes-Adam",
+    "page_id": "804"
   },
   {
     "name": "Drogo Baggins",
@@ -1174,7 +1254,8 @@
     "spouse": "Primula Brandybuck",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Baggins family)"
+    "culture": "Shire-hobbits (Baggins family)",
+    "page_id": "5934"
   },
   {
     "name": "Berylla (Boffin) Baggins",
@@ -1187,7 +1268,8 @@
     "spouse": "Balbo Baggins",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Boffin family & Baggins family)"
+    "culture": "Shire-hobbits (Boffin family & Baggins family)",
+    "page_id": "805"
   },
   {
     "name": "Aulendil (Vardamir's son)",
@@ -1199,7 +1281,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Númenóreans (House of Elros)"
+    "culture": "Númenóreans (House of Elros)",
+    "page_id": "22474"
   },
   {
     "name": "Dudo Baggins",
@@ -1211,7 +1294,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Baggins family)"
+    "culture": "Shire-hobbits (Baggins family)",
+    "page_id": "9115"
   },
   {
     "name": "Balbo Baggins",
@@ -1223,7 +1307,8 @@
     "spouse": "Berylla (Boffin) Baggins",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Baggins family)"
+    "culture": "Shire-hobbits (Baggins family)",
+    "page_id": "800"
   },
   {
     "name": "Frodo Baggins",
@@ -1241,7 +1326,8 @@
     "hair": "Brown",
     "eyes": "Blue",
     "culture": "Shire-hobbit (Brandybuck family/Baggins family)",
-    "actor": "Elijah Wood"
+    "actor": "Elijah Wood",
+    "page_id": "41"
   },
   {
     "name": "Mungo Baggins",
@@ -1253,7 +1339,8 @@
     "spouse": "Laura Grubb",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Baggin family)"
+    "culture": "Shire-hobbits (Baggin family)",
+    "page_id": "835"
   },
   {
     "name": "Fosco Baggins",
@@ -1265,7 +1352,8 @@
     "spouse": "Ruby Bolger",
     "data_race": "Hobbits",
     "gender": "male",
-    "culture": "Shire-hobbits (Baggins family)"
+    "culture": "Shire-hobbits (Baggins family)",
+    "page_id": "3172"
   },
   {
     "name": "Longo Baggins",
@@ -1277,7 +1365,8 @@
     "spouse": "Camellia (Sackville) Baggins",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Baggins family)"
+    "culture": "Shire-hobbits (Baggins family)",
+    "page_id": "9346"
   },
   {
     "name": "Laura (Grubb) Baggins",
@@ -1291,7 +1380,8 @@
     "spouse": "Mungo Baggins",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Grubb and Baggins families)"
+    "culture": "Shire-hobbits (Grubb and Baggins families)",
+    "page_id": "829"
   },
   {
     "name": "Bain",
@@ -1311,7 +1401,8 @@
     "hair": "Brown (film)",
     "eyes": "Green (film)",
     "culture": "Men of Dale",
-    "actor": "John Bell"
+    "actor": "John Bell",
+    "page_id": "2510"
   },
   {
     "name": "Ponto Baggins II",
@@ -1323,7 +1414,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Baggins family)"
+    "culture": "Shire-hobbits (Baggins family)",
+    "page_id": "13313"
   },
   {
     "name": "Ponto Baggins",
@@ -1335,7 +1427,8 @@
     "spouse": "Mimosa Bunce",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Baggins family)"
+    "culture": "Shire-hobbits (Baggins family)",
+    "page_id": "20774"
   },
   {
     "name": "Porto Baggins",
@@ -1347,7 +1440,8 @@
     "spouse": "Unknown",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Baggins family)"
+    "culture": "Shire-hobbits (Baggins family)",
+    "page_id": "15571"
   },
   {
     "name": "Peony (Baggins) Burrows",
@@ -1359,7 +1453,8 @@
     "spouse": "Milo Burrows",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Baggins family & Burrow family)"
+    "culture": "Shire-hobbits (Baggins family & Burrow family)",
+    "page_id": "28958"
   },
   {
     "name": "Balin",
@@ -1379,7 +1474,8 @@
     "eyes": "Brown (movies)",
     "culture": "Durin's Folk",
     "actor": "Ken Stott",
-    "voice": "Don Messick, in the 1977 Rankin/Bass version of _The Hobbit_"
+    "voice": "Don Messick, in the 1977 Rankin/Bass version of _The Hobbit_",
+    "page_id": "756"
   },
   {
     "name": "Barahir",
@@ -1394,7 +1490,8 @@
     "data_race": "Men",
     "gender": "Male",
     "hair": "Possibly dark",
-    "culture": "Edain (House of Bëor)\nMen of Dorthonion"
+    "culture": "Edain (House of Bëor)\nMen of Dorthonion",
+    "page_id": "2632"
   },
   {
     "name": "Baran",
@@ -1408,7 +1505,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain (House of Bëor), Men of Estolad"
+    "culture": "Edain (House of Bëor), Men of Estolad",
+    "page_id": "2682"
   },
   {
     "name": "Baragund",
@@ -1421,7 +1519,8 @@
     "weapon": "Bow, sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain (House of Bëor), Men of Dorthonion"
+    "culture": "Edain (House of Bëor), Men of Dorthonion",
+    "page_id": "2691"
   },
   {
     "name": "Barahir (Steward)",
@@ -1436,7 +1535,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Men of Gondor (House of Húrin)"
+    "culture": "Men of Gondor (House of Húrin)",
+    "page_id": "600"
   },
   {
     "name": "Bard",
@@ -1455,7 +1555,8 @@
     "data_race": "Men",
     "gender": "Male",
     "culture": "Men of Lake-town, Men of Dale",
-    "actor": "Luke Evans (The Hobbit trilogy)"
+    "actor": "Luke Evans (The Hobbit trilogy)",
+    "page_id": "439"
   },
   {
     "name": "Baranor (Gondor)",
@@ -1473,7 +1574,8 @@
     "height": "6'2\"",
     "hair": "blond",
     "eyes": "brown",
-    "culture": "Men of Gondor"
+    "culture": "Men of Gondor",
+    "page_id": "31778"
   },
   {
     "name": "Bard II",
@@ -1490,7 +1592,8 @@
     "data_race": "Men",
     "gender": "Male",
     "height": "6'2\"",
-    "culture": "Men of Dale"
+    "culture": "Men of Dale",
+    "page_id": "3767"
   },
   {
     "name": "Beldir",
@@ -1501,7 +1604,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain (House of Bëor)"
+    "culture": "Edain (House of Bëor)",
+    "page_id": "31384"
   },
   {
     "name": "Baranor",
@@ -1512,7 +1616,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain (House of Bëor)"
+    "culture": "Edain (House of Bëor)",
+    "page_id": "8835"
   },
   {
     "name": "Belecthor II",
@@ -1526,7 +1631,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Men of Gondor (House of Húrin)"
+    "culture": "Men of Gondor (House of Húrin)",
+    "page_id": "613"
   },
   {
     "name": "Beldis",
@@ -1540,7 +1646,8 @@
     "gender": "Female",
     "hair": "Brown",
     "eyes": "Blue",
-    "culture": "Edain (House of Bëor)"
+    "culture": "Edain (House of Bëor)",
+    "page_id": "12068"
   },
   {
     "name": "Beleg of Arnor",
@@ -1556,7 +1663,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur)"
+    "culture": "Dúnedain of the North (House of Isildur)",
+    "page_id": "2857"
   },
   {
     "name": "Belegorn",
@@ -1570,7 +1678,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Men of Gondor (House of Húrin)"
+    "culture": "Men of Gondor (House of Húrin)",
+    "page_id": "596"
   },
   {
     "name": "Belecthor I",
@@ -1584,7 +1693,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Men of Gondor (House of Húrin)"
+    "culture": "Men of Gondor (House of Húrin)",
+    "page_id": "607"
   },
   {
     "name": "Beorn",
@@ -1600,7 +1710,8 @@
     "height": "Tall",
     "hair": "Black[1]",
     "culture": "Beornings",
-    "actor": "Mikael Persbrandt"
+    "actor": "Mikael Persbrandt",
+    "page_id": "27"
   },
   {
     "name": "Belen",
@@ -1612,7 +1723,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain (House of Bëor)\nMen of Estolad"
+    "culture": "Edain (House of Bëor)\nMen of Estolad",
+    "page_id": "2685"
   },
   {
     "name": "Belemir",
@@ -1624,7 +1736,8 @@
     "spouse": "Adanel",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain (House of Bëor)"
+    "culture": "Edain (House of Bëor)",
+    "page_id": "4917"
   },
   {
     "name": "Beregond (Captain)",
@@ -1638,7 +1751,8 @@
     "data_race": "Men",
     "gender": "Male",
     "culture": "Men of Gondor (House of Baranor)",
-    "voice": "Christopher Scott (1981)"
+    "voice": "Christopher Scott (1981)",
+    "page_id": "4919"
   },
   {
     "name": "Belegund",
@@ -1651,7 +1765,8 @@
     "weapon": "Sword, Bow",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain (House of Bëor), Men of Dorthonion"
+    "culture": "Edain (House of Bëor), Men of Dorthonion",
+    "page_id": "4465"
   },
   {
     "name": "Berelach",
@@ -1661,7 +1776,8 @@
     "birth": "Early Fourth Age",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Men of Gondor"
+    "culture": "Men of Gondor",
+    "page_id": "31776"
   },
   {
     "name": "Bereg",
@@ -1671,7 +1787,8 @@
     "birth": "FA 340[1]",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain (House of Bëor)"
+    "culture": "Edain (House of Bëor)",
+    "page_id": "2686"
   },
   {
     "name": "Beregond",
@@ -1685,7 +1802,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Men of Gondor (House of Húrin)"
+    "culture": "Men of Gondor (House of Húrin)",
+    "page_id": "612"
   },
   {
     "name": "Beren",
@@ -1703,7 +1821,8 @@
     "height": "Tall",
     "hair": "Dark",
     "eyes": "Blue",
-    "culture": "Edain (House of Bëor), Men of Dorthonion"
+    "culture": "Edain (House of Bëor), Men of Dorthonion",
+    "page_id": "432"
   },
   {
     "name": "Beren (Belemir's son)",
@@ -1715,7 +1834,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain (House of Bëor)"
+    "culture": "Edain (House of Bëor)",
+    "page_id": "34597"
   },
   {
     "name": "Bifur",
@@ -1731,7 +1851,8 @@
     "hair": "Black/Grey (film)",
     "eyes": "Brown (film)",
     "culture": "Dwarves of Khazad-dûm",
-    "actor": "William Kircher"
+    "actor": "William Kircher",
+    "page_id": "755"
   },
   {
     "name": "Bergil",
@@ -1743,7 +1864,8 @@
     "data_race": "Men",
     "gender": "Male",
     "culture": "Men of Gondor (House of Baranor)",
-    "actor": "Unknown"
+    "actor": "Unknown",
+    "page_id": "4920"
   },
   {
     "name": "Bilbo Baggins",
@@ -1762,7 +1884,8 @@
     "hair": "Brown, later white",
     "eyes": "Brown (Film only)",
     "culture": "Shire-hobbits (Baggins family)",
-    "actor": "Sir Ian Holm - Old Bilbo\n\nMartin Freeman - Middle-aged Bilbo\nOscar Strik - Child Bilbo"
+    "actor": "Sir Ian Holm - Old Bilbo\n\nMartin Freeman - Middle-aged Bilbo\nOscar Strik - Child Bilbo",
+    "page_id": "64"
   },
   {
     "name": "Beren (Steward)",
@@ -1776,13 +1899,15 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Men of Gondor (House of Húrin)"
+    "culture": "Men of Gondor (House of Húrin)",
+    "page_id": "611"
   },
   {
     "name": "Black Serpent",
     "lotrUrl": "https://lotr.wikia.com/wiki/Black_Serpent",
     "race": "Men",
-    "text": "The BLACK SERPENT was a Haradrim chieftain during the War of the Ring.\n\nHis banner was a black serpent upon scarlet.\n\n\nBiography\n\nThe Black Serpent led a large force of what appeared to be mainly\ncavalry in the invasion of Gondor in support of their Mordor allies. At\nthe time of the Rohirrim's arrival, he was in the southern part of the\nPelennor Fields with a large force. He spotted the banner of King\nThéoden. Filled with a great wrath, he and his men drew their swords\nfeeling that they could defeat what appeared to be only a small group.\nWhen Rohirrim came, they fell upon them with a great fury and then\nThéoden himself faced him and threw him down with great strength and\nslew him. Then, his remaining force seeing all that they had lost fled\naway in fear."
+    "text": "The BLACK SERPENT was a Haradrim chieftain during the War of the Ring.\n\nHis banner was a black serpent upon scarlet.\n\n\nBiography\n\nThe Black Serpent led a large force of what appeared to be mainly\ncavalry in the invasion of Gondor in support of their Mordor allies. At\nthe time of the Rohirrim's arrival, he was in the southern part of the\nPelennor Fields with a large force. He spotted the banner of King\nThéoden. Filled with a great wrath, he and his men drew their swords\nfeeling that they could defeat what appeared to be only a small group.\nWhen Rohirrim came, they fell upon them with a great fury and then\nThéoden himself faced him and threw him down with great strength and\nslew him. Then, his remaining force seeing all that they had lost fled\naway in fear.",
+    "page_id": "44775"
   },
   {
     "name": "Bladorthin",
@@ -1796,7 +1921,8 @@
     "spouse": "Unknown",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Unknown, Men of Middle-earth"
+    "culture": "Unknown, Men of Middle-earth",
+    "page_id": "9475"
   },
   {
     "name": "Bob",
@@ -1809,7 +1935,8 @@
     "data_race": "Hobbits",
     "gender": "Male",
     "culture": "Hobbits of Bree",
-    "voice": "Haydn Wood"
+    "voice": "Haydn Wood",
+    "page_id": "5335"
   },
   {
     "name": "Donnamira (Took) Boffin",
@@ -1822,7 +1949,8 @@
     "spouse": "Hugo Boffin",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Tooks & Boffins)"
+    "culture": "Shire-hobbits (Tooks & Boffins)",
+    "page_id": "20470"
   },
   {
     "name": "Blanco",
@@ -1833,7 +1961,8 @@
     "spouse": "Unknown",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Fallohide-hobbits"
+    "culture": "Fallohide-hobbits",
+    "page_id": "9210"
   },
   {
     "name": "Basso Boffin",
@@ -1845,7 +1974,8 @@
     "spouse": "None",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Boffin family)"
+    "culture": "Shire-hobbits (Boffin family)",
+    "page_id": "25519"
   },
   {
     "name": "Buffo Boffin",
@@ -1857,7 +1987,8 @@
     "spouse": "Ivy Goodenough",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Boffin family)"
+    "culture": "Shire-hobbits (Boffin family)",
+    "page_id": "13970"
   },
   {
     "name": "Bosco Boffin",
@@ -1869,7 +2000,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Boffin family)"
+    "culture": "Shire-hobbits (Boffin family)",
+    "page_id": "25518"
   },
   {
     "name": "Folco Boffin",
@@ -1882,7 +2014,8 @@
     "data_race": "Hobbits",
     "gender": "Male",
     "culture": "Shire-hobbits",
-    "actor": "Unknown"
+    "actor": "Unknown",
+    "page_id": "5349"
   },
   {
     "name": "Druda Burrows Boffin",
@@ -1894,7 +2027,8 @@
     "spouse": "Rollo Boffin",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Burrows and Boffin families)"
+    "culture": "Shire-hobbits (Burrows and Boffin families)",
+    "page_id": "13233"
   },
   {
     "name": "Daisy (Baggins) Boffin",
@@ -1907,7 +2041,8 @@
     "spouse": "Griffo Boffin",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Baggins family & Boffins family)"
+    "culture": "Shire-hobbits (Baggins family & Boffins family)",
+    "page_id": "813"
   },
   {
     "name": "Griffo Boffin",
@@ -1919,7 +2054,8 @@
     "spouse": "Daisy Baggins",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Boffin family)"
+    "culture": "Shire-hobbits (Boffin family)",
+    "page_id": "19498"
   },
   {
     "name": "Gerda (Boffin) Bolger",
@@ -1932,7 +2068,8 @@
     "spouse": "Adalbert Bolger",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Boffin family & Bolger family)"
+    "culture": "Shire-hobbits (Boffin family & Bolger family)",
+    "page_id": "31082"
   },
   {
     "name": "Jago Boffin",
@@ -1944,7 +2081,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Boffin family)"
+    "culture": "Shire-hobbits (Boffin family)",
+    "page_id": "22163"
   },
   {
     "name": "Hugo Boffin",
@@ -1956,7 +2094,8 @@
     "spouse": "Donnamira Took",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Boffin family)"
+    "culture": "Shire-hobbits (Boffin family)",
+    "page_id": "28917"
   },
   {
     "name": "Ivy (Goodenough) Boffin",
@@ -1969,7 +2108,8 @@
     "spouse": "Buffo Boffin",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Goodenough family), (Boffin family)"
+    "culture": "Shire-hobbits (Goodenough family), (Boffin family)",
+    "page_id": "34304"
   },
   {
     "name": "Bofur",
@@ -1984,7 +2124,8 @@
     "hair": "Dark Brown (films)",
     "eyes": "Green-Brown (films)",
     "culture": "Descendant of the Dwarves of Rhudaur",
-    "actor": "James Nesbitt"
+    "actor": "James Nesbitt",
+    "page_id": "758"
   },
   {
     "name": "Vigo Boffin",
@@ -1996,7 +2137,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Boffin family"
+    "culture": "Shire-hobbits (Boffin family",
+    "page_id": "22165"
   },
   {
     "name": "Rollo Boffin",
@@ -2008,7 +2150,8 @@
     "spouse": "Druda Burrows Boffin",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Boffin family)"
+    "culture": "Shire-hobbits (Boffin family)",
+    "page_id": "13234"
   },
   {
     "name": "Otto Boffin",
@@ -2021,7 +2164,8 @@
     "spouse": "Lavender Grubb",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Boffin family)"
+    "culture": "Shire-hobbits (Boffin family)",
+    "page_id": "19517"
   },
   {
     "name": "Tosto Boffin",
@@ -2033,7 +2177,8 @@
     "spouse": "Unknown",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Boffin family)"
+    "culture": "Shire-hobbits (Boffin family)",
+    "page_id": "21896"
   },
   {
     "name": "Filibert Bolger",
@@ -2046,7 +2191,8 @@
     "data_race": "Hobbits",
     "gender": "Male",
     "hair": "Brown (movie)",
-    "culture": "Shire-hobbits (Bolger family)"
+    "culture": "Shire-hobbits (Bolger family)",
+    "page_id": "7498"
   },
   {
     "name": "Fredegar Bolger",
@@ -2060,7 +2206,8 @@
     "data_race": "Hobbits",
     "gender": "Male",
     "culture": "Shire-hobbits (Bolger family)",
-    "actor": "Norman Cates\n\n(Decipher Card)"
+    "actor": "Norman Cates\n\n(Decipher Card)",
+    "page_id": "3934"
   },
   {
     "name": "Jessamine (Boffin) Bolger",
@@ -2073,7 +2220,8 @@
     "spouse": "Herugar Bolger",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Boffin family), (Bolger family)"
+    "culture": "Shire-hobbits (Boffin family), (Bolger family)",
+    "page_id": "34333"
   },
   {
     "name": "Odovacar Bolger",
@@ -2086,7 +2234,8 @@
     "spouse": "Rosamunda Took",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbit (Bolger family)"
+    "culture": "Shire-hobbit (Bolger family)",
+    "page_id": "13860"
   },
   {
     "name": "Rosamunda (Took) Bolger",
@@ -2099,7 +2248,8 @@
     "spouse": "Odovacar Bolger",
     "data_race": "Men",
     "gender": "Female",
-    "culture": "Shire-hobbits (Took and Bolger families)"
+    "culture": "Shire-hobbits (Took and Bolger families)",
+    "page_id": "13339"
   },
   {
     "name": "Borin",
@@ -2110,7 +2260,8 @@
     "death": "TA 2711",
     "data_race": "Dwarven",
     "gender": "Male",
-    "culture": "Durin's Folk"
+    "culture": "Durin's Folk",
+    "page_id": "759"
   },
   {
     "name": "Bombur",
@@ -2126,7 +2277,8 @@
     "eyes": "Brown (films only)",
     "culture": "Unknown; possibly Firebeards or Broadbeams",
     "actor": "Stephen Hunter",
-    "voice": "Paul Frees, in the 1977 Rankin/Bass version of 'The Hobbit'"
+    "voice": "Paul Frees, in the 1977 Rankin/Bass version of 'The Hobbit'",
+    "page_id": "757"
   },
   {
     "name": "Wilibald Bolger",
@@ -2138,7 +2290,8 @@
     "spouse": "Prisca Baggins",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Bolger family)"
+    "culture": "Shire-hobbits (Bolger family)",
+    "page_id": "27574"
   },
   {
     "name": "Borlad",
@@ -2151,7 +2304,8 @@
     "weapon": "Sword, Bow ?",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Faithful Easterlings"
+    "culture": "Faithful Easterlings",
+    "page_id": "9397"
   },
   {
     "name": "Borlach",
@@ -2165,7 +2319,8 @@
     "weapon": "Sword, Bow ?",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Easterlings (Easterlings of Lothlann)"
+    "culture": "Easterlings (Easterlings of Lothlann)",
+    "page_id": "9396"
   },
   {
     "name": "Boromir",
@@ -2186,7 +2341,8 @@
     "hair": "Dark (book) Light brown (movie)",
     "eyes": "Grey (book) Blue (movie)",
     "culture": "Men of Gondor (House of Húrin)",
-    "actor": "Sean Bean"
+    "actor": "Sean Bean",
+    "page_id": "133"
   },
   {
     "name": "Boron",
@@ -2200,7 +2356,8 @@
     "weapon": "Unknown",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain (House of Bëor)"
+    "culture": "Edain (House of Bëor)",
+    "page_id": "2687"
   },
   {
     "name": "Boromir (Steward)",
@@ -2214,7 +2371,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Men of Gondor (House of Húrin)"
+    "culture": "Men of Gondor (House of Húrin)",
+    "page_id": "603"
   },
   {
     "name": "Borlas",
@@ -2227,7 +2385,8 @@
     "data_race": "Men",
     "gender": "Male",
     "culture": "Men of Gondor",
-    "actor": "Billy Jackson"
+    "actor": "Billy Jackson",
+    "page_id": "9603"
   },
   {
     "name": "Boromir (House of Bëor)",
@@ -2241,7 +2400,8 @@
     "weapon": "Unknown",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain (House of Bëor)"
+    "culture": "Edain (House of Bëor)",
+    "page_id": "2688"
   },
   {
     "name": "Bruno Bracegirdle",
@@ -2253,7 +2413,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Bracegirdles)"
+    "culture": "Shire-hobbits (Bracegirdles)",
+    "page_id": "32674"
   },
   {
     "name": "Primrose Bracegirdle",
@@ -2266,7 +2427,8 @@
     "spouse": "Blanco Bracegirdle",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Boffins) & (Bracegirdles)"
+    "culture": "Shire-hobbits (Boffins) & (Bracegirdles)",
+    "page_id": "32676"
   },
   {
     "name": "Borondir",
@@ -2280,7 +2442,8 @@
     "weapon": "Sword\nBow",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Men of Gondor"
+    "culture": "Men of Gondor",
+    "page_id": "3883"
   },
   {
     "name": "Borthand",
@@ -2293,7 +2456,8 @@
     "weapon": "Sword, Bow ?",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Faithful Easterlings"
+    "culture": "Faithful Easterlings",
+    "page_id": "9398"
   },
   {
     "name": "Blanco Bracegirdle",
@@ -2305,7 +2469,8 @@
     "spouse": "Primrose Boffin",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Bracegirdle family)"
+    "culture": "Shire-hobbits (Bracegirdle family)",
+    "page_id": "32675"
   },
   {
     "name": "Brand",
@@ -2320,7 +2485,8 @@
     "weapon": "Bow of Bard\nsword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Men of Dale"
+    "culture": "Men of Dale",
+    "page_id": "750"
   },
   {
     "name": "Brandir",
@@ -2333,7 +2499,8 @@
     "death": "FA 499[1]",
     "weapon": "Short sword",
     "data_race": "Men",
-    "culture": "Edain (House of Haleth)"
+    "culture": "Edain (House of Haleth)",
+    "page_id": "2474"
   },
   {
     "name": "Adaldrida (Bolger) Brandybuck",
@@ -2346,7 +2513,8 @@
     "spouse": "Marmadoc Brandybuck",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Bolger family)"
+    "culture": "Shire-hobbits (Bolger family)",
+    "page_id": "796"
   },
   {
     "name": "Celandine Brandybuck",
@@ -2358,7 +2526,8 @@
     "spouse": "None",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Brandybucks)"
+    "culture": "Shire-hobbits (Brandybucks)",
+    "page_id": "811"
   },
   {
     "name": "Amaranth Brandybuck",
@@ -2370,7 +2539,8 @@
     "spouse": "None",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Brandybuck family)"
+    "culture": "Shire-hobbits (Brandybuck family)",
+    "page_id": "75"
   },
   {
     "name": "Estella (Bolger) Brandybuck",
@@ -2385,7 +2555,8 @@
     "gender": "Female",
     "hair": "Dark blonde",
     "eyes": "Blue",
-    "culture": "Shire-hobbits (Bolger/Brandybuck)"
+    "culture": "Shire-hobbits (Bolger/Brandybuck)",
+    "page_id": "816"
   },
   {
     "name": "Melilot Brandybuck",
@@ -2395,7 +2566,8 @@
     "birth": "SR 1385",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Bucklanders (Brandybuck family)"
+    "culture": "Bucklanders (Brandybuck family)",
+    "page_id": "834"
   },
   {
     "name": "Hilda Brandybuck",
@@ -2408,7 +2580,8 @@
     "spouse": "Seredic Brandybuck",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Bracegirdles) & Brandybucks"
+    "culture": "Shire-hobbits (Bracegirdles) & Brandybucks",
+    "page_id": "27331"
   },
   {
     "name": "Esmeralda Brandybuck",
@@ -2420,7 +2593,8 @@
     "spouse": "Saradoc Brandybuck",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Took family) & (Brandybuck family)"
+    "culture": "Shire-hobbits (Took family) & (Brandybuck family)",
+    "page_id": "815"
   },
   {
     "name": "Madoc Brandybuck",
@@ -2436,7 +2610,8 @@
     "spouse": "Hanna Goldworthy",
     "data_race": "Hobbit",
     "gender": "Male",
-    "culture": "Bucklanders (Brandybuck family)"
+    "culture": "Bucklanders (Brandybuck family)",
+    "page_id": "7532"
   },
   {
     "name": "Primula (Brandybuck) Baggins",
@@ -2448,7 +2623,8 @@
     "spouse": "Drogo Baggins",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Brandybuck & Baggins family)"
+    "culture": "Shire-hobbits (Brandybuck & Baggins family)",
+    "page_id": "839"
   },
   {
     "name": "Meriadoc Brandybuck",
@@ -2468,7 +2644,8 @@
     "eyes": "Blue (film)",
     "culture": "Shire-hobbits, Bucklanders",
     "actor": "Dominic Monaghan",
-    "voice": "Michael Collins\nPat Franklyn\nRichard O'Callaghan\nSimon Chandler\nCasey Kasem"
+    "voice": "Michael Collins\nPat Franklyn\nRichard O'Callaghan\nSimon Chandler\nCasey Kasem",
+    "page_id": "205"
   },
   {
     "name": "Mirabella (Took) Brandybuck",
@@ -2481,7 +2658,8 @@
     "spouse": "Gorbadoc Brandybuck",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits"
+    "culture": "Shire-hobbits",
+    "page_id": "5937"
   },
   {
     "name": "Mentha Brandybuck",
@@ -2495,7 +2673,8 @@
     "hair": "Dark Brown",
     "eyes": "Brown",
     "culture": "Bucklanders (Brandybuck family)",
-    "actor": "Unknown actress"
+    "actor": "Unknown actress",
+    "page_id": "32116"
   },
   {
     "name": "Seredic Brandybuck",
@@ -2507,7 +2686,8 @@
     "spouse": "Hilda Bracegirdle",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Brandybuck family)"
+    "culture": "Shire-hobbits (Brandybuck family)",
+    "page_id": "19412"
   },
   {
     "name": "Sapphira (Brockhouse) Boffin",
@@ -2519,7 +2699,8 @@
     "spouse": "Uffo Boffin",
     "data_race": "Hobbits",
     "gender": "Female",
-    "culture": "Shire-hobbits (Brockhouse family & Boffin family)"
+    "culture": "Shire-hobbits (Brockhouse family & Boffin family)",
+    "page_id": "19503"
   },
   {
     "name": "Bucca of the Marish",
@@ -2534,7 +2715,8 @@
     "spouse": "Unknown",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Oldbuck family)"
+    "culture": "Shire-hobbits (Oldbuck family)",
+    "page_id": "808"
   },
   {
     "name": "Brego",
@@ -2549,7 +2731,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Rohirrim (House of Eorl)"
+    "culture": "Rohirrim (House of Eorl)",
+    "page_id": "2284"
   },
   {
     "name": "Bregor",
@@ -2563,7 +2746,8 @@
     "weapon": "Sword, Bow of Bregor",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain (House of Bëor), Men of Dorthonion"
+    "culture": "Edain (House of Bëor), Men of Dorthonion",
+    "page_id": "2689"
   },
   {
     "name": "Bregolas",
@@ -2576,7 +2760,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain (House of Bëor)"
+    "culture": "Edain (House of Bëor)",
+    "page_id": "2690"
   },
   {
     "name": "Milo Burrows",
@@ -2587,7 +2772,8 @@
     "spouse": "Peony Baggins",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Burrows family)"
+    "culture": "Shire-hobbits (Burrows family)",
+    "page_id": "5350"
   },
   {
     "name": "Bëor",
@@ -2602,7 +2788,8 @@
     "weapon": "Sword, Bow ?",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Edain (House of Bëor)\nMen of Estolad"
+    "culture": "Edain (House of Bëor)\nMen of Estolad",
+    "page_id": "2681"
   },
   {
     "name": "Bór",
@@ -2617,7 +2804,8 @@
     "weapon": "Sword, Bow ?",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Faithful Easterlings"
+    "culture": "Faithful Easterlings",
+    "page_id": "4929"
   },
   {
     "name": "Minto Burrows",
@@ -2629,7 +2817,8 @@
     "spouse": "Unknown",
     "data_race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits (Burrows family)"
+    "culture": "Shire-hobbits (Burrows family)",
+    "page_id": "16372"
   },
   {
     "name": "Asphodel (Brandybuck) Burrows",
@@ -2642,7 +2831,8 @@
     "spouse": "Rufus Burrows",
     "data_race": "Hobbit",
     "gender": "Female",
-    "culture": "Shire-hobbits (Brandybuck and Burrows families)"
+    "culture": "Shire-hobbits (Brandybuck and Burrows families)",
+    "page_id": "799"
   },
   {
     "name": "Castamir the Usurper",
@@ -2659,7 +2849,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain (House of Anárion), Men of Gondor"
+    "culture": "Dúnedain (House of Anárion), Men of Gondor",
+    "page_id": "625"
   },
   {
     "name": "Caranthir",
@@ -2675,7 +2866,8 @@
     "data_race": "Elves",
     "gender": "Male",
     "hair": "Dark",
-    "culture": "Ñoldor (House of Fëanor)"
+    "culture": "Ñoldor (House of Fëanor)",
+    "page_id": "2629"
   },
   {
     "name": "Calmacil",
@@ -2691,7 +2883,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain,\nMen of Gondor"
+    "culture": "Dúnedain,\nMen of Gondor",
+    "page_id": "592"
   },
   {
     "name": "Calimehtar",
@@ -2707,7 +2900,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain, Men of Gondor (House of Anárion)"
+    "culture": "Dúnedain, Men of Gondor (House of Anárion)",
+    "page_id": "634"
   },
   {
     "name": "Caliondo",
@@ -2719,7 +2913,8 @@
     "spouse": "Unnamed wife",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Númenóreans (House of Elros)"
+    "culture": "Númenóreans (House of Elros)",
+    "page_id": "26157"
   },
   {
     "name": "Celeborn",
@@ -2740,7 +2935,8 @@
     "height": "6 feet 4 inches (193cm)[note\\ 1]",
     "hair": "Silver, long[3]",
     "culture": "Sindar (Elves of Doriath)",
-    "actor": "Marton Csokas"
+    "actor": "Marton Csokas",
+    "page_id": "249"
   },
   {
     "name": "Celebrían",
@@ -2754,7 +2950,8 @@
     "data_race": "Elves",
     "gender": "Female",
     "hair": "Possibly silver",
-    "culture": "Falmari (House of Olwë),\nSindar (House of Celeborn),\nÑoldor (House of Finarfin),\nElves of Rivendell,\nGaladhrim,\nElves of Eregion"
+    "culture": "Falmari (House of Olwë),\nSindar (House of Celeborn),\nÑoldor (House of Finarfin),\nElves of Rivendell,\nGaladhrim,\nElves of Eregion",
+    "page_id": "2627"
   },
   {
     "name": "Celebrindor",
@@ -2770,7 +2967,8 @@
     "weapon": "King's sword",
     "data_race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain of the North (House of Isildur)"
+    "culture": "Dúnedain of the North (House of Isildur)",
+    "page_id": "2848"
   },
   {
     "name": "Celebrimbor",
@@ -2789,7 +2987,8 @@
     "hair": "Dark",
     "eyes": "Blue",
     "culture": "Ñoldor (House of Fëanor),\nElves of Eregion (Gwaith-i-Mírdain)",
-    "voice": "Alastair Duncan (Shadow of Mordor)"
+    "voice": "Alastair Duncan (Shadow of Mordor)",
+    "page_id": "2339"
   },
   {
     "name": "Celegorm",
@@ -2805,6 +3004,7 @@
     "data_race": "Elves",
     "gender": "Male",
     "hair": "Fair[3]",
-    "culture": "Ñoldor (House of Fëanor)"
+    "culture": "Ñoldor (House of Fëanor)",
+    "page_id": "2345"
   }
 ]
