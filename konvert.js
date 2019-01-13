@@ -1,11 +1,12 @@
 const fs = require('fs')
 const pandoc = require('simple-pandoc')
-const convert = pandoc('mediawiki', 'plain')
+const convert = pandoc('html', 'plain')
 const mapirano = require('./mapirano.json')
 
 const obecanja = mapirano.map(async x => {
   for (kljuc in x) {
-    console.log(x[kljuc])
+    // ["name", "lotrUrl", "race", "text"]
+    if (["title", "page_id", "text"].includes(kljuc)) continue
     x[kljuc] = await convert(x[kljuc])
   }
   return x
