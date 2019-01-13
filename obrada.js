@@ -6,8 +6,8 @@ const cheerio = require('cheerio')
 const ostalo = require('./ostalo.json')
 const mapirano = require('./mapirano.json')
 
-const length = 130
-for (let i = 100; i < length; i++) {
+const length = 300
+for (let i = 250; i < length; i++) {
   const item = ostalo[i];
   request(`http://lotr.wikia.com/?curid=${item.page_id}`, function(error, response, body) {
     console.log('error:', error)
