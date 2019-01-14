@@ -1,13 +1,17 @@
 const fs = require('fs')
 const podaci = require('./data/ostalo.json')
-const bekap = require('./data/bekap/ostalo-bekap.json')
+const mapirano = require('./ostalo-mapirano.json')
 
-const mapirano = podaci.map(k => {
-  const nadjeno = bekap.find(b => b.title == k.title)
+const azurirano = podaci.map(k => {
+  const nadjeno = mapirano.find(b => b.title == k.title)
   if (nadjeno) {
-    k.text = nadjeno.text
+    console.log(Object.keys(k))
+    console.log(Object.keys(nadjeno))
+    for (const kljuc in nadjeno) {
+      if (!k[kljuc]) k[kljuc] = nadjeno[kljuc].trim()
+    }
   }
   return k
 })
 
-fs.writeFileSync('mapirano.json', JSON.stringify(mapirano, null, 2))
+fs.writeFileSync('azurirano.json', JSON.stringify(azurirano, null, 2))

@@ -42,7 +42,14 @@
     "distinctions": "Small stature, sometimes heavy, curly hair, thick leathery soles and\nhairy feet\nPointed ears compared to elves\nDwarf-like appearance due to small size and stature\nGnome-like traits since they are known to live underground",
     "height": "between 2' and 4', around 60 to 120 cm. Elsewhere noted as between 3'\nand 4' never less and seldom more.",
     "skin_color": "White, tan",
-    "hair_color": "Black, brown, blond, red, auburn, and in later years white and grey"
+    "hair_color": "Black, brown, blond, red, auburn, and in later years white and grey",
+    "other names": "Halflings",
+    "locations": "The Shire, Bree-land",
+    "average height": "2-4 ft or 0.6-1.2 m (often less than three feet in later days)",
+    "hair color": "Typically curly brown, rarely blond (until the Fourth Age), and white\nand grey in later years",
+    "skin color": "Nut-brown to White",
+    "gallery": "IMAGES OF HOBBITS",
+    "members": "Marcho and Blanco, Sméagol, Bandobras Took, Bilbo Baggins, Frodo Baggins"
   },
   {
     "title": "Men",
@@ -62,7 +69,15 @@
     "height": "Nigh seven feet[1]",
     "skin_color": "Pale, sallow, ruddy, light tan, dark tan, brownish, black",
     "hair_color": "Black, brown, blonde, tan, auburn, tawny, red, grey or white (in later\nyears)",
-    "weaponry": "Swords, bows, axes, spears"
+    "weaponry": "Swords, bows, axes, spears",
+    "other names": "Atani, Secondborn, Hildor, Apanónar",
+    "locations": "Hildórien, Beleriand, Númenor, Gondor, Arnor, Rohan, Dunland, Harad,\nKhand, Forochel, Rhûn, Harad, Rhovanion",
+    "hair color": "Black, brown, blond, red, and (when older) grey or white",
+    "skin color": "White, brown, black",
+    "people": "Bëorians, Haladin, Hadorians, Easterlings, Númenóreans, Black\nNúmenóreans, Dúnedain, Arnorians, Gondorians, Corsairs, Forodwaith,\nHaradrim, Rohirrim, Dunlendings, Men of Dale, Beornings, Bardings,\nDrúedain, Hobbits",
+    "gallery": "IMAGES OF MEN",
+    "average height": "Dúnedain - 6'4\" (average)[3]\nNúmenóreans - 7'0\" (average)[4]\nMiddle Men - Shorter\nDrúedain - 4' to 5'\nHobbits - 3'6\" (average)",
+    "members": "Bëor, Hador, Barahir, Beren, Húrin, Morwen, Túrin, Niënor, Tuor, Elros,\nAr-Pharazôn, Elendil, Isildur, Bard, Denethor, Boromir, Faramir,\nThéoden, Éomer, Éowyn, Aragorn"
   },
   {
     "title": "Dwarves",
@@ -82,7 +97,15 @@
     "height": "Taller than Hobbits, shorter than Men; around 4'6",
     "skin_color": "White",
     "hair_color": "Blond, brown, black, blue, red, and (when older) grey or white",
-    "weaponry": "Often axes, swords, hammers, mattocks"
+    "weaponry": "Often axes, swords, hammers, mattocks",
+    "other names": "_Naugrim_ (S), _Nogothrim_ (S)._Khazâd_ (K), _Hadhodrim_ (S), _Casari_\n(Q)",
+    "locations": "Khazad-dûm, Belegost, Nogrod, Erebor, Iron Hills, Glittering Caves, Grey\nMountains, Blue Mountains, Gundabad",
+    "affiliation": "Union of Maedhros, Last Alliance of Elves and Men",
+    "hair color": "Blond, brown, black, blue, red, and (when older) grey or white",
+    "average height": "4.5 - 5 feet (1.35 - 1.52 m) tall",
+    "members": "Durin, Gimli, Thorin, Dáin Ironfoot, Azaghâl, Mîm, Balin",
+    "gallery": "IMAGES OF DWARVES",
+    "people": "CLANS:\nLongbeards, Firebeards, Broadbeams, Ironfists, Stiffbeards, Blacklocks,\nStonefoots, Petty-dwarves\nGROUPS:\nBelegost Dwarves, Erebor Dwarves, Khazad-dûm Dwarves,\nNogrod Dwarves,\nBlue Mountain Dwarves,\nGrey Mountain Dwarves,\nIron Hill Dwarves"
   },
   {
     "title": "Maiar",
@@ -95,12 +118,24 @@
     "distinctions": "Tall, wise, fair, powerful",
     "height": "Varies",
     "skin_color": "Varies",
-    "hair_color": "Varies"
+    "hair_color": "Varies",
+    "pronunciation": "_MY-ar_",
+    "locations": "Aman, Middle-earth",
+    "gallery": "IMAGES OF MAIAR",
+    "members": "Eönwë, Ilmarë, Ossë, Uinen, Sauron, Gandalf, Balrogs, Melian"
   },
   {
     "title": "Wizards",
     "page_id": "2933",
-    "text": "The WIZARDS, initially known as the ISTARI, were five Maiar spirits sent\nto Middle-earth as human forms to aid the Free Peoples against the\nthreat of Sauron.\n\n\nHistory\n\nIn the Undying Lands around TA 1000, Manwë became aware that the spirit\nof Morgoth's most dedicated lieutenant Sauron was rising in power again,\nand summoned a council of the Valar to send three messengers to\nMiddle-earth to protect the free peoples and assure them the Valar had\nnot forgotten them. Two Maiar came: Curumo (or Curunir; later known as\nSaruman) sent by Aulë, and Alatar (Morinehtar), sent by Oromë. Manwë\nasked where Olórin (later known as Gandalf) was, and he came, after\nreturning from a journey. Manwë asked Olórin if he would go as the third\nmessenger. Olórin said he was too weak and that he was afraid of Sauron;\nhowever, Manwë said that was all the more reason to go, and that he\ncommanded Olórin to go as the third. Then Varda said, “Not as the\nthird.” Yavanna begged Curumo to take Aiwendil (Radagast), and Alatar\ntook Pallando (Rómestámo) as a friend. They were forbidden to dominate\nthe free peoples of Middle-earth or to match Sauron's power with power.\nWhen Saruman, the greatest of the Wizards, disobeyed this injunction, he\nwas cast from the order and banished from ever returning to Valinor.\n\nThe Wizards were known by various names and were arrayed in different\ncolors. Of those who came to Middle-earth, sent by the Valar, five are\nknown, the Heren Istarion (Order of Wizards). After arriving in\nMiddle-earth, the two Blue Wizards apparently went east before the War\nof the Ring; whether they played a part in the events of that war is\nunknown. (Note: _According to Tolkien's letters they may have formed\ncults for magic worship and practice among the Easterlings._) Radagast\nthe Brown concerned himself mainly with plants and animals and lived in\nMirkwood for many years. Saruman the White and Gandalf the Grey spent\ntime with the Free Peoples: the Elves, Dwarves, and Men. Saruman was\nwise and respected and became head of the White Council in TA 2463.\nHowever, he became prideful and jealous of the potential and purity of\nspirit of Gandalf, who would eventually surpass him in power. Saruman\nslowly came to betray the original purpose of the Wizards and sought\npower for himself. He was overthrown during the War of the Ring, by his\ntormented servant, Grima Wormtongue. Grima slit Saruman's neck after a\nfailed attempt to rule the Shire. Saruman's spirit looked to the West\nand Valinor but was blown away.\n\nAt the end of the Third Age, the Wizards passed from sight; since, with\nthe fall of Sauron, their work was done. Gandalf passed over the Sea\nwith the Last Riding of the Keepers of the Rings. Saruman became a naked\nspirit and wandered Middle-earth forever since he was banished from\nValinor. Radagast stayed in Middle-earth, tending to the wilderness. The\nfate of the Blue Wizards is unknown.\n\n\nAppearance\n\nThe wizards bore the forms of old Men; they were ancient and seemed to\nage very slowly. They possessed the great skill of body and mind; the\ngreater portion of their power as Maiar resided in their staffs. Each of\nthe Istari had his color and grade within the Order. Saruman the White\nwas the eldest and Gandalf the Grey second. The other Istari was\nRadagast the Brown and the two Blue Wizards, who dwelt far in the east.\n\n\nEtymology\n\n_Istari_ is a Quenya word (singular _Istar_). The Sindarin\ntranslation is ''Ithryn ''(singular _Ithron_).\n\n\nNamed wizards\n\n-   CURUMO, the White Wizard, was more commonly known as SARUMAN.\n    However, after being seduced by the evil power of Sauron, Saruman\n    became the Many-Coloured Wizard.\n    -   Saruman (human form) was killed by Gríma Wormtongue following\n        the Battle of Bywater, and Gandalf returned to the Undying Lands\n        in TA 3021. However, the fates of the three other Istari are\n        relatively unknown. Alatar and Pallando disappeared in the east,\n        while Radagast stayed in Middle-earth until at least TA 3018.\n\n&nbsp;\n-   OLÓRIN, the Grey Wizard, was more commonly known as GANDALF.\n    However, after dying at the hands of a Balrog, Durin's Bane, Gandalf\n    was reborn as the new White Wizard.\n\n&nbsp;\n-   AIWENDIL, the Brown Wizard, was more commonly known as RADAGAST.\n    Radagast was a lover of nature and so did not play any major part in\n    the War of the Ring except for announcing to the Great Eagles that\n    Gandalf was at the Orthanc with Saruman.\n\n&nbsp;\n-   ALATAR AND PALLANDO, the Blue Wizards, little is known about them,\n    although Gandalf suspected they may have founded a few magical cults\n    in the east, it is not expressed why he thinks this, although\n    perhaps he noted some strange similarities of knowledge from Maia\n    and knowledge of those cults/teachings (_Note: Later in his life,\n    Tolkien wrote a note, suggesting that the names of the Blue Wizards\n    were Morinehtar and Rómestámo. It is not clear whether these names\n    were intended to replace the names Alatar and Pallando, or whether\n    Morinehtar and Rómestámo were alternate names for the Blue Wizards,\n    possibly those given to them by the peoples of Middle-Earth_).\n\n  The Wizards\n  ------------------- ------------------------------ ----------- -----------------\n  Middle-earth name\n  Saruman\n  Gandalf\n  Radagast\n  Morinehtar\n  Rómestámo\n\n\nGallery"
+    "text": "The WIZARDS, initially known as the ISTARI, were five Maiar spirits sent\nto Middle-earth as human forms to aid the Free Peoples against the\nthreat of Sauron.\n\n\nHistory\n\nIn the Undying Lands around TA 1000, Manwë became aware that the spirit\nof Morgoth's most dedicated lieutenant Sauron was rising in power again,\nand summoned a council of the Valar to send three messengers to\nMiddle-earth to protect the free peoples and assure them the Valar had\nnot forgotten them. Two Maiar came: Curumo (or Curunir; later known as\nSaruman) sent by Aulë, and Alatar (Morinehtar), sent by Oromë. Manwë\nasked where Olórin (later known as Gandalf) was, and he came, after\nreturning from a journey. Manwë asked Olórin if he would go as the third\nmessenger. Olórin said he was too weak and that he was afraid of Sauron;\nhowever, Manwë said that was all the more reason to go, and that he\ncommanded Olórin to go as the third. Then Varda said, “Not as the\nthird.” Yavanna begged Curumo to take Aiwendil (Radagast), and Alatar\ntook Pallando (Rómestámo) as a friend. They were forbidden to dominate\nthe free peoples of Middle-earth or to match Sauron's power with power.\nWhen Saruman, the greatest of the Wizards, disobeyed this injunction, he\nwas cast from the order and banished from ever returning to Valinor.\n\nThe Wizards were known by various names and were arrayed in different\ncolors. Of those who came to Middle-earth, sent by the Valar, five are\nknown, the Heren Istarion (Order of Wizards). After arriving in\nMiddle-earth, the two Blue Wizards apparently went east before the War\nof the Ring; whether they played a part in the events of that war is\nunknown. (Note: _According to Tolkien's letters they may have formed\ncults for magic worship and practice among the Easterlings._) Radagast\nthe Brown concerned himself mainly with plants and animals and lived in\nMirkwood for many years. Saruman the White and Gandalf the Grey spent\ntime with the Free Peoples: the Elves, Dwarves, and Men. Saruman was\nwise and respected and became head of the White Council in TA 2463.\nHowever, he became prideful and jealous of the potential and purity of\nspirit of Gandalf, who would eventually surpass him in power. Saruman\nslowly came to betray the original purpose of the Wizards and sought\npower for himself. He was overthrown during the War of the Ring, by his\ntormented servant, Grima Wormtongue. Grima slit Saruman's neck after a\nfailed attempt to rule the Shire. Saruman's spirit looked to the West\nand Valinor but was blown away.\n\nAt the end of the Third Age, the Wizards passed from sight; since, with\nthe fall of Sauron, their work was done. Gandalf passed over the Sea\nwith the Last Riding of the Keepers of the Rings. Saruman became a naked\nspirit and wandered Middle-earth forever since he was banished from\nValinor. Radagast stayed in Middle-earth, tending to the wilderness. The\nfate of the Blue Wizards is unknown.\n\n\nAppearance\n\nThe wizards bore the forms of old Men; they were ancient and seemed to\nage very slowly. They possessed the great skill of body and mind; the\ngreater portion of their power as Maiar resided in their staffs. Each of\nthe Istari had his color and grade within the Order. Saruman the White\nwas the eldest and Gandalf the Grey second. The other Istari was\nRadagast the Brown and the two Blue Wizards, who dwelt far in the east.\n\n\nEtymology\n\n_Istari_ is a Quenya word (singular _Istar_). The Sindarin\ntranslation is ''Ithryn ''(singular _Ithron_).\n\n\nNamed wizards\n\n-   CURUMO, the White Wizard, was more commonly known as SARUMAN.\n    However, after being seduced by the evil power of Sauron, Saruman\n    became the Many-Coloured Wizard.\n    -   Saruman (human form) was killed by Gríma Wormtongue following\n        the Battle of Bywater, and Gandalf returned to the Undying Lands\n        in TA 3021. However, the fates of the three other Istari are\n        relatively unknown. Alatar and Pallando disappeared in the east,\n        while Radagast stayed in Middle-earth until at least TA 3018.\n\n&nbsp;\n-   OLÓRIN, the Grey Wizard, was more commonly known as GANDALF.\n    However, after dying at the hands of a Balrog, Durin's Bane, Gandalf\n    was reborn as the new White Wizard.\n\n&nbsp;\n-   AIWENDIL, the Brown Wizard, was more commonly known as RADAGAST.\n    Radagast was a lover of nature and so did not play any major part in\n    the War of the Ring except for announcing to the Great Eagles that\n    Gandalf was at the Orthanc with Saruman.\n\n&nbsp;\n-   ALATAR AND PALLANDO, the Blue Wizards, little is known about them,\n    although Gandalf suspected they may have founded a few magical cults\n    in the east, it is not expressed why he thinks this, although\n    perhaps he noted some strange similarities of knowledge from Maia\n    and knowledge of those cults/teachings (_Note: Later in his life,\n    Tolkien wrote a note, suggesting that the names of the Blue Wizards\n    were Morinehtar and Rómestámo. It is not clear whether these names\n    were intended to replace the names Alatar and Pallando, or whether\n    Morinehtar and Rómestámo were alternate names for the Blue Wizards,\n    possibly those given to them by the peoples of Middle-Earth_).\n\n  The Wizards\n  ------------------- ------------------------------ ----------- -----------------\n  Middle-earth name\n  Saruman\n  Gandalf\n  Radagast\n  Morinehtar\n  Rómestámo\n\n\nGallery",
+    "other names": "_Istari_",
+    "origins": "Maiar sent to Middle-earth",
+    "locations": "Orthanc (Saruman)\nRhosgobel (Radagast)\nEast (Blue Wizards)",
+    "rivalries": "Sauron",
+    "members": "Saruman, Gandalf, Radagast, Blue Wizards",
+    "lifespan": "Immortal",
+    "affiliation": "Sauron (Saruman in late Third Age)",
+    "gallery": "IMAGES OF WIZARDS"
   },
   {
     "title": "Orcs",
@@ -116,7 +151,16 @@
     "notable_members": "Azog, Bolg, Gorbag, Great Goblin, Grishnákh",
     "distinctions": "Most common servants of evil",
     "height": "Almost man-high, or short",
-    "skin_color": "Sallow, green, brown, grey, black"
+    "skin_color": "Sallow, green, brown, grey, black",
+    "other names": "Goblins, Glamhoth, Yrch",
+    "members": "Othrod, Azog, Bolg, Gorbag, Great Goblin, Grishnákh",
+    "affiliation": "Morgoth, Sauron, Saruman",
+    "skin color": "Sallow, green, brown, grey, black, swarthy",
+    "people": "Uruk-hai, Goblin-men, Half-orcs, Hobgoblins, Mordor Orcs, Misty Mountain\nOrcs",
+    "gallery": "IMAGES OF ORCS",
+    "average height": "Short[3]",
+    "locations": "Utumno, Angband, Mordor, Misty Mountains, Angmar, Mount Gundabad, High\nPass, Dol Guldur Isengard",
+    "lifespan": "Early Orcs - Probably immortal or long-lived[1]\nLater Orcs - diminished[2]:411\nBoldogs - far longer than Men[2]:418"
   },
   {
     "title": "Shape Shifters",
