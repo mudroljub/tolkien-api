@@ -1,7 +1,11 @@
 const fs = require('fs')
 
 const podaci = require('./data/ostalo.json')
-const mapirano = podaci.filter(k => k.gender)
 
-console.log(mapirano)
-// fs.writeFileSync('ostalo.json', JSON.stringify(mapirano, null, 2))
+podaci.map(item => {
+  if (Object.keys(item).length > 3) console.log(Object.keys(item))
+})
+
+const filtrirano = podaci.filter(k => !k.languages)
+
+fs.writeFileSync('filtrirano.json', JSON.stringify(filtrirano, null, 2))

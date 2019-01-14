@@ -1,7 +1,7 @@
 const fs = require('fs')
 const pandoc = require('simple-pandoc')
 const convert = pandoc('mediawiki', 'plain')
-const podaci = require('./stranice9.json')
+const podaci = require('./data/karakteri.json')
 
 const obecanja = podaci
   .map(async x => {
