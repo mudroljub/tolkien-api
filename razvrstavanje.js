@@ -1,11 +1,12 @@
 const fs = require('fs')
+const podaci = require('./data/bitke.json')
 
-const podaci = require('./data/ostalo.json')
-
-const kljucevi = podaci.map(item => {
-  if (Object.keys(item).length > 3) console.log(Object.keys(item))
+// precistiti sve atribute koji pocinju novim redom
+const filtrirano = podaci.map(x => {
+  for (const key in x) {
+    if (key.startsWith("\n")) delete key
+  }
+  return x
 })
 
-const filtrirano = podaci.filter(k => !k.members)
-
-fs.writeFileSync('filtrirano.json', JSON.stringify(filtrirano, null, 2))
+fs.writeFileSync('mapirano.json', JSON.stringify(filtrirano, null, 2))
