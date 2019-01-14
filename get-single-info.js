@@ -2,11 +2,11 @@ const fs = require('fs')
 const limit = require('simple-rate-limiter')
 const request = limit(require('request')).to(10).per(1000)
 const cheerio = require('cheerio')
-const pandoc = require('simple-pandoc')
-const podaci = require('./data/karakteri.json')
+const item = require('./item.json')
 
-const item = podaci[podaci.length-1];
-const url = `http://www.tolkiengateway.net/wiki/${item.title}`
+const url = `http://www.tolkiengateway.net/wiki/${encodeURIComponent(item.title)}`
+console.log(url)
+
 request(url, function(error, response, body) {
   const $ = cheerio.load(body)
   const table = $('table[style^="float"] tbody')
