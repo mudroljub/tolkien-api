@@ -327,7 +327,7 @@
     "gender": "Male",
     "hair": "Ginger (films only)",
     "eyes": "Brown (films only)",
-    "culture": "Dwarves of the Lonely Mountain",
+    "culture": "Dwarves of Khazad-dûm",
     "voice": "Paul Frees, in the 1977 Rankin/Bass version of 'The Hobbit'",
     "lotr_page_id": "757",
     "other_names": "Egnor [1], Aikanár, Aikanáro",
@@ -436,7 +436,7 @@
     "gender": "Male",
     "hair": "Dark Brown (films)",
     "eyes": "Green-Brown (films)",
-    "culture": "Dwarves of Rhudaur",
+    "culture": "Dwarves of Khazad-dûm",
     "lotr_page_id": "758",
     "other_names": "Egnor [1], Aikanár, Aikanáro",
     "titles": "Lord of Dorthonion with Angrod",
@@ -1095,7 +1095,7 @@
     "gender": "Male",
     "hair": "Black (film)",
     "eyes": "Yellow (film)",
-    "culture": "Uruk-hai of Isengard",
+    "culture": "Uruk-hai",
     "voice": "Andy Serkis"
   },
   {
@@ -1145,8 +1145,7 @@
     "weapon": "Powers of the Valar",
     "race": "Valar",
     "gender": "Male",
-    "eyes": "Blue[2]",
-    "culture": "Valar"
+    "eyes": "Blue[2]"
   },
   {
     "name": "Almarian",
@@ -1226,8 +1225,7 @@
     "weapon": "Powers of the Valar",
     "race": "Valar",
     "gender": "Female",
-    "height": "Varies",
-    "culture": "Valar"
+    "height": "Varies"
   },
   {
     "name": "Melian",
@@ -2007,8 +2005,7 @@
     "gender": "Male",
     "height": "Gigantic",
     "hair": "Black with red stripes",
-    "eyes": "Brown",
-    "culture": "Werewolves"
+    "eyes": "Brown"
   },
   {
     "name": "Algund",
@@ -2117,8 +2114,7 @@
     "spouse": "None",
     "weapon": "Powers of the Valar",
     "race": "Valar",
-    "gender": "Male",
-    "culture": "Valar"
+    "gender": "Male"
   },
   {
     "name": "Adanel",
@@ -2283,8 +2279,7 @@
     "gender": "Male",
     "height": "Various",
     "hair": "Unknown",
-    "eyes": "Unknown",
-    "culture": "Valar"
+    "eyes": "Unknown"
   },
   {
     "name": "Aglahad",
@@ -2359,8 +2354,7 @@
     "weapon": "Powers of the Valar",
     "race": "Valar",
     "gender": "Female",
-    "hair": "Golden",
-    "culture": "Valar"
+    "hair": "Golden"
   },
   {
     "name": "Berelach",
@@ -2510,8 +2504,7 @@
     "race": "Great Eagles",
     "gender": "Male",
     "height": "30 fathoms[1]",
-    "eyes": "Gold",
-    "culture": "Great Eagles"
+    "eyes": "Gold"
   },
   {
     "name": "Nienna",
@@ -2526,8 +2519,7 @@
     "spouse": "None",
     "weapon": "Powers of the Valar",
     "race": "Valar",
-    "gender": "Female",
-    "culture": "Valar"
+    "gender": "Female"
   },
   {
     "name": "Donnamira (Took) Boffin",
@@ -3470,7 +3462,7 @@
     "weapon": "Scimitar, whip",
     "race": "Orcs",
     "gender": "Male",
-    "culture": "Uruk-hai of Isengard"
+    "culture": "Uruk-hai"
   },
   {
     "name": "Great Goblin",
@@ -3498,8 +3490,7 @@
     "weapon": "Powers of the Valar,\nHis hands",
     "race": "Valar",
     "gender": "Male",
-    "hair": "Golden",
-    "culture": "Valar"
+    "hair": "Golden"
   },
   {
     "name": "Vairë",
@@ -3513,8 +3504,7 @@
     "spouse": "Mandos",
     "weapon": "Powers of the Valar",
     "race": "Valar",
-    "gender": "Female",
-    "culture": "Valar"
+    "gender": "Female"
   },
   {
     "name": "Oromë",
@@ -3528,8 +3518,7 @@
     "weapon": "Powers of the Valar\nBow\nSpear[2]",
     "race": "Valar",
     "gender": "Male",
-    "height": "Varies",
-    "culture": "Valar"
+    "height": "Varies"
   },
   {
     "name": "Khamûl",
@@ -3626,8 +3615,7 @@
     "spouse": "Yavanna",
     "weapon": "Powers of the Valar",
     "race": "Valar",
-    "gender": "Male",
-    "culture": "Valar"
+    "gender": "Male"
   },
   {
     "name": "Ancalagon",
@@ -3640,8 +3628,7 @@
     "weapon": "Fire, natural body weapons",
     "race": "Dragons",
     "gender": "Male",
-    "height": "Not specified, \"As tall as a mountain\"",
-    "culture": "Dragons of Morgoth"
+    "height": "Not specified, \"As tall as a mountain\""
   },
   {
     "name": "Elwing",
@@ -3667,8 +3654,7 @@
     "spouse": "Vairë",
     "weapon": "Powers of the Valar",
     "race": "Valar",
-    "gender": "Male",
-    "culture": "Valar"
+    "gender": "Male"
   },
   {
     "name": "Nielíqui",
@@ -3680,8 +3666,7 @@
     "weapon": "Powers of the Valar",
     "race": "Valar",
     "gender": "Female",
-    "eyes": "Unknown",
-    "culture": "Valar"
+    "eyes": "Unknown"
   },
   {
     "name": "Galdor of the Tree",
@@ -3732,8 +3717,7 @@
     "race": "Great Spiders",
     "gender": "Female",
     "height": "Enormous",
-    "eyes": "Red",
-    "culture": "Great Spiders"
+    "eyes": "Red"
   },
   {
     "name": "Ossë",
@@ -3784,8 +3768,7 @@
     "weapon": "Fiery weapons",
     "race": "Balrogs",
     "gender": "Male",
-    "hair": "Mane of red flame",
-    "culture": "Balrogs of Morgoth"
+    "hair": "Mane of red flame"
   },
   {
     "name": "Snaga (orc)",
@@ -3810,7 +3793,7 @@
     "gender": "Male",
     "hair": "Dark",
     "eyes": "Yellow",
-    "culture": "Uruk-hai of Isengard"
+    "culture": "Uruk-hai"
   },
   {
     "name": "Beleg",
@@ -3870,8 +3853,7 @@
     "spouse": "Irmo (Lórien)",
     "weapon": "Power of the Valar",
     "race": "Valar",
-    "gender": "Female",
-    "culture": "Valar"
+    "gender": "Female"
   },
   {
     "name": "Bregalad",
@@ -3929,8 +3911,7 @@
     "death": "FA 510[2]",
     "weapon": "Fiery whip, Large black axe",
     "race": "Balrogs",
-    "gender": "Male",
-    "culture": "Balrogs of Morgoth"
+    "gender": "Male"
   },
   {
     "name": "Nellas",
@@ -4017,8 +3998,7 @@
     "death": "Possibly still alive",
     "weapon": "Claws, beak",
     "race": "Great Eagles",
-    "gender": "Male",
-    "culture": "Great Eagles"
+    "gender": "Male"
   },
   {
     "name": "Fladrif",
@@ -4050,8 +4030,7 @@
     "death": "Around TA 2000",
     "realms": "Grey Mountains",
     "race": "Dragons",
-    "gender": "Male",
-    "culture": "Long-worms"
+    "gender": "Male"
   },
   {
     "name": "Snaga",
@@ -4150,8 +4129,7 @@
     "text": "GOSTIR was the name of one of the Dragons of Morgoth about whom almost\nnothing is known. Biography Gostir was a dragon only known by name.\nEtymology _GOSTIR_ means “terrible sight” in Sindarin, from _gos_\n(“horrible”) and _thîr_ (“opinion, expression, face”). The earlier form\nof the name was GORSTHIR.",
     "birth": "Unknown",
     "race": "Dragons",
-    "gender": "Male",
-    "culture": "Dragons of Morgoth"
+    "gender": "Male"
   },
   {
     "name": "Finglas",
@@ -4193,8 +4171,7 @@
     "lotr_page_id": "7617",
     "text": "MENELDOR was a Great Eagle who dwelt at the Eagles Eyrie, at the north\nhalf of the Misty Mountains. Biography He was a friend and follower of\nGwaihir and probably dwelt with him on their eyrie in the Misty\nMountains. He along with Gwaihir and Landroval was one of the Eagles who\nrescued Frodo and Sam from the slopes of Mount Doom (Orodruin), after\nthe destruction of the Ring. Etymology The first element of his name,\n_menel_, means “heaven”.",
     "race": "Great Eagles",
-    "gender": "Male",
-    "culture": "Great Eagles"
+    "gender": "Male"
   },
   {
     "name": "Will Whitfoot",
@@ -4439,7 +4416,7 @@
     "affiliation": "Loyal to the House of Hador",
     "gender": "Male",
     "race": "Men",
-    "culture": "House of Hador"
+    "culture": "House of Marach"
   },
   {
     "name": "Dagnir",
@@ -4600,7 +4577,6 @@
     "winged": "Yes",
     "colour": "Red-golden",
     "race": "Dragons",
-    "gender": "Male",
-    "culture": "Fire-drakes"
+    "gender": "Male"
   }
 ]
