@@ -2,7 +2,6 @@ const fs = require('fs')
 const podaci = require('./data/characters.json')
 const kulture = require('./data/cultures.json')
 
-/*
 // koliko kojih atributa
 const recnik = podaci.reduce((acc, x) => {
   for (const key in x) {
@@ -17,7 +16,8 @@ Object.keys(recnik)
       .forEach(function(k) {
           console.log(k, recnik[k])
        })
-*/
+
+/* mapira karaktere sa kulturom ili rasom */
 
 const a = new Set(podaci.map(x => x.culture).sort())
 const b = new Set(kulture.map(x => x.title).sort())
@@ -31,10 +31,7 @@ console.log(b)
 console.log("Fali: ")
 console.log(difference)
 
-// const obradjeno = podaci
-// .map(x => {
-//   // if (x.culture && x.culture.includes('Uruk-hai')) x.culture = 'Uruk-hai'
-//   if (x.culture == "Wolves of Angband") delete x.culture
-//   return x
-// })
-// fs.writeFileSync('filtrirano.json', JSON.stringify(obradjeno, null, 2))
+
+const obradjeno = podaci
+.filter(x => !x.culture)
+fs.writeFileSync('filtrirano.json', JSON.stringify(obradjeno, null, 2))

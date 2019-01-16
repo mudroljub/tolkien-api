@@ -4,10 +4,11 @@ const request = limit(require('request')).to(10).per(1000)
 const cheerio = require('cheerio')
 const item = require('./item.json')
 
-const site = "lotr" // lotr or tolkiengateway
+const site = "tolkiengateway" // lotr or tolkiengateway
+const article = encodeURIComponent(item.name)
 
-if (site == "lotr") {
-  const url = `http://www.tolkiengateway.net/wiki/${encodeURIComponent(item.title)}`
+if (site == "tolkiengateway") {
+  const url = `http://www.tolkiengateway.net/wiki/${article}`
   console.log(url)
   
   request(url, function(error, response, body) {
@@ -29,8 +30,8 @@ if (site == "lotr") {
   })
 }
 
-if (site == "tolkiengateway") {
-  const url = `https://lotr.wikia.com/wiki/${encodeURIComponent(item.title)}`
+if (site == "lotr") {
+  const url = `https://lotr.wikia.com/wiki/${article}`
   console.log(url)
   
   request(url, function(error, response, body) {

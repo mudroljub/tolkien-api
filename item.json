@@ -1,14 +1,12 @@
 {
-  "title": "Men of the West",
-  "lotr_page_id": "8299",
-  "text": "The term MEN OF THE WEST is a general term that refers to the Edain or\nAtani, the men who were friends with the Elves Lullaby in the First and\nSecond Age of Middle-earth.\n\n\nHistory\n\nIn the Third and Fourth Age, this term refers to several groups of Men,\nincluding men of Rohan and Gondor. Other Men included in this general\ndesignation include the men of Bree-land, the Men of Dale and may also\nbe applicable to Hobbits, as Hobbits are considered a race of Men.\nDuring the War of the Ring, this term was used to refer to the Edain who\nventured forth to challenge the armies of Mordor.\n\nMore specifically, MEN OF THE WEST may also refer to men who are\ndescended from the survivors of Númenor. But overall, any person who is\ndescended from the houses of Haleth, Bëor or Hador may claim this title.\n\nAssorted lands of the Edain\n\n-   Gondor\n-   Arnor\n-   Rohan\n-   Dale\n-   Lake-town\n-   The Shire\n-   Drúadan Forest\n-   Bree-land\n-   Dunland",
-  "origins": "Descendants of the Númenóreans",
-  "locations": "Eriador, Arnor, Gondor",
-  "rivalries": "Sauron",
-  "average height": "Taller than other Men",
-  "languages": "Quenya, Westron, Sindarin, Gondor Sindarin",
-  "lifespan": "Three times the life of a regular man but later diminished (not so much\nin Arnor however)[1]",
-  "hair_color": "Dark",
-  "distin_tions": "Superior to the other men of Middle-earth in nobility of spirit and body",
-  "members": "Amandil, Tar-Palantir, Argeleb I, Aragorn II"
+  "name": "Boldog",
+  "lotr_page_id": "12749",
+  "race": "Orcs",
+  "race": "Orcs of Angband",
+  "gender": "Male",
+  "text": "BOLDOG was an Orc-captain of the host of Angband during the First Age,\nwho is only told of in the original ''Lay of Leithian, ''and does not\nappear in the stories of _The Silmarillion_.\n\nBiography\n\nHistory\n\nAs it is told in _The Lays of Beleriand_, Boldog was a formidable leader\nof Orcs, commanded by Morgoth to lead them on a great raid upon the\nrealm of Doriath and to capture Lúthien, daughter of King Thingol and\nQueen Melian the Maia. Boldog drove his host south over the highlands of\nDorthonion and the through enchanted forest of Taur-nu-Fuin following\nthe Orcs' Road of Haste into the Pass of Anach. Where fell darkness met\nthe mists of the magic, which were the Girdle of Melian, just east of\nthe river Mindeb, the Orc-host reached the border of Doriath. To meet\nthe deadly threat posed by Boldog's invasion in force, Thingol musters\nhis full might with his two great Captains, Beleg and Mablung. He leads\nthe army of Sindarin Elves beyond the North March of Doriath. Thingol\nand Boldog meet in single combat in the midst of the battle. Thingol\nwielded his Dwarf-forged sword, Aranrúth, Boldog fought with an iron\nspear of some note that was later used by Mablung in the Hunting of the\nWolf. Thingol slays Boldog, the Orc-host is utterly defeated and the\nremnants destroyed by being driven into Taur-nu-Fuin.\n\nThe Battle of the Northmarch was the culminating battle of a series of\nattacks in Morgoth's campaign against Doriath, following his victories\nin the Dagor Bragollach (Battle of Sudden Flame), the fourth of the\ngreat Battles of Beleriand that broke the Siege of Angband.\n\nCanon\n\nDetails of Boldog's raid are scattered through numerous versions of\ntexts within ''The Lays of Beleriand, ''compiled by Christopher Tolkien\n- however, no aspect of the plot-lines involving Boldog are in serious\ncontradiction with the “final” canon of _Quenta Silmarillion._ Boldog's\nindependent command of a host of orcs with its formidable objectives\nindicates that he would have been several ranks above most other\nOrc-Captains and champions (such as Orcobal or Balcmeg, who both were\nfrom a different century), and it is thought elsewhere in the sources\nthat Boldog was of some lesser order of the Maiar corrupted by Morgoth\nthat took the form of an Orc, as opposed to previously being an Elf that\nbecame mutilated (which was the ancient origin of Orcs in general).",
+  "titles": "Captain",
+  "affiliation": "Morgoth",
+  "death": "F.A. 465\nNorth-marches of Doriath; killed by Thingol",
+  "weapon": "Iron spear"
 }
