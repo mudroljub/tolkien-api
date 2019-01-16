@@ -149,7 +149,7 @@
     "origins": "Descendants of the Edain",
     "affiliation": "Eldar",
     "rivalries": "Sauron",
-    "average height": "Taller than other Men",
+    "average_height": "Taller than other Men",
     "gallery": "IMAGES OF NÚMENÓREANS",
     "locations": "Númenor, Eriador, Harad, Umbar, Pelargir, later Arnor and Gondor"
   },
@@ -178,7 +178,7 @@
     "languages": "Avarin languages",
     "gallery": "IMAGES OF AVARI",
     "locations": "Cuiviénen, Taur-im-Duinath, Rhûn, Eriador, Vales of Anduin",
-    "skin color": "White",
+    "skin_color": "White",
     "lifespan": "Immortal"
   },
   {
@@ -193,12 +193,10 @@
     "lifespan": "Short to average (around 30-50 years) [_citation\\ needed_]",
     "distinctions": "Minimalistic clothes, tanned, barbaric, bitter [_citation\\ needed_]",
     "height": "Generally tall, shorter than Dunadain on average",
-    "skin_color": "Tanned ruddy to olive brown, “swarthy” [_citation\\ needed_]",
-    "hair_color": "Brownish, dark, black, grayed, auburn, red [_citation\\ needed_]",
+    "skin_color": "Dark",
+    "hair_color": "Dark",
     "locations": "Dunland",
     "members": "Squint-eyed Southerner, Freca, Wulf",
-    "hair_color": "Dark",
-    "skin_color": "Dark",
     "gallery": "IMAGES OF DUNLENDINGS"
   },
   {
@@ -211,7 +209,7 @@
     "members": "Lenwë, Denethor, Nimrodel",
     "lifespan": "Immortal",
     "distinctions": "Secretive, lovers of the forests and animals",
-    "average height": "Tall",
+    "average_height": "Tall",
     "hair_color": "Usually dark",
     "skin_color": "White or olive",
     "gallery": "IMAGES OF NANDOR"
@@ -246,9 +244,7 @@
     "rivalries": "Gondorians",
     "languages": "presumably numerous; different from Common Speech",
     "members": "Black Serpent",
-    "average height": "Tall",
-    "hair_color": "Dark",
-    "skin_color": "Dark",
+    "average_height": "Tall",
     "weaponry": "Oliphaunts",
     "gallery": "IMAGES OF HARADRIM"
   },
@@ -281,7 +277,7 @@
     "members": "Imin, Iminyë, Ingwë, Indis, Elemmírë, Amarië, and others",
     "lifespan": "Immortal",
     "distinctions": "Most revered of the Elven kindreds, loved by Manwë",
-    "average height": "Tall",
+    "average_height": "Tall",
     "hair_color": "Golden",
     "skin_color": "Pale",
     "gallery": "IMAGES OF VANYAR"
@@ -311,8 +307,7 @@
     "locations": "Brethil, Númenor, Drúwaith Iaur, Drúadan Forest",
     "distinctions": "Good stoneworkers, mysterious powers, glowing red eyes",
     "languages": "Drúadan language",
-    "average height": "Short",
-    "hair_color": "Dark",
+    "average_height": "Short",
     "m_mbers": "Aghan, Ghân, Ghân-buri-Ghân",
     "gallery": "IMAGES OF DRÚEDAIN"
   },
@@ -336,7 +331,7 @@
     "members": "Marcho, Blanco, the Bolgers, the Tooks, the Brandybucks",
     "lifespan": "c. 96 years",
     "distinctions": "Least numerous of the three branches of hobbits",
-    "average height": "Taller than the other hobbits",
+    "average_height": "Taller than the other hobbits",
     "hair_color": "Fair",
     "skin_color": "Fair"
   },
@@ -348,7 +343,7 @@
     "locations": "Vales of Anduin, Bree, The Shire",
     "languages": "Hobbitish",
     "lifespan": "c. 96 years",
-    "average height": "Shorter than the other Hobbits",
+    "average_height": "Shorter than the other Hobbits",
     "hair_color": "No beards",
     "skin_color": "Browner skin",
     "clothing": "No footwear"
@@ -594,7 +589,7 @@
     "affiliation": "Sauron",
     "rivalries": "Gondorians",
     "lifespan": "shorter than Númenórean",
-    "average height": "shorter than Númenóreans",
+    "average_height": "shorter than Númenóreans",
     "gallery": "IMAGES OF VARIAGS"
   },
   {
@@ -647,12 +642,12 @@
     "purpose": "To take back Erebor and the treasure within from the dragon Smaug",
     "formed": "TA 2941",
     "dissolved": "TA 2942",
-    "date founded": "T.A. 2941",
+    "date_founded": "T.A. 2941",
     "founder": "Thorin",
     "disbanded": "T.A. 2941",
     "gallery": "IMAGES OF THORIN AND COMPANY",
-    "notable for": "Re-establishment of the Kingdom under the Mountain, bringing about the\ndeath of Smaug",
-    "notable members": "Thorin, Balin, Dwalin, Fíli, Kíli, Dori, Nori, Ori, Óin, Glóin, Bifur,\nBofur, Bombur and Bilbo Baggins"
+    "notable_for": "Re-establishment of the Kingdom under the Mountain, bringing about the\ndeath of Smaug",
+    "notable_members": "Thorin, Balin, Dwalin, Fíli, Kíli, Dori, Nori, Ori, Óin, Glóin, Bifur,\nBofur, Bombur and Bilbo Baggins"
   },
   {
     "title": "Brandybucks",
