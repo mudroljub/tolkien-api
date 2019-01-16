@@ -4,7 +4,7 @@ const request = limit(require('request')).to(10).per(1000)
 const cheerio = require('cheerio')
 const item = require('./item.json')
 
-const url = `http://www.tolkiengateway.net/wiki/${encodeURIComponent(item.title)}`
+const url = `http://www.tolkiengateway.net/wiki/${encodeURIComponent("item.title")}`
 console.log(url)
 
 request(url, function(error, response, body) {

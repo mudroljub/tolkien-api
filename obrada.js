@@ -1,5 +1,5 @@
 const fs = require('fs')
-const podaci = require('./filtrirano.json')
+const podaci = require('./data/characters.json')
 
 // koliko kojih atributa
 const recnik = podaci.reduce((acc, x) => {
@@ -18,9 +18,11 @@ Object.keys(recnik)
 
 console.log(new Set(podaci.map(x => x.race)))
 
-const obradjeno = podaci.map(x => {
-  if (x.race == "Eagle") x.race = "Eagles"
-  return x
-})
+const obradjeno = podaci
+.filter(x => !x.race)
+// .map(x => {
+//   if (x.race == "Eagle") x.race = "Eagles"
+//   return x
+// })
 
 fs.writeFileSync('filtrirano.json', JSON.stringify(obradjeno, null, 2))
