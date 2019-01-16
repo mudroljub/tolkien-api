@@ -6,7 +6,7 @@ const mapirano = require('./mapirano.json')
 const obecanja = mapirano.map(async x => {
   for (kljuc in x) {
     // ["name", "lotrUrl", "race", "text"]
-    if (["title", "page_id", "text"].includes(kljuc)) continue
+    if (["title", "lotr_page_id", "text"].includes(kljuc)) continue
     x[kljuc] = await convert(x[kljuc])
   }
   return x
