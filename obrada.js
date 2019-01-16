@@ -1,6 +1,6 @@
 const fs = require('fs')
 const podaci = require('./data/characters.json')
-const rase = require('./data/races.json')
+const kulture = require('./data/cultures.json')
 
 /*
 // koliko kojih atributa
@@ -19,15 +19,16 @@ Object.keys(recnik)
        })
 */
 
-const a = new Set(podaci.map(x => x.race))
-const b = new Set(rase.map(x => x.title))
+const a = new Set(podaci.map(x => x.culture).sort())
+const b = new Set(kulture.map(x => x.title).sort())
 const difference = new Set(
-  [...a].filter(x => !b.has(x)))
+  [...a].filter(x => !b.has(x)).sort())
 
-console.log("Postojece rase: ")
+console.log("Koristene kulture: ")
 console.log(a)
-console.log("Koristene rase: ")
+console.log("Postojece kulture: ")
 console.log(b)
+console.log("Fali: ")
 console.log(difference)
 
 // const obradjeno = podaci
