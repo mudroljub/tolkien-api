@@ -4,7 +4,7 @@ const request = limit(require('request')).to(10).per(1000)
 const cheerio = require('cheerio')
 const item = require('./item.json')
 
-const site = "tolkiengateway" // lotr or tolkiengateway
+const site = "lotr" // lotr or tolkiengateway
 
 if (site == "lotr") {
   const url = `http://www.tolkiengateway.net/wiki/${encodeURIComponent(item.title)}`
