@@ -5,7 +5,7 @@ const cheerio = require('cheerio')
 const item = require('./item.json')
 
 const site = "tolkiengateway" // lotr or tolkiengateway
-const article = encodeURIComponent(item.name)
+const article = encodeURIComponent(item.title)
 
 if (site == "tolkiengateway") {
   const url = `http://www.tolkiengateway.net/wiki/${article}`
