@@ -1239,10 +1239,9 @@
     "realms": "Doriath",
     "spouse": "Thingol",
     "weapon": "Powers of the Ainur",
-    "race": "Valar",
+    "race": "Maiar",
     "gender": "Female",
-    "hair": "Dark",
-    "culture": "Maiar"
+    "hair": "Dark"
   },
   {
     "name": "Azaghâl",
@@ -3448,7 +3447,7 @@
     "gender": "Male",
     "height": "Very tall",
     "hair": "None",
-    "culture": "Trolls of the Ettenmoors"
+    "culture": "Stone-trolls"
   },
   {
     "name": "Uglúk",
@@ -3728,7 +3727,7 @@
     "death": "Immortal",
     "spouse": "Uinen",
     "weapon": "Powers of the Ainur",
-    "race": "Valar",
+    "race": "Maiar",
     "gender": "Male",
     "culture": "Maiar of Ulmo"
   },
@@ -3742,8 +3741,7 @@
     "weapon": "Teeth, claws, Powers of the Valar",
     "race": "Great Dogs",
     "gender": "Male",
-    "height": "Horse-sized",
-    "culture": "Wolves of Valinor"
+    "height": "Horse-sized"
   },
   {
     "name": "Zamîn",
@@ -3898,7 +3896,7 @@
     "death": "Immortal",
     "spouse": "Unknown",
     "weapon": "Powers of the Ainur",
-    "race": "Valar",
+    "race": "Maiar",
     "gender": "Male",
     "culture": "Maiar of Ulmo"
   },
@@ -4050,9 +4048,8 @@
     "titles": "Handmaid of Varda[1]",
     "birth": "Before the creation of Arda",
     "weapon": "Powers of the Ainur,",
-    "race": "Valar",
-    "gender": "Female",
-    "culture": "Maiar"
+    "race": "Maiar",
+    "gender": "Female"
   },
   {
     "name": "Beechbone",
@@ -4093,8 +4090,7 @@
     "other_names": "Drauglir",
     "death": "FA 465",
     "race": "Werewolves",
-    "gender": "Male",
-    "culture": "Wolves of Angband"
+    "gender": "Male"
   },
   {
     "name": "Radbug",
@@ -4559,8 +4555,7 @@
     "colour": "Golden",
     "race": "Dragons",
     "gender": "Male",
-    "height": "gigantic",
-    "culture": "Fire-drakes"
+    "height": "gigantic"
   },
   {
     "title": "Smaug",

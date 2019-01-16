@@ -31,11 +31,11 @@ console.log(b)
 console.log("Fali: ")
 console.log(difference)
 
-const obradjeno = podaci
-.map(x => {
-  if (x.culture && x.culture.includes('Uruk-hai')) x.culture = 'Uruk-hai'
-  // if (x.culture == x.race) delete x.culture
-  return x
-})
+// const obradjeno = podaci
+// .map(x => {
+//   // if (x.culture && x.culture.includes('Uruk-hai')) x.culture = 'Uruk-hai'
+//   if (x.culture == "Wolves of Angband") delete x.culture
+//   return x
+// })
 
 fs.writeFileSync('filtrirano.json', JSON.stringify(obradjeno, null, 2))
