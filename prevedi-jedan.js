@@ -14,5 +14,5 @@ for (const key in item) {
 
 Promise.all(obecanja).then(function(values) {
   console.log(item)
-  fs.writeFileSync('razreseno.json', JSON.stringify(item, null, 2))
+  fs.writeFileSync('item.json', JSON.stringify(item, null, 2))
 })

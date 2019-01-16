@@ -8,6 +8,7 @@ Otvaranje članka po id-u:
 
 ## TODO
 
-- povezati slike sa https://lotr.wikia.com/ ili http://www.tolkiengateway.net/
+- povezati karaktere i rase, videti koje rase fale
 - ukloniti atribut gallery i jos neke
-- dodati u rase: Nazgûl, Balrogs
+- povezati slike sa https://lotr.wikia.com/ ili http://www.tolkiengateway.net/
+

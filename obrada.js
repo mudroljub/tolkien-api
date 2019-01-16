@@ -1,6 +1,8 @@
 const fs = require('fs')
 const podaci = require('./data/characters.json')
+const rase = require('./data/races.json')
 
+/*
 // koliko kojih atributa
 const recnik = podaci.reduce((acc, x) => {
   for (const key in x) {
@@ -15,14 +17,24 @@ Object.keys(recnik)
       .forEach(function(k) {
           console.log(k, recnik[k])
        })
+*/
 
-console.log(new Set(podaci.map(x => x.race)))
+const a = new Set(podaci.map(x => x.race))
+const b = new Set(rase.map(x => x.title))
+const difference = new Set(
+  [...a].filter(x => !b.has(x)))
 
-const obradjeno = podaci
-.filter(x => !x.race)
+console.log("Postojece rase: ")
+console.log(a)
+console.log("Koristene rase: ")
+console.log(b)
+console.log(difference)
+
+// const obradjeno = podaci
+// .filter(x => !x.race)
 // .map(x => {
-//   if (x.race == "Eagle") x.race = "Eagles"
+//   delete x.data_race
 //   return x
 // })
 
-fs.writeFileSync('filtrirano.json', JSON.stringify(obradjeno, null, 2))
+// fs.writeFileSync('filtrirano.json', JSON.stringify(obradjeno, null, 2))
