@@ -37,5 +37,4 @@ console.log(difference)
 //   if (x.culture == "Wolves of Angband") delete x.culture
 //   return x
 // })
-
-fs.writeFileSync('filtrirano.json', JSON.stringify(obradjeno, null, 2))
+// fs.writeFileSync('filtrirano.json', JSON.stringify(obradjeno, null, 2))
