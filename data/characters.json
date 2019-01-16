@@ -4260,13 +4260,13 @@
     "titles": "Chieftain of the Haladin",
     "location": "Thargelion",
     "language": "Mannish dialect",
-    "house": "Haladin",
+    "house": "House of Haleth",
     "birth": "F.A. 315\nThargelion",
-    "height": "Haladin",
+    "height": "House of Haleth",
     "children": "Haleth, Haldar",
     "gender": "Male",
     "race": "Men",
-    "culture": "Haladin",
+    "culture": "House of Haleth",
     "death": "F.A. 375 (aged 60)\nBattle of the Gelion-Ascar Stockade"
   },
   {
@@ -4277,13 +4277,13 @@
     "language": "Mannish dialect",
     "birth": "F.A. 341[1]\nThargelion",
     "death": "F.A. 375[1]\nBattle of the Gelion-Ascar Stockade",
-    "house": "Haladin",
+    "house": "House of Haleth",
     "parentage": "Haldad",
     "siblings": "Haleth (twin-sister)",
     "children": "Haldan",
     "gender": "Male",
     "race": "Men",
-    "culture": "Haladin"
+    "culture": "House of Haleth"
   },
   {
     "name": "Baldor",
@@ -4406,7 +4406,7 @@
     "notable_for": "crafting the Doors of Durin",
     "gender": "Male",
     "race": "Dwarves",
-    "culture": "Dwarves of Moria"
+    "culture": "Dwarves of Khazad-dûm"
   },
   {
     "name": "Ulrad",
@@ -4439,7 +4439,7 @@
     "affiliation": "Loyal to the House of Hador",
     "gender": "Male",
     "race": "Men",
-    "culture": "Men of Dor-lómin"
+    "culture": "House of Hador"
   },
   {
     "name": "Dagnir",
