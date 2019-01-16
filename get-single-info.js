@@ -16,7 +16,7 @@ request(url, function(error, response, body) {
       const celije = $(red).find('td')
       if (celije.length == 2) {
         let kljuc = $(celije[0]).text().toLowerCase()
-        kljuc = kljuc.split(' ').join('_')
+        kljuc = kljuc.replace(' ', '_').replace(' ', '_')
         const vrednost = $(celije[1]).html()
         item[kljuc] = item[kljuc] || vrednost
       }

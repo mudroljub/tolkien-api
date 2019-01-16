@@ -1,5 +1,5 @@
 const fs = require('fs')
-const podaci = require('./data/characters.json')
+const podaci = require('./filtrirano.json')
 
 // koliko kojih atributa
 const recnik = podaci.reduce((acc, x) => {
@@ -19,7 +19,7 @@ Object.keys(recnik)
 console.log(new Set(podaci.map(x => x.race)))
 
 const obradjeno = podaci.map(x => {
-  if (x.race == "Elf") x.race = "Elves"
+  if (x.race == "Eagle") x.race = "Eagles"
   return x
 })
 
