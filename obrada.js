@@ -25,10 +25,10 @@ const difference = new Set(
 
 console.log("Koristene: ")
 console.log(a)
-// console.log("Postojece: ")
-// console.log(b)
-// console.log("Fali: ")
-// console.log(difference)
+console.log("Postojece: ")
+console.log(b)
+console.log("Fali: ")
+console.log(difference)
 
 
 const obradjeno = podaci

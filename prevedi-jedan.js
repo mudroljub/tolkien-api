@@ -1,6 +1,5 @@
 const fs = require('fs')
 const pandoc = require('simple-pandoc')
-var nodePandoc = require('node-pandoc')
 const convert = pandoc('mediawiki', 'plain')
 const item = require('./item.json')
 
