@@ -20,6 +20,7 @@ Object.keys(recnik)
 // skup karaktera koji se pominju
 const bitniKarakteri = podaci.reduce((acc, x) => {
   if (x.notable_members) {
+    if (x.notable_members.includes("Maiar")) console.log(x.name)
     return new Set([...acc, ...x.notable_members.split(", ")].sort())
   }
   return acc
