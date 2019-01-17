@@ -1,5 +1,5 @@
 const fs = require('fs')
-const podaci = require('./data/races.json')
+const podaci = require('./filtrirano.json')
 // const kulture = require('./data/races.json')
 
 // koliko kojih atributa
@@ -18,7 +18,7 @@ Object.keys(recnik)
 
 /* mapira karaktere sa kulturom ili rasom */
 
-// const a = new Set(podaci.map(x => x.race).sort())
+// const a = new Set(podaci.map(x => x.cultures).sort())
 // const b = new Set(kulture.map(x => x.title).sort())
 // const difference = new Set(
 //   [...a].filter(x => !b.has(x)).sort())
@@ -31,10 +31,15 @@ Object.keys(recnik)
 // console.log(difference)
 
 const obradjeno = podaci.map(x => {
-  // if (x.dominions && !x.locations) {
-  //   x.locations = x.dominions
+  // if (x.inhabitants && !x.cultures) {
+  //   x.cultures = x.inhabitants
+  //   delete x.inhabitants
   // }
-  delete x.gallery
+
+  // for (const k in x) {
+  //   if (k == "text") continue
+  //   x[k] = x[k].split("\n").join(", ")
+  // }
   return x
 })
 
