@@ -1,5 +1,5 @@
 const fs = require('fs')
-const podaci = require('./filtrirano.json')
+const podaci = require('./data/artefacts.json')
 // const kulture = require('./data/races.json')
 
 // koliko kojih atributa
@@ -36,10 +36,10 @@ const obradjeno = podaci.map(x => {
   //   delete x.inhabitants
   // }
 
-  // for (const k in x) {
-  //   if (k == "text") continue
-  //   x[k] = x[k].split("\n").join(", ")
-  // }
+  for (const k in x) {
+    if (k == "text") continue
+    x[k] = x[k].split("\n").join(", ")
+  }
   return x
 })
 
