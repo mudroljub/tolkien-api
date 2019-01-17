@@ -8,8 +8,10 @@ Otvaranje članka po id-u:
 
 ## TODO
 
-- povezati karaktere i rase, videti koje rase fale
-- u vrednostima zameniti \n zarezom?
-- ukloniti atribut gallery i jos neke
+- kod karaktera position == titles ?
+
+- proveriti glavne likove, npr gan buri gan
 - proveriti koji su karakteri izgubljeni u procesu sa ostalo-bekap.json
+- ukloniti atribut gallery i jos neke
+- u vrednostima zameniti \n zarezom?
 - povezati slike sa https://lotr.wikia.com/ ili http://www.tolkiengateway.net/
