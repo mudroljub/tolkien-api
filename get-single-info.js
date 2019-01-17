@@ -2,11 +2,12 @@ const fs = require('fs')
 const limit = require('simple-rate-limiter')
 const request = limit(require('request')).to(10).per(1000)
 const cheerio = require('cheerio')
+const prevediPaSacuvaj = require('./prevedi-jedan')
 
 const bekap = require('./data/bekap/stranice-bekap.json')
 // const item = require('./item.json')
 
-const found = bekap.find(x => x.title._text == "Yavanna")
+const found = bekap.find(x => x.title._text == "Maeglin")
 const item = {
   name: found.title._text,
   lotr_page_id: found.id._text,
@@ -15,6 +16,27 @@ const item = {
 
 const site = "lotr" // lotr or tolkiengateway
 const article = encodeURIComponent(item.name)
+
+
+if (site == "lotr") {
+  const url = `https://lotr.wikia.com/wiki/${article}`
+  console.log(url)
+  
+  request(url, function(error, response, body) {
+    const $ = cheerio.load(body)
+    const infobox = $('.portable-infobox .pi-data')
+    infobox.map((j, el) => {
+      let kljuc = $(el).find('.pi-data-label').text().toLowerCase()
+      const vrednost = $(el).find('.pi-data-value').html()
+      if (kljuc) {
+        kljuc = kljuc.replace(/\s/g, "_")
+        kljuc = kljuc.split('/').join('_or_')
+        if (!item[kljuc]) item[kljuc] = vrednost
+      }
+    })
+    prevediPaSacuvaj(item)
+  })
+}
 
 if (site == "tolkiengateway") {
   const url = `http://www.tolkiengateway.net/wiki/${article}`
@@ -35,27 +57,6 @@ if (site == "tolkiengateway") {
         }
       })
     }
-    fs.writeFileSync('item.json', JSON.stringify(item, null, 2))
+    prevediPaSacuvaj(item)
   })
 }
-
-if (site == "lotr") {
-  const url = `https://lotr.wikia.com/wiki/${article}`
-  console.log(url)
-  
-  request(url, function(error, response, body) {
-    const $ = cheerio.load(body)
-    const infobox = $('.portable-infobox .pi-data')
-    infobox.map((j, el) => {
-      let kljuc = $(el).find('.pi-data-label').text().toLowerCase()
-      const vrednost = $(el).find('.pi-data-value').html()
-      if (kljuc) {
-        kljuc = kljuc.replace(/\s/g, "_")
-        kljuc = kljuc.split('/').join('_or_')
-        if (!item[kljuc]) item[kljuc] = vrednost
-      }
-    })
-    fs.writeFileSync('item.json', JSON.stringify(item, null, 2))
-  })
-}
-

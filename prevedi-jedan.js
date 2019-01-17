@@ -1,17 +1,18 @@
 const fs = require('fs')
 const pandoc = require('simple-pandoc')
 const convert = pandoc('mediawiki', 'plain')
-const item = require('./item.json')
 
-const obecanja = []
-for (const key in item) {
-  // if (key == "text") continue
-  item[key] = convert(item[key]).then(res => item[key] = res.trim())
-  obecanja.push(item[key])
+module.exports = function (item) {
+  const obecanja = []
+  delete item.gallery
+  delete item.actor
+  delete item.voice
+  for (const key in item) {
+    item[key] = convert(item[key]).then(res => item[key] = res.trim())
+    obecanja.push(item[key])
+  }
+
+  Promise.all(obecanja).then(function(values) {
+    fs.writeFileSync('item.json', JSON.stringify(item, null, 2))
+  })
 }
-
-
-Promise.all(obecanja).then(function(values) {
-  console.log(item)
-  fs.writeFileSync('item.json', JSON.stringify(item, null, 2))
-})
