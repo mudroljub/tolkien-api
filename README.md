@@ -8,8 +8,6 @@ Otvaranje članka po id-u:
 
 ## TODO
 
-- kod karaktera position == titles ?
-
 - proveriti glavne likove, npr gan buri gan
 - proveriti koji su karakteri izgubljeni u procesu sa ostalo-bekap.json
 - ukloniti atribut gallery i jos neke
