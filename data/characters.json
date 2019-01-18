@@ -219,7 +219,8 @@
     "weapon": "Powers of the Valar",
     "race": "Valar",
     "gender": "Female",
-    "eyes": "Unknown"
+    "eyes": "Unknown",
+    "culture": "Ainur"
   },
   {
     "name": "Caliondo",
@@ -561,7 +562,7 @@
     "death": "Late First Age",
     "race": "Men",
     "gender": "Male",
-    "culture": "Easterlings of Morgoth"
+    "culture": "Easterlings"
   },
   {
     "name": "Amrothos",
@@ -622,7 +623,7 @@
     "weapon": "Unknown, probably a battle Axe",
     "race": "Dwarves",
     "gender": "Male",
-    "culture": "Durin's Folk, Dwarves of Khazad-dûm",
+    "culture": "Dwarves of the Lonely Mountain",
     "location": "Khazad-dûm"
   },
   {
@@ -682,7 +683,8 @@
     "weapon": "Fiery weapons",
     "race": "Balrogs",
     "gender": "Male",
-    "hair": "Mane of red flame"
+    "hair": "Mane of red flame",
+    "culture": "Demons"
   },
   {
     "name": "Beechbone",
@@ -816,7 +818,7 @@
     "spouse": "Unknown",
     "race": "Hobbits",
     "gender": "Male",
-    "culture": "Fallohide-hobbits"
+    "culture": "Fallohides"
   },
   {
     "name": "Mentha Brandybuck",
@@ -1046,7 +1048,7 @@
     "weapon": "Sword, Bow ?",
     "race": "Men",
     "gender": "Male",
-    "culture": "Easterlings of Morgoth"
+    "culture": "Easterlings"
   },
   {
     "name": "Haldad",
@@ -1142,7 +1144,7 @@
     "text": "GALION was a Nandorin Wood-elf of the Woodland Realm in Northern\nMirkwood.\n\n\nBiography\n\nGalion was the King's butler and was probably one of his many servants.\nHe was also charged with shipping out the empty barrels into the\nunderground river down the Long Lake and finally back to Lake-town. He\nwas very fond of his wine. It is not known when or where he was actually\nborn or if he lived in the realm when it was known as _Greenwood the\nGreat_. Drinking with the guard captain, he fell asleep allowing Bilbo\nto steal the keys and release the Dwarves from prison.",
     "race": "Elves",
     "gender": "Male",
-    "culture": "Nandor (Elves of Mirkwood)"
+    "culture": "Elves of Mirkwood"
   },
   {
     "name": "Brodda",
@@ -1349,7 +1351,7 @@
     "birth": "Mid Second Age",
     "gender": "Male",
     "race": "Dwarves",
-    "culture": "Dwarves of Khazad-dûm"
+    "culture": "Dwarves of the Lonely Mountain"
   },
   {
     "name": "Andwise Roper",
@@ -1378,7 +1380,7 @@
     "height": "medium",
     "hair": "black",
     "eyes": "Blue (film)",
-    "culture": "Uruks of Minas Morgul",
+    "culture": "Orcs of Mordor",
     "location": "Cirith Ungol (under overlordship of Sauron)"
   },
   {
@@ -1457,7 +1459,7 @@
     "weapon": "Unknown, probably a Battle-axe",
     "race": "Dwarves",
     "gender": "Male",
-    "culture": "Durin's Folk, Dwarves of the Grey Mountains",
+    "culture": "Dwarves of the Grey Mountains",
     "location": "Grey Mountains"
   },
   {
@@ -1791,7 +1793,8 @@
     "gender": "Male",
     "height": "Various",
     "hair": "Unknown",
-    "eyes": "Unknown"
+    "eyes": "Unknown",
+    "culture": "Ainur"
   },
   {
     "name": "Arahad II",
@@ -1887,7 +1890,7 @@
     "weapon": "Unknown, probably a Battle axe",
     "race": "Dwarves",
     "gender": "Male",
-    "culture": "Durin's Folk, Dwarves of the Iron Hills"
+    "culture": "Dwarves of the Iron Hills"
   },
   {
     "name": "Celebrindor",
@@ -1918,7 +1921,8 @@
     "weapon": "Powers of the Valar",
     "race": "Valar",
     "gender": "Female",
-    "location": "Valinor"
+    "location": "Valinor",
+    "culture": "Ainur"
   },
   {
     "name": "Aldor",
@@ -2033,7 +2037,7 @@
     "spouse": "Unnamed wife",
     "race": "Elves",
     "gender": "Male",
-    "culture": "Teleri/Nandor"
+    "culture": "Teleri"
   },
   {
     "name": "Draugluin",
@@ -2171,7 +2175,6 @@
     "weapon": "Scimitar, whip",
     "race": "Uruk-hai",
     "gender": "Male",
-    "culture": "Uruk-hai of Isengard",
     "location": "Isengard"
   },
   {
@@ -2280,7 +2283,8 @@
     "race": "Elves",
     "gender": "Female",
     "hair": "Star-like Silver",
-    "culture": "Falmari (House of Olwë)"
+    "culture": "Falmari",
+    "house": "House of Olwë"
   },
   {
     "name": "Beren (Belemir's son)",
@@ -2329,7 +2333,8 @@
     "birth": "Before the creation of Arda",
     "weapon": "Powers of the Ainur,",
     "race": "Maiar",
-    "gender": "Female"
+    "gender": "Female",
+    "culture": "Ainur"
   },
   {
     "name": "Bregor",
@@ -2479,7 +2484,7 @@
     "spouse": "Imrazôr",
     "race": "Elves",
     "gender": "Female",
-    "culture": "Nandor, Galadhrim"
+    "culture": "Galadhrim"
   },
   {
     "name": "Salgant",
@@ -2595,7 +2600,7 @@
     "spouse": "Adamanta Chubb",
     "race": "Hobbits",
     "gender": "Male",
-    "culture": "Shire-hobbits"
+    "culture": "Hobbits of the Shire"
   },
   {
     "name": "Fimbrethil",
@@ -2622,7 +2627,8 @@
     "gender": "Male",
     "hair": "Fair",
     "eyes": "Unsteady and glittering",
-    "culture": "Edain (House of Hador), Gaurwaith"
+    "culture": "Edain",
+    "house": "House of Hador"
   },
   {
     "name": "Ingwë",
@@ -2638,8 +2644,8 @@
     "gender": "Male",
     "height": "Tall",
     "hair": "Probably Golden",
-    "culture": "Vanyar, Elves of Valinor",
-    "location": "Valinor, in Taniquetil"
+    "culture": "Vanyar",
+    "location": "Taniquetil"
   },
   {
     "name": "Annael",
@@ -2664,7 +2670,7 @@
     "weapon": "Slingshot, Knife, Dwarven Axe, Regal dwarven axe (film)",
     "race": "Dwarves",
     "gender": "Male",
-    "culture": "Durin's Folk, Dwarves of the Northern Blue Mountains, Dwarves of the Lonely Mountain"
+    "culture": "Dwarves of the Lonely Mountain"
   },
   {
     "name": "Brand",
@@ -2711,7 +2717,7 @@
     "height": "4'5\" (film)",
     "hair": "Black/Grey (film)",
     "eyes": "Brown (film)",
-    "culture": "Dwarves of Khazad-dûm",
+    "culture": "Dwarves of the Lonely Mountain",
     "lotr_page_id": "755",
     "other_names": "Egnor , Aikanár, Aikanáro",
     "titles": "Lord of Dorthonion with Angrod",
@@ -2730,7 +2736,7 @@
     "weapon": "Aranrúth",
     "race": "Men",
     "gender": "Male",
-    "culture": "Númenóreans (House of Elros), The Faithful",
+    "culture": "Elendili",
     "location": "Númenor"
   },
   {
@@ -2742,7 +2748,8 @@
     "spouse": "Irmo (Lórien)",
     "weapon": "Power of the Valar",
     "race": "Valar",
-    "gender": "Female"
+    "gender": "Female",
+    "culture": "Ainur"
   },
   {
     "name": "Bregalad",
@@ -2783,7 +2790,7 @@
     "race": "Goblin/Orc",
     "gender": "Male",
     "eyes": "Blue (right), White (left) (film)",
-    "culture": "Gundabad Orcs (Goblins of Moria)"
+    "culture": "Gundabad Orcs"
   },
   {
     "name": "Golfimbul",
@@ -2794,7 +2801,7 @@
     "death": "TA 2747",
     "race": "Orcs",
     "gender": "Male",
-    "culture": "Goblins of the Ettenmoors",
+    "culture": "Orcs of the Misty Mountains",
     "location": "Mount Gram"
   },
   {
@@ -2809,7 +2816,7 @@
     "race": "Hobbit",
     "gender": "Male",
     "height": "1.35m (4'5\")",
-    "culture": "Shire-hobbit"
+    "culture": "Hobbits of the Shire"
   },
   {
     "name": "Brandir",
@@ -2855,7 +2862,7 @@
     "race": "Men",
     "gender": "Male",
     "hair": "Dark",
-    "culture": "Dunlending"
+    "culture": "Dunlendings"
   },
   {
     "name": "Dori",
@@ -2953,7 +2960,7 @@
     "race": "Elves",
     "gender": "Male",
     "eyes": "Sea-grey",
-    "culture": "Ñoldor"
+    "culture": "Noldor"
   },
   {
     "name": "Tom, Bert, and William",
@@ -3034,7 +3041,7 @@
     "weapon": "Scimitar, knife",
     "race": "Black Uruk",
     "gender": "Male",
-    "culture": "Black Uruks of Cirith Ungol"
+    "culture": "Orcs of Mordor"
   },
   {
     "name": "Beregond",
@@ -3078,8 +3085,9 @@
     "siblings": "Haldar",
     "race": "Men",
     "gender": "Female",
-    "culture": "Edain (House of Haleth), Men of Thargelion, Men of Brethil",
-    "location": "Brethil"
+    "culture": "Edain",
+    "location": "Brethil",
+    "house": "House of Haleth"
   },
   {
     "name": "Argon",
@@ -3181,7 +3189,7 @@
     "weapon": "Fighting Staff, Battle-knife, Erebor Regal Sword and Shield",
     "race": "Dwarves",
     "gender": "Male",
-    "culture": "Durin's Folk, Dwarves of the Thorin's Halls, Dwarves of the Lonely Mountain, Dwarves of the Khazad-dûm (briefly)",
+    "culture": "Dwarves of the Lonely Mountain",
     "location": "Thorin's Halls, Lonely Mountain, Khazad-dûm",
     "language": "Khuzdul and Westron",
     "house": "House of Durin",
@@ -3262,7 +3270,7 @@
     "race": "Dwarves",
     "gender": "Male",
     "hair": "Red, later White",
-    "culture": "Durin's Folk, Dwarves of the Lonely Mountain"
+    "culture": "Dwarves of the Lonely Mountain"
   },
   {
     "name": "Nellas",
@@ -3303,7 +3311,7 @@
     "weapon": "Aranrúth",
     "race": "Men",
     "gender": "Male",
-    "culture": "Númenóreans",
+    "culture": "Numenoreans",
     "location": "Númenor"
   },
   {
@@ -3332,7 +3340,7 @@
     "gender": "Female",
     "height": "Tall",
     "hair": "Golden",
-    "culture": "Ñoldor",
+    "culture": "Noldor",
     "location": "Gondolin"
   },
   {
@@ -3372,7 +3380,7 @@
     "race": "Hobbit",
     "gender": "Female",
     "height": "1.17m (3'10\")",
-    "culture": "Shire-hobbits"
+    "culture": "Hobbits of the Shire"
   },
   {
     "name": "Andróg",
@@ -3443,7 +3451,7 @@
     "gender": "Female",
     "height": "Tall",
     "hair": "Golden",
-    "culture": "Vanyar (House of Finwë)",
+    "culture": "Vanyar",
     "location": "Tirion"
   },
   {
@@ -3456,7 +3464,7 @@
     "gender": "Male",
     "hair": "Dark Brown (films)",
     "eyes": "Green-Brown (films)",
-    "culture": "Dwarves of Khazad-dûm",
+    "culture": "Dwarves of the Lonely Mountain",
     "lotr_page_id": "758",
     "other_names": "Egnor , Aikanár, Aikanáro",
     "titles": "Lord of Dorthonion with Angrod",
@@ -3531,7 +3539,8 @@
     "race": "Elves",
     "gender": "Male",
     "hair": "Golden",
-    "culture": "Ñoldor (House of Finrod)"
+    "culture": "Noldor",
+    "house": "House of Finrod"
   },
   {
     "name": "Eönwë",
@@ -3541,9 +3550,9 @@
     "birth": "Before the creation of Arda",
     "death": "Immortal",
     "weapon": "Powers of the Ainur, other fashioned arms",
-    "race": "Ainur",
+    "race": "Maiar",
     "gender": "Male",
-    "culture": "Maiar"
+    "culture": "Ainur"
   },
   {
     "name": "Dior",
@@ -3559,8 +3568,9 @@
     "race": "Half-elven",
     "gender": "Male",
     "hair": "Possibly dark",
-    "culture": "Elves of Doriath (House of Thingol)",
-    "location": "Doriath"
+    "culture": "Grey Elves",
+    "location": "Doriath",
+    "house": "House of Thingol"
   },
   {
     "name": "Beorn",
@@ -3603,7 +3613,8 @@
     "weapon": "Powers of the Valar, Bow, Spear",
     "race": "Valar",
     "gender": "Male",
-    "height": "Varies"
+    "height": "Varies",
+    "culture": "Ainur"
   },
   {
     "name": "Boldog",
@@ -3669,7 +3680,8 @@
     "race": "Valar",
     "gender": "Female",
     "hair": "Golden",
-    "location": "Valinor"
+    "location": "Valinor",
+    "culture": "Ainur"
   },
   {
     "name": "Bergil",
@@ -3778,7 +3790,8 @@
     "height": "Tall",
     "hair": "Golden",
     "eyes": "Blue or grey",
-    "culture": "Edain (House of Hador)"
+    "culture": "Edain",
+    "house": "House of Hador"
   },
   {
     "name": "Haldir",
@@ -3793,7 +3806,7 @@
     "gender": "Male",
     "hair": "Golden",
     "eyes": "Blue (film)",
-    "culture": "Nandor (Silvan Elves), Galadhrim"
+    "culture": "Galadhrim"
   },
   {
     "name": "Denethor",
@@ -3811,8 +3824,9 @@
     "race": "Men",
     "gender": "Male",
     "hair": "Dark, grey (in old age)",
-    "culture": "Men of Gondor (House of Húrin)",
-    "location": "Gondor"
+    "culture": "Men of Gondor",
+    "location": "Gondor",
+    "house": "House of Húrin"
   },
   {
     "name": "Oropher",
@@ -3825,7 +3839,7 @@
     "spouse": "Unnamed wife",
     "race": "Elves",
     "gender": "Male",
-    "culture": "Sindar (Elves of Doriath)",
+    "culture": "Grey Elves",
     "location": "Woodland Realm"
   },
   {
@@ -3841,7 +3855,7 @@
     "race": "Elves",
     "gender": "Male",
     "hair": "Golden",
-    "culture": "Ñoldor",
+    "culture": "Noldor",
     "location": "Tirion"
   },
   {
@@ -3892,7 +3906,8 @@
     "gender": "Female",
     "height": "Tall",
     "hair": "Dark, grey in old age",
-    "culture": "Edain (House of Bëor), Men of Dor-lómin"
+    "culture": "Edain",
+    "house": "House of Bëor"
   },
   {
     "name": "Fredegar Bolger",
@@ -3955,7 +3970,8 @@
     "weapon": "Powers of the Valar",
     "race": "Valar",
     "gender": "Male",
-    "location": "Valinor"
+    "location": "Valinor",
+    "culture": "Ainur"
   },
   {
     "name": "Melian",
@@ -3971,7 +3987,8 @@
     "race": "Maiar",
     "gender": "Female",
     "hair": "Dark",
-    "location": "Doriath"
+    "location": "Doriath",
+    "culture": "Ainur"
   },
   {
     "name": "Tulkas",
@@ -3985,7 +4002,8 @@
     "weapon": "Powers of the Valar, His hands",
     "race": "Valar",
     "gender": "Male",
-    "hair": "Golden"
+    "hair": "Golden",
+    "culture": "Ainur"
   },
   {
     "name": "Beleg",
@@ -4024,7 +4042,8 @@
     "death": "FA 510",
     "weapon": "Fiery whip, Large black axe",
     "race": "Balrogs",
-    "gender": "Male"
+    "gender": "Male",
+    "culture": "Demons"
   },
   {
     "name": "Nessa",
@@ -4040,7 +4059,8 @@
     "race": "Valar",
     "gender": "Female",
     "height": "Varies",
-    "location": "Valinor"
+    "location": "Valinor",
+    "culture": "Ainur"
   },
   {
     "name": "Nienna",
@@ -4055,7 +4075,8 @@
     "weapon": "Powers of the Valar",
     "race": "Valar",
     "gender": "Female",
-    "location": "Valinor"
+    "location": "Valinor",
+    "culture": "Ainur"
   },
   {
     "name": "Olwë",
@@ -4070,7 +4091,7 @@
     "gender": "Male",
     "hair": "Silver",
     "eyes": "Blue",
-    "culture": "Teleri, later Falmari (House of Olwë)",
+    "culture": "Teleri",
     "location": "Tol Eressëa, Alqualondë"
   },
   {
@@ -4087,7 +4108,7 @@
     "weapon": "Sword",
     "race": "Men",
     "gender": "Male",
-    "culture": "Númenórean (House of Elendil)",
+    "culture": "Numenoreans",
     "location": "Númenor, Gondor"
   },
   {
@@ -4101,7 +4122,7 @@
     "weapon": "Anglachel, Belthronding, Dailir",
     "race": "Elves",
     "gender": "Male",
-    "culture": "Sindar (Elves of Doriath)"
+    "culture": "Grey Elves"
   },
   {
     "name": "Anárion",
@@ -4134,10 +4155,10 @@
     "death": "Immortal",
     "spouse": "Manwë",
     "weapon": "Powers of the Valar",
-    "race": "Ainur",
+    "race": "Valar",
     "gender": "Female",
-    "culture": "Valar",
-    "location": "Arda"
+    "location": "Arda",
+    "culture": "Ainur"
   },
   {
     "name": "Mablung",
@@ -4164,7 +4185,8 @@
     "gender": "Male",
     "hair": "Golden",
     "eyes": "Blue",
-    "culture": "Edain (House of Hador)"
+    "culture": "Edain",
+    "house": "House of Hador"
   },
   {
     "name": "Helm",
@@ -4223,8 +4245,9 @@
     "race": "Elves",
     "gender": "Male",
     "hair": "Dark",
-    "culture": "Ñoldor (House of Fingolfin), Gondolindrim",
-    "location": "Nevrast (formerly), Gondolin"
+    "culture": "Noldor",
+    "location": "Nevrast (formerly), Gondolin",
+    "house": "House of Fingolfin"
   },
   {
     "name": "Mandos",
@@ -4236,7 +4259,8 @@
     "weapon": "Powers of the Valar",
     "race": "Valar",
     "gender": "Male",
-    "location": "Valinor"
+    "location": "Valinor",
+    "culture": "Ainur"
   },
   {
     "name": "Uinen",
@@ -4247,7 +4271,8 @@
     "death": "Immortal",
     "spouse": "Ossë",
     "gender": "Female",
-    "culture": "Maiar"
+    "race": "Maiar",
+    "culture": "Ainur"
   },
   {
     "name": "King Theoden",
@@ -4284,8 +4309,9 @@
     "race": "Elves",
     "gender": "Male",
     "hair": "Black",
-    "culture": "Ñoldor (House of Finwë)",
-    "location": "Tirion, Formenos"
+    "culture": "Noldor",
+    "location": "Tirion, Formenos",
+    "house": "House of Finwë"
   },
   {
     "name": "Bombur",
@@ -4297,7 +4323,7 @@
     "gender": "Male",
     "hair": "Ginger (films only)",
     "eyes": "Brown (films only)",
-    "culture": "Dwarves of Khazad-dûm",
+    "culture": "Dwarves of the Lonely Mountain",
     "lotr_page_id": "757",
     "other_names": "Egnor , Aikanár, Aikanáro",
     "titles": "Lord of Dorthonion with Angrod",
@@ -4386,7 +4412,7 @@
     "height": "7' 10\"",
     "hair": "Dark",
     "eyes": "Grey",
-    "culture": "Númenóreans, The Faithful",
+    "culture": "Elendili",
     "location": "Rómenna, Númenor;, Arnor;, Gondor"
   },
   {
@@ -4403,7 +4429,8 @@
     "race": "Valar",
     "gender": "Male",
     "eyes": "Blue",
-    "location": "Valinor"
+    "location": "Valinor",
+    "culture": "Ainur"
   },
   {
     "name": "Mouth of Sauron",
@@ -4417,7 +4444,7 @@
     "race": "Men",
     "gender": "Male",
     "height": "6-7 feet",
-    "culture": "Black Númenóreans"
+    "culture": "Black Numenoreans"
   },
   {
     "name": "Fingon",
@@ -4433,7 +4460,7 @@
     "race": "Elves",
     "gender": "Male",
     "hair": "Dark",
-    "culture": "Ñoldor",
+    "culture": "Noldor",
     "location": "Hithlum"
   },
   {
@@ -4449,7 +4476,7 @@
     "gender": "Female",
     "height": "Large and immense",
     "eyes": "Black",
-    "culture": "Daughter of Ungoliant",
+    "parentage": "Ungoliant",
     "location": "Torech Ungol"
   },
   {
@@ -4493,9 +4520,9 @@
     "death": "Immortal",
     "spouse": "Estë",
     "weapon": "Powers of the Valar, Power of visions and influence over dreams",
-    "race": "Ainur",
+    "race": "Valar",
     "gender": "Male",
-    "culture": "Valar"
+    "culture": "Ainur"
   },
   {
     "name": "Dain Ironfoot",
@@ -4511,7 +4538,7 @@
     "weapon": "Red axe, Warhammer",
     "race": "Dwarves",
     "gender": "Male",
-    "culture": "Durin's Folk (Dwarves of the Iron Hills)",
+    "culture": "Dwarves of the Iron Hills",
     "location": "Iron Hills, Lonely Mountain"
   },
   {
@@ -4524,11 +4551,11 @@
     "death": "Immortal",
     "spouse": "Aulë",
     "weapon": "Powers of the Valar",
-    "race": "Ainur (Valar)",
+    "race": "Valar",
     "gender": "Female",
     "height": "Varies",
-    "culture": "Valier",
-    "location": "Pastures of Yavanna"
+    "location": "Pastures of Yavanna",
+    "culture": "Ainur"
   },
   {
     "name": "Finrod",
@@ -4543,7 +4570,7 @@
     "race": "Elves",
     "gender": "Male",
     "hair": "Golden",
-    "culture": "Ñoldor"
+    "culture": "Noldor"
   },
   {
     "name": "Eomer",
@@ -4581,7 +4608,7 @@
     "gender": "Female",
     "hair": "Black",
     "eyes": "Grey",
-    "culture": "Sindar (House of Thingol), Elves of Doriath, Elves of Ossiriand"
+    "culture": "Grey Elves"
   },
   {
     "name": "Círdan",
@@ -4660,7 +4687,7 @@
     "race": "Elves",
     "gender": "Male",
     "hair": "Golden",
-    "culture": "Sindar",
+    "culture": "Grey Elves",
     "location": "Woodland Realm"
   },
   {
@@ -4698,7 +4725,8 @@
     "height": "He was of unimpressive stature",
     "hair": "Golden, grey (in old age)",
     "eyes": "Blue",
-    "culture": "Edain (House of Hador), Men of Dor-lómin"
+    "culture": "Edain",
+    "house": "House of Hador"
   },
   {
     "name": "Aulë",
@@ -4711,7 +4739,8 @@
     "spouse": "Yavanna",
     "weapon": "Powers of the Valar",
     "race": "Valar",
-    "gender": "Male"
+    "gender": "Male",
+    "culture": "Ainur"
   },
   {
     "name": "Ecthelion",
@@ -4728,7 +4757,7 @@
     "gender": "Male",
     "height": "tall",
     "hair": "Dark",
-    "culture": "Ñoldor, Gondolindrim",
+    "culture": "Noldor",
     "location": "Gondolin, Nevrast and possibly Tirion"
   },
   {
@@ -4799,12 +4828,11 @@
     "birth": "Before the creation of Arda",
     "death": "January 25, 3019",
     "weapon": "Fiery whip, flaming sword",
-    "race": "Ainur (Maiar/Balrog)",
+    "race": "Balrog",
     "gender": "Male",
     "height": "Slightly larger and taller than a Man (book), 20 feet (movie)",
     "hair": "Mane of red flames",
-    "eyes": "Red-white",
-    "culture": "Maiar (Valaraukar, Balrogs of Morgoth)"
+    "eyes": "Red-white"
   },
   {
     "name": "Thingol",
@@ -4821,7 +4849,7 @@
     "gender": "Male",
     "height": "Tallest of the Elven-folk, 8'2\"",
     "hair": "Silver",
-    "culture": "Teleri (Sindar), Elves of Doriath",
+    "culture": "Teleri",
     "location": "Doriath"
   },
   {
@@ -4838,7 +4866,8 @@
     "gender": "Male",
     "height": "Tall",
     "hair": "Golden",
-    "culture": "Edain (House of Hador), Eldar, Gondolindrim"
+    "culture": "Edain",
+    "house": "House of Hador"
   },
   {
     "name": "Ecthelion of the Fountain",
@@ -4889,7 +4918,7 @@
     "gender": "Male",
     "height": "1.34m (4'5\")",
     "hair": "Almost golden",
-    "culture": "Shire-hobbits"
+    "culture": "Hobbits of the Shire"
   },
   {
     "name": "Eärendil",
@@ -4905,7 +4934,7 @@
     "gender": "Male",
     "hair": "Golden",
     "eyes": "Blue",
-    "culture": "Gondolindrim, Elves of the Havens of Sirion"
+    "culture": "Gondolindrim"
   },
   {
     "name": "Amroth",
@@ -4957,7 +4986,7 @@
     "race": "Hobbits",
     "gender": "Male",
     "eyes": "Brown",
-    "culture": "Shire-hobbits"
+    "culture": "Hobbits of the Shire"
   },
   {
     "name": "Glorfindel",
@@ -4972,7 +5001,7 @@
     "gender": "Male",
     "height": "Tall",
     "hair": "Golden",
-    "culture": "Ñoldor (Gondolindrim), Elves of Rivendell"
+    "culture": "Noldor"
   },
   {
     "name": "Thorin",
@@ -5037,7 +5066,8 @@
     "gender": "Male",
     "height": "Tall",
     "hair": "Dark red",
-    "culture": "Ñoldor (House of Fëanor)"
+    "culture": "Noldor",
+    "house": "House of Fëanor"
   },
   {
     "name": "Gil-galad",
@@ -5055,7 +5085,7 @@
     "gender": "Male",
     "height": "Tall",
     "hair": "Possibly golden",
-    "culture": "Ñoldor",
+    "culture": "Noldor",
     "location": "Havens of Sirion, Lindon"
   },
   {
@@ -5114,7 +5144,6 @@
     "gender": "Male",
     "hair": "Brown",
     "eyes": "Blue",
-    "culture": "Unknown",
     "location": "Old Forest"
   },
   {
@@ -5133,7 +5162,7 @@
     "gender": "Male",
     "hair": "Black",
     "eyes": "Grey",
-    "culture": "Númenoreans, Founded the House of Isildur",
+    "culture": "Elendili",
     "location": "Arnor and Gondor"
   },
   {
@@ -5150,7 +5179,7 @@
     "race": "Elves",
     "gender": "Male",
     "hair": "Dark",
-    "culture": "Ñoldor",
+    "culture": "Noldor",
     "location": "Hithlum, in the Beleriand"
   },
   {
@@ -5168,7 +5197,8 @@
     "height": "Tall",
     "hair": "Dark",
     "eyes": "Grey or blue",
-    "culture": "Edain (House of Hador)"
+    "culture": "Edain",
+    "house": "House of Hador"
   },
   {
     "name": "Faramir",
@@ -5225,8 +5255,9 @@
     "height": "Tall",
     "hair": "Radiant gold-silver",
     "eyes": "Grey",
-    "culture": "Ñoldor (House of Finarfin), , Falmari (House of Olwë)",
-    "location": "Tirion, Doriath, Lindon, Eregion, Lothlórien"
+    "culture": "Noldor",
+    "location": "Tirion, Doriath, Lindon, Eregion, Lothlórien",
+    "house": "House of Finarfin"
   },
   {
     "name": "Witch-king",
@@ -5241,7 +5272,7 @@
     "gender": "Male",
     "height": "Tallest of the Nazgûl",
     "hair": "Gleaming",
-    "culture": "Númenórean (formerly), Ringwraith (later)",
+    "culture": "Numenoreans",
     "location": "Angmar",
     "language": "Black Speech, Westron"
   },
@@ -5256,7 +5287,7 @@
     "race": "Hobbits",
     "gender": "Male",
     "eyes": "Blue-gray",
-    "culture": "Stoors (River Folk)"
+    "culture": "River Folk"
   },
   {
     "name": "Celebrimbor",
@@ -5290,8 +5321,9 @@
     "gender": "Male",
     "height": "Tall",
     "hair": "Raven Dark",
-    "culture": "Ñoldor (House of Finwë)",
-    "location": "Tirion, Formenos"
+    "culture": "Noldor",
+    "location": "Tirion, Formenos",
+    "house": "House of Finwë"
   },
   {
     "name": "Bilbo Baggins",
@@ -5341,7 +5373,7 @@
     "height": "1.06m (3'6\")",
     "hair": "Brown",
     "eyes": "Blue",
-    "culture": "Shire-hobbit"
+    "culture": "Hobbits of the Shire"
   },
   {
     "name": "Aragorn",
@@ -5389,12 +5421,12 @@
     "death": "March 25, 3019 (physical death only- immortal)",
     "spouse": "None",
     "weapon": "One Ring, Mace, Sword, Sorcery, Powers of the Maiar",
-    "race": "Ainur (Maiar)",
+    "race": "Maiar",
     "gender": "Male",
     "height": "Various until SA 3319 (physical body), 9 feet 2.1 inches (2.78, metres) (movie)",
     "hair": "Various ",
     "eyes": "Various ",
-    "culture": "Maiar of Aulë (formerly), Dark Servants of Morgoth"
+    "culture": "Demons"
   },
   {
     "name": "Melkor",
@@ -5405,11 +5437,11 @@
     "birth": "Before the creation of Arda",
     "death": "Immortal",
     "weapon": "Powers of the Valar, Grond, Mace, Sword, Hammer, black spear",
-    "race": "Ainur (Valar)",
+    "race": "Valar",
     "gender": "Male",
     "height": "Any size by choice",
     "hair": "Dark",
-    "culture": "Valar",
-    "location": "Utumno (formerly), Angband, much of Middle-earth and Beleriand for a, time"
+    "location": "Utumno (formerly), Angband, much of Middle-earth and Beleriand for a, time",
+    "culture": "Demons"
   }
 ]
