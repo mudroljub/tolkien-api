@@ -1,5 +1,5 @@
-const fs = require('fs')
-const podaci = require('../data/races.json')
+const arg = process.argv[2] || 'cultures'
+const podaci = require(`../data/${arg}.json`)
 
 const recnik = podaci.reduce((acc, x) => {
   for (const key in x) {

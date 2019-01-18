@@ -1,5 +1,5 @@
 const fs = require('fs')
-const podaci = require('./data/cultures.json')
+const podaci = require('../data/cultures.json')
 
 const obradjeno = podaci
   .map(x => {
@@ -10,4 +10,4 @@ const obradjeno = podaci
     return x
   })
 
-fs.writeFileSync('filtrirano.json', JSON.stringify(obradjeno, null, 2))
+fs.writeFileSync('../filtrirano.json', JSON.stringify(obradjeno, null, 2))

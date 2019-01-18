@@ -9,6 +9,7 @@ Otvaranje članka po id-u:
 ## TODO
 
 - povezati slike sa https://lotr.wikia.com/ ili http://www.tolkiengateway.net/
+- rase i kulture imaju lokacije
 
 Fale kulture:
   'Elves of Mirkwood',

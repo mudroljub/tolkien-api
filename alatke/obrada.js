@@ -4,7 +4,7 @@ const podaci = require('../data/races.json')
 const obradjeno = podaci
   .sort((a, b) => a.text.length - b.text.length)
   .map(x => {
-    if (!x.locations) {
+    if (!x.notable_members) {
       console.log(x.name)
     }
     return x
