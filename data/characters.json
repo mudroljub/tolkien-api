@@ -2796,20 +2796,6 @@
     "hair": "Golden"
   },
   {
-    "name": "Rosamunda (Took) Bolger",
-    "race": "Hobbits",
-    "text": "ROSAMUNDA (TOOK) BOLGER was a Hobbit of the Shire.\n\n\nBiography\n\nRosamunda was born in TA 2938 (SR 1338) to Sigismond Took. Rosamunda\nTook had a younger brother named Ferdinand Took. Her mother's name is\nunknown. Rosamunda married into the Bolger family when she wedded\nOdovacar Bolger and the two had Fredegar Bolger and Estella Brandybuck.\nThey moved to Budgeford in Bridgefields in the Eastfarthing, later to\nattend Bilbo's Farewell Birthday Party of September 22, 3001.",
-    "other_names": "Rosamunda Took",
-    "birth": "TA 2938 (SR 1338)",
-    "death": "Unknown",
-    "spouse": "Odovacar Bolger",
-    "gender": "Female",
-    "culture": "Hobbits of the Shire",
-    "lotr_page_id": "13339",
-    "titles": "Lord of Dorthonion with Angrod",
-    "hair": "Golden"
-  },
-  {
     "name": "Borin",
     "race": "Dwarves",
     "text": "BORIN was a Dwarf of Durin's Folk, the second son of King Náin II and\nbrother of Dáin I.\n\n\nBiography\n\nAfter his brother and younger nephew Frór were slain, Borin departed\nfrom the Grey Mountains with his younger nephew Thrór to the Lonely\nMountain and lived there until his death. He was an ancestor of both\nBalin and Gimli of the Fellowship of the Ring.",
@@ -3160,7 +3146,7 @@
     "hair": "Golden"
   },
   {
-    "name": "Primula (Brandybuck) Baggins",
+    "name": "Primula Brandybuck",
     "race": "Hobbits",
     "text": "PRIMULA BAGGINS was a Hobbit of the Shire, the mother of Frodo Baggins,\nwho was one of the many bearers of the Ring, and the cousin of Bilbo\nBaggins.\n\n\nBiography\n\nPrimula was a daughter of Gorbadoc Brandybuck, Master of Buckland, and\nMirabella Took, the youngest daughter of the Old Took. She married Drogo\nBaggins, and had one child, Frodo. In TA 2980 (SR 1380), she and her\nhusband were drowned in the Brandywine River, leaving Frodo an orphaned\nchild. She was sixty years old.\n\n\nEtymology\n\nPrimula was a species of the Primrose family of flowering plants.",
     "birth": "TA 2920 (SR 1320)",
@@ -3230,20 +3216,6 @@
     "hair": "Golden"
   },
   {
-    "name": "Sapphira (Brockhouse) Boffin",
-    "race": "Hobbits",
-    "text": "SAPPHIRA BOFFIN, formerly SAPPHIRA BROCKHOUSE was a Hobbit of the Shire.\n\n\nBiography\n\nSapphira's parents were never named only that they were Brockhouses. She\nmarried Uffo Boffin and they had two children, a son and daughter they\nnamed Gruffo and Gerda.\n\n\nBehind the Scenes\n\nThe name Sapphira was probably derived from Sapphire, a blue gemstone of\nworth.",
-    "birth": "TA 2857 (SR 1257)",
-    "death": "Unknown",
-    "spouse": "Uffo Boffin",
-    "gender": "Female",
-    "culture": "Hobbits of the Shire",
-    "lotr_page_id": "19503",
-    "other_names": "Egnor , Aikanár, Aikanáro",
-    "titles": "Lord of Dorthonion with Angrod",
-    "hair": "Golden"
-  },
-  {
     "name": "Porto Baggins",
     "race": "Hobbits",
     "text": "PORTO BAGGINS was a Hobbit of the Shire.\n\n\nBiography\n\nPorto was born to Posco Baggins and Gilly Brownlock Baggins. He had an\nolder brother named Ponto Baggins and a younger sister named Peony\nBaggins. Porto attended Bilbo Baggins's Farewell Party in 3001.",
@@ -3253,20 +3225,6 @@
     "gender": "Male",
     "culture": "Hobbits of the Shire",
     "lotr_page_id": "15571",
-    "other_names": "Egnor , Aikanár, Aikanáro",
-    "titles": "Lord of Dorthonion with Angrod",
-    "hair": "Golden"
-  },
-  {
-    "name": "Peony (Baggins) Burrows",
-    "race": "Hobbits",
-    "text": "PEONY BURROWS was a Hobbit of the Shire.\n\n\nBiography\n\nPeony was the daughter of Posco Baggins and Gilly Brownlock Baggins.\nPeony was born in year 2950 of the Third Age. Peony had two older\nbrothers named Ponto and Porto. She married Milo Burrows and the two had\nfour children: Mosco, Moro, Myrtle, and Minto. The entire family, with\nthe exception of Minto, attended Bilbo Baggins's Farewell Party held in\nTA 3001.",
-    "birth": "TA 2950 (SR 1350)",
-    "death": "Unknown",
-    "spouse": "Milo Burrows",
-    "gender": "Female",
-    "culture": "Hobbits of the Shire",
-    "lotr_page_id": "28958",
     "other_names": "Egnor , Aikanár, Aikanáro",
     "titles": "Lord of Dorthonion with Angrod",
     "hair": "Golden"
