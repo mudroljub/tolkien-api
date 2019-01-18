@@ -7,7 +7,7 @@ const prevediPaSacuvaj = require('./prevedi-jedan')
 const bekap = require('./data/bekap/stranice-bekap.json')
 // const item = require('./item.json')
 
-const found = bekap.find(x => x.title._text == "Telchar")
+const found = bekap.find(x => x.title._text == "Uinen")
 const item = {
   name: found.title._text,
   lotr_page_id: found.id._text,

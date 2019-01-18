@@ -1,5 +1,5 @@
 const fs = require('fs')
-const podaci = require('./data/cultures.json')
+const podaci = require('./data/races.json')
 const karakteri = require('./data/characters.json')
 
 // koliko kojih atributa
@@ -42,15 +42,15 @@ console.log(difference)
 
 
 // const obradjeno = podaci.map(x => {
-  // if (x.inhabitants && !x.cultures) {
-  //   x.cultures = x.inhabitants
-  //   delete x.inhabitants
-  // }
+//   if (x.members) {
+//     x.notable_members = x.members
+//     delete x.members
+//   }
 
-  // for (const k in x) {
-  //   if (k == "text") continue
-  //   x[k] = x[k].split("\n").join(", ")
-  // }
+//   for (const k in x) {
+//     if (k == "text") continue
+//     x[k] = x[k].split("\n").join(", ")
+//   }
 //   delete x.pronunciation
 //   return x
 // })
