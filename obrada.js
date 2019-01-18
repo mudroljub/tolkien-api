@@ -31,7 +31,7 @@ const bitniKarakteri = podaci.reduce((acc, x) => {
 // const a = new Set(podaci.map(x => x.cultures).sort())
 const postojeci = new Set(karakteri.map(x => x.name).sort())
 const difference = new Set(
-  [...postojeci].filter(x => !bitniKarakteri.has(x)).sort())
+  [...bitniKarakteri].filter(x => !postojeci.has(x)).sort())
 
 console.log("Bitni karakteri: ")
 console.log(bitniKarakteri)

@@ -174,14 +174,6 @@
     "hair": "Golden"
   },
   {
-    "name": "Malantur",
-    "lotr_page_id": "42376",
-    "text": "MALANTUR was a Númenorean noble, the son of Caliondo, son of Eärendur.\nHe lived during the late first millennium of the Second Age.\n\nMalantur, it is said, was to be the heir to his cousin the king\nTar-Aldarion, but when laws were altered, the King's daughter Ancalimë\nbecame heir instead.",
-    "race": "Men",
-    "gender": "Male",
-    "culture": "Numenoreans"
-  },
-  {
     "name": "Ornendil",
     "lotr_page_id": "4202",
     "text": "ORNENDIL was the elder son of King Eldacar of Gondor.\n\n\nBiography\n\nIn the siege of Osgiliath during the Kin-strife. Omendil's father was\ndriven out by Castamir the Usurper. Unfortunately, Ornendil did not\nescape with his father and was put to death by Castamir upon the fall of\nOsgiliath.",
@@ -195,6 +187,14 @@
     "race": "Men",
     "culture": "Men of Gondor",
     "siblings": "Aldamir"
+  },
+  {
+    "name": "Malantur",
+    "lotr_page_id": "42376",
+    "text": "MALANTUR was a Númenorean noble, the son of Caliondo, son of Eärendur.\nHe lived during the late first millennium of the Second Age.\n\nMalantur, it is said, was to be the heir to his cousin the king\nTar-Aldarion, but when laws were altered, the King's daughter Ancalimë\nbecame heir instead.",
+    "race": "Men",
+    "gender": "Male",
+    "culture": "Numenoreans"
   },
   {
     "name": "Baranor",
@@ -253,6 +253,21 @@
     "text": "EBOR was the son of Meleth and Agathora, and brother to Manthor, his\nlord, and Hunthor.\n\n\nHistory\n\nEbor appears in the account of the wanderings of Hurin, after the death\nof Turin Turambar. He was a captain of men of Brethil, to whom Asgon and\nhis men were brought after being captured by march-wardens."
   },
   {
+    "name": "Arthad",
+    "race": "Men",
+    "text": "ARTHAD was an Edain Man of the House of Bëor.\n\n\nBiography\n\nArthad was a Men of Dorthonion before the Dagor Bragollach. Afterwards,\nhe was one of Barahir's Outlaws that lived in Dorthonion deifying\nMorgoth's forces. He was killed along with the other outlaws at Tarn\nAeluin as a result of Gorlim's betrayal.",
+    "birth": "Late First Age ?",
+    "death": "FA 460",
+    "spouse": "Unknown",
+    "weapon": "Bow, sword ?",
+    "gender": "Male",
+    "culture": "Edain",
+    "lotr_page_id": "12243",
+    "other_names": "Egnor , Aikanár, Aikanáro",
+    "titles": "Lord of Dorthonion with Angrod",
+    "hair": "Golden"
+  },
+  {
     "name": "Borlad",
     "race": "Men",
     "text": "BORLAD was the son of Bór, possibly the eldest of his three sons.\n\n\nBiography\n\nBorlad fought with the Union of Maedhros at the Nirnaeth Arnoediad and\nlike his father and two brothers remained loyal to the Sons of Fëanor,\nunlike those of Ulfang who betrayed them. He was slain fighting against\nthe traitors.",
@@ -273,21 +288,6 @@
     "race": "Giants",
     "gender": "Male",
     "text": "NAN was a Giant, mentioned only in ''The Book of Lost Tales 2, ''for\nwhom the Nauglafring (the early name of the Necklace of the Dwarves) was\nmade. He and another Giant Gilim are not told of in _The Silmarillion_.\n\nNan is told in _The Tale of Tinúviel_ to have owned a particularly long\nsword, named Glend."
-  },
-  {
-    "name": "Arthad",
-    "race": "Men",
-    "text": "ARTHAD was an Edain Man of the House of Bëor.\n\n\nBiography\n\nArthad was a Men of Dorthonion before the Dagor Bragollach. Afterwards,\nhe was one of Barahir's Outlaws that lived in Dorthonion deifying\nMorgoth's forces. He was killed along with the other outlaws at Tarn\nAeluin as a result of Gorlim's betrayal.",
-    "birth": "Late First Age ?",
-    "death": "FA 460",
-    "spouse": "Unknown",
-    "weapon": "Bow, sword ?",
-    "gender": "Male",
-    "culture": "Edain",
-    "lotr_page_id": "12243",
-    "other_names": "Egnor , Aikanár, Aikanáro",
-    "titles": "Lord of Dorthonion with Angrod",
-    "hair": "Golden"
   },
   {
     "name": "Fosco Baggins",
@@ -478,21 +478,6 @@
     "hair": "Golden"
   },
   {
-    "name": "Boron",
-    "race": "Men",
-    "text": "BORON was an Edain of the House of Bëor.\n\n\nBiography\n\nBoron was eldest son of Baran, grandson of Bëor. He had a younger\nbrother named Baranor. He was the third chieftain of the House of Bëor.\nHe was married to an unnamed woman. They had at least two children\nAndreth and Boromir, who later became the first Lord of Ladros.\n\n\nHe lived in Dorthonion; probably in Ladros.",
-    "titles": "Chieftain of the House of Bëor",
-    "birth": "First Age ?",
-    "death": "First Age ?",
-    "spouse": "Unnamed wife",
-    "weapon": "Unknown",
-    "gender": "Male",
-    "culture": "Edain",
-    "lotr_page_id": "2687",
-    "other_names": "Egnor , Aikanár, Aikanáro",
-    "hair": "Golden"
-  },
-  {
     "name": "Minastan",
     "lotr_page_id": "7533",
     "text": "MINASTAN was a man of Gondor, born sometime after TA 1516, who was the\nsecond son of Minardil and father of Tarondor. His elder brother\nTelemnar was King of Gondor for only two years until he died in the\nGreat Plague of 1636. Minastan might have died too in that Plague, or\nelse he died earlier. \n\nMinastan's son succeeded Telemnar on the throne, beginning a new\nline.",
@@ -506,6 +491,21 @@
     "race": "Men",
     "culture": "Men of Gondor",
     "gender": "Male"
+  },
+  {
+    "name": "Boron",
+    "race": "Men",
+    "text": "BORON was an Edain of the House of Bëor.\n\n\nBiography\n\nBoron was eldest son of Baran, grandson of Bëor. He had a younger\nbrother named Baranor. He was the third chieftain of the House of Bëor.\nHe was married to an unnamed woman. They had at least two children\nAndreth and Boromir, who later became the first Lord of Ladros.\n\n\nHe lived in Dorthonion; probably in Ladros.",
+    "titles": "Chieftain of the House of Bëor",
+    "birth": "First Age ?",
+    "death": "First Age ?",
+    "spouse": "Unnamed wife",
+    "weapon": "Unknown",
+    "gender": "Male",
+    "culture": "Edain",
+    "lotr_page_id": "2687",
+    "other_names": "Egnor , Aikanár, Aikanáro",
+    "hair": "Golden"
   },
   {
     "name": "Bereg",
@@ -538,6 +538,17 @@
     "culture": "House of Haleth"
   },
   {
+    "name": "Lorgan",
+    "lotr_page_id": "9402",
+    "text": "LORGAN was the chief of the Easterlings in Hithlum after the Nirnaeth\nArnoediad, with claims on Dor-Lómin as well.\n\n\nBiography\n\nLorgan was cruel slavemaster holding many Men and perhaps Elves in\nthralldom. Forcibly taking him away from his Elf protectors, he enslaved\nTuor for three years until he managed to escape out of the north.\nAfterwards, Lorgan put a price on his head.",
+    "titles": "Chief of the Easterlings",
+    "birth": "Late First Age",
+    "death": "Late First Age",
+    "race": "Men",
+    "gender": "Male",
+    "culture": "Easterlings of Morgoth"
+  },
+  {
     "name": "Madoc Brandybuck",
     "race": "Hobbits",
     "text": "MADOC “PROUDNECK” BRANDYBUCK was a Hobbit of Buckland and the third\nMaster of Buckland.\n\n\nBiography\n\nMadoc was born on SR 1175 (TA 2775) and was the son of Gormadoc\nBrandybuck and Malva Headstrong. He married Hanna Goldworthy of the\nShire and had one son with her, Marmadoc “Masterful”. Madoc was the\nthird Master of Buckland from SR 1236 until his death on SR 1277 at age\n102.",
@@ -552,17 +563,6 @@
     "lotr_page_id": "7532",
     "hair": "Golden",
     "location": "Buckland"
-  },
-  {
-    "name": "Lorgan",
-    "lotr_page_id": "9402",
-    "text": "LORGAN was the chief of the Easterlings in Hithlum after the Nirnaeth\nArnoediad, with claims on Dor-Lómin as well.\n\n\nBiography\n\nLorgan was cruel slavemaster holding many Men and perhaps Elves in\nthralldom. Forcibly taking him away from his Elf protectors, he enslaved\nTuor for three years until he managed to escape out of the north.\nAfterwards, Lorgan put a price on his head.",
-    "titles": "Chief of the Easterlings",
-    "birth": "Late First Age",
-    "death": "Late First Age",
-    "race": "Men",
-    "gender": "Male",
-    "culture": "Easterlings of Morgoth"
   },
   {
     "name": "Amrothos",
@@ -664,17 +664,6 @@
     "hair": "Golden"
   },
   {
-    "name": "Beechbone",
-    "lotr_page_id": "3460",
-    "text": "BEECHBONE was one of the younger Ents who lived in the Fangorn Forest.\nBiography Not much is known about the life of Beechbone, apart from that\nhe took part in Battle of Isengard with the other Ents on March 3, 3019.\nIn the book _The Two Towers_, he was caught on fire by the gas let out\nby the Uruk-hai and apparently burned to death. However, this only\nencouraged the other Ents to double their efforts in destroying\nIsengard.",
-    "birth": "Unknown",
-    "death": "March 3, 3019",
-    "race": "Ents",
-    "gender": "Male",
-    "height": "Very tall",
-    "culture": "Ents of Fangorn Forest"
-  },
-  {
     "name": "Lungorthin",
     "lotr_page_id": "7165",
     "text": "LUNGORTHIN was a Balrog mentioned in earlier versions of _The\nSilmarillion_. Biography Like Gothmog, he bore the title of “Lord of\nBalrogs”. He was the captain of security in Angband and, like his\nsuperior officer, Gothmog, was fiercely loyal to his lord, Morgoth. It\nis unknown if he was an earlier version of Gothmog, but he might have\nbeen a different Balrog altogether. de:Lungorthin es:Lungorthin\nit:Lungorthin ru:Лунгортин",
@@ -696,6 +685,17 @@
     "race": "Orcs",
     "gender": "Male",
     "culture": "Orcs of Mordor"
+  },
+  {
+    "name": "Beechbone",
+    "lotr_page_id": "3460",
+    "text": "BEECHBONE was one of the younger Ents who lived in the Fangorn Forest.\nBiography Not much is known about the life of Beechbone, apart from that\nhe took part in Battle of Isengard with the other Ents on March 3, 3019.\nIn the book _The Two Towers_, he was caught on fire by the gas let out\nby the Uruk-hai and apparently burned to death. However, this only\nencouraged the other Ents to double their efforts in destroying\nIsengard.",
+    "birth": "Unknown",
+    "death": "March 3, 3019",
+    "race": "Ents",
+    "gender": "Male",
+    "height": "Very tall",
+    "culture": "Ents of Fangorn Forest"
   },
   {
     "name": "Melilot Brandybuck",
@@ -797,6 +797,16 @@
     "hair": "Golden"
   },
   {
+    "name": "Marcho",
+    "lotr_page_id": "9211",
+    "text": "MARCHO was a Fallohide-hobbit adventurer and one of the founders of the\nShire.\n\n\nBiography\n\nOriginally living in Bree, he and his brother Blanco and a large\nfollowing of Hobbits, having obtained permission from the King of\nArthedain seated at Fornost at the time to do so, decided to journey\nwestward in search of new lands to settle. By TA 1601, he and his\nfollowers reached a rich and fertile land, between the Brandywine River\nand the Far Downs, where they founded The Shire.",
+    "death": "Sometime after TA 1601",
+    "spouse": "Unknown",
+    "race": "Hobbits",
+    "gender": "Male",
+    "culture": "Fallohide-hobbits"
+  },
+  {
     "name": "Esmeralda Brandybuck",
     "race": "Hobbits",
     "text": "ESMERALDA BRANDYBUCK was a Hobbit of the Shire.\n\n\nBiography\n\nEsmeralda was born to Adalgrim Took and his unnamed wife. She was the\nyoungest of their five children. She was a descendant of Gerontius Took,\nand younger sister to Thain Paladin Took II. She married Saradoc\nBrandybuck, the Master of Buckland making her the Mistress of Buckland\nand of Brandy Hall. Being a Took and marrying into the Brandybuck\nfamily, she was both Peregrin Took's aunt and Merry Brandybuck's\nmother.",
@@ -809,16 +819,6 @@
     "other_names": "Egnor , Aikanár, Aikanáro",
     "titles": "Lord of Dorthonion with Angrod",
     "hair": "Golden"
-  },
-  {
-    "name": "Marcho",
-    "lotr_page_id": "9211",
-    "text": "MARCHO was a Fallohide-hobbit adventurer and one of the founders of the\nShire.\n\n\nBiography\n\nOriginally living in Bree, he and his brother Blanco and a large\nfollowing of Hobbits, having obtained permission from the King of\nArthedain seated at Fornost at the time to do so, decided to journey\nwestward in search of new lands to settle. By TA 1601, he and his\nfollowers reached a rich and fertile land, between the Brandywine River\nand the Far Downs, where they founded The Shire.",
-    "death": "Sometime after TA 1601",
-    "spouse": "Unknown",
-    "race": "Hobbits",
-    "gender": "Male",
-    "culture": "Fallohide-hobbits"
   },
   {
     "name": "Mentha Brandybuck",
@@ -1147,17 +1147,6 @@
     "culture": "Nandor (Elves of Mirkwood)"
   },
   {
-    "name": "Brodda",
-    "lotr_page_id": "8562",
-    "text": "BRODDA was an Easterling lord who ruled Dor-lómin for a while. He took\nAerin as his wife, and was later killed by Túrin Turambar. Biography\nBrodda was a lord of the Easterlings. He usurped the lordship of\nDor-lómin after Húrin was captured, and Morwen had since left the area.\nHe married Aerin sometime after that. A little while before the coming\nof 499, the First Age, Brodda was involved in a battle that took place\ninside the hall of his own grandious home. He was ultimately murdered by\nTúrin in his rage, even though Brodda was innocent and befriended Túrin.",
-    "other_names": "Brodda the Easterling",
-    "death": "First Age",
-    "race": "Men",
-    "gender": "Male",
-    "culture": "Easterlings",
-    "location": "Dor-lómin"
-  },
-  {
     "name": "Fladrif",
     "lotr_page_id": "3465",
     "text": "FLADRIF (SKINBARK) is an ent of the Fangorn Forest, and was one of the\nfirst Ents in Middle-earth. By the end of the Third Age, only he,\nLeaflock, and Treebeard remained of the original Ents. Skinbark lived on\nthe mountain slopes west of Isengard. Saruman's orcs ravaged this area,\ncutting down trees and killing Ents. Skinbark was wounded by the orcs\nand he retreated far up the mountain slopes to live among the birches\nthat he favored. He refused to come down. He took part in the Battle of\nIsengard, and is seen crushing dozens of orcs under a rolling boulder.",
@@ -1167,6 +1156,17 @@
     "race": "Ents",
     "gender": "Male",
     "culture": "Ents of Fangorn Forest"
+  },
+  {
+    "name": "Brodda",
+    "lotr_page_id": "8562",
+    "text": "BRODDA was an Easterling lord who ruled Dor-lómin for a while. He took\nAerin as his wife, and was later killed by Túrin Turambar. Biography\nBrodda was a lord of the Easterlings. He usurped the lordship of\nDor-lómin after Húrin was captured, and Morwen had since left the area.\nHe married Aerin sometime after that. A little while before the coming\nof 499, the First Age, Brodda was involved in a battle that took place\ninside the hall of his own grandious home. He was ultimately murdered by\nTúrin in his rage, even though Brodda was innocent and befriended Túrin.",
+    "other_names": "Brodda the Easterling",
+    "death": "First Age",
+    "race": "Men",
+    "gender": "Male",
+    "culture": "Easterlings",
+    "location": "Dor-lómin"
   },
   {
     "name": "Îbal",
@@ -1342,18 +1342,6 @@
     "titles": "Lord of Dorthonion with Angrod"
   },
   {
-    "name": "Narvi",
-    "lotr_page_id": "783",
-    "text": "NARVI (fl. SA 750?) (originally NGARVI, ÑARVI) was a dwarf of\nKhazad-dûm (Moria) during the Second Age.\n\nHe was probably of Durin's Folk.\n\n\nBiography\n\nNarvi is best known for making of the Doors of Durin for the West-gate\nof Moria, on which Celebrimbor, an elf, wrote the inscription. He worked\nclosely with the Gwaith-i-Mírdain; Celebrimbor in particular was his\nclose friend. It can be implied that the relationship between Dwarves\nand Elves was neither pivotal nor had it yet subsided; Other than the\nage of the hall or the door, this also means Narvi lived during either\nthe Early Days or the First Age.\n",
-    "titles": "Craftsman",
-    "location": "Khazad-dûm",
-    "language": "Khuzdul and Sindarin",
-    "birth": "Mid Second Age",
-    "gender": "Male",
-    "race": "Dwarves",
-    "culture": "Dwarves of Khazad-dûm"
-  },
-  {
     "name": "Andwise Roper",
     "lotr_page_id": "84",
     "text": "ANDWISE ROPER also known as ANDY was a Hobbit of the Shire.\n\n\nHistory\n\nAndwise was the uncle of Samwise Gamgee. He was the first child of\nHobson Gamgee and Rowan Greenhand and was born in TA 2923 (SR 1323).\nAndwise had three younger siblings - Halfred, May and Hamfast (the\nfather of Sam). Andwise was commonly known as Andy and had a son named\nAnson, who was born in TA 2961.\n\nAndwise and his father, Hobson, were both rope-makers and owned a\nRope-walk in the village of Tighfield. When Hobson Gamgee died in TA\n2984, Andwise took over the rope-walk. He taught Samwise Gamgee some of\nhis knowledge of ropes.",
@@ -1366,6 +1354,18 @@
     "race": "Hobbits",
     "culture": "Hobbits of the Shire",
     "gender": "Male"
+  },
+  {
+    "name": "Narvi",
+    "lotr_page_id": "783",
+    "text": "NARVI (fl. SA 750?) (originally NGARVI, ÑARVI) was a dwarf of\nKhazad-dûm (Moria) during the Second Age.\n\nHe was probably of Durin's Folk.\n\n\nBiography\n\nNarvi is best known for making of the Doors of Durin for the West-gate\nof Moria, on which Celebrimbor, an elf, wrote the inscription. He worked\nclosely with the Gwaith-i-Mírdain; Celebrimbor in particular was his\nclose friend. It can be implied that the relationship between Dwarves\nand Elves was neither pivotal nor had it yet subsided; Other than the\nage of the hall or the door, this also means Narvi lived during either\nthe Early Days or the First Age.\n",
+    "titles": "Craftsman",
+    "location": "Khazad-dûm",
+    "language": "Khuzdul and Sindarin",
+    "birth": "Mid Second Age",
+    "gender": "Male",
+    "race": "Dwarves",
+    "culture": "Dwarves of Khazad-dûm"
   },
   {
     "name": "Finglas",
@@ -1419,20 +1419,6 @@
     "hair": "Golden"
   },
   {
-    "name": "Angamaitë",
-    "race": "Men",
-    "text": "ANGAMAITË was the great-grandson of Castamir. Along with Sangahyando, he\nbecame an important figure amongst the Haradrim and the Corsairs of\nUmbar.\n\n\nBiography\n\nAngamaitë was a descendant of the rebel Castamir and carried on the\ntraditional hatred against Gondor. In TA 1634, King Minardil was at\nPelargir without fear of any attack. Angamaitë and Sangahyando soon\nlearned about this through spies and sacked the city, killing Minardil\nand seizing great amounts of treasure.\n\n\nEtymology\n\nThe name ANGAMAITË means “iron-handed”, from the Quenya word _anga_\n(“iron”). Angamaitë was originally called ANGOMAITË in an earlier\ntext.",
-    "birth": "Mid-Third Age",
-    "death": "Unknown",
-    "spouse": "Unknown",
-    "gender": "Male",
-    "culture": "Dunedain",
-    "lotr_page_id": "19101",
-    "other_names": "Egnor , Aikanár, Aikanáro",
-    "titles": "Lord of Dorthonion with Angrod",
-    "hair": "Golden"
-  },
-  {
     "name": "Angelica Baggins",
     "race": "Hobbits",
     "text": "ANGELICA BAGGINS was a Hobbit of the Shire.\n\n\nBiography\n\n Angelica was born in\nTA 2981 (SR 1381). She was the daughter of Ponto Baggins II and the\ngrand-niece of Bilbo Baggins, and the granddaughter of Gilly Brownlock.\nAngelica was young at the time of Bilbo's Farewell Birthday Party and\nwas noted for her vanity and considered her face to be quite shapely.\nAfter the celebration, she received a round convex mirror as a gift\nbecause she obviously admired her appearance. She apparently never\nmarried.\n\n\nEtymology\n\nLike many Female hobbits, Angelica was named after a flower. The version\nnative to Britain is a perennial herb.",
@@ -1446,6 +1432,20 @@
     "other_names": "Egnor , Aikanár, Aikanáro",
     "titles": "Lord of Dorthonion with Angrod",
     "spouse": "Loved Andreth, but remained unmarried"
+  },
+  {
+    "name": "Angamaitë",
+    "race": "Men",
+    "text": "ANGAMAITË was the great-grandson of Castamir. Along with Sangahyando, he\nbecame an important figure amongst the Haradrim and the Corsairs of\nUmbar.\n\n\nBiography\n\nAngamaitë was a descendant of the rebel Castamir and carried on the\ntraditional hatred against Gondor. In TA 1634, King Minardil was at\nPelargir without fear of any attack. Angamaitë and Sangahyando soon\nlearned about this through spies and sacked the city, killing Minardil\nand seizing great amounts of treasure.\n\n\nEtymology\n\nThe name ANGAMAITË means “iron-handed”, from the Quenya word _anga_\n(“iron”). Angamaitë was originally called ANGOMAITË in an earlier\ntext.",
+    "birth": "Mid-Third Age",
+    "death": "Unknown",
+    "spouse": "Unknown",
+    "gender": "Male",
+    "culture": "Dunedain",
+    "lotr_page_id": "19101",
+    "other_names": "Egnor , Aikanár, Aikanáro",
+    "titles": "Lord of Dorthonion with Angrod",
+    "hair": "Golden"
   },
   {
     "name": "Náin II",
@@ -1879,6 +1879,19 @@
     "location": "Numenor"
   },
   {
+    "name": "Grór",
+    "lotr_page_id": "774",
+    "text": "GRÓR was the founder of the Dwarven realm in the Iron Hills and its\nfirst lord.\n\n\nBiography\n\nGrór was born in Grey Mountains as the youngest of three sons born to\nDáin I. His older brothers were Thrór and Frór. After the death of his\nfather in TA 2589, he and his brother left the Grey Mountains and while\nThrór went back to the Lonely Mountain, Grór went further into the east\nand in TA 2590 he established the Kingdom of the Dwarves in the Iron\nHills. Two hundred years later, just before the Battle of Azanulbizar in\nTA 2799, he thought himself too old to go at age 237 (physically\napproximately 68 years old), and instead sent his son Náin and grandson\nDáin II, the king of the dwarves at the Iron Hills at the time of _The\nHobbit_. Grór was indeed old, for he died not too long after in TA\n2805.",
+    "titles": "Lord of the Iron Hills",
+    "birth": "TA 2563[1]",
+    "death": "TA 2805[1] (aged 242)",
+    "spouse": "Unnamed wife",
+    "weapon": "Unknown, probably a Battle axe",
+    "race": "Dwarves",
+    "gender": "Male",
+    "culture": "Durin's Folk, Dwarves of the Iron Hills"
+  },
+  {
     "name": "Celebrindor",
     "race": "Men",
     "text": "CELEBRINDOR was the fifth King of Arthedain.\n\n\nBiography\n\nCelebrindor was the son of King Celepharn of Arthedain. He came to the\nthrone in TA 1191 at the death of his father. During Celebrindor's rule\nover Arthedain, there was peace between relations with the other\nsplinter-realms of Arnor, Cardolan and Rhudaur and therefore his reign\nwas an uneventful one, and no evil threatened the realm as of yet.\nCelebrindor died in TA 1272 after ruling for eighty-one years and was\nsucceeded by his son Malvegil.\n\n\nEtymology\n\n_CELEBRINDOR_ was a Sindarin name that probably meant 'silverlord' or\n'silverlike lord'.\n\nFormer names\n\nAs outlined in _The Peoples of Middle-earth_: The Heirs of Elendil,\nCelebrindor was first written as _Celemenegil_ and _Celebrindol_ but was\ncorrected and changed to Celebrindor.",
@@ -1896,19 +1909,6 @@
     "location": "Arthedain"
   },
   {
-    "name": "Grór",
-    "lotr_page_id": "774",
-    "text": "GRÓR was the founder of the Dwarven realm in the Iron Hills and its\nfirst lord.\n\n\nBiography\n\nGrór was born in Grey Mountains as the youngest of three sons born to\nDáin I. His older brothers were Thrór and Frór. After the death of his\nfather in TA 2589, he and his brother left the Grey Mountains and while\nThrór went back to the Lonely Mountain, Grór went further into the east\nand in TA 2590 he established the Kingdom of the Dwarves in the Iron\nHills. Two hundred years later, just before the Battle of Azanulbizar in\nTA 2799, he thought himself too old to go at age 237 (physically\napproximately 68 years old), and instead sent his son Náin and grandson\nDáin II, the king of the dwarves at the Iron Hills at the time of _The\nHobbit_. Grór was indeed old, for he died not too long after in TA\n2805.",
-    "titles": "Lord of the Iron Hills",
-    "birth": "TA 2563[1]",
-    "death": "TA 2805[1] (aged 242)",
-    "spouse": "Unnamed wife",
-    "weapon": "Unknown, probably a Battle axe",
-    "race": "Dwarves",
-    "gender": "Male",
-    "culture": "Durin's Folk, Dwarves of the Iron Hills"
-  },
-  {
     "name": "Vairë",
     "lotr_page_id": "2415",
     "text": "VAIRË (Quenya; IPA: or - “Weaver”) is an Ainu and Vala who was\nresponsible for the weaving of the story of Arda. Biography Vairë is\ncounted among the Valier, the Queens of the Valar; though not as great\nin power or prestige as some. Her “storied webs” cover the Halls of\nMandos, where she apparently lived. With the passage of time and its\nmany ages, her woven tapestries are expanding and will clothe all of the\nwalls of the Halls of the Dead. After the death of Finwë, Míriel\nreturned to life and dwelt thereafter in the house of Vairë. She was\ngiven the task to record the deeds of the House of Finwë. Etymology In\nQuenya, _Vairë_ means “Weaver”, and was derived from the Primitive\nQuendian _weirē_, which derives from the root _wey_ (“weave, wind”). Her\nÑoldorin name is GWÎR, from _gwi_ (“net, web”).",
@@ -1921,6 +1921,20 @@
     "race": "Valar",
     "gender": "Female",
     "location": "Valinor"
+  },
+  {
+    "name": "Borlas",
+    "race": "Men",
+    "text": "BORLAS was a Man of Gondor in the Fourth Age, and a key figure in J.R.R.\nTolkien's short-lived story _The New Shadow_. He had two children, an\nunnamed daughter and a son Berelach, a friend of Saelon.\n\n\nBiography\n\nBorlas was the son of Beregond, the captain who saved Faramir from being\nburned by Denethor. After the War of the Ring, he lived in Pen-arduin,\nwhich was in Emyn Arnen. Sometime in the past he caught a young man\nstealing an apple from his garden. He scolded him describing his\nbehavior as “Orc work” but took the boy under his wing becoming his\nmaster. Years later, he learned through him of the growing shadow among\nMen and the possibility of a secret cult worshiping the old enemies of\nthe world.\n\n\nEtymology\n\n_BORLAS_ means “Enduring joy” from _bor_ (“endure”) and _glass_ or\n_galas_ (“joy”).",
+    "birth": "TA 3011",
+    "death": "Unknown",
+    "spouse": "Unnamed wife",
+    "gender": "Male",
+    "culture": "Men of Gondor",
+    "lotr_page_id": "9603",
+    "other_names": "Egnor , Aikanár, Aikanáro",
+    "titles": "Lord of Dorthonion with Angrod",
+    "hair": "Golden"
   },
   {
     "name": "Aldor",
@@ -1952,20 +1966,6 @@
     "gender": "Female",
     "culture": "Numenoreans",
     "location": "Gondor"
-  },
-  {
-    "name": "Borlas",
-    "race": "Men",
-    "text": "BORLAS was a Man of Gondor in the Fourth Age, and a key figure in J.R.R.\nTolkien's short-lived story _The New Shadow_. He had two children, an\nunnamed daughter and a son Berelach, a friend of Saelon.\n\n\nBiography\n\nBorlas was the son of Beregond, the captain who saved Faramir from being\nburned by Denethor. After the War of the Ring, he lived in Pen-arduin,\nwhich was in Emyn Arnen. Sometime in the past he caught a young man\nstealing an apple from his garden. He scolded him describing his\nbehavior as “Orc work” but took the boy under his wing becoming his\nmaster. Years later, he learned through him of the growing shadow among\nMen and the possibility of a secret cult worshiping the old enemies of\nthe world.\n\n\nEtymology\n\n_BORLAS_ means “Enduring joy” from _bor_ (“endure”) and _glass_ or\n_galas_ (“joy”).",
-    "birth": "TA 3011",
-    "death": "Unknown",
-    "spouse": "Unnamed wife",
-    "gender": "Male",
-    "culture": "Men of Gondor",
-    "lotr_page_id": "9603",
-    "other_names": "Egnor , Aikanár, Aikanáro",
-    "titles": "Lord of Dorthonion with Angrod",
-    "hair": "Golden"
   },
   {
     "name": "Landroval",
@@ -2221,21 +2221,6 @@
     "hair": "Golden"
   },
   {
-    "name": "Belecthor II",
-    "race": "Men",
-    "text": "BELECTHOR II was the twenty-first Ruling Steward of Gondor.\n\n\nBiography\n\nBelecthor was born in TA 2752 and was the only child of Beregond. When\nhis father died in TA 2811, Belecthor succeeded him as the twenty-first\nRuling Steward. Belecthor continued his father's campaigns against the\nCorsairs of Umbar and the Orcs. The White Council met in TA 2850; at the\nmeeting, Gandalf urged an attack on Dol Guldur to drive Sauron out, but\nSaruman overruled him. Belecthor died in TA 2872 at the age of 120 years\nold after a rule of sixty-one years. When he died, the White Tree of\nGondor was neglected and eventually withered and died, and no sapling or\nseedling was found to replace it. So the withered tree was left standing\nuntil the return of the king.\n\nBelecthor was succeeded by his son Thorondir.\n\n\nEtymology\n\nThe name BELECTHOR means “Mighty eagle”, from the Sindarin _beleg_\n(“mighty”) and _thor(on)_ (“eagle”). He might have been named after\nthe fifteenth Ruling Steward, Belecthor I.",
-    "titles": "Ruling Steward of Gondor",
-    "birth": "TA 2752",
-    "rule": "TA 2811",
-    "death": "TA 2872",
-    "spouse": "Unnamed wife",
-    "gender": "Male",
-    "culture": "Men of Gondor",
-    "lotr_page_id": "613",
-    "other_names": "Egnor , Aikanár, Aikanáro",
-    "hair": "Golden"
-  },
-  {
     "name": "Boromir (House of Bëor)",
     "race": "Men",
     "text": "BOROMIR was an Edain of the House of Bëor.\n\n\nBiography\n\nBoromir was the elder son of Boron, the third chieftain of the folk of\nBëor, and he was the great-grandson of Bëor the Old. He also had a\nyounger brother named Belegor which not much is mentioned about him.\nBoromir became the fourth Chieftain of the House of Bëor after the death\nof his father. When the Elven Kings decided to grant lands to the\nchieftains of the Edain, Boromir was granted the land of Ladros in\nDorthonion as a fief under the Elven-lords Angrod and Aegnor, the\nyounger sons of Finarfin (the Noldorin king in Aman) and the brothers of\nKing Finrod of Nargothrond. He thus became the firstLord of Ladros.\n\nBoromir was the father of Bregor his first child and only son, _Andreth_\nhis second child and elder daughter, and _Beril_ his last child (third\nchild) and younger daughter.\n\nTwo later Lords of Gondor and warriors of renown were named after\nBoromir son of Boron, including Boromir of the Fellowship of the\nRing.",
@@ -2247,6 +2232,21 @@
     "gender": "Male",
     "culture": "Edain",
     "lotr_page_id": "2688",
+    "other_names": "Egnor , Aikanár, Aikanáro",
+    "hair": "Golden"
+  },
+  {
+    "name": "Belecthor II",
+    "race": "Men",
+    "text": "BELECTHOR II was the twenty-first Ruling Steward of Gondor.\n\n\nBiography\n\nBelecthor was born in TA 2752 and was the only child of Beregond. When\nhis father died in TA 2811, Belecthor succeeded him as the twenty-first\nRuling Steward. Belecthor continued his father's campaigns against the\nCorsairs of Umbar and the Orcs. The White Council met in TA 2850; at the\nmeeting, Gandalf urged an attack on Dol Guldur to drive Sauron out, but\nSaruman overruled him. Belecthor died in TA 2872 at the age of 120 years\nold after a rule of sixty-one years. When he died, the White Tree of\nGondor was neglected and eventually withered and died, and no sapling or\nseedling was found to replace it. So the withered tree was left standing\nuntil the return of the king.\n\nBelecthor was succeeded by his son Thorondir.\n\n\nEtymology\n\nThe name BELECTHOR means “Mighty eagle”, from the Sindarin _beleg_\n(“mighty”) and _thor(on)_ (“eagle”). He might have been named after\nthe fifteenth Ruling Steward, Belecthor I.",
+    "titles": "Ruling Steward of Gondor",
+    "birth": "TA 2752",
+    "rule": "TA 2811",
+    "death": "TA 2872",
+    "spouse": "Unnamed wife",
+    "gender": "Male",
+    "culture": "Men of Gondor",
+    "lotr_page_id": "613",
     "other_names": "Egnor , Aikanár, Aikanáro",
     "hair": "Golden"
   },
@@ -2378,23 +2378,6 @@
     "location": "Arthedain"
   },
   {
-    "name": "Calimehtar",
-    "race": "Men",
-    "text": "CALIMEHTAR was the thirtieth King of Gondor.\n\n\nBiography\n\nCalimehtar succeeded his father Narmacil II in TA 1856 who was killed by\nthe Wainriders during the defeat of Gondor at the Battle of the\nPlains. Calimehtar was a good friend and ally of the Éothéod. In\nTA 1899, the Wainriders once again became a threat to Gondor and the\nlands of the west. During the strife, he built the White Tower of\nGondor. The Éothéod leader Marhwini warned the king of the impending\ninvasion allowing him to assemble an army in Ithilien which he marched\nnorth, also sending Cavalry over the Undeeps to harass the unguarded\nenemy positions there. Calimehtar and his Éothéod allies finally met the\nWainriders in Dagorlad where they defeated them. Narmacil II's death had\nbeen avenged. The victory of Gondor and its allies inspired the slaves\nin Rhovanion to rebel against their cruel Easterling masters.\n\nHe died in TA 1936 after a rule of eighty years and was succeeded by his\nson Ondoher. He was two-hundred years of age.\n\n\nEtymology\n\nCalimehtar is a Quenya word that meant 'Swordsman of light'.",
-    "titles": "King of Gondor",
-    "birth": "TA 1736",
-    "rule": "TA 1856",
-    "death": "TA 1936",
-    "spouse": "Unnamed wife",
-    "weapon": "King's sword",
-    "gender": "Male",
-    "culture": "Men of Gondor",
-    "lotr_page_id": "634",
-    "other_names": "Egnor , Aikanár, Aikanáro",
-    "hair": "Golden",
-    "location": "Gondor"
-  },
-  {
     "name": "Argeleb II",
     "race": "Men",
     "text": "ARGELEB II was the tenth King of Arthedain. He is best remembered as\nbeing the one responsible for creating the Shire for the Hobbits.\n\n\nBiography\n\nArgeleb was the son of King Araphor of Arthedain, and was named for his\ngreat-grandfather Argeleb I. He came to the throne in TA 1589 at the\ndeath of his father. During his rule the Great Plague reached Eriador,\nand most of the people of Cardolan perished, especially in\nMinhiriath. The Hobbits and other peoples living in Arnor all\nsuffered greatly, but the plague lessened as it went north, and the\nnorth of Arthedain was scarcely affected. Still it saw the end of\nCardolan, and the last prince of Cardolan was buried in the Barrow-downs\nin the same mound Frodo Baggins was later caught in. Evil spirits sent\nby Angmar passed through Rhudaur to Cardolan, and began to dwell in the\nBarrow-downs.\n\nPerhaps because of the loss of population, he granted the Shire to the\nHobbits. Before these lands had been a royal hunting ground. Argeleb was\nsucceeded at his death in TA 1670 by his son Arvegil after a rule of\neighty-one years.",
@@ -2410,6 +2393,23 @@
     "other_names": "Egnor , Aikanár, Aikanáro",
     "hair": "Golden",
     "location": "Arthedain"
+  },
+  {
+    "name": "Calimehtar",
+    "race": "Men",
+    "text": "CALIMEHTAR was the thirtieth King of Gondor.\n\n\nBiography\n\nCalimehtar succeeded his father Narmacil II in TA 1856 who was killed by\nthe Wainriders during the defeat of Gondor at the Battle of the\nPlains. Calimehtar was a good friend and ally of the Éothéod. In\nTA 1899, the Wainriders once again became a threat to Gondor and the\nlands of the west. During the strife, he built the White Tower of\nGondor. The Éothéod leader Marhwini warned the king of the impending\ninvasion allowing him to assemble an army in Ithilien which he marched\nnorth, also sending Cavalry over the Undeeps to harass the unguarded\nenemy positions there. Calimehtar and his Éothéod allies finally met the\nWainriders in Dagorlad where they defeated them. Narmacil II's death had\nbeen avenged. The victory of Gondor and its allies inspired the slaves\nin Rhovanion to rebel against their cruel Easterling masters.\n\nHe died in TA 1936 after a rule of eighty years and was succeeded by his\nson Ondoher. He was two-hundred years of age.\n\n\nEtymology\n\nCalimehtar is a Quenya word that meant 'Swordsman of light'.",
+    "titles": "King of Gondor",
+    "birth": "TA 1736",
+    "rule": "TA 1856",
+    "death": "TA 1936",
+    "spouse": "Unnamed wife",
+    "weapon": "King's sword",
+    "gender": "Male",
+    "culture": "Men of Gondor",
+    "lotr_page_id": "634",
+    "other_names": "Egnor , Aikanár, Aikanáro",
+    "hair": "Golden",
+    "location": "Gondor"
   },
   {
     "name": "Arvegil",
@@ -3530,6 +3530,19 @@
     "lotr_page_id": "2345"
   },
   {
+    "name": "Gildor",
+    "lotr_page_id": "735",
+    "text": "GILDOR INGLORION was a Ñoldor Elf met by Frodo Baggins in the Shire. On\nSeptember 24, 3018, Gildor and a company of Elves were passing through\nthe Shire, singing as they walked, and without realizing it they caused\na Nazgûl who was seeking Frodo to flee. Gildor recognized Frodo, though\nthey had never met, for he knew Bilbo. He invited Frodo, along with Sam\nGamgee and Pippin Took, to spend the night in the Elves' company.[1]\n\n\nBiography\n\nTo the Hobbits, Gildor and the Elves appeared to shimmer as they walked\nthrough the night. The starlight glimmered in their hair and eyes. They\ncamped in a clearing in the Woody End near Woodhall and the elves\nprovided the Hobbits with bread and fruit and a fragrant drink.[2]\n\n[Gildor and the hobbits, by Alan Lee.]\n\nFrodo stayed up late talking to Gildor. They talked of the many dangers\nthat the Hobbits might soon face. Frodo had greeted Gildor by saying,\n“Elen síla lúmenn' omentielvo” (A star shines upon the hour of our\nmeeting) impressed with his knowledge of the ancient tongue and lore he\ncommended Frodo and named him Elf-friend. Gildor perceived that the\nEnemy was seeking for Frodo, though he did not know why. He was\nreluctant to give Frodo any advice in Gandalf's absence.[3]\n\nGildor then advised Frodo to leave quickly and to take with him friends\nhe could trust and to flee from the Nazgûl. He also promised to send out\nword to Elves and others to be on the lookout for Frodo and help him on\nhis journey.[4] Gildor was true to his word, for both Tom Bombadil and\nAragorn heard of Frodo's peril from Gildor. Word also reached Rivendell,\nand Glorfindel rode out to find Aragorn and the Hobbits as they were\npursued by the Nazgûl from Weathertop.\n\nGildor and the Elves continued on their way. Gildor had told Frodo they\nwere tarrying in Middle-earth before heading to the Grey Havens to pass\nover the Sea to the Undying Lands. Where they wandered is not known, but\non September 22, 3021, Gildor and Frodo met once again in the same spot\nin the Woody End where they had met three years earlier. Along with\nElrond, Galadriel and Gandalf, they journeyed to Grey Havens and\ntogether they departed over the Sea into the West.",
+    "birth": "Unknown",
+    "other_names": "Gildor Inglorion",
+    "death": "Possibly sailed West",
+    "spouse": "Unknown",
+    "race": "Elves",
+    "gender": "Male",
+    "hair": "Golden",
+    "culture": "Ñoldor (House of Finrod)"
+  },
+  {
     "name": "Eönwë",
     "lotr_page_id": "2587",
     "text": "EÖNWË (Quenya; IPA: ) was a Maia serving Manwë as his herald and\nbanner-bearer, and Chief of the Maiar along with Ilmarë.\n\n\nBiography\n\nEönwë was referred to as the “greatest of arms in Arda,” meaning that he\nwas the best with weapons, but as one of the Maiar he was not\nnecessarily the most powerful in might.[1] When the appeal of Eärendil\nreached the shores of Aman, it was Eönwë who first greeted him outside\nof Tirion praising his arrival and accomplishments. When Manwë decided\nto heed the appeal, Eönwë was sent to Middle-earth to fight the War of\nWrath, leading the Vanyar.\n\nWhen Morgoth the Black Foe was defeated, Eönwë took the two remaining\nSilmarils and held them for safekeeping. The two remaining Sons of\nFëanor took them and fled, yet Eönwë did not let them be slain hoping\nthey would see the folly of their ways.[2] After the War of Wrath,\nSauron emerged from hiding and approached Eönwë seeking forgiveness but\nEönwë did not have the authority to pardon him alone, and told him he\nwould have to return to the Valar to receive judgment but he fled from\nhim instead.[3]\n\nEönwë also possessed great wisdom and taught the remaining Edain many\nthings enriching them with great knowledge before the raising of Andor\nor Númenor.[4]\n\n\nEtymology\n\nEarlier names\n\n[Fionwë Úrion as the son of Manwë and Urwendi in the early versions of\nthe legendarium, by _ANDREI RIABOVITCHEV_]\n\nAlthough the name _EÖNWË_ does not have any particular meaning in either\nQuenya or Sindarin, his earlier name '''Fionwë '''translates to “Son”,\nfrom _fion_[5] and the suffix _-wë_,[6]an old word for “person”,\nderiving from the stem from _EWE_.[7] This possibly alludes to his\nprevious conception as the son of Manwë.\n\nHis other name, ÚRION, means “He of the Sun”, from _ur_ (“the Sun”),\n_uru_ (“fire”) or _urin_ (“blazing”),[8] and the masculine suffix\n_-ion_.[9]\n\n\nOther versions of the legendarium\n\nIn earlier conceptions of the legendarium, Eönwë, then called FIONWË\nÚRION, was envisioned as the son of Manwë and brother of Erinti,\nrenamed_ Ilmarë_, Varda's handmaiden.[10] In some versions, FIONWË,\nlater named _EÖNWË_, is the one who will kill Morgoth for his love\nfor Urwendi (later named _Arien_).",
@@ -3777,6 +3790,21 @@
     "hair": "Golden",
     "eyes": "Blue or grey",
     "culture": "Edain (House of Hador)"
+  },
+  {
+    "name": "Haldir",
+    "lotr_page_id": "3227",
+    "text": "HALDIR was an Elf of Lothlórien, probably a Silvan Elf, and a\nmarchwarden who guarded the forest's northern borders. When the\nFellowship of the Ring arrived in Lórien, he became their guide to Caras\nGaladhon. He and his companions are described as wearing grey hooded\ncloaks and residing on platforms or flets.\n\nHaldir was accompanied by his brothers, Rúmil and Orophin, who\ninteracted little with the Fellowship because they, unlike Haldir, spoke\nlittle of the Common Tongue. Haldir could speak it fluently, as he often\ntravelled outside of Lothlórien. Little is known about his brothers.\n\n\nBiography\n\nThird Age\n\n[“The Dwarf breathed so loudly we could have shot him in the dark.”]\n\nOn January 15, 3019, the brothers encountered the Fellowship near the\nNimrodel in the eaves of the forest. Haldir was able to speak to the\nFellowship, for he knew the Common Tongue. Haldir welcomed Legolas as\none of his kindred from the north and recognized Aragorn as a friend to\nLady Galadriel. He was prepared to lead the Fellowship into Lórien, but\nhe hesitated upon learning that one of the party was a Dwarf. After\nconsulting with his brothers, Haldir agreed that Gimli could enter if he\nwent blindfolded. The fellowship then insisted that if one of them had\nto go blindfolded, they all would. The brothers reluctantly agreed, and\nthen led them into the forest.[1]\n\nThey spent the night on a Flet, or a platform in the trees. During the\nnight, Haldir and his brothers heard Orcs passing and lured them away\nfrom the Fellowship. When he returned to the flet, Haldir saw a strange\ncreature at the base of the tree, which Frodo guessed to be Gollum.\n\nIn the morning, Haldir fashioned a rope bridge for the Fellowship to use\nto cross the Silverlode. Haldir learned from Merry Brandybuck that the\nGrey Havens lay west of the Shire, and he spoke longingly of the sea,\nbut sadly of the time when he and his kin would have to leave Lorien.\nWhen news came that the Fellowship's blindfolds could be removed, Haldir\napologized to Gimli and welcomed him as the first Dwarf to enter Lórien\nsince the time of Durin.\n\nAfter guiding the Fellowship to Caras Galadhon, Haldir returned to his\nduties guarding the northern borders, but he returned when the\nFellowship was about to depart to guide them to the banks of the\nSilverlode, where boats awaited them.[2]\n\nNothing further is known of Haldir's activities. It is likely that he\nparticipated in the defense of Lothlórien when the forces of Dol Guldur\nattacked it in March of 3019.\n\nHaldir was one of the few Elves of Lórien who could speak Westron. He\nhad clearly heard of Aragorn, but there is no indication that they had\nmet previously.",
+    "titles": "Marchwarden of Lothlórien",
+    "birth": "Unknown",
+    "death": "Unknown (book); March 3, TA 3019 (films)",
+    "spouse": "Unknown",
+    "weapon": "Bow, sword (films)",
+    "race": "Elves",
+    "gender": "Male",
+    "hair": "Golden[1]",
+    "eyes": "Blue (film)",
+    "culture": "Nandor (Silvan Elves), Galadhrim"
   },
   {
     "name": "Denethor",
@@ -4074,6 +4102,19 @@
     "culture": "Númenórean (House of Elendil)"
   },
   {
+    "name": "Beleg",
+    "lotr_page_id": "2562",
+    "text": "BELEG, also known as BELEG CÚTHALION or BELEG STRONGBOW, dubbed for his\ngood bowmanship, was a Sindarin elf who served in the army of King Elu\nThingol of Doriath as Chief Marchwarden[1][2] - and was a predominant\ncompanion of Turin Turambar's.\n\n\nBiography\n\n[Beleg Departs Menegroth, by Alan Lee] Beleg “followed no man”, and\n“could not be restrained”. Beleg and his friend Mablung were the only\nElves of Doriath to fight with the Union of Maedhros in the Nirnaeth\nArnoediad, as King Thingol would have nothing to do with the war.[3]\n\nTogether with Mablung he was one of the great captains of the Sindar,\nand he was part of the Hunting of the Great Wolf Carcharoth during the\ntrials of Beren and Lúthien.[4]\n\n[Beleg receives Anglachel, by Alan Lee.]\n\nLater, he became a good friend and brother-in-arms of Túrin Turambar.\nWhen Túrin left Doriath, Beleg got permission from Thingol to follow him\ninto exile and bring him the kings pardon, wielding the black sword\nAnglachel that Eöl had forged and given to Thingol in tribute.[5] Beleg\nfound the band of outlaws Turin was leading while Turin was away\nscouting, and was tortured by the outlaws until Turin found and released\nhim. Unable to persuade Turin to return to Doriath with him, Beleg\nreturned to King Thingol and gained permission to join Turin.[6] He went\ninto the wilds again and found Turin on Amon Rûdh.[7] Together with\nTúrin, wearing the Dragon-helm of Dor-lómin, he became for a while a\ncaptain against Morgoth, and the land they dwelt in became known as the\n_Land of Bow and Helm_ or _Dor-Cuarthol_ in Sindarin.[8]\n\n[Beleg is Slain, by Ted Nasmith]\n\nWhen Túrin was captured by the Orcs, Beleg was grievously wounded, yet\nwith the knowledge and strength of an elite elven warrior, he recovered\nand followed the Orcs. He met the escaped thrall Gwindor in Taur-nu-Fuin\nand together they rescued Túrin, but as Beleg cut the bonds from Túrin's\nwrists and ankles he slipped, accidentally cutting Túrin with his sword.\nTúrin awoke and did not recognize Beleg in the darkness, assuming the\nshape bent over him with a blade was an orc and that he was to be\ntortured again. In a sudden rage of self-defense, he wrested the sword\nfrom Beleg and killed him.[9][10]\n\nAfter his death Túrin made the song _Laer Cú Beleg_, _The Song of the\nGreat Bow_, and was known to sing it at times of grief and pain, in\nhonor of his fallen friend and comrade.[11][12]\n\n\nEtymology\n\nIn Sindarin, _BELEG_ means “mighty”.[13] His epessë (i.e. surname)\n_CÚTHALION_ means “Strongbow”, from the Sindarin _cu_ (“bow”) and\n_thalion_ (“strong, dauntless”).[14][15][16]\n\n\nWeapons\n\nHe wielded the sword ANGLACHEL, forged by Eol, and given to Beleg by\nKing Thingol. His bow was called BELTHRONDING[17] and his arrow was\nDAILIR.\n\n\nOther versions of the legendarium\n\nIn early writings, Beleg was not immediately killed by Túrin. After an\nambush, Túrin was taken alive and Beleg was left for dead. He was\neventually healed of his wounds by Melian, which allowed him to continue\nin search for his friend. He came upon Gwindor in Taur-nu-Fuin, and\ntogether they rescued Túrin. However, Túrin slew Beleg by\nmisadventure.",
+    "other_names": "Cúthalion, Strongbow",
+    "titles": "Chief Marchwarden of Doriath",
+    "birth": "YT?",
+    "death": "FA 489[1]",
+    "weapon": "Anglachel, Belthronding, Dailir",
+    "race": "Elves",
+    "gender": "Male",
+    "culture": "Sindar (Elves of Doriath)"
+  },
+  {
     "name": "Anárion",
     "race": "Men",
     "text": "ANÁRION was the youngest son of Elendil, the High King of Gondor and\nArnor. He and his brother Isildur jointly ruled Gondor, while their\nfather dwelled in the North. Following his father's death during the\nSiege of Barad-dûr, and Isildur's death at the Disaster of the Gladden\nFields, the kingship of Gondor was committed towards the Line of Anárion\nbeginning with his son, Meneldil.\n\n\nBiography\n\nOrigins\n\nAnárion was born in SA 3219 in Númenor. He and Isildur lived at the\nhaven of Rómenna on the east coast of the island of Númenor. Their\nfather was Elendil son of Amandil, the Lords of Andunie.\n\nIn SA 3262, the Kings of Númenor, took Sauron captive and brought him to\nNúmenor. Sauron allowed himself to be taken because he wanted to corrupt\nthe Numenoreans. He used their desire for immortality and power to\nconvince them to renounce Eru and worship Morgoth.\n\nAs Sauron's influence increased, the Faithful began to prepare to leave\nNúmenor. They filled their ships with many of their prized possessions,\nincluding the Palantíri.\n\nSauron's lies convinced Ar-Pharazôn that he could achieve immortality in\nthe Undying Lands. In SA 3319, Ar-Pharazon set out with a great fleet\nintending to take the Undying Lands by force but when he set foot on the\nshore, Eru caused the Seas to open up. The fleet sank and Numenor was\ndestroyed by a great wave.\n\nFounding of Gondor\n\nThe ships of the Faithful were spared, and a great wind from the west\nsent them to the shores of Middle-earth. Elendil landed in the north,\nwhilst Isildur and Anárion came to the Mouths of the Anduin in the\nsouth. Elendil and his sons established the Northern-kingdom of Arnor\nand the Southern-kingdom of Gondor in SA 3320. Elendil was the High King\nof both realms, but he dwelled in Arnor and committed the rule of Gondor\nto his sons.\n\nIsildur and Anárion had their thrones side by side in the Great Hall of\nOsgiliath, the city they founded on the Anduin. Anárion lived in Minas\nAnor on the western side of the Anduin, while Isildur made his home in\nIthilien on the eastern side of the Anduin. Anárion had one of the\nPalantír, which he used to communicate with his brother and father.\n\nWar of the Last Alliance\n\nWhen Sauron and the forces of Mordor began attacking Gondor in SA 3429,\nIsildur and the royal family were forced to move from Minas Ithil to\nAnnúminas in Arnor. Anárion successfully defended the city and realm and\nwas able to drive the enemy from Ithilien. The War of the Last Alliance\nbegan in SA 3434. Sauron's forces were defeated in the Battle of\nDagorlad and the army of the Last Alliance entered Sauron's realm and\nlaid Siege of Barad-dûr. The siege lasted seven years and many Men and\nElves were killed. Anárion was killed in SA 3440 in Mordor when a stone\ncast from Barad-dûr, either from falling debris or by catapult, killed\nhim.\n\nHis father Elendil later fought Sauron, and his brother Isildur would be\nthe one to cut the One Ring from Sauron's hand with Isildur's broken\nsword.\n\nTwo years later, his fourth child Meneldil becomes the third King of\nGondor, and so his three older children may have been female or they\nmight have died with him.",
@@ -4092,19 +4133,6 @@
     "spouse": "Loved Andreth, but remained unmarried",
     "hair": "Golden",
     "location": "Gondor"
-  },
-  {
-    "name": "Beleg",
-    "lotr_page_id": "2562",
-    "text": "BELEG, also known as BELEG CÚTHALION or BELEG STRONGBOW, dubbed for his\ngood bowmanship, was a Sindarin elf who served in the army of King Elu\nThingol of Doriath as Chief Marchwarden[1][2] - and was a predominant\ncompanion of Turin Turambar's.\n\n\nBiography\n\n[Beleg Departs Menegroth, by Alan Lee] Beleg “followed no man”, and\n“could not be restrained”. Beleg and his friend Mablung were the only\nElves of Doriath to fight with the Union of Maedhros in the Nirnaeth\nArnoediad, as King Thingol would have nothing to do with the war.[3]\n\nTogether with Mablung he was one of the great captains of the Sindar,\nand he was part of the Hunting of the Great Wolf Carcharoth during the\ntrials of Beren and Lúthien.[4]\n\n[Beleg receives Anglachel, by Alan Lee.]\n\nLater, he became a good friend and brother-in-arms of Túrin Turambar.\nWhen Túrin left Doriath, Beleg got permission from Thingol to follow him\ninto exile and bring him the kings pardon, wielding the black sword\nAnglachel that Eöl had forged and given to Thingol in tribute.[5] Beleg\nfound the band of outlaws Turin was leading while Turin was away\nscouting, and was tortured by the outlaws until Turin found and released\nhim. Unable to persuade Turin to return to Doriath with him, Beleg\nreturned to King Thingol and gained permission to join Turin.[6] He went\ninto the wilds again and found Turin on Amon Rûdh.[7] Together with\nTúrin, wearing the Dragon-helm of Dor-lómin, he became for a while a\ncaptain against Morgoth, and the land they dwelt in became known as the\n_Land of Bow and Helm_ or _Dor-Cuarthol_ in Sindarin.[8]\n\n[Beleg is Slain, by Ted Nasmith]\n\nWhen Túrin was captured by the Orcs, Beleg was grievously wounded, yet\nwith the knowledge and strength of an elite elven warrior, he recovered\nand followed the Orcs. He met the escaped thrall Gwindor in Taur-nu-Fuin\nand together they rescued Túrin, but as Beleg cut the bonds from Túrin's\nwrists and ankles he slipped, accidentally cutting Túrin with his sword.\nTúrin awoke and did not recognize Beleg in the darkness, assuming the\nshape bent over him with a blade was an orc and that he was to be\ntortured again. In a sudden rage of self-defense, he wrested the sword\nfrom Beleg and killed him.[9][10]\n\nAfter his death Túrin made the song _Laer Cú Beleg_, _The Song of the\nGreat Bow_, and was known to sing it at times of grief and pain, in\nhonor of his fallen friend and comrade.[11][12]\n\n\nEtymology\n\nIn Sindarin, _BELEG_ means “mighty”.[13] His epessë (i.e. surname)\n_CÚTHALION_ means “Strongbow”, from the Sindarin _cu_ (“bow”) and\n_thalion_ (“strong, dauntless”).[14][15][16]\n\n\nWeapons\n\nHe wielded the sword ANGLACHEL, forged by Eol, and given to Beleg by\nKing Thingol. His bow was called BELTHRONDING[17] and his arrow was\nDAILIR.\n\n\nOther versions of the legendarium\n\nIn early writings, Beleg was not immediately killed by Túrin. After an\nambush, Túrin was taken alive and Beleg was left for dead. He was\neventually healed of his wounds by Melian, which allowed him to continue\nin search for his friend. He came upon Gwindor in Taur-nu-Fuin, and\ntogether they rescued Túrin. However, Túrin slew Beleg by\nmisadventure.",
-    "other_names": "Cúthalion, Strongbow",
-    "titles": "Chief Marchwarden of Doriath",
-    "birth": "YT?",
-    "death": "FA 489[1]",
-    "weapon": "Anglachel, Belthronding, Dailir",
-    "race": "Elves",
-    "gender": "Male",
-    "culture": "Sindar (Elves of Doriath)"
   },
   {
     "name": "Varda",
@@ -4233,10 +4261,10 @@
     "culture": "Maiar"
   },
   {
-    "name": "Théoden",
+    "name": "King Theoden",
     "lotr_page_id": "193",
     "text": "THÉODEN was the seventeenth King of Rohan, and last of the Second Line\nof the royal house of House of Eorl.\n\n\nBiography\n\nEarlier Years\n\nThéoden was the only son of Thengel, and became king after the death of\nhis father in TA 2980. Théoden spoke Sindarin and Westron more often\nthan Rohirric, due to the influence of his father, and spent a part of\nhis youth growing up in the mountain vales of Gondor, his mother's\nhomeland.[1]\n\nHis sister Théodwyn lived with him in Edoras, and after she and her\nhusband both died he adopted her children Éomer and Éowyn as his own. He\nhad a son Théodred, whose mother Elfhild died in childbirth.[2]\n\nWar of the Ring\n\n[Grima and Théoden, under a spell, in the Golden Hall of Meduseld]\n\nBy the time of the War of the Ring, Théoden had been king for nearly 40\nyears, and was becoming old and tired. He was increasingly misled by his\nchief adviser Gríma (or _Wormtongue_ as most others in the Mark called\nhim), who was secretly in the employ of Saruman the White. Gríma may\neven have been poisoning Théoden. In the last years before the War of\nthe Ring, Théoden let his rule slip out of his hands, and Gríma gained\nan increasingly large hold over him. Rohan was troubled again by Orcs\nand Dunlendings as well as the new fighting Uruk-hai, who operated under\nthe will of Saruman, ruling from Isengard.[3]\n\nWhen Théoden's son Théodred was mortally wounded at a battle at the\nFords of Isen in skirmish with the Orcs of Saruman, his nephew Éomer\nbecame his heir. Éomer fell out of favor with Wormtongue and was\neventually banished from Rohan.\n\nWhen Gandalf the White, Aragorn, Legolas and Gimli appeared before him,\nThéoden initially rebuked Gandalf's advice to resist Saruman, but after\nbeing released from the effects of Gríma, he commanded Hama to release\nhis nephew and bring him his sword, and led the Riders of Rohan into\nbattle against Saruman but having found that Saruman's forces had broken\nthrough Rohan's outer defenses. Théoden, under advice from Gandalf,\nretreated and fought against Saruman's hordes at the Battle of Helm's\nDeep. After this, he became known as THÉODEN EDNEW, the Renewed, because\nhe had thrown off the yoke of Saruman.\n\nBefore the battle, Théoden had made a favorite of Merry, and expressed\ngreat interest in hearing more about The Shire, especially Hobbits' lore\nsurrounding pipe-weed. He led the Rohirrim to the aid of Gondor at the\nBattle of the Pelennor Fields bravely charging the legions of Sauron,\nwhere he won great glory by defeating “The Black Serpent,” a chieftain\nof the Southrons, in single combat.[4]\n\n[King Théoden dies]\n\nHe challenged the Witch-king of the Nine Ringwraiths, and was\nunconscious when his horse Snowmane fell upon him after being spooked by\nthe Ringwraith's fell beast. He was quickly protected by his niece Éowyn\nand the Hobbit Meriadoc Brandybuck both of whom had ridden to war in\nsecret.[5]\n\nTheoden's wounds were mortal and he perished on the plains of Pelennor.\nHis body was preserved in the Hallows of Minas Tirith until Eomer\nreturned to Rohan, and Theoden was buried in Edoras.[6]\n\nAfter his death, a Rohirrim minstrel Gléowine composed a song for him\nand the other Kings of Rohan.[7]\n\n Out of doubt, out of dark, to the day's rising he rode singing in the\nsun, sword unsheathing. Hope he rekindled, and in hope he ended; over\ndeath, over dread, over doom lifted out of loss, out of life, unto long\nglory.\n\n\nEtymology\n\nThe name _THÉODEN_ is taken from the Anglo-Saxon word _þeoden_, meaning\n“lord”. It is related to the Old Norse word _þjóðann_, meaning “leader\nof the people” (i.e. “King”).\n\nIt might have been translated from the original Rohirric TÛRAC, an old\nword for “king”.",
-    "other_names": "Horsemaster,\n[1]\nFather of Horse-men,\nThéoden Ednew[2]",
+    "other_names": "Théoden, Horsemaster, Father of Horse-men, Théoden Ednew[2]",
     "titles": "King of Rohan,\nLord of the Mark",
     "birth": "TA 2948, Gondor[2]",
     "rule": "TA 2980 - TA 3019",
@@ -4391,6 +4419,20 @@
     "location": "Valinor"
   },
   {
+    "name": "Mouth of Sauron",
+    "lotr_page_id": "3210",
+    "text": "The MOUTH OF SAURON was a living man, the ambassador and messenger of\nSauron, the Lieutenant of the Dark Tower of Barad-dûr in Middle-earth\nand one of the most devoted and dark servants of Sauron at the time of\nthe War of the Ring. His true name had been forgotten, even by himself.\n\n\nBiography\n\nThe Mouth of Sauron's early history is unknown, as is his true name and\nhow he first met Sauron. He was a Black Númenórean who briefly appeared\nin person when he haggled with the Army of the West in front of the\nMorannon, trying to convince Aragorn and Gandalf to give up and let\nSauron win the battle for Middle-earth. Had the plans of Sauron\nsucceeded, the Mouth of Sauron would have become the new lord of\nIsengard, replacing Saruman. When Gandalf turned down his proposal, the\nMouth of Sauron set all the armies of Udûn upon them.\n\nThe Mouth of Sauron was the Lieutenant of the Tower of Barad-dûr, and\ncommanded the Orc armies of Gorgoroth. The Mouth of Sauron communicated\ndirectly with the Dark Lord. A man of great stature, potentially the\nequal of other Dúnedain, the Mouth of Sauron had fallen into darkness.\n\nThe Black Númenóreans had established their dwellings in Middle-earth\nduring the years of Sauron's domination and worshipped him. The Mouth of\nSauron entered the service of the Dark Tower when it first rose again\n(its rebuilding began in 2951 of the Third Age), and through cunning\ngrew to power under Sauron and learned great sorcery.\n\nWar of the Ring\n\n[The Mouth of Sauron confronting Gandalf, in the Extended Edition of the\nfilm]\n\nThe Mouth of Sauron appeared briefly before the host of the West prior\nto the Battle of the Black Gate. He insulted the host, asking who had\nauthority to treat with him, and dismissed Aragorn's claim as King. But\nthen Aragorn's gaze frightened him, and he cried out that he was a\nherald and an ambassador, and must not be attacked. Gandalf assured him\nhe would not be, so the Mouth took Gandalf to be the spokesman. He then\nbrought forth Sam's sword, a grey cloak with an Elven-brooch, and\nFrodo's mithril-vest, and said that the fate of the “spy” who carried\nthem would depend on their actions, and insinuated that if they did not\ndo as Sauron demanded, the “spy” would be tortured for many years.\n\nGandalf asked what the terms were, and the Mouth said that the Hobbit\nwould be allowed to go free, so long as the captains follow Mordor's\nconditions: that the “rabble of Gondor and its deluded allies” withdraw\nbeyond the Anduin River, swearing oaths “never again to assail Sauron\nthe Great in arms, open or secret”; that all lands East of the Anduin\nRiver would belong to Sauron alone, forever; that all lands West up to\nthe Gap of Rohan would pay tribute to Mordor; that they could no longer\nkeep and bear arms, though Sauron would allow them to govern their own\naffairs so long as they helped to rebuild Isengard, which would be then\nruled by a master more reliable than Saruman (presumably the Mouth\nhimself). Gandalf replied that was too much for the ransom of one\nservant, and in any case he doubted that Sauron would keep his word.\nGandalf demanded that the prisoner be brought forth, but of course the\nMouth could not comply except to say, “These are the terms. Take them or\nleave them!” Gandalf responded, “These we will take!” and seized the\nMithril coat, the cloak, and the sword, and utterly rejected Sauron's\nterms, before telling the Mouth to be gone, as they had not come to\nbargain with Sauron, much less with one of his slaves. Enraged and\nfearful at the same time, the Mouth fled back to the Gate and set\nMordor's forces upon the West.[1]\n\n\nAge\n\nThe Mouth served Sauron after Sauron came to Mordor. There is some\ndispute over the length of time this implies. If it refers to Sauron's\nmost recent return to Mordor, the Mouth of Sauron would have served\nSauron for some 68 years when he encountered Aragorn and Gandalf. But\nsome have stated that since Mordor “first rose again” during Sauron's\nreturn shortly after the destruction of Númenor, the Mouth of Sauron may\nbe well over thousands of years old. Since no mortal could live that\nlong, and Tolkien says explicitly that he was a living man and not a\nwraith, he is believed to be around the same age, or less, as Aragorn.\nThis is further suggested by drafts of _The Return of the King_, in\nwhich he is a renegade Man of Gondor.",
+    "other_names": "Mordu",
+    "titles": "Lieutenant of Barad-dûr, Messenger of Mordor, Emissary of the Dark Lord,\nAmbassador of Sauron, Captain of the Black Uruks, the \"Mannish\nLieutenant\" of all Orcs of Mordor",
+    "birth": "Second Age, Numenor",
+    "death": "Probably died on March 25 TA 3019",
+    "weapon": "Dark sorcery, sword",
+    "race": "Men",
+    "gender": "Male",
+    "height": "6-7 feet",
+    "culture": "Black Númenóreans"
+  },
+  {
     "name": "Fingon",
     "lotr_page_id": "2450",
     "text": "FINGON, the Valiant was an Ñoldorin Elf, the eldest son of Fingolfin,\nand older brother of Turgon, Aredhel, and Argon.[1]\n\nHe was High King of the Ñoldor in Middle-earth during the First Age\nafter the death of his father. He was an instrument in healing the rift\nbetween the Sons of Fëanor and the followers of his father after their\ndesertion of them in Araman.\n\n\nBiography\n\n[The Children of Fingolfin, by niyochara]\n\nFingon was born in Aman, probably in Tirion where the House of Finwë was\nlocated. When the Ñoldor were resolved to return to Middle-earth, Fingon\nfollowed his father and his people, though they were drawn more to the\nruling of their own realms and adventurism rather than vengeance and the\nrecovery of the Silmarils, as Fëanor and his sons sought. He fought in\nthe first Kinslaying but only because he, seeing Elf fighting Elf,\nbelieved that the Teleri had been told to prevent the Ñoldor from\nleaving Aman by force by the Valar.[2]\n\nAfter Fëanor's abandonment of them, Fingon and his people were led by\nFingolfin and crossed the perilous icy wastes of Helcaraxë. They arrived\nin Middle-earth at the beginning of the First Age and the Noldor\nwitnessed the arising of the Sun.\n\n[Fingon saves Maedhros from Thangorodrim]\n\nAfter the Dagor-nuin-Giliath and the death of Fëanor, Maedhros, Fingon's\ncousin and friend, was taken and hung by the wrist upon Thangorodrim.\nFingon marched to Thangorodrim and with the help of Thorondor, Lord of\nthe Eagles, found Maedhros. Maedhros begged Fingon to kill him, but\nFingon instead severed Maedhros's hand by the wrist, and brought him\nback to the Noldorin camp. It was this act of bravery and compassion\nthat resolved the dispute as to whose house would rule over the Ñoldor\nin Middle-earth, for Maedhros renounced his claim to the High Kingship\nof the Ñoldor, instead ceding it to House of Fingolfin.[3]\n\nFingolfin gave him a domain in Dor-lómin, in the west of Hithlum, where\nhe did good service during the Siege of Angband, defeating an Orc army\nthat attempted to go around to the north and attack Hithlum from the\nwest, and then later the first to fight against the dragon Glaurung when\nhe first came forth from Angband during the Dagor Aglareb.[4]\n\nFingon became High King when Fingolfin died dueling with Morgoth after\nthe Dagor Bragollach. Seven years later, Morgoth's forces invaded\nHithlum, and Fingon was hard-pressed and outnumbered, but Círdan and the\npeople of the Falas, who came up the Firth of Drengist rescued them in\ntheir ships.[5][6]\n\n[The Death of Fingon, by Jenny Dolfen]\n\nFingon's final battle was the Nirnaeth Arnoediad. Fingon led the attack\non Angband, and the fury of his warriors nearly won the day.\nUnfortunately, due to Ulfang's treachery, Maedhros did not arrive until\nthree days after he was expected. This resulted in Morgoth releasing his\nBalrogs and Glaurung the dragon on the already weakened Ñoldor force.\nWhen Maedhros finally arrived, hope was reborn for Fingon's army;\nhowever, Ulfang's treachery again took effect, causing Maedhros to\nwithdraw. Fingon was then surrounded and his guards killed. He dueled\nGothmog, lord of Balrogs, but was struck from behind by another. Gothmog\nthen clove Fingon's helm, and fire sprang from it. This presumably\nkilled Fingon instantly, but the Balrogs proceeded to beat his body into\nthe dust long after he was dead. Thus the day ended in defeat for the\nelves.[7]\n\nHis younger brother Turgon became the next rightful High King of the\nÑoldor, even though his host retreated after the battle and remained\nsecretly in Gondolin.[8][9]\n\n\nCharacter\n\nHe was described as follows: “His valour was as a fire yet steadfast as\nthe hills of stone; wise he was and skilled in voice and hand; troth and\njustice he loved and bore goodwill to all, both Elves and Men, hating\nMorgoth only; he sought not his own, neither power nor glory, and death\nwas his reward.”[10]\n\nThe only note of Fingon's physical appearance describes that Fingon\n“wore his long dark hair in great plaits braided with gold”.[11]\n\n\nEtymology\n\n_Fingon_ is the Sindarin version of his Quenyan father-name\nFINDEKÁNO.[12] The exact origin of the name Findekáno is unclear, but it\nmay possible be from the words _findë_ (“hair”) or _phin_ (“skill”), and\n_kane_ (“valour”)[13] or _káno_ (“commander, lesser chief”).[14]\n\nThe name Findekáno could mean either “cunning commander”, or rather\nunusually, “hair commander”. In Sindarin, _fin_ translates to\n“hair”.",
@@ -4519,10 +4561,10 @@
     "culture": "Ñoldor"
   },
   {
-    "name": "Éomer",
+    "name": "Eomer",
     "lotr_page_id": "302",
     "text": "ÉOMER was a Man of Rohan and the eventual eighteenth King of Rohan, and\nfirst of the Third Line of their kings.\n\n\nBiography\n\nÉomer, born in TA 2991, of the House of Eorl, was the son of Éomund, a\ndescendant of Éofor, and of Theodwyn, sister of Theoden King. In TA\n3002, when Éomer was eleven, Éomund was slain in battle with Orcs.\nTheodwyn died of grief shortly afterward. Éomund also had a daughter\nnamed Éowyn, Éomer's sister. After they were orphaned Théoden adopted\nthem as his own children.\n\nÉomer became the third Marshal of the Mark, and was a strong leader of\nMen. He was honored highly, prized extensively by the king, and was good\nfriends with Théodred, son of Théoden who loved him like a brother.\n\nHis éored hunted down the Uruk-hai that had taken Meriadoc Brandybuck\nand Peregrin Took as they camped near Fangorn forest, slaying them all.\nHe never saw the Hobbits, as they had fled during the battle. Afterwards\nhe met Aragorn, Gimli, and Legolas in the plains of Rohan, and he lent\nthem two horses, Arod and Hasufel.\n\nÉomer returned to Edoras and reported on meeting the Ranger and friends\nand allowing them to go free, a violation of the king's law. Under the\npoisonous advice of Gríma Wormtongue, he was imprisoned by Théoden, who\nhad grown weak, aged, and suspicious under Saruman the White's\ninfluence.\n\nAfter Aragorn, Gimli, and Legolas reunited with Gandalf, the four\nhastened to Edoras, where Gandalf broke Saruman's influence over Théoden\nand restored him to health and vitality. Théoden freed Éomer, who\noffered his sword to Théoden in token of his loyalty. Théoden named\nÉomer his heir prior to riding away from Edoras to the defense of the\nHornburg.\n\n[]\n\nAt the Battle of the Hornburg, he and his éored drove the orcs and\nDunlendings of Saruman into the walls of the Glittering Caves and in the\nHuorn forest, where they were killed. One of the main defences that\nÉomer was involved in was the defence of the gate where he, Aragorn, and\na small band of men left through a small door at the side of the\nHornburg and led an assault on the forces attempting to break the gates\nof the Hornburg. After this attack Éomer and Aragorn attempted to return\nthrough the door when Éomer was jumped upon by several orcs who had laid\nlow during the assault though Éomer was saved by Gimli who had secretly\nfollowed him out to the gate.\n\nAfterwards he rode with Théoden, Aragorn, and Gandalf to Isengard, where\nthey were greeted by Merry and Pippin, who were celebrating their recent\nvictory. Treebeard and his fellow Ents, remained as well in order to\nguard the now imprisoned Saruman and Wormtongue.\n\nAfter the “Warning beacons of Gondor” were lit, Théoden agreed to gather\nwhat forces he had to help defend the city of Minas Tirith against the\nimpending battle with the forces of Mordor. Théoden and Eomer manged to\nrally six thousand soldiers, before travelling to “The White City”. The\narmies of Rohan, manged to arrive at the Pelennor Fields, just before\nthe City Gates could be breached. Eomer fought gallantly, slaying many\nfoes. But Théoden was fatally crushed by his horse, Snowmane, after\nbeing thrown by the Witch King's Fell Beast. Coming upon their corpses,\nEomer was driven to temporary madness at seeing Éowyn, his sister, among\nthe King's retinue, apparently dead, and charged in renewed fury at the\nforces of Mordor. He and Aragorn met on the battlefield and reaffirmed\ntheir loyalty to each other, before returning to the long, grim work of\nwinning the battle.\n\nIn the battle's aftermath, Éomer attended to Éowyn in the Houses of\nHealing, and, with Aragorn and Meriadoc Brandybuck, helped call his\nsister Éowyn back to consciousness. Aragorn said that, as broken as\nEowyn's heart had been over her unrequited love for Aragorn, her love\nfor her brother was much more real to her, and a much more potent reason\nfor her to live.\n\nÉomer became King of the Mark upon Théoden's death. Following the\nbattle, Éomer and his men went back to Edoras to attend to affairs of\nthe kingdom, returning later to bear the body of Théoden back to his\nhome for burial.\n\n[Éomer King at Aragorn's coronation]\n\nÉomer renewed the Oath of Eorl with Aragorn after Aragorn had been\ncrowned King Elessar of the Reunited Kingdom, and Éomer had been crowned\nKing of Rohan, swearing everlasting friendship between Rohan and Gondor\n(and legalizing Cirion's grant of Calenardhon to the Éothéod.)\n\nHe became known as ÉOMER ÉADIG, or “the Blessed”, because during his\nreign Rohan recovered from the hurts of the War and became a rich and\nfruitful land again.\n\nÉomer had met Lothíriel, daughter of Prince Imrahil of Dol Amroth during\nhis stay in Gondor, and they were wed. She bore him a son Elfwine, who\nsucceeded his father, after Éomer's death in the year FO 63.\n\n\nWeapons\n\nÉomer's sword was called _Gúthwinë_ (Old English for “battle-friend”).\nHe also used a spear.\n\n\nEtymology\n\n_ÉOMER_ means “one who is famous in terms of horses” (Old English). The\nidea for his name was derived from the Anglo-Saxon words “eoh”\n(“war-horse”), “maer” (famous), and “éadig” (“blessed”).",
-    "other_names": "Éadig",
+    "other_names": "Éomer, Éadig",
     "titles": "King of Rohan",
     "position": "Third Marshal of the Riddermark",
     "location": "Rohan",
@@ -4710,10 +4752,10 @@
     "culture": "Ñoldor, Gondolindrim"
   },
   {
-    "name": "Éowyn",
+    "name": "Eowyn",
     "lotr_page_id": "192",
     "text": "ÉOWYN was a shieldmaiden of Rohan, daughter of Éomund and Theodwyn,\nyounger sister of Éomer and niece of King Théoden. After the War of the\nRing, she married Faramir and had one son with him, Elboron.\n\n\nBiography\n\n[Young Éomer and Éowyn, by Anna Lee]\n\nÉowyn was the second child of Éomund and Theodwyn. Like her brother\nÉomer, she was related to King Théoden through their mother, the King's\nsister. Her father was slain and her mother died of illness in TA 3002.\nAfterwards, Théoden took Éomer and Éowyn in his household and raised\nthem as his children.\n\nWar of the Ring\n\nDuring the War of the Ring, Éowyn was forced to stay in Meduseld and\ncare for her declining uncle for several years, as he was weakened by\nthe influence of Saruman and Gríma Wormtongue. When Gandalf restored the\nKing, he prepared to defend Rohan against Isengard. Since Théoden\nplanned to ride to battle himself, he asked his doorwarden Háma, to\nsuggest a leader for the people in his absence. Háma recommended Éowyn,\nwho, though a woman, was “fearless” and “all love[d] her.”\n\nÉowyn reluctantly obeyed the King's orders to stay behind in Edoras\nwhile Aragorn, Théoden, and the rest of the men confronted Saruman's\narmy at the Battle of the Hornburg. When they returned, victorious to\nEdoras, Éowyn had kept everything in perfect order for their return. It\nwas near this time when she confessed her growing feelings for Aragorn,\nbut he reluctantly refused.\n\nWhen Denethor II urgently called for Théoden's aid against Mordor, Éowyn\nagain, begged to be allowed to ride with Aragorn to battle, but he\nrefused.\n\nIn bitterness, she disguised herself as a man, under the alias Dernhelm,\nand rode to Minas Tirith on her horse Windfola. She took Meriadoc\nBrandybuck along because he likewise wanted to follow his friends to\nbattle, but had been refused by Théoden. Because Éowyn weighed less than\na man of similar height, Windfola was able to bear both her and\nMerry.[1] [Eowyn fighting the Witch King, by moonxels] During the Battle\nof the Pelennor Fields, she fought in Théoden's escort; when he and his\ncompany were attacked by the Witch-king of Angmar, lord of the Nazgûl,\nshe and Merry were the only riders who did not flee. As Théoden lay\nmortally wounded, she challenged the Witch-King, who boasted that “no\nliving man may hinder me.” In answer, she removed her helmet, exposing\nher long blond hair, and declared, _“No living man am I! You look upon a\nwoman! Éowyn I am, Éomund's daughter. Begone if you be not deathless!\nFor living or dark undead, I will smite you, if you touch him!”_[2]\n\nIn a rage, the Witch-king attacked her, but she cleaved the head off his\nFell Beast. The Witch-king shattered her shield with a blow of his mace,\nbreaking her arm, but stumbled when Merry stabbed his leg from behind\nwith a Barrow-blade of Westernesse make. Éowyn stabbed her sword through\nthe Witch-king's head, killing him,[3] and thus fulfilling Glorfindel's\nprophecy a thousand years earlier at the Battle of Fornost that “not by\nthe hand of man” would the Witch-King fall.[4]\n\n[Éowyn at the Houses of Healing]\n\nHer constitution already severely weakened by her loneliness and\ndespair, combined with her physical injuries, Éowyn succumbed to a\nsevere case of the Black Breath. Théoden, not knowing that she was\nnearby, told Merry with his dying words that she had been “dearer than\ndaughter” to him.\n\nSeeing her lying apparently dead on the battlefield caused her brother\nÉomer to go temporarily mad, and charge in fury at the enemy. But during\nthe battle she was found by Prince Imrahil, who noticed that she was\nstill alive, though barely, and ordered her taken to the Houses of\nHealing. There she was healed by Aragorn, the cure of the plant Athelas,\nand the entreaties of her distraught brother.[5]\n\n[Éowyn and Faramir]\n\nÉowyn remained behind in Minas Tirith while the Army of the West marched\ntoward Morannon, the Black Gate, to challenge Sauron. She met and fell\nin love with Faramir, who had likewise been injured before the battle.\nAfter the War of the Ring had ended, she decided to give up dreams of\nglory in battle and devote her life to peace and a happy marriage.[6]\n\nLater years\n\nAt Éowyn's insistence, Merry was made a Knight of the Riddermark. He\nattended Théoden's funeral and Éomer's coronation as King of Rohan,\nwhere Éowyn presented Merry with a parting gift: the Horn of Rohan, a\nsmall silver horn taken from the hoard of Scatha, the dragon.\n\nFaramir and Éowyn settled in Ithilien, where they had at least one son\n(likely Elboron), and their grandson was Barahir, who wrote _The Tale of\nAragorn and Arwen_ in the Fourth Age. The date of Éowyn's death is\nnowhere recorded.\n\n\nEtymology\n\n_Éowyn_ means “horse lover” in Anglo-Saxon (the language Tolkien used to\nrepresent Rohirric).\n\nThe name was derived from an old Welsh name, _Øwyn_ - slightly altered\nto sound like “A-O-win”. The name in Welsh means “Horse friend”, with\nthe prefix _Éo-_ meaning 'horse' and the suffix ''-wyn ''(“whün”)\nmeaning 'friend.'\n\nPronunciation\n\nThe first syllable of Éowyn's name is pronounced “eh-ah,” with the “ah”\njust barely pronounced. The second syllable pronounced is slightly\ndifferent than it looks, however, being in Welsh it is pronounced “een;”\nthe sound it makes together in an “Eh-awe-een,” having the “w” barely\npronounced at all, instead the word creates its own soft “w” without the\nvoluntary sound, as in Welsh “w” is considered to be a vowel. As in\nScandinavian, the “y” in the second syllable is the same sound as the\nGerman letter _“ü”_ or the French \"_u\"_.\n\nTitles\n\nÉowyn's title was “LADY OF ROHAN” and was also known as “The White Lady\nof Rohan” due to her pale complexion. She also used the alias “DERNHELM”\nwhile riding with Rohan's army, and after her wounding by the Witch-king\nin the Pelennor Fields as “Lady of the Shield-arm”.[7] After her\nmarriage to Faramir she was called the Lady of Ithilien (in contrast to\nFaramir, who was styled Prince of Ithilien), and LADY OF EMYN ARNEN.",
-    "other_names": "Dernhelm, White Lady of Rohan, Lady of the Shield-arm",
+    "other_names": "Éowyn, Dernhelm, White Lady of Rohan, Lady of the Shield-arm",
     "location": "Rohan and Ithilien",
     "language": "Rohirric and Westron",
     "birth": "T.A. 2995",
@@ -4927,7 +4969,7 @@
     "eyes": "Grey[3]"
   },
   {
-    "name": "Samwise Gamgee",
+    "name": "Sam Gamgee",
     "lotr_page_id": "206",
     "text": "[]\n\nSAMWISE GAMGEE, known as SAM, was a Hobbit of the Shire. He was Frodo\nBaggins' gardener and best friend. Sam proved himself to be Frodo's\nclosest and most dependable companion, the most loyal of the Fellowship\nof the Ring, and also played a necessary role in protecting Frodo and\ndestroying the One Ring.\n\n\nBiography\n\nEarly Life\n\n[Sam admiring some flowers]\n\nSam was the youngest son of Hamfast and Bell Gamgee, and had many\nbrothers and sisters. A gardener by trade, Sam seemed to be a simple\nHobbit of plain speech. However, his love for Elves, his gift for\npoetry, and his belief that the world contains greater wonders than most\nhobbits were aware of (all nurtured by his tutor Bilbo Baggins) set him\napart from the beginning. It was Sam who first introduced (in Tolkien's\nnovels) the theme of the Elves sailing from Middle-earth, a subtle\nforeshadowing of Bilbo and Frodo's final journey across the sea from the\nGrey Havens. He lived with his father, Hamfast Gamgee, known as “The\nGaffer”, on Bagshot Row in the Shire, close to Bag End. Sam's mother was\nBell Goodchild. He had five siblings: Hamson, Halfred, Daisy, May, and\nMarigold.\n\n[Sam Gamgee]\n\nQuest of the Ring\n\nAs “punishment” for eavesdropping on Gandalf's conversation with Frodo\nregarding the dangers of the One Ring, Gandalf chose Sam be Frodo's\ncompanion on his journey to Rivendell. Sam saved Frodo's life more than\nonce during the quest to destroy the Ring, and accompanied him all the\nway to Mount Doom.\n\nAfter Shelob attacked and seemingly killed Frodo, Sam took the Ring,\nintending to complete the quest on his own. Because he held the Ring for\na time, he was considered one of the Ring-bearers and during the time he\npossessed it the Ring tempted him with visions of a great garden all for\nhimself. Being humble, Sam never gave into the treacherous visions and\ntemptations of the Ring, and returned it when he discovered Frodo alive\nin the Tower of Cirith Ungol. He and Bilbo were the only ones ever to\nhave given up the ring willingly, and only Sam surrendered it readily.\n\nWhen Orcs took Frodo's body, Sam overheard one of them saying that Frodo\nwas still alive, so he followed the Orcs into the Tower of Cirith Ungol,\ndetermined to rescue Frodo. Once there he found that competing bands of\nUruks and Morgul Orcs had rioted and killed one another over the\npossession of Frodo's Mithril coat, thus making it easier for Sam to get\nto Frodo and escape the tower with him. [Sam carries Frodo to the\nentrance of Mount Doom]\n\nSam and Frodo made their way to Mount Doom, disguised as Orcs along the\nway. The way to Mount Doom was filled with fiery rocks and pillows of\nash which made it almost impossible for the hobbits to pass. When Frodo\ncollapsed from weakness, Sam carried him up the slopes of Mount Doom,\nonly to be stopped by Gollum. Sam delayed Gollum while Frodo walked on\nto the volcano. As Sam, following Frodo, reached and entered the door of\nthe Sammath Naur he didn't notice Gollum following behind. Sam yelled\nfor Frodo to destroy the Ring, but Frodo was overcome by its power and\nclaimed the Ring for himself, putting it on his finger and disappearing\nfrom Sam's sight. Just then Gollum attacked Sam, who fell and hit his\nhead on a rock, temporarily knocking him unconscious. When he came to he\nsaw Gollum fighting with an unseen foe (Frodo, having put on the Ring).\nThen Gollum bit off Frodo's finger, Ring and all, and was reunited with\nhis treasure for a short time, until dancing with joy he toppled off the\nbrink and fell into the depths, destroying the One Ring, and him dying\nin the process with it.\n\nThe two hobbits managed to escape the crumbling mountain, just as the\nvolcano erupted, only to be left helpless atop the remains of giant\nrock,engulfed in a sea of lava . As their demise approached, Sam\nconfessed his love for the beautiful hobbit, Rosie Cotton, a fellow\nresident of Hobbiton, that he dreamed of one day marrying. Sam and Frodo\neventually collapsed from exhaustion, but were spotted by Gwaihir the\nLord of Eagles and with his Eagle companions. Landroval and Meneldor\nrescued Sam and Frodo and flew them to the safety of Minas Tirith.\n\n[The citizens of Minas Tirith bow to the four Hobbits.]\n\nAfter recovering from their strenuous and substantial injuries Frodo and\nSam were greeted by the rest of The Fellowship, who praised the two\nHalfling's for completing their mission. Sam and the rest of the\nhobbits, remained in Gondor to bear witness to Aragorn's Coronation\nCeremony. Many of Middle Earth's esteemed leaders and famed warriors\nwere in attendance as the new King of Gondor was crowned. Aragorn,\ngreeted many of the brave souls who had helped the Fellowship on their\njourney's, but non more so than the four brave hobbits who stood before\nhim. Aragorn and the rest of the city, bowed to the four halflings, in\nadmiration for thier brave acts that ensured the safety of all\nMiddle-earth.\n\nWith the threat of Sauron's return vanquished and the One Ring\ndestroyed, the four hobbits returned to the Shire, where they settled in\nonce again.\n\n[Sam and Rosie at their wedding.]\n\nAfter the War of the Ring\n\nAfter the War of the Ring and the end of the Third Age, Sam married Rose\n(Rosie) Cotton. They had thirteen children: Elanor the Fair, Frodo,\nRose, Merry, Pippin, Goldilocks, Hamfast, Daisy, Primrose, Bilbo, Ruby,\nRobin, and Tolman. When Frodo Baggins announced that he was leaving to\nthe Undying Lands, west of Middle-earth, he gave Sam the Red Book of\nWestmarch and the household of Bag End where he and his large personal\nfamily later called the Gardners would live for many years. After Will\nWhitfoot resigned his post as Mayor of Michel Delving, in SR 1427, Sam\nwas elected Mayor of the Shire for seven consecutive 7-year terms.[1]\n\n[Sam with Elanor, Rosie & Frodo]\n\n[Frodo says goodbye to Sam.]\n\nLater years\n\nAfter his wife died in the year 61 of the Fourth Age (SR 1482), Sam\nentrusted the Red Book to his daughter, Elanor and left the Shire. It is\na tradition handed down from Elanor that he went to the Grey Havens, and\nbecause he was also a Ring-bearer (albeit for a short time), he was\nallowed to pass over the Sea to be reunited with Frodo in the Undying\nLands.[2]\n\n\nEtymology\n\nTolkien took the name from Gamgee Tissue, a surgical dressing invented\nby a 19th century Birmingham surgeon called Joseph Sampson Gamgee.\n“Gamgee” became the colloquial name in Birmingham for cotton wool;\nTolkien described why he had chosen that name for his character:\n\nIt is possible that Tolkien may have subconsciously recalled Dr. Gamgee\n(who died in 1886 but is commemorated by a plaque at the Birmingham\nMedical Institute, only yards from Tolkien's childhood home) but he\nclaimed to be genuinely surprised when, in March 1956, he received a\nletter from one Sam Gamgee, who had heard that his name was in _The Lord\nof the Rings_ but had not read the book. Tolkien replied on March 18:\n\n[3]\n\nHe proceeded to send Mr. Gamgee a signed copy of all three volumes of\nthe book. However, the incident sparked a nagging worry in Tolkien's\nmind, as he recorded in his journal:\n\nIn the Appendix F of _The Lord of the Rings_, Tolkien tells us that the\nWestron form of Sam's name is BANAZÎR GALBASI (_also spelled Galpsi_).\n_Banazîr_ comes from elements meaning “halfwise” or “simple”; Tolkien\nreplaced it with _Samwise,_ a modernization of the ancient English\n_samwís_ which corresponds closely in meaning. _Galbasi_ comes from the\nname of the village _Galabas_. The name _Galabas_ uses the elements\n_galab-_, meaning “game”, and _bas-_, corresponding somewhat to “-wich”\nor “-wick”. Tolkien's English translation, _Samwís Gamwich_, could have\ncome to _Samwise Gamgee_ in modern English. Sam is also known as Perhael\nin Sindarin.[4]",
     "other_names": "Sam,\nSamwis Gamwich,\nSamwise Gammidgy,\nSamwise Gardner,\nSamwise the Brave,\nSneaky little hobbitses,\nBanazîr,\nPerhael (in Sindarin)",
@@ -5044,16 +5086,6 @@
     "culture": "Ñoldor"
   },
   {
-    "name": "Smaug",
-    "lotr_page_id": "397",
-    "text": "SMAUG was a fire drake of the Third Age, considered to be the last\n“great” dragon to exist in Middle-earth. He was drawn towards the\nenormous wealth amassed by the Dwarves of the Lonely Mountain during the\nreign of King Thror, and laid waste to the neighboring city of Dale and\ncaptured the Lonely Mountain, driving the surviving Dwarves into exile.\n\nFor almost two hundred years, Smaug hoarded the Lonely Mountain's\ntreasures to himself, staying within the mountain, until a company of\nDwarves managed to enter the Lonely Mountain and awaken him from\nhibernation. Correctly believing that the dwarves had received\nassistance from the men of Lake-town in entering the Lonely Mountain,\nSmaug left the mountain to wreak destruction upon Lake-town, nearly\ndecimating it before being slain by Bard the Bowman.\n\n\nBiography\n\nOrigins\n\nDetails of his origin are unknown (presumably bred in Angband in the\nlate First Age), but in TA 2770 he attacked the Lonely Mountain and the\ntown of Dale.\n\nThird Age\n\n[Smaug in the original illustration by J.R.R. Tolkien]\n\nIn TA 2770, Smaug came from the mountains in the north, drawn by great\nwealth amassed by the Dwarven kingdom of the Lonely Mountain, which\nincluded gold, gemstones, silver, pearls, the many-faceted crystals of\nemerald, sapphire and diamond, and the famed Arkenstone. He took the\nmountain, killing many dwarves inside it. Thrór and Thráin used the\nsecret door to escape, and the dragon continued ravaging the surrounding\ncountryside for a long time.\n\nFor two centuries, Smaug ruled the Lonely Mountain uncontested, lying\nwithin the great treasure hoard of the Lonely Mountain and ensuring that\nno one entered in an attempt to steal from him. The surrounding domain\nbecame a scarred wasteland known to the Dwarves and men as the\nDesolation of Smaug. Yet in the year TA 2941, a company of fourteen\nadventurers consisting of twelve Dwarves, the hobbit Bilbo Baggins, and\nled by the heir of the Lonely Mountain, Thorin Oakenshield, entered\nSmaug's mountain lair by a secret door in a daring attempt to reclaim\nthe ancient treasure from the dragon. \n\nBilbo, the company's appointed “burglar,” was sent into the treasure\nchamber alone in an attempt to stealthily gather information and steal\nwhat he can without waking Smaug. Once inside, Bilbo was surprised to\nfind that Smaug was much larger than he had expected and covered in\nimpenetrable armor, save for his underbelly. Aware of this\nvulnerability, Smaug deliberately had spent years sprawled on the wealth\nof his hoard, allowing diamonds and hard gemstones to be embedded into\nhis belly, armoring his only weakness. However, while examining the\ndragon, Bilbo noticed a single bare patch on the monster's left breast,\nnearest his heart. With this invaluable information, he escaped the\ndragon's lair and returned to the Dwarves, sharing his discovery of\nSmaug's weakness with them, unaware that he was overheard by a thrush,\nwho carried the secret to Bard the Bowman in nearby Esgaroth, the city\nknown as “Lake-town”.\n\n[Smaug's previous wound in his scales]\n\n[Smaug destroys Lake-town|250x250px|left]\n\nReturning to the treasure chamber, Bilbo attempted to steal a single\ncup, but its theft is immediately noticed by Smaug, who awakens from his\nslumber. Amused by the Hobbit, Smaug converses with Bilbo, attempting to\ndeduce his origins and purpose in the mountain. He quickly surmises that\nBilbo was aiding Thorin and the rest of the Dwarf company in an attempt\nto steal back the Arkenstone and reclaim the Mountain. Smaug flies into\na rage, erupting from the mountain in a fiery wrath and loosening his\nflame upon the land. He flies to Lake-town upon the Long Lake and\ndevastates it. In the midst of the wreck, Bard the Bowman, heir to the\nthrone of Dale, does his best to rally men to repel the dragon's\nassault. Bard, guided by his knowledge of Smaug's secret weakness, fires\na black arrow into the beast's vulnerable spot on his belly. Roaring in\nfury and pain, Smaug falls from the sky and crashes into the flaming\nruins of Lake-town, his death signaled the end of the presence of\ndragons in Middle Earth. \n\nAfter Death\n\n[Smaug's body falls upon burning Lake-town.|250x250px]\n\nAfter Smaug's death, Thorin and Company claimed the treasures of the\nLonely Mountain as theirs by birthright. This created a conflict with\nBard and the Elvenking Thranduil of Mirkwood, each of whom wanted a\nportion of the gold as reimbursement for all the damage Smaug had caused\nto their kingdoms over the years. Thorin refused to share the treasure\nand, as a result, they both declared war on him.\n\nIt is said that a vast fortune in gemstones lay with Smaug's rotting\ncarcass amongst the pilings of old Lake-town, but few had the courage to\ndive for them in later years. With no Dragon to contend with, the\nsurvivors of the town rebuilt on dry land next to the lake. Gandalf\nwould later note the good fortune of the dragon's destruction, as\notherwise Smaug might have proved a continual menace.\n\n\nEtymology\n\nThe name _SMAUG_ is derived from the past tense of the primitive\nGermanic verb _smugan_ (“to squeeze through a hole”). The name is\nassociated with _smeag_ (as in Smeagol), which is a form of the Old\nEnglish _smygel_ (“to burrow”).\n\nThe diphthong “au” in _Smaug_ is pronounced like the “ou” in _sound_ or\n_house_, though the name is often erroneously pronounced _Smog_, most\nnotably in the Rankin/Bass animated movie.\n\nIn Dalish, the language of Dale, the name of Smaug is _'Trāgu'_. It\nis noted to be similar with to the Norwegian word for dragon, _drágë._'\n\nOther names\n\nDuring the conversation between Smaug and Bilbo, Bilbo calls him several\nnames and epithets, such as SMAUG THE:\n\n-   '''Magnificent '''\n-   TREMENDOUS\n-   UNASSESSABLY WEALTHY\n-   MIGHTY\n-   TERRIBLE\n-   STUPENDOUS\n-   TYRANNICAL\n-   CHIEFEST AND GREATEST OF CALAMITIES\n-   YOUR MAGNIFICENCE\n\n\nSize\n\nSmaug's actual size is unknown, as it is never explicitly mentioned in\nthe _The Hobbit_. In _The Atlas of Middle-earth_ by Karen Wynn Fonstad,\nSmaug is said to be about 20 meters (66 feet) in length. This\nmeasurement corresponds with drawings by Tolkien in which Smaug seems to\nbe around 25 meters (82 feet).\n\nIt is unclear whether Smaug, the largest specimen in the Third Age,\nwould compete in mightiness to his ancestors of average size in the\nFirst Age, though he was clearly smaller than Ancalagon, the largest\nknown dragon to have existed.\n\n\nAbilities\n\n[Smaug preparing to shoot fire at Bilbo]\n\nBeing a fully-grown dragon, Smaug was both massive and powerful,\npossessing physical strength capable of crushing stone with ease, as\nseen by his attack on the Lonely Mountain. He was able to fly thanks to\nhis large wings, and had the ability to breathe streams of searing hot\nflame from his mouth. Some comments in _The Hobbit_ imply that his\nentire body was imbued with fire, as he was seen to glow in the darkness\nof the Lonely Mountain's depths, and his usual paths were said to have\nbeen “smoothed and slimed” (i.e. melted) by his passage.\n\nLike many dragons of Middle-earth, Smaug's monstrous appearance also\nbelied keen senses and a dangerously sharp mind. He had an encyclopedic\nknowledge of his treasure hoard, immediately registering the theft of a\nsingle cup after Bilbo made his first visit to his lair. When the hobbit\nreturned a second time, Smaug was already expecting him by feigning\nsleep, and immediately declared that he could sense the thief even if he\ncould not see him. Although Bilbo was clever enough not to fall for\nSmaug's attempts to trick him into revealing his exact position, the\ndragon used the resulting conversation to plant doubts in Bilbo's mind,\ncorrectly guessing that the “burglar” had allied himself with the\nDwarves and the men of Lake Town and asking if Bilbo had ever considered\nthe logistical difficulties of getting his share of Smaug's treasure\nback to his home. Despite his size, Smaug is shown to be agile and\nquick, able to leap over objects with ease, and he can dive at very high\nspeeds with little effort.\n\n[Fire breath, as seen in the film]\n\nDefensively, Smaug's reddish-gold scales rendered him impervious to\nnearly all weapons, but his underbelly was relatively soft and\nvulnerable. To compensate for this, Smaug took to sleeping upon the\ngathered treasure of the Lonely Mountain, allowing bits of gold and\njewels to embed themselves in his body. This “diamond waistcoat” was\nintended to cover his only physical weak spot, but when Bilbo Baggins\nconfronted the dragon in his lair, he discovered a bare patch on the\nleft side of his chest. Bard was told this by an ancient thrush that\noverheard Bilbo relating this information to the Dwarves, enabling\nhim to defeat Smaug by shooting his Black Arrow into the bare patch.\n\n\nPersonality\n\nSmaug is portrayed as being psychopathic, extremely sadistic, confident,\nviolent, cruel, arrogant, intelligent and greedy, possessing an\nunquenchable desire for gold. His most distinguishing characteristic\n(aside from his greed) is his arrogance, as Smaug proudly boasts of his\nsuperiority and impregnability to Bilbo during their encounter. However,\nthis proves to be his downfall, as he unwittingly reveals the weak spot\nin his chest to Bilbo when showing the Hobbit how he had willfully\ncoated his underbelly in treasure to protect it.\n\nSmaug seems primarily motivated by personal greed rather than a desire\nto do evil, and does not seem to serve any allegiance other than his\nown. While he does ruthlessly destroy Dale and lays waste to the Dwarves\nof the Lonely Mountain during his attack on the Lonely Mountain, once he\nhas assumed dominion of the region he seems content to allow the rest of\nMiddle Earth to go about its business, so long as he or his treasure\nremains undisturbed; although this could be because he feels that the\npeople living in the region have nothing he wants. Highly intelligent,\nSmaug appears to possess a rather sardonic sense of humor, darkly\nmocking Bilbo while they converse within the Lonely Mountain's treasure\nchamber. Smaug seems to dislike Dwarves, considering them to be weak and\npathetic creatures far beneath him, making unfavorable comments\nabout Thror and showing no remorse over his slaughter of their kind and\nclaiming of their kingdom. While conversing with Bilbo, Smaug is also\nable to quickly surmise the reason for Bilbo's presence in Erebor, and\nalso correctly deduces that the Dwarves received aid from the men of\nEsgaroth in reaching the mountain.",
-    "other_names": "Smaug the Golden, Lord Smaug the Impenetrable, Trāgu",
-    "location": "Lonely Mountain",
-    "death": "T.A. 2941, Lake-town",
-    "race": "Dragons",
-    "gender": "Male"
-  },
-  {
     "name": "Radagast",
     "lotr_page_id": "266",
     "text": "_'Radagast (ADÛNAIC; IPA: ['RADAGAST] - “TENDER OF BEASTS”) the Brown_',\nalso called '''Aiwendil '''(Quenya; IPA: [ai'wendil] -\n“Bird-Friend”) was one of the five Wizards, or _Istari_. He was a good\nfriend of Gandalf the Grey, whom he aided occasionally. Radagast was\nmainly concerned with the well-being of the plant and animal worlds, and\nthus did not participate heavily in the War of the Ring.  \n\n\nBiography\n\nYears of the Lamps\n\n[Radagast was a Maia named Aiwendil before leaving the Undying Lands]\n\nRadagast was originally a Maia of Yavanna the Fruit-Giver named\nAIWENDIL, meaning “bird-friend”. In Valinor, the land of the Valar, a\ncouncil was called by Manwë, leader of the Valar, shortly after Sauron's\ndefeat in the War of the Last Alliance. Though Sauron was overthrown, it\nwould later turn out that he had not been effectively vanquished and his\nshadow began to fall upon Middle-earth a second time. It was decided to\nsend five emissaries to Middle-earth. These should be “mighty peers of\nSauron, yet forgo might, and clothe themselves in flesh,” as they were\nintended to help Men and Elves unite against Sauron, but the wizards\nwere forbidden from matching the Dark Lord in power and fear.\n\nThe other four who were chosen were Gandalf, Saruman,\nand Alatar and Pallando (the Blue Wizards). Yavanna subsequently begged\nCurumo to take Aiwendil with him.\n\nArrival in Middle-earth\n\nAround the year 1000, the Maiar arrived at the Grey Havens in the west\nof Eriador upon the shores of Middle-earth, having the form of old Men,\nwhom the peoples called _Wizards_. Curumo arrived first and alone, and\nAiwendil arrived at the same time as Olórin.[1]\n\nAiwendil, renamed Radagast, meaning “tender of beasts”, by the Ñoldor,\nprotects the great forests. He was little concerned with the affairs of\nMen and Elves but was far more knowledgeable in plants, birds and beasts\nin the forest. He also turned away from Saruman during this period,\nunaware that he despised him and considered him a fool.\n\nSecond Age\n\nWhen the Wizards took their mission they roamed Middle-earth, but\nRadagast was never much of a traveller.[2] There is not much to be told\nabout his early journeys.\n\nThird Age\n\n[Radagast with fellow Wizard, Gandalf]\n\nIn _The Hobbit_, Gandalf says that Radagast is his cousin,[3] though\nthis more likely refers to their friendship or the fact that they are\nboth Wizards, and not actual close kinship, except in that they are both\nMaiar.[4]\n\nBy the late Third Age he eventually settled down and dwelt, for a time\nat least, at Rhosgobel somewhere between the Carrock and the Old Forest\nRoad.[5] Situated on the western borders of Mirkwood, it can be assumed\nthat the Wizard held watch against the Shadow of Dol Guldur that slowly\nengulfed the forest. It is likely that he became acquainted with the\ninhabitants of that region. Close to animals and birds, he was friends\nwith the Great Eagles.[6] Although the neighboring Beorn was unsociable,\nhe used to see him from time to time, and he considered Radagast “not\nbad” for a Wizard.\n\nWar of the Ring\n\n[Radagast the Brown during The Lord of the Rings]\n\nIn 2851 the White Council met once more and, after that, Saruman began\nto search the Gladden Fields for the One Ring. Radagast decided to aid\nhis search with birds and beasts who acted as spies hoping that\nSaruman's actions would help watch and hinder Sauron. Radagast did this\nin good faith, knowing nothing of Saruman's real ambitions to keep the\nRing for himself.[7]\n\nBy the time of the War of the Ring Radagast did not dwell any more in\nRhosgobel. In summer 3018 Saruman told Radagast that he was willing to\nhelp Gandalf, and sent the Brown Wizard to seek him out at once.\nRadagast did not know much of Eriador but sought for the Shire, knowing\nthat he would find Gandalf nearby.[8]\n\nIndeed, on Midsummer's Day, Radagast was sitting on the side of the\nGreenway with his horse near Bree when Gandalf found him on his way to\nthe village. Radagast warned Gandalf that the Nazgûl were abroad,\ndisguised as riders in black, and that they were seeking news of the\nShire. He also gave him Saruman's invitation and agreed to help Gandalf\nby getting beasts and birds to send news to Orthanc. With that he rode\naway back towards Mirkwood.[9]\n\nBy sending Gandalf to Orthanc, Radagast unwittingly had him captured.\nSaruman's message proved to be a trap for Gandalf who was imprisoned in\nOrthanc, but still he did not believe that Radagast was also a part of\nSaruman's plans. Indeed, it was thanks to Radagast that Gandalf was able\nto escape from the pinnacle of Orthanc upon the wings of Gwaihir.[10]\n\nRadagast's actions during and after the rest of the War are not\nrecorded. After the Council of Elrond, many scouts were sent out from\nRivendell to many different locations. Some passed over the Misty\nMountains and eventually came to Rhosgobel, but they found that Radagast\nwas not there.\n\nHis fate after the War of the Ring is not known.[11] [12]\n\n\nEtymology\n\nHis original, AIWENDIL, meant “bird-friend” in Quenya; IPA: ). It is\ncomprised of the Quenya _aiwë_ ([small] “bird”) and the ending _-ndil_\n(“friend”).\n\nAccording to the essay “The Istari” from the _Unfinished Tales_,\n_Radagast_ means “tender of beasts” in Adûnaic, the language of Númenor.\nHowever, in a later note Tolkien said that the name is in the language\nof the Men of the Vales of Anduin, and that its meaning is not\ninterpretable. The name _Radagast_ may actually be Anglo-Saxon, and\ncould have several interpretations, but, according to ''The Languages of\nMiddle-earth, ''this name is derived from a Slavic pagan god. The name\nRADEGAST was a name for one of West Slavic lesser gods. He is a god of\nthe Sun, war, fertility and harvest. He is also called Radigost,\nRadegast, Radhost, Radhošť, Redigast.[13]\n\n\nCharacter\n\nTolkien's writing does not shed much light on Radagast's personality. In\nthe books, little is known about Radagast apart from certain defining\ncharacteristics. Saruman was the chief of the Order of Wizards and\nGandalf came next in the order; Radagast meanwhile held much less power\nand wisdom.[14]\n\nAs one of the Maiar of Yavanna, Radagast had a great interest in the\nkelvar and olvar of Middle-earth and was a friend to beasts and\nbirds.[15][16] Gandalf, however, held greater respect from, and\nknowledge about, birds than Radagast.[17]\n\nRadagast displayed some qualities of innocence and naivety, making him\nan ideal accomplice of Saruman's plans, seen in providing his services\nto help the White examine the Gladden Fields.[6] Saruman in turn\nconsidered him Simple(minded), a Fool and can be heard saying that he is\nacting in a manner contrary to how an Istari should be.\n\nIn the films he has a eccentric personality, but is also selfless and\nbrave, as shown when healing the hedgehog Sebastian, and in holding off\nan Orc pack so that Thorin & Company could go to Rivendell. He is also\nhighly intelligent, being a Wizard, and has an adept understanding on\nhow nature works, including performing healing spells and at magical\nblasts.\n\nDespite his somewhat childish ways, Radagast is also shown to be adept\nat combat, being able to hold his own against the resurrected Witch King\nof Angmar. He is also brave, and willing to help Gandalf any way he can,\nincluding rescuing him from Dol Guldur and even giving him his staff.\n\nRadagast's fidgety and slightly hyperactive speech pattern is somewhat\nof a trademark of actor Sylvester McCoy, who has a history of playing\neccentric and comedic characters.\n\n\nAbilities\n\nIn the books, during the Council of Elrond, Gandalf refers to Radagast\nas “_master of shapes and changes of hue_”, but the meaning of this is\nopen to question. He was wiser than any man in all things concerning\nherbs and animals. It is said that he spoke many languages of birds.\n\nIn the film, Radagast is portrayed as a strange, eccentric person who\ncan communicate with animals and shows a great knowledge of herbs and\nmedicines, including being able to restore a recently deceased hedgehog\nto life. He is also shown to possess formidable combat abilities, such\nas being able to ward off an attack by the Witch-king of Angmar (or his\nsummoned shade) while investigating Dol Guldur. His preferred form of\ntransportation is a sled made of sticks and pulled by “Rhosgobel\nRabbits”. The sled is fast enough to outrun a pack of Gundabad Wargs,\nwhich were ridden by Orcs under command of Yazneg in the film.\n\n\nBehind the scenes\n\nIt is not known when or if Radagast left Middle-earth. Tolkien writes\nthat he forsook his mission as one of the Wizards by becoming too\nobsessed with animals and plants, so presumably he failed, and might not\nbe allowed to return with honour. Tolkien also wrote that he did not\nbelieve that Radagast's failure was as great as Saruman's and that he\nmay eventually have been allowed (or chose) to return to the Undying\nLands. On the other hand, however, the primary mission of Radagast\nappointed by Yavanna may have actually been to watch over many of the\nflora and fauna of Middle-earth and to ensure their survival in the\nlikely case if Sauron conquered Middle-earth, and in this, he succeeded.\n\n\nOther versions of the legendarium\n\nFrom the first drafts of _The Hobbit_, Bladorthin identifies Radagast as\na fellow wizard and as his 'cousin'. John D. Rateliff notes that, at\nthis stage in the development of Tolkien's legendarium there was no\nreason why a wizard could not have a cousin. Rateliff also suggests that\nit is likely that Tolkien considered explaining Gandalf's absence\n(following the departure of Thorin and Company from Beorn's house) by\nsaying that he went to visit Radagast (who lived close by) to plan the\nattack on the Necromancer.[18]\n\nEarly in the process of writing _The Lord of the Rings_, it is clear\nthat Tolkien envisaged some role for Radagast in the tale.[19] He\neventually decided that he would use Radagast as the means of getting\nGandalf to Isengard.[20]\n\nInitially Gandalf describes Radagast as his 'cousin',[21] as he did in\n_The Hobbit_, but in a subsequent draft he becomes his 'kinsman'.[22] In\nthe final version Gandalf merely says that Radagast is 'one of my\norder'.[23]\n\nTolkien initially called him “Radagast the Grey”, but in pencil he\nchanged this to “Brown” and subsequently Saruman refers to him as\n“Radagast the Brown”.[24]\n\nWhen Tolkien finished writing the story up till Moria, he made notes on\nthe future story development; therein he considered handing over\nIsengard to Radagast.[25]",
@@ -5065,6 +5097,16 @@
     "race": "Ainur (Maiar)",
     "gender": "Male",
     "culture": "Wizards"
+  },
+  {
+    "name": "Smaug",
+    "lotr_page_id": "397",
+    "text": "SMAUG was a fire drake of the Third Age, considered to be the last\n“great” dragon to exist in Middle-earth. He was drawn towards the\nenormous wealth amassed by the Dwarves of the Lonely Mountain during the\nreign of King Thror, and laid waste to the neighboring city of Dale and\ncaptured the Lonely Mountain, driving the surviving Dwarves into exile.\n\nFor almost two hundred years, Smaug hoarded the Lonely Mountain's\ntreasures to himself, staying within the mountain, until a company of\nDwarves managed to enter the Lonely Mountain and awaken him from\nhibernation. Correctly believing that the dwarves had received\nassistance from the men of Lake-town in entering the Lonely Mountain,\nSmaug left the mountain to wreak destruction upon Lake-town, nearly\ndecimating it before being slain by Bard the Bowman.\n\n\nBiography\n\nOrigins\n\nDetails of his origin are unknown (presumably bred in Angband in the\nlate First Age), but in TA 2770 he attacked the Lonely Mountain and the\ntown of Dale.\n\nThird Age\n\n[Smaug in the original illustration by J.R.R. Tolkien]\n\nIn TA 2770, Smaug came from the mountains in the north, drawn by great\nwealth amassed by the Dwarven kingdom of the Lonely Mountain, which\nincluded gold, gemstones, silver, pearls, the many-faceted crystals of\nemerald, sapphire and diamond, and the famed Arkenstone. He took the\nmountain, killing many dwarves inside it. Thrór and Thráin used the\nsecret door to escape, and the dragon continued ravaging the surrounding\ncountryside for a long time.\n\nFor two centuries, Smaug ruled the Lonely Mountain uncontested, lying\nwithin the great treasure hoard of the Lonely Mountain and ensuring that\nno one entered in an attempt to steal from him. The surrounding domain\nbecame a scarred wasteland known to the Dwarves and men as the\nDesolation of Smaug. Yet in the year TA 2941, a company of fourteen\nadventurers consisting of twelve Dwarves, the hobbit Bilbo Baggins, and\nled by the heir of the Lonely Mountain, Thorin Oakenshield, entered\nSmaug's mountain lair by a secret door in a daring attempt to reclaim\nthe ancient treasure from the dragon. \n\nBilbo, the company's appointed “burglar,” was sent into the treasure\nchamber alone in an attempt to stealthily gather information and steal\nwhat he can without waking Smaug. Once inside, Bilbo was surprised to\nfind that Smaug was much larger than he had expected and covered in\nimpenetrable armor, save for his underbelly. Aware of this\nvulnerability, Smaug deliberately had spent years sprawled on the wealth\nof his hoard, allowing diamonds and hard gemstones to be embedded into\nhis belly, armoring his only weakness. However, while examining the\ndragon, Bilbo noticed a single bare patch on the monster's left breast,\nnearest his heart. With this invaluable information, he escaped the\ndragon's lair and returned to the Dwarves, sharing his discovery of\nSmaug's weakness with them, unaware that he was overheard by a thrush,\nwho carried the secret to Bard the Bowman in nearby Esgaroth, the city\nknown as “Lake-town”.\n\n[Smaug's previous wound in his scales]\n\n[Smaug destroys Lake-town|250x250px|left]\n\nReturning to the treasure chamber, Bilbo attempted to steal a single\ncup, but its theft is immediately noticed by Smaug, who awakens from his\nslumber. Amused by the Hobbit, Smaug converses with Bilbo, attempting to\ndeduce his origins and purpose in the mountain. He quickly surmises that\nBilbo was aiding Thorin and the rest of the Dwarf company in an attempt\nto steal back the Arkenstone and reclaim the Mountain. Smaug flies into\na rage, erupting from the mountain in a fiery wrath and loosening his\nflame upon the land. He flies to Lake-town upon the Long Lake and\ndevastates it. In the midst of the wreck, Bard the Bowman, heir to the\nthrone of Dale, does his best to rally men to repel the dragon's\nassault. Bard, guided by his knowledge of Smaug's secret weakness, fires\na black arrow into the beast's vulnerable spot on his belly. Roaring in\nfury and pain, Smaug falls from the sky and crashes into the flaming\nruins of Lake-town, his death signaled the end of the presence of\ndragons in Middle Earth. \n\nAfter Death\n\n[Smaug's body falls upon burning Lake-town.|250x250px]\n\nAfter Smaug's death, Thorin and Company claimed the treasures of the\nLonely Mountain as theirs by birthright. This created a conflict with\nBard and the Elvenking Thranduil of Mirkwood, each of whom wanted a\nportion of the gold as reimbursement for all the damage Smaug had caused\nto their kingdoms over the years. Thorin refused to share the treasure\nand, as a result, they both declared war on him.\n\nIt is said that a vast fortune in gemstones lay with Smaug's rotting\ncarcass amongst the pilings of old Lake-town, but few had the courage to\ndive for them in later years. With no Dragon to contend with, the\nsurvivors of the town rebuilt on dry land next to the lake. Gandalf\nwould later note the good fortune of the dragon's destruction, as\notherwise Smaug might have proved a continual menace.\n\n\nEtymology\n\nThe name _SMAUG_ is derived from the past tense of the primitive\nGermanic verb _smugan_ (“to squeeze through a hole”). The name is\nassociated with _smeag_ (as in Smeagol), which is a form of the Old\nEnglish _smygel_ (“to burrow”).\n\nThe diphthong “au” in _Smaug_ is pronounced like the “ou” in _sound_ or\n_house_, though the name is often erroneously pronounced _Smog_, most\nnotably in the Rankin/Bass animated movie.\n\nIn Dalish, the language of Dale, the name of Smaug is _'Trāgu'_. It\nis noted to be similar with to the Norwegian word for dragon, _drágë._'\n\nOther names\n\nDuring the conversation between Smaug and Bilbo, Bilbo calls him several\nnames and epithets, such as SMAUG THE:\n\n-   '''Magnificent '''\n-   TREMENDOUS\n-   UNASSESSABLY WEALTHY\n-   MIGHTY\n-   TERRIBLE\n-   STUPENDOUS\n-   TYRANNICAL\n-   CHIEFEST AND GREATEST OF CALAMITIES\n-   YOUR MAGNIFICENCE\n\n\nSize\n\nSmaug's actual size is unknown, as it is never explicitly mentioned in\nthe _The Hobbit_. In _The Atlas of Middle-earth_ by Karen Wynn Fonstad,\nSmaug is said to be about 20 meters (66 feet) in length. This\nmeasurement corresponds with drawings by Tolkien in which Smaug seems to\nbe around 25 meters (82 feet).\n\nIt is unclear whether Smaug, the largest specimen in the Third Age,\nwould compete in mightiness to his ancestors of average size in the\nFirst Age, though he was clearly smaller than Ancalagon, the largest\nknown dragon to have existed.\n\n\nAbilities\n\n[Smaug preparing to shoot fire at Bilbo]\n\nBeing a fully-grown dragon, Smaug was both massive and powerful,\npossessing physical strength capable of crushing stone with ease, as\nseen by his attack on the Lonely Mountain. He was able to fly thanks to\nhis large wings, and had the ability to breathe streams of searing hot\nflame from his mouth. Some comments in _The Hobbit_ imply that his\nentire body was imbued with fire, as he was seen to glow in the darkness\nof the Lonely Mountain's depths, and his usual paths were said to have\nbeen “smoothed and slimed” (i.e. melted) by his passage.\n\nLike many dragons of Middle-earth, Smaug's monstrous appearance also\nbelied keen senses and a dangerously sharp mind. He had an encyclopedic\nknowledge of his treasure hoard, immediately registering the theft of a\nsingle cup after Bilbo made his first visit to his lair. When the hobbit\nreturned a second time, Smaug was already expecting him by feigning\nsleep, and immediately declared that he could sense the thief even if he\ncould not see him. Although Bilbo was clever enough not to fall for\nSmaug's attempts to trick him into revealing his exact position, the\ndragon used the resulting conversation to plant doubts in Bilbo's mind,\ncorrectly guessing that the “burglar” had allied himself with the\nDwarves and the men of Lake Town and asking if Bilbo had ever considered\nthe logistical difficulties of getting his share of Smaug's treasure\nback to his home. Despite his size, Smaug is shown to be agile and\nquick, able to leap over objects with ease, and he can dive at very high\nspeeds with little effort.\n\n[Fire breath, as seen in the film]\n\nDefensively, Smaug's reddish-gold scales rendered him impervious to\nnearly all weapons, but his underbelly was relatively soft and\nvulnerable. To compensate for this, Smaug took to sleeping upon the\ngathered treasure of the Lonely Mountain, allowing bits of gold and\njewels to embed themselves in his body. This “diamond waistcoat” was\nintended to cover his only physical weak spot, but when Bilbo Baggins\nconfronted the dragon in his lair, he discovered a bare patch on the\nleft side of his chest. Bard was told this by an ancient thrush that\noverheard Bilbo relating this information to the Dwarves, enabling\nhim to defeat Smaug by shooting his Black Arrow into the bare patch.\n\n\nPersonality\n\nSmaug is portrayed as being psychopathic, extremely sadistic, confident,\nviolent, cruel, arrogant, intelligent and greedy, possessing an\nunquenchable desire for gold. His most distinguishing characteristic\n(aside from his greed) is his arrogance, as Smaug proudly boasts of his\nsuperiority and impregnability to Bilbo during their encounter. However,\nthis proves to be his downfall, as he unwittingly reveals the weak spot\nin his chest to Bilbo when showing the Hobbit how he had willfully\ncoated his underbelly in treasure to protect it.\n\nSmaug seems primarily motivated by personal greed rather than a desire\nto do evil, and does not seem to serve any allegiance other than his\nown. While he does ruthlessly destroy Dale and lays waste to the Dwarves\nof the Lonely Mountain during his attack on the Lonely Mountain, once he\nhas assumed dominion of the region he seems content to allow the rest of\nMiddle Earth to go about its business, so long as he or his treasure\nremains undisturbed; although this could be because he feels that the\npeople living in the region have nothing he wants. Highly intelligent,\nSmaug appears to possess a rather sardonic sense of humor, darkly\nmocking Bilbo while they converse within the Lonely Mountain's treasure\nchamber. Smaug seems to dislike Dwarves, considering them to be weak and\npathetic creatures far beneath him, making unfavorable comments\nabout Thror and showing no remorse over his slaughter of their kind and\nclaiming of their kingdom. While conversing with Bilbo, Smaug is also\nable to quickly surmise the reason for Bilbo's presence in Erebor, and\nalso correctly deduces that the Dwarves received aid from the men of\nEsgaroth in reaching the mountain.",
+    "other_names": "Smaug the Golden, Lord Smaug the Impenetrable, Trāgu",
+    "location": "Lonely Mountain",
+    "death": "T.A. 2941, Lake-town",
+    "race": "Dragons",
+    "gender": "Male"
   },
   {
     "name": "Celeborn",
@@ -5084,6 +5126,23 @@
     "culture": "Grey Elves",
     "lotr_page_id": "249",
     "location": "Lothlórien"
+  },
+  {
+    "name": "Tom Bombadil",
+    "lotr_page_id": "429",
+    "text": "TOM BOMBADIL was an enigmatic figure that lived throughout the\nhistory of Arda. He was known by the Elves as _IARWAIN BEN-ADAR_\n(“Oldest and Fatherless” in Sindarin), who dwelt in the valley of the\nriver Withywindle, east of the Shire.\n\nA mysterious being, Tom lived in the depths of the Old Forest, close to\nthe Barrow Downs. His lands were not particularly extensive, but within\nhis domain his power over virtually everything in it was extraordinary.\nTom was a paradoxical creature, one moment defeating ancient forces with\nhardly an effort, the next capering and singing nonsensical songs. He\nlived with his wife Goldberry, “Daughter of the River,” far from any\nother settlement. Although seemingly benevolent, he took no stance\nagainst the Dark Lords.\n\n\nBiography\n\nOrigins & First Age\n\nThe origins and nature of Tom Bombadil are unknown; however, he already\nexisted when the Dark Lord came to Arda,[1] signifying he may have been\nalive even before the coming of the Valar. However, he may have been\nspeaking in this instance of Melkor's second entry into Arda after he\nwas driven out by the arrival of Tulkas.\n\nHis role and nature in the First Age is unknown, but he must have\nwitnessed most of the major events and battles. He also witnessed the\nreducing of the great forests that covered all Middle-earth, and perhaps\nof his powers.[2]\n\nThe level of his interactions with the outside world is also unclear;\nhowever, he seemed to have a name among many people and perhaps became a\nfolkloric figure in the traditions and legends of Elves, Dwarves and\nMen. He has already also lived in the west much before the Elves went\nthere and the tides were folded. It had been sometime in this period,\nprobably, that he met the River-daughter, Goldberry, with whom he would\neventually marry.[3]\n\nThird Age\n\n[A picture of Tom Bombadil]It is not known when Tom settled into his\ndomain outside the Old Forest, but it is clear, by the time of the War\nof the Ring, that he has been there for quite some time. Farmer Maggot\nof Marish in the Eastfarthing and a few Bucklanders knew him and were\nfriendly with him.\n\nWar of the Ring\n\nIn TA 3018, Frodo and his company had a chance meeting with Bombadil in\nthe Old Forest after a nearly disastrous encounter with Old Man Willow.\nFrodo, who had fled from the tree looking for help, enlisted Bombadil,\nwho had been out gathering water lilies. Bombadil went immediately with\nFrodo to the tree and commanded it to release its prisoners, Merry and\nPippin, which it immediately did. He then invited Frodo and his\ncompanions to his home, where the Hobbits had an almost dreamlike stay,\nfeasting and making merry with Tom. In this state, Frodo rather\ninadvertently told Tom all about the Ring and his quest, and when Tom\nasked to inspect the Ring, Frodo, without question and without any of\nthe reluctance that tended to accompany giving the Ring to another,\nallowed him to. Tom then put the Ring on his finger, yet not only did he\nnot disappear, but the Ring appeared to have no effect on him at all.\nAfter making the Ring itself vanish with a sleight-of-hand trick, he\nreturned it to Frodo, who, slightly suspicious that it had not made Tom\nvanish, put it on to make sure it was the genuine Ring. Tom surprised\nhim yet again by revealing that he could see Frodo even with the Ring\non, and told Frodo to remove it, stating that his hand was fairer\nwithout it.\n\nAfter two days resting and feasting at Tom's home, the Hobbits set out\nagain, only to be captured the next day by Wights on the Barrow-downs\nFortunately, Tom once again came to their rescue, dispersing the Wights\nand breaking open their tomb.[4] After this, he escorted the Hobbits to\nthe borders of his land and left them there.\n\nThe peril of the hobbits was not over; an attack on their lives was\ncarried out, and their ponies were set loose. The ponies apparently\nremembered the care they were given in the house of Tom Bombadil, and\nreturned to stay beside Tom's own pony, Fatty Lumpkin. He returned them\nto Barliman Butterbur, the proprietor of The Prancing Pony. Since he had\npaid eighteen pence as compensation for the loss, he was now the owner\nof five fine ponies.[5]\n\nOver a month later, Tom became a topic of discussion at the Council of\nElrond. There, Elrond, who had apparently met Tom in times long past,\nreminisced about him briefly before the question was put before the\nCouncil of whether or not to give the Ring to Tom, as it appeared as\nthough Tom may have had power over even the Ring within his lands.\nHowever, Gandalf quickly dismissed the idea, saying that rather than Tom\nhaving power over the Ring, the Ring simply had no power over Tom. He\nwas immune to its influence, but he could not alter it. There is however\nevidence of Toms ability to effect the rings power over others, as we\nsee Frodo freely give the ring to Tom without the usual hesitation or\nprotective behaviours. Additionally, he said that, while Tom might be\nwilling to take the Ring if asked by all the Free People of the world,\nhe might do so, but would not understand the reason. Due to this, Tom\nwould have likely either forgot about it or thrown it away, as such\nthings had little relevance to him. It was also mentioned that taking\nthe Ring back to him would be impossible to accomplish without it\nbecoming known to Sauron, and that sooner or later, Sauron would bend\nall his power towards Tom's realm to take the Ring back. Despite his\nmastery within his realm, it was assumed that Tom would not have cared\nor been able to keep the Ring contained to his realm.\n\nAfter War\n\nFour years after the One Ring was destroyed, Gandalf spent some time\nwith Bombadil. It is unknown how the meeting was or what they discussed\nbetween them. Gandalf remarked to the Hobbits that Bombadil would\ndoubtless have little interest in the tales of their adventures, except\nperhaps their encounters with the Ents.\n\n\nInterpretations and Description\n\n[Tom Bombadil's hat]There are many theories of his origins, such as of\nhim being in truth a Maia, a man, Ilúvatar himself, or even the reader,\nthough more on this can be found elsewhere (see below). He appeared as\nan old man, at least to Hobbit eyes, with a wrinkled and ruddy face,\nbright blue eyes, and a bristling brown beard. He was said to be taller\nthan a typical Hobbit, but too short to be a Man, which would put him\nsomewhere between four and a half and five feet in height. He spoke in\nstress-timed metre.\n\nHis clothing consisted of a blue jacket and yellow boots, and he wore an\nold and battered hat, surmounted by a feather. He seems to have\npreferred to wear a swan-feather in his hat, but before he met Frodo and\ncompany on the banks of the Withywindle, he had acquired the feather of\na kingfisher instead. In his own house, rather than a hat, he wore a\ncrown of autumn leaves.[6]\n\nIn his preface to _The Adventures of Tom Bombadil,_ Tolkien tells us\nthat Tom's name is “Bucklandish in form,” and suggests that it was given\nto him by the Hobbits of that region, as he has many other names. The\nresemblance of the -dil ending to the common Elvish _(n)dil,_ “friend,”\nmay or may not be coincidental. Despite seeming to be a rather whimsical\nand nonsensical being, he was well known to many powerful beings in\nMiddle-earth, including Elrond and Gandalf, and he could be serious if\nthe need arose.[7]\n\nSee also: _The Letters of J. R. R. Tolkien_, with special reference to\nLetters 144 and 153.[8]\n\n\nAbilities\n\n[Tom Bombadil's immunity to the One Ring]Goldberry described him as\nbeing “Master of wood, water and hill.” His power over supernatural\nbeings is evidenced by both his freeing the Hobbits from Old Man Willow\nand his rescue of them from the Barrow-wights, whose cursed treasure he\nwas also able to make clean. Here it is seen that the One Ring has no\npower over Bombadil; he can see Frodo when the Ring makes him invisible\nto others, and can wear it himself with no effect. He even tosses the\nRing in the air and makes it disappear, but then produces it from his\nother hand and returns it to Frodo. While this seems to demonstrate that\nhe has unique and mysterious power over the Ring, the idea of giving him\nthe Ring for safekeeping is rejected in Book Two's second chapter, “The\nCouncil of Elrond”. Gandalf says, rather, that “the Ring has no power\nover him...” and believes that Tom would not find the Ring to be very\nimportant and so might simply misplace it.\n\n\nEtymology\n\nTom Bombadil went by many names:\n\n-   To Elves and Dúnedain he was known as IARWAIN BEN-ADAR, which\n    translates to “oldest and fatherless”.[9] _Iarwain_ literally means\n    “Old-young”.[10]\n-   To Men of the Vales of Anduin and Rohan, he was known as ORALD.[11]\n    This is an Old English word meaning \"very ancient.[12]\n-   The Dwarves knew him as FORN.[13] This too is a reference to his\n    age: it is Old Norse for “(belonging to) ancient (days)”.[14]\n-   _Tom Bombadil_ is said to be a Bucklandish name, added by Hobbit\n    chroniclers to his many older ones. Like most Bucklandish names, its\n    translation is unknown.[15]\n\n\nInspiration\n\nTom Bombadil was inspired primarily from a doll Tolkien's son, Michael,\ntoyed with.\n\nPaula Marmor notes that bobadil is an archaic word meaning “braggart”,\nas seen in the character “Captain Bobadill” in the English play Every\nMan in His Humour. Because of its Bucklandish form, An Introduction to\nElvish lists the name Bombadil under the “Celtic-sounding names”.\nHowever, it is said that the word derives from Boabdil, the Spaniard\nname of Abu Abdillah Muhammad XII, the last Moorish ruler of\nGranada.[16]\n\nJohn D. Rateliff has noted a theory launched by scholar Justin Noetzel.\nIn the latter's paper “Beorn and Tom Bombadil: Mythology, Narrative, and\nThe Most (Non) Essential Characters in Middle-earth”, Noetzel suggests\nan association of Tom Bombadil with the Celtic Otherworld and tales of\nthe Tuatha Dé Danann.[17]\n\nIn _The Letters of J. R. R. Tolkien_, Tolkien describes Goldberry as the\nseasonal changes in nature, and Tom Bombadil as the spirit of the\n(vanishing) Oxford and Berkshire countryside, meaning that Tom'' is\n''the countryside existing in Time, alive and embodied; However, this\nletter was in reference to works which pre-dated the writings of _Lord\nof The Rings_ and thus may not be true of Tom as he appears in _Lord of\nthe Rings_.\n\n\nQuotes\n\n\nOther versions\n\n_The Adventures of Tom Bombadil_, a book of verse published in 1962,\npurported to contain a selection of Hobbit poems, two of which were\nabout Tom Bombadil and include his adventure with Badger folk. He also\nappears in the poem _The Stone Troll_, supposedly composed by Sam Gamgee\nand recorded in the _Red Book of Westmarch_, in which Tom mentions his\n“nuncle” Tim, on whose bones the troll is feeding, and he also mentions\nhis father.",
+    "other_names": "Iarwain Ben-adar,\nOrald,\nForn,\n\"Moss gatherer\"",
+    "titles": "Elderest\nThe First",
+    "birth": "Unknown, before the coming of Melkor",
+    "death": "Unknown, possibly immortal",
+    "realms": "Old Forest",
+    "spouse": "Goldberry",
+    "weapon": "Songs",
+    "race": "Unknown",
+    "gender": "Male",
+    "hair": "Brown",
+    "eyes": "Blue",
+    "culture": "Unknown"
   },
   {
     "name": "Isildur",
