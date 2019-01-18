@@ -1,5 +1,5 @@
 const fs = require('fs')
-const podaci = require('./data/characters.json')
+const podaci = require('./data/cultures.json')
 
 const obradjeno = podaci
   .map(x => {
