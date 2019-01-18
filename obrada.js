@@ -1,5 +1,5 @@
 const fs = require('fs')
-const podaci = require('./data/races.json')
+const podaci = require('./data/cultures.json')
 const karakteri = require('./data/characters.json')
 
 // koliko kojih atributa

@@ -5873,5 +5873,111 @@
     "spouse": "Ossë",
     "gender": "Female",
     "culture": "Maiar"
+  },
+  {
+    "name": "Forweg",
+    "lotr_page_id": "22027",
+    "text": "FORWEG was an Edain of the House of Hador and the original leader of\nthe outlaw company known as 'the Gaurwaith'.\n\n\nBiography\n\nForweg was probably one of those that fled the Nirnaeth Arnoediad with\nothers of the outlaw band like Algund and Andróg. He was a large man,\nbold but wise and generous at times - although how or why he became the\nleader of Gaurwaith is not known. He and his men once encountered Túrin\nafter trailing him in the Woods of Brethil. He allowed Túrin to join\nthem when he saw his strength and resolve. On day Forweg and Andróg had\ndisappeared without Túrin's knowledge and others laughed when he asked\nabout them, then weary of the outlaws squalid camp, Túrin wandered into\nthe woods far from the camp. Suddenly, Túrin heard the cries of a woman\nbeing chased by men through a hazel-thicket. When her pursuer emerged\nfrom the thicket, Túrin struck him down killing him. When he looked down\nhe saw that it was none other then Forweg, their leader. Hearing what\nthe woman said about Forweg and Andróg, he discovered they had intended\nher harm and warned the others to leave her alone or face death despite\ntheir anger over the death of Forweg. Túrin then assumed leadership of\nthe group.",
+    "titles": "Captain of the Gaurwaith",
+    "birth": "Late First Age ?",
+    "death": "Late First Age ?",
+    "spouse": "Unknown, probably none",
+    "weapon": "Bow, Sword",
+    "race": "Men",
+    "gender": "Male",
+    "hair": "Fair",
+    "eyes": "Unsteady and glittering",
+    "culture": "Edain (House of Hador), Gaurwaith"
+  },
+  {
+    "name": "Fram",
+    "lotr_page_id": "2272",
+    "text": "FRAM was the son of Frumgar and the fourth Lord of the Éothéod.\n\n\nBiography\n\nFram and his people lived in the far northern part of the Wilderland\njust below the Grey Mountains in mid-Third Age. He was most famous for\nslaying the evil worm Scatha, a Cold-drake, in TA 2000. Afterwards he\nclaimed the Dragon's treasure horde which the Dwarves believed\nrightfully belonged to them. Knowing this, he sent back to them a\nnecklace made from the teeth of Scatha along with a message that the\nDwarves found insulting. This may have started a war between the two\npeoples that may have been Fram's demise.\n\nHe may have also founded the Éothéod capital of Framsburg.",
+    "titles": "Lord of the Éothéod",
+    "birth": "TA 1967",
+    "death": "Unknown, sometime after TA 2000",
+    "spouse": "Unknown",
+    "race": "Men",
+    "gender": "Male",
+    "culture": "Éothéod"
+  },
+  {
+    "name": "Galion",
+    "lotr_page_id": "11193",
+    "text": "GALION was a Nandorin Wood-elf of the Woodland Realm in Northern\nMirkwood.\n\n\nBiography\n\nGalion was the King's butler and was probably one of his many servants.\nHe was also charged with shipping out the empty barrels into the\nunderground river down the Long Lake and finally back to Lake-town. He\nwas very fond of his wine. It is not known when or where he was actually\nborn or if he lived in the realm when it was known as _Greenwood the\nGreat_. Drinking with the guard captain, he fell asleep allowing Bilbo\nto steal the keys and release the Dwarves from prison.",
+    "race": "Elves",
+    "gender": "Male",
+    "culture": "Nandor (Elves of Mirkwood)"
+  },
+  {
+    "name": "Lorgan",
+    "lotr_page_id": "9402",
+    "text": "LORGAN was the chief of the Easterlings in Hithlum after the Nirnaeth\nArnoediad, with claims on Dor-Lómin as well.\n\n\nBiography\n\nLorgan was cruel slavemaster holding many Men and perhaps Elves in\nthralldom. Forcibly taking him away from his Elf protectors, he enslaved\nTuor for three years until he managed to escape out of the north.\nAfterwards, Lorgan put a price on his head.",
+    "titles": "Chief of the Easterlings",
+    "birth": "Late First Age",
+    "death": "Late First Age",
+    "race": "Men",
+    "gender": "Male",
+    "culture": "Easterlings of Morgoth"
+  },
+  {
+    "name": "Morwë",
+    "lotr_page_id": "31878",
+    "text": "MORWË, along with Nurwë, refused the summons of the Valar to Aman.\n\n\nBiography\n\nUpon discovering the awakening of the Elves in Cuiviénen, the Vala Oromë\ntraveled back to Valinor to bring news. When Oromë returned to the\nElves, he invited them. Ingwë, Finwë, and Elwë served as their\nambassadors. The ambassadors returned three years later to persaude the\nother Elves to come to Aman. Morwë and Nurwë refused the summons,\nleading the Avari in Cuiviénen.[1]\n\n\nEtymology\n\nThe Quenyan _mor_ means (“black”) and the suffix _-wë_ occurs in many\nnames, though not exclusively masculine.",
+    "birth": "Perhaps Firstborn",
+    "race": "Elves",
+    "culture": "Dark Elves"
+  },
+  {
+    "name": "Náin I",
+    "lotr_page_id": "780",
+    "text": "Náin I was the son of Durin VI, and succeeded his father as King of\nKhazad-dûm.\n\n\nBiography\n\nWhen his father was slain by the Balrog, Náin I attempted to destroy it,\nbut was himself killed the following year. The remainder of Durin's Folk\nfled Khazad-dûm, and renamed it Moria. He was succeeded on the throne of\nDurin's Folk by his son Thráin I who fled to the Grey Mountains and the\nLonely Mountain.",
+    "titles": "King of Durin's Folk, King of Khazad-dûm",
+    "birth": "TA 1832",
+    "rule": "TA 1980",
+    "death": "TA 1981",
+    "realms": "Khazad-dûm",
+    "spouse": "Unnamed wife",
+    "weapon": "Unknown, probably a battle Axe",
+    "race": "Dwarves",
+    "gender": "Male",
+    "culture": "Durin's Folk, Dwarves of Khazad-dûm"
+  },
+  {
+    "name": "Náin II",
+    "lotr_page_id": "781",
+    "text": "NÁIN II was a Dwarf of Durin's Folk and a King of Durin's Folk.\n\n\nBiography\n\nNáin was born in the Grey Mountains, and the son of Óin. He succeeded\nhis father in TA 2488. Under Náin II, the Dwarves lived peacefully in\nthe mountains but the time of the Watchful Peace had come to an end and\nmany dangers were growing from the West and North. During the final\nyears of his reign, the dragons came down from the northern wastes and\nbegan to make war upon the Dwarves. Náin was 247 years old when he died.\nHe was succeeded by his son, Dáin I. He had a younger son Borin, from\nwhom several of Thorin Oakenshield's companions were descended.",
+    "titles": "King of Durin's Folk",
+    "birth": "TA 2338[1]",
+    "rule": "TA 2488",
+    "death": "TA 2585[1]",
+    "realms": "Grey Mountains",
+    "spouse": "Unnamed wife",
+    "weapon": "Unknown, probably a Battle-axe",
+    "race": "Dwarves",
+    "gender": "Male",
+    "culture": "Durin's Folk, Dwarves of the Grey Mountains"
+  },
+  {
+    "name": "Náin (son of Grór)",
+    "lotr_page_id": "8567",
+    "text": "NÁIN was a Dwarf of Durin's Folk.\n\nNáin was the grandson of King Dáin I of Durin's Folk, the son of Dáin's\nyoungest son Grór, and the father of Dáin Ironfoot. Náin was slain at\nthe Battle of Azanulbizar. After Náin's death the lines of Grór's two\nelder brothers failed, and Náin's son Dáin Ironfoot became King.[1]\n\n\nBiography\n\nEarly Life\n\nNáin was born in TA 2665. Very little is known about Náin's early life,\nbut apparently he lived for many years in the Iron Hills with his\nfather, wife, and son.\n\nWar of the Dwarves and Orcs\n\nNáin was one of the Dwarves who took part in the War of the Dwarves and\nOrcs around TA 2790 - TA 2793. During the Battle of Azanulbizar in TA\n2799, Náin turned the tide of battle when he led a fresh army of\nDwarves, who drove through the host of Orcs up to the East-Gate of\nMoria. Náin stood before the Gate, and in his wrath he cried with a\ngreat voice for Azog to come out and face him. Finally Azog appeared,\nfresh and fully armed, and the two fought. Náin withstood Azog's assault\nuntil, blinded by his great rage, he swung a great stroke with all his\nstrength at Azog. The Orc chief dodged the blow and kicked Náin’s leg,\ncausing him to fall forward. Náin's mattock splintered on a nearby\nstone, and Azog's return swing broke Náin's neck, killing him.\n\nAzog didn't have long to celebrate his slaying of the great Dwarf, as\nhis host was in the midst of a great rout. Then, as he attempted to\nre-enter Moria, the young Dáin Ironfoot leaped up the steps and with his\nred axe decapitated Azog, avenging his father's death. Náin’s body was\ncremated on great wooden pyres along with the other Dwarves who had\nfallen in the battle. Náin and the Dwarves who were cremated with him\nthat day were afterward known as the Burned Dwarves of Azanulbizar.",
+    "birth": "TA 2665",
+    "death": "TA 2799 (aged 134)",
+    "spouse": "Unnamed wife",
+    "weapon": "Battle axe",
+    "race": "Dwarves",
+    "gender": "Male",
+    "culture": "Durin's Folk"
+  },
+  {
+    "name": "Shagrat",
+    "lotr_page_id": "263",
+    "text": "[LEGO Shagrat]\n\nSHAGRAT was a large, long-armed Black Uruk, Captain of the Tower of\nCirith Ungol, and the commander of one of the two orc patrols that found\nFrodo Baggins after he had been poisoned by Shelob. Later his Black Uruk\ntower garrison fought over possession of Frodo's Mithril mail-shirt with\nthe orc patrol from Minas Morgul led by Gorbag and sent up the Stair of\nCirith Ungol to investigate matters. Shagrat interpreted his orders\nliterally: all captives to be searched, but left unharmed and they and\ntheir possessions taken to Barad-dûr. Gorbag coveted Frodo's pretty\ndwarven mithril mail shirt for himself. A fight soon started. Gorbag\nwounded Shagrat in the arm with a knife, but was eventually killed by\nShagrat. Their respective followers began fighting also, and slaughtered\neach other wholesale over the next several hours.\n\nLater Sam, carrying the One Ring, infiltrated the Tower of Cirith Ungol\nand soon realized that the garrison was effectively wiped out.\nUnfortunately, Shagrat managed to get past him carrying Frodo's armor\nand other personal items and escaped to take them to Lugbúrz (Barad-dûr)\nas ordered.\n\nIt is possible that Shagrat was killed by Sauron or the authorities at\nBarad-dûr for the events that occurred at the Tower of Cirith Ungol.\nAlternatively, he may have been rewarded for his loyalty by being\nallowed to march to the Black Gate alongside his fellow orcs and Uruks\nas one of their captains. If so, it's unknown whether he was killed in\nthe battle or the subsequent destruction of Mordor following Sauron's\ndownfall, or if he survived and fled.",
+    "titles": "Captain of Cirith Ungol",
+    "weapon": "Scimitar,\nknife",
+    "race": "Black Uruk",
+    "gender": "Male",
+    "culture": "Black Uruks of Cirith Ungol"
   }
 ]
