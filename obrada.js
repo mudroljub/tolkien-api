@@ -1,5 +1,5 @@
 const fs = require('fs')
-const podaci = require('./data/cultures.json')
+const podaci = require('./data/characters.json')
 const karakteri = require('./data/characters.json')
 
 // koliko kojih atributa
@@ -18,27 +18,27 @@ Object.keys(recnik)
 
 
 // skup karaktera koji se pominju
-const bitniKarakteri = podaci.reduce((acc, x) => {
-  if (x.notable_members) {
-    if (x.notable_members.includes("Maiar")) console.log(x.name)
-    return new Set([...acc, ...x.notable_members.split(", ")].sort())
-  }
-  return acc
-}, new Set())
+// const bitniKarakteri = podaci.reduce((acc, x) => {
+//   if (x.notable_members) {
+//     if (x.notable_members.includes("Maiar")) console.log(x.name)
+//     return new Set([...acc, ...x.notable_members.split(", ")].sort())
+//   }
+//   return acc
+// }, new Set())
 
 /* mapira karaktere sa necim */
 
 // const a = new Set(podaci.map(x => x.cultures).sort())
-const postojeci = new Set(karakteri.map(x => x.name).sort())
-const difference = new Set(
-  [...bitniKarakteri].filter(x => !postojeci.has(x)).sort())
+// const postojeci = new Set(karakteri.map(x => x.name).sort())
+// const difference = new Set(
+//   [...bitniKarakteri].filter(x => !postojeci.has(x)).sort())
 
-console.log("Bitni karakteri: ")
-console.log(bitniKarakteri)
-console.log("Postojeci: ")
-console.log(postojeci)
-console.log("Fali: ")
-console.log(difference)
+// console.log("Bitni karakteri: ")
+// console.log(bitniKarakteri)
+// console.log("Postojeci: ")
+// console.log(postojeci)
+// console.log("Fali: ")
+// console.log(difference)
 
 
 // const obradjeno = podaci.map(x => {
@@ -55,7 +55,16 @@ console.log(difference)
 //   return x
 // })
 
-const obradjeno = karakteri
+const obradjeno = podaci
   .sort((a, b) => a.text.length - b.text.length)
-  // .filter(x => x.culture && x.culture.toLowerCase().includes("hobbit"))
+  .map(x => {
+    // if (!x.location && x.realms) {
+    //   x.location = x.realms
+    //   delete x.realms
+    // }
+    delete x.realms
+
+    return x
+  })
+
 fs.writeFileSync('filtrirano.json', JSON.stringify(obradjeno, null, 2))

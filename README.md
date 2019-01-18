@@ -8,8 +8,7 @@ Otvaranje članka po id-u:
 
 ## TODO
 
-- proveriti glavne likove, npr gan buri gan
-- proveriti koji su karakteri izgubljeni u procesu sa ostalo-bekap.json
 - ukloniti atribut gallery i jos neke
+- ponovo normalizovati atribute
 - u vrednostima zameniti \n zarezom?
 - povezati slike sa https://lotr.wikia.com/ ili http://www.tolkiengateway.net/
