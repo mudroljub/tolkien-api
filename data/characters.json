@@ -1231,6 +1231,7 @@
     "text": "MORWË, along with Nurwë, refused the summons of the Valar to Aman.\n\n\nBiography\n\nUpon discovering the awakening of the Elves in Cuiviénen, the Vala Oromë\ntraveled back to Valinor to bring news. When Oromë returned to the\nElves, he invited them. Ingwë, Finwë, and Elwë served as their\nambassadors. The ambassadors returned three years later to persaude the\nother Elves to come to Aman. Morwë and Nurwë refused the summons,\nleading the Avari in Cuiviénen.\n\n\nEtymology\n\nThe Quenyan _mor_ means (“black”) and the suffix _-wë_ occurs in many\nnames, though not exclusively masculine.",
     "birth": "Perhaps Firstborn",
     "race": "Elves",
+    "gender": "Male",
     "culture": "Dark Elves"
   },
   {
@@ -3318,9 +3319,11 @@
   {
     "name": "Durin",
     "lotr_page_id": "763",
+    "race": "Dwarves",
     "text": "_DURIN_ was the name of many Dwarves in the First, Second, and Third\nAges, starting with Durin the Deathless, after whom the Line was named.\n\nLine of Durin\n\nDurin I\n\nKing DURIN I, known also as DURIN THE DEATHLESS, of Khazad-dûm (Years of\nthe Trees? - First Age) was the oldest of the Seven Fathers of the\nDwarves, first created by Aulë the Vala. Durin was set to sleep alone\nbeneath Mount Gundabad in Middle-earth until the Elves awoke. The name\nDurin, like other names of Tolkien's Dwarves, was taken from Old Norse.\nIn Tolkien's fiction, Dalish (the language of Dale) had the same\nrelationship to Rohirric and Westron as Old Norse has to English, so\nsince Westron was rendered in English, the language of Dale was rendered\nin Old Norse. The Dwarvish names were in the language of Dale, which\ntherefore was rendered in Old Norse in _The Hobbit_ and _The Lord of the\nRings._\n\nJ.R.R. Tolkien took Durin's name, as with most other dwarf names in his\nwork, from real Norse mythology (in which _Durin_ was the name of the\nfirst of the Seven Fathers of the Dwarves and the forger of many\nwonderful items).\n\nUpon his awakening at Mount Gundabad in the Years of the Trees, he\ntraveled until he came upon the Mirrormere, the lake that the Dwarves\ncall _Kheled-zâram_. He created there a great city within the Misty\nMountains. This was Khazad-dûm, known by Elves as _Moria_.\n\nAccording to the Dwarves, Durin awoke at Mount Gundabad in the north of\nthe Misty Mountains, which remained a sacred place to them ever after.\nDurin and his heirs were revered by all Dwarves, and not just those of\nhis own line.\n\nDurin founded the line of Dwarves called Durin's Folk. Durin was called\nthe Deathless because he lived far longer than any other known dwarf. It\nwas also believed that Durin would be reincarnated a total of six times,\neach time as a descendant of an older Durin.\n\nLater, while passing through Moria with the Fellowship, Gimli sang a\npoem about Durin.",
     "other_names": "Durin the Deathless, \"Father of the Dwarves\"",
     "titles": "King of Durin's Folk, King of Khazad-dûm",
+    "culture": "Durin's Folk",
     "location": "Gundabad, Khazad-dûm",
     "language": "Khuzdul",
     "birth": "Between Y.T. 1050 and Y.T. 1250, Mount Gundabad",
@@ -4973,6 +4976,7 @@
     "height": "Tall",
     "hair": "Dark",
     "eyes": "Grey",
+    "culture": "Ñoldor",
     "location": "Lindon, Rivendell"
   },
   {
