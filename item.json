@@ -1,10 +1,14 @@
 {
-  "name": "Shagrat",
-  "lotr_page_id": "263",
-  "text": "[LEGO Shagrat]\n\nSHAGRAT was a large, long-armed Black Uruk, Captain of the Tower of\nCirith Ungol, and the commander of one of the two orc patrols that found\nFrodo Baggins after he had been poisoned by Shelob. Later his Black Uruk\ntower garrison fought over possession of Frodo's Mithril mail-shirt with\nthe orc patrol from Minas Morgul led by Gorbag and sent up the Stair of\nCirith Ungol to investigate matters. Shagrat interpreted his orders\nliterally: all captives to be searched, but left unharmed and they and\ntheir possessions taken to Barad-dûr. Gorbag coveted Frodo's pretty\ndwarven mithril mail shirt for himself. A fight soon started. Gorbag\nwounded Shagrat in the arm with a knife, but was eventually killed by\nShagrat. Their respective followers began fighting also, and slaughtered\neach other wholesale over the next several hours.\n\nLater Sam, carrying the One Ring, infiltrated the Tower of Cirith Ungol\nand soon realized that the garrison was effectively wiped out.\nUnfortunately, Shagrat managed to get past him carrying Frodo's armor\nand other personal items and escaped to take them to Lugbúrz (Barad-dûr)\nas ordered.\n\nIt is possible that Shagrat was killed by Sauron or the authorities at\nBarad-dûr for the events that occurred at the Tower of Cirith Ungol.\nAlternatively, he may have been rewarded for his loyalty by being\nallowed to march to the Black Gate alongside his fellow orcs and Uruks\nas one of their captains. If so, it's unknown whether he was killed in\nthe battle or the subsequent destruction of Mordor following Sauron's\ndownfall, or if he survived and fled.",
-  "titles": "Captain of Cirith Ungol",
-  "weapon": "Scimitar,\nknife",
-  "race": "Black Uruk",
-  "gender": "Male",
-  "culture": "Black Uruks of Cirith Ungol"
+  "name": "Lobelia Sackville-Baggins",
+  "lotr_page_id": "831",
+  "text": "LOBELIA SACKVILLE-BAGGINS was a Hobbit of the Shire.\n\n\nBiography\n\nLobelia married Otho, and had a son, Lotho. Lobelia was known to be a\ncovetous and grasping hobbit, and had designs on Bag End, as Otho was\nBilbo's paternal first cousin and next of kin. During Bilbo's\ndisappearance, Lobelia and Otho claimed the smial; when Bilbo returned\nfrom his adventure with Thorin and Company, Lobelia and Otho were in the\nmidst of auctioning off the contents of Bag End with the firm of Grubb,\nGrubb and Burrows.[1]\n\nAfter Bilbo's eleventy-first birthday party, Lobelia and Otho were\nincensed that Bilbo had left Bag End to Frodo, a more distant cousin\nonce removed, and questioned the validity of Bilbo's will. Since much of\nBilbo's silverware vanished during his adventure with the dwarves, when\nBilbo left the Shire permanently, he gave Lobelia a box of silver spoons\nlabeled “For Lobelia, from Cousin Bilbo”, as a mathom.[2] Eventually,\nLobelia was able to acquire Bag End when Frodo sold it to her for under\nmarket value under his ruse of moving to Crickhollow, but by this time\nOtho had died and was unable to enjoy it.[3]\n\nDuring the War of the Ring, Lobelia opposed Sharkey after hearing from\nthe Ruffians that they were ordered to build sheds at Bag End. After\nrudely telling her to step aside, she became enraged and attacked the\nleader using only her umbrella as a weapon but she lost and was\nimprisoned in the Lockholes at Michel Delving.[4] Freed after the\nScouring of the Shire, Lobelia was greeted with raucous applause due to\nher spirit in defying Saruman's thuggery, and she was touched as she had\nnever before been popular due to her avarice. However, she was\nheartbroken over Lotho's murder, and so granted Bag End back to Frodo\nand what was left of her money hoping he would use it to help hobbits\nwho had lost their homes, due to Sharkey's tyranny. She moved in with\nher original family, the Bracegirdles of Hardbottle. She died in the\nspring of 3020, and was over 100 years old.",
+  "other_names": "Lobelia Bracegirdle, Mistress Lobelia",
+  "birth": "TA 2918 (SR 1318)",
+  "death": "TA 3020 (SR 1420)",
+  "spouse": "Otho Sackville-Baggins",
+  "weapon": "Umbrella",
+  "race": "Hobbit",
+  "gender": "Female",
+  "height": "1.17m (3'10\")",
+  "culture": "Shire-hobbits"
 }

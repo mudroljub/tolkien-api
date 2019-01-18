@@ -55,4 +55,7 @@ console.log(difference)
 //   return x
 // })
 
-// fs.writeFileSync('filtrirano.json', JSON.stringify(obradjeno, null, 2))
+const obradjeno = karakteri
+  .sort((a, b) => a.text.length - b.text.length)
+  // .filter(x => x.culture && x.culture.toLowerCase().includes("hobbit"))
+fs.writeFileSync('filtrirano.json', JSON.stringify(obradjeno, null, 2))
