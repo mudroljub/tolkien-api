@@ -1,9 +1,7 @@
-const convert = require('xml-js')
 const fs = require('fs')
+const  xmlParser = require('xml2json')
 
-const xml = fs.readFileSync('./lotr_pages_current.xml', 'utf8')
-
-const result = convert.xml2json(xml, {compact: true, spaces: 4})
-fs.writeFileSync('lotr-wiki.json', result)
+fajl = fs.readFileSync('lotr_pages_current.xml', 'utf8')
+fs.writeFileSync('lotr-wiki2.json', xmlParser.toJson(fajl))
 
 console.log('gotovo')
