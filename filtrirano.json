@@ -1375,12 +1375,12 @@
     "birth": "Unknown",
     "death": "March 14, 3019 slain by Samwise Gamgee",
     "weapon": "Scimitar, Whip, Knife, Spear",
-    "race": "Black Uruk",
+    "race": "Orcs",
     "gender": "Male",
     "height": "medium",
     "hair": "black",
     "eyes": "Blue (film)",
-    "culture": "Orcs of Mordor",
+    "culture": "Black Uruks",
     "location": "Cirith Ungol (under overlordship of Sauron)"
   },
   {
@@ -1829,7 +1829,7 @@
     "death": "Unknown, early Fourth Age",
     "spouse": "Unknown",
     "weapon": "Tooth and claw (in bear-form)",
-    "race": "Men (Skin-changer)",
+    "race": "Skin-changers",
     "gender": "Male",
     "height": "Tall (in Man-form)",
     "hair": "Dark",
@@ -1989,7 +1989,7 @@
     "weapon": "Powers of the Ainur",
     "race": "Maiar",
     "gender": "Male",
-    "culture": "Maiar of Ulmo"
+    "culture": "Ainur"
   },
   {
     "name": "Galdor of the Tree",
@@ -2173,7 +2173,8 @@
     "death": "February 29, 3019",
     "spouse": "None",
     "weapon": "Scimitar, whip",
-    "race": "Uruk-hai",
+    "race": "Orcs",
+    "culture": "Uruk-hai",
     "gender": "Male",
     "location": "Isengard"
   },
@@ -2268,7 +2269,7 @@
     "text": "THURINGWETHIL was a Vampire servant of Sauron in his fortress of\nTol-in-Gaurhoth (the former Tol Sirion), during her time serving Morgoth\nduring the First Age. Biography Thuringwethil was Sauron's herald and\nwas stationed at Tol-in-Gaurhoth by the time of the Quest for the\nSilmaril. She was probably slain or died during the fight between Sauron\nand Huan in the fortress. She served as a herald, or a messenger, for\nSauron at Tol-Sirion. Her origins were not mentioned, but her ability to\ntake forms suggest that she could be a Maia. She was described to have\nfingered-wings and iron claws. Lúthien was disguised as Thuringwethil\nand introduced herself as such upon infiltrating Angband. 'Thuringwethil\nI am, who cast a shadow o'er the face aghast of the sallow moon in the\ndoomed land of shivering Beleriand.' ― Lúthien in her disguise, Lay of\nLeithian, Canto XIII Etymology _THURINGWETHIL_ means “Woman of the\nSecret Shadow” from the Sindarin _thurin_ (“secret”) and _gwath_\n(“shadow”).",
     "birth": "Unknown",
     "death": "FA 465",
-    "race": "Vampire",
+    "race": "Vampires",
     "gender": "Female"
   },
   {
@@ -2787,7 +2788,7 @@
     "birth": "Unknown",
     "death": "TA 2941",
     "weapon": "Bone club, Mace, and Morgul bow and arrows in the film.",
-    "race": "Goblin/Orc",
+    "race": "Orcs",
     "gender": "Male",
     "eyes": "Blue (right), White (left) (film)",
     "culture": "Gundabad Orcs"
@@ -2813,7 +2814,7 @@
     "death": "TA 2806 (SR 1206)",
     "spouse": "Unnamed wife ?",
     "weapon": "Club",
-    "race": "Hobbit",
+    "race": "Hobbits",
     "gender": "Male",
     "height": "1.35m (4'5\")",
     "culture": "Hobbits of the Shire"
@@ -3039,9 +3040,9 @@
     "text": "\n\nSHAGRAT was a large, long-armed Black Uruk, Captain of the Tower of\nCirith Ungol, and the commander of one of the two orc patrols that found\nFrodo Baggins after he had been poisoned by Shelob. Later his Black Uruk\ntower garrison fought over possession of Frodo's Mithril mail-shirt with\nthe orc patrol from Minas Morgul led by Gorbag and sent up the Stair of\nCirith Ungol to investigate matters. Shagrat interpreted his orders\nliterally: all captives to be searched, but left unharmed and they and\ntheir possessions taken to Barad-dûr. Gorbag coveted Frodo's pretty\ndwarven mithril mail shirt for himself. A fight soon started. Gorbag\nwounded Shagrat in the arm with a knife, but was eventually killed by\nShagrat. Their respective followers began fighting also, and slaughtered\neach other wholesale over the next several hours.\n\nLater Sam, carrying the One Ring, infiltrated the Tower of Cirith Ungol\nand soon realized that the garrison was effectively wiped out.\nUnfortunately, Shagrat managed to get past him carrying Frodo's armor\nand other personal items and escaped to take them to Lugbúrz (Barad-dûr)\nas ordered.\n\nIt is possible that Shagrat was killed by Sauron or the authorities at\nBarad-dûr for the events that occurred at the Tower of Cirith Ungol.\nAlternatively, he may have been rewarded for his loyalty by being\nallowed to march to the Black Gate alongside his fellow orcs and Uruks\nas one of their captains. If so, it's unknown whether he was killed in\nthe battle or the subsequent destruction of Mordor following Sauron's\ndownfall, or if he survived and fled.",
     "titles": "Captain of Cirith Ungol",
     "weapon": "Scimitar, knife",
-    "race": "Black Uruk",
+    "race": "Orcs",
     "gender": "Male",
-    "culture": "Orcs of Mordor"
+    "culture": "Black Uruks"
   },
   {
     "name": "Beregond",
@@ -3377,7 +3378,7 @@
     "death": "TA 3020 (SR 1420)",
     "spouse": "Otho Sackville-Baggins",
     "weapon": "Umbrella",
-    "race": "Hobbit",
+    "race": "Hobbits",
     "gender": "Female",
     "height": "1.17m (3'10\")",
     "culture": "Hobbits of the Shire"
@@ -3408,7 +3409,7 @@
     "weapon": "Powers of the Ainur",
     "race": "Maiar",
     "gender": "Male",
-    "culture": "Maiar of Ulmo"
+    "culture": "Ainur"
   },
   {
     "name": "Andreth",
@@ -3619,7 +3620,8 @@
   {
     "name": "Boldog",
     "lotr_page_id": "12749",
-    "race": "Orcs of Angband",
+    "race": "Orcs",
+    "culture": "Orcs of Morgoth",
     "gender": "Male",
     "text": "BOLDOG was an Orc-captain of the host of Angband during the First Age,\nwho is only told of in the original ''Lay of Leithian, ''and does not\nappear in the stories of _The Silmarillion_.\n\nBiography\n\nHistory\n\nAs it is told in _The Lays of Beleriand_, Boldog was a formidable leader\nof Orcs, commanded by Morgoth to lead them on a great raid upon the\nrealm of Doriath and to capture Lúthien, daughter of King Thingol and\nQueen Melian the Maia. Boldog drove his host south over the highlands of\nDorthonion and the through enchanted forest of Taur-nu-Fuin following\nthe Orcs' Road of Haste into the Pass of Anach. Where fell darkness met\nthe mists of the magic, which were the Girdle of Melian, just east of\nthe river Mindeb, the Orc-host reached the border of Doriath. To meet\nthe deadly threat posed by Boldog's invasion in force, Thingol musters\nhis full might with his two great Captains, Beleg and Mablung. He leads\nthe army of Sindarin Elves beyond the North March of Doriath. Thingol\nand Boldog meet in single combat in the midst of the battle. Thingol\nwielded his Dwarf-forged sword, Aranrúth, Boldog fought with an iron\nspear of some note that was later used by Mablung in the Hunting of the\nWolf. Thingol slays Boldog, the Orc-host is utterly defeated and the\nremnants destroyed by being driven into Taur-nu-Fuin.\n\nThe Battle of the Northmarch was the culminating battle of a series of\nattacks in Morgoth's campaign against Doriath, following his victories\nin the Dagor Bragollach (Battle of Sudden Flame), the fourth of the\ngreat Battles of Beleriand that broke the Siege of Angband.\n\nCanon\n\nDetails of Boldog's raid are scattered through numerous versions of\ntexts within ''The Lays of Beleriand, ''compiled by Christopher Tolkien\n- however, no aspect of the plot-lines involving Boldog are in serious\ncontradiction with the “final” canon of _Quenta Silmarillion._ Boldog's\nindependent command of a host of orcs with its formidable objectives\nindicates that he would have been several ranks above most other\nOrc-Captains and champions (such as Orcobal or Balcmeg, who both were\nfrom a different century), and it is thought elsewhere in the sources\nthat Boldog was of some lesser order of the Maiar corrupted by Morgoth\nthat took the form of an Orc, as opposed to previously being an Elf that\nbecame mutilated (which was the ancient origin of Orcs in general).",
     "titles": "Captain",
@@ -4389,7 +4391,7 @@
     "death": "Unknown",
     "spouse": "Fimbrethil",
     "weapon": "Bare hands, feet, and legs",
-    "race": "Ents, Onodrim",
+    "race": "Ents",
     "gender": "Male",
     "height": "Around 14 feet",
     "hair": "Leaf, twig and moss like",
@@ -4604,7 +4606,7 @@
     "death": "FA 467 (first); FA 503 (final)",
     "spouse": "Beren Erchamion",
     "weapon": "Enchantment and Elf-magic",
-    "race": "Half-elven (Elves and Maiar)",
+    "race": "Half-elven",
     "gender": "Female",
     "hair": "Black",
     "eyes": "Grey",
@@ -4828,7 +4830,7 @@
     "birth": "Before the creation of Arda",
     "death": "January 25, 3019",
     "weapon": "Fiery whip, flaming sword",
-    "race": "Balrog",
+    "race": "Balrogs",
     "gender": "Male",
     "height": "Slightly larger and taller than a Man (book), 20 feet (movie)",
     "hair": "Mane of red flames",
@@ -5097,7 +5099,7 @@
     "birth": "Before the creation of Arda",
     "death": "None",
     "weapon": "Wizard Staff, Powers of the Maiar",
-    "race": "Ainur (Maiar)",
+    "race": "Maiar",
     "gender": "Male",
     "culture": "Wizards"
   },
@@ -5231,7 +5233,7 @@
     "death": "3 November, 3019 (book); March 3 3019 (film)",
     "spouse": "None",
     "weapon": "Wizard Staff, Dagger, Dark sorcery",
-    "race": "Ainur (Maiar)",
+    "race": "Maiar",
     "gender": "Male",
     "hair": "White",
     "eyes": "Black",
@@ -5368,7 +5370,7 @@
     "birth": "22 September, TA 2968 (SR 1368)",
     "death": "Unknown (Last sighting September 29, 3021) (SR 1421)",
     "weapon": "Sting and Barrow-blade",
-    "race": "Hobbit",
+    "race": "Hobbits",
     "gender": "Male",
     "height": "1.06m (3'6\")",
     "hair": "Brown",

@@ -5,9 +5,9 @@ const kulture = require('./data/cultures.json')
 const koristeneKulture = new Set(karakteri.map(x => x.culture).sort())
 const postojeceKulture = new Set(kulture.map(x => x.name).sort())
 
-console.log("Koristene kulture")
+console.log("Koristene: ")
 console.log(koristeneKulture)
-console.log("Postojece kulture")
+console.log("Postojece :")
 console.log(postojeceKulture)
 
 const razlika = new Set(

@@ -8,7 +8,12 @@ Otvaranje članka po id-u:
 
 ## TODO
 
-- ukloniti atribut gallery i jos neke
-- ponovo normalizovati atribute
-- u vrednostima zameniti \n zarezom?
 - povezati slike sa https://lotr.wikia.com/ ili http://www.tolkiengateway.net/
+
+Fale kulture:
+  'Elves of Mirkwood',
+  'Elves of Rivendell',
+  'Ents of Fangorn Forest',
+  'Hobbits of the Shire',
+  'Orcs of Morgoth',
+  'Orcs of the Misty Mountains',
