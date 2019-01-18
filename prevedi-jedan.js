@@ -10,7 +10,10 @@ module.exports = function (item) {
   const obecanja = []
   for (const key in item) {
     item[key] = convert(item[key])
-      .then(res => item[key] = res.trim().replace(/\[.{1,20}\]/g, ""))
+      .then(res => {
+        item[key] = res.trim().replace(/\[.{1,20}\]/g, "")
+        if (key != "text") item[key] = item[key].split("\n").join(", ").replace(",,", ",")
+      })
     obecanja.push(item[key])
   }
 
