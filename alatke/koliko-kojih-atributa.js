@@ -1,5 +1,5 @@
 const fs = require('fs')
-const podaci = require('./data/races.json')
+const podaci = require('../data/races.json')
 
 const recnik = podaci.reduce((acc, x) => {
   for (const key in x) {

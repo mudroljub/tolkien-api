@@ -2,6 +2,7 @@
   {
     "name": "Hobgoblins",
     "lotr_page_id": "5229",
+    "locations": "Rhovanion, Grey Mountains",
     "text": "HOBGOBLINS were stronger, larger, and more menacing than other Orcs.\nThey are mentioned only once, by Gandalf, in _The Hobbit_. He described\nthem as one of the many kinds of Orcs inhabiting the Wilderland. Many of\nthem are probably some form of Uruk-hai or else a particularly large\nbreed of Orcs living in the wilderland. There is however no specific\norc-race called Hobgoblins but it is simply the name for all larger\nkinds of Orcs, used in _The Hobbit_.\n\nJ.R.R. Tolkien wrote in a 1971 letter that in folklore hobgoblins were\nactually particularly small goblins of the traditional (not the Tolkien)\nkind, which is opposite to the case with the “goblins” (orcs) of _The\nHobbit_.\n"
   },
   {
@@ -57,13 +58,13 @@
     "affiliation": "Morgoth, Sauron, Saruman",
     "rivalries": "Elves, Men, Dwarves",
     "languages": "Black Speech; numerous Orkish languages; Westron",
-    "people": "Uruk-hai, Goblin-men, Half-orcs, Hobgoblins, Mordor Orcs, Misty Mountain, Orcs",
+    "cultures": "Uruk-hai, Goblin-men, Half-orcs, Hobgoblins, Mordor Orcs, Misty Mountain, Orcs",
     "distinctions": "Evil footsoldiers of the Evil; preferred darkness",
-    "average_height": "Short",
     "skin_color": "Sallow, green, brown, grey, black, swarthy",
     "locations": "Utumno, Angband, Mordor, Misty Mountains, Angmar, Mount Gundabad, High, Pass, Dol Guldur Isengard",
     "lifespan": "Early Orcs - Probably immortal or long-lived, Later Orcs - diminished:411, Boldogs - far longer than Men:418",
-    "notable_members": "Othrod, Azog, Bolg, Gorbag, Great Goblin, Grishnakh"
+    "notable_members": "Othrod, Azog, Bolg, Gorbag, Great Goblin, Grishnakh",
+    "height": "Short"
   },
   {
     "name": "Huorns",
@@ -163,8 +164,8 @@
     "affiliation": "Morgoth",
     "lifespan": "Immortal",
     "distinctions": "Man-like, surrounded by shadow and fire, covered in smoke",
-    "average_height": "Twice the height of a man",
-    "notable_members": "Gothmog, Durin's Bane"
+    "notable_members": "Gothmog, Durin's Bane",
+    "height": "Twice the height of a man"
   },
   {
     "name": "Orcs",
@@ -174,14 +175,12 @@
     "origins": "Obscure, but apparently bred from Elves or Men",
     "rivalries": "Elves, Men, Dwarves",
     "languages": "Black Speech; Orkish dialects; Westron",
-    "divisions": "Uruk-hai, Half-orc, Hobgoblins, Mordor Orcs, Goblins",
     "notable_members": "Othrod, Azog, Bolg, Gorbag, Great Goblin, Grishnakh",
     "distinctions": "Most common servants of evil",
     "height": "Almost man-high, or short",
     "skin_color": "Sallow, green, brown, grey, black, swarthy",
     "affiliation": "Morgoth, Sauron, Saruman",
-    "people": "Uruk-hai, Goblin-men, Half-orcs, Hobgoblins, Mordor Orcs, Misty Mountain, Orcs",
-    "average_height": "Short",
+    "cultures": "Uruk-hai, Goblin-men, Half-orcs, Hobgoblins, Mordor Orcs, Misty Mountain",
     "locations": "Utumno, Angband, Mordor, Misty Mountains, Angmar, Mount Gundabad, High, Pass, Dol Guldur Isengard",
     "lifespan": "Early Orcs - Probably immortal or long-lived, Later Orcs - diminished:411, Boldogs - far longer than Men:418"
   },
@@ -194,11 +193,11 @@
     "affiliation": "Mostly Morgoth and Sauron",
     "rivalries": "Ents",
     "languages": "Black Speech, various Mannish tongues",
-    "people": "Cave-trolls, Hill-trolls, Mountain-trolls, Olog-hai, Snow-trolls, Stone-trolls, Troll-men and Half-trolls",
+    "cultures": "Cave-trolls, Hill-trolls, Mountain-trolls, Olog-hai, Snow-trolls, Stone-trolls, Troll-men and Half-trolls",
     "distinctions": "Strong beasts with limited intellect",
-    "average_height": "Large",
     "skin_color": "Grey",
-    "notable_members": "William, Tom, Bert"
+    "notable_members": "William, Tom, Bert",
+    "height": "Large"
   },
   {
     "name": "Dragons",
@@ -209,7 +208,7 @@
     "locations": "Angband, Nargothrond, Grey Mountains, Erebor, Withered Heath, Northern, Waste",
     "affiliation": "Morgoth",
     "languages": "Various Mannish and Elvish tongues",
-    "people": "Fire-drakes, Cold-drakes, Long-worms",
+    "cultures": "Fire-drakes, Cold-drakes, Long-worms",
     "lifespan": "Long and slow",
     "skin_color": "Black, golden, red",
     "notable_members": "Glaurung, Ancalagon, Scatha, Smaug"
@@ -225,7 +224,6 @@
     "languages": "Entish, Elvish, Westron",
     "lifespan": "Immortal",
     "distinctions": "Tree-like appearance",
-    "average_height": "Very tall; several yards/meters",
     "height": "Very tall",
     "skin_color": "Earthy colors",
     "notable_members": "Treebeard, Bregalad"
@@ -238,7 +236,6 @@
     "origins": "Children of Ilúvatar",
     "rivalries": "Orcs",
     "languages": "Westron, Adûnaic, Rohirric, Dalish, Rhûnic, Harad, Black Speech",
-    "divisions": "Bëorians, Haladin, Hadorians, Easterlings, Númenóreans, Black, Númenóreans, Dúnedain, Arnorians, Gondorians, Corsairs, Forodwaith, Haradrim, Rohirrim, Dunlendings, Men of Dale, Beornings, Bardings, Drúedain, Hobbits",
     "notable_members": "Bëor, Hador, Barahir, Beren, Húrin, Morwen, Túrin, Niënor, Tuor, Elros, Ar-Pharazôn, Elendil, Isildur, Bard, Denethor, Boromir, Faramir, King Theoden, Eomer, Eowyn, Aragorn",
     "lifespan": "ordinary Men - c. 80-100 years, Númenóreans - c. 300-350 years, Kings of Númenor - c. 400-500 years, Dúnedain - c. 150-250 years, Hobbits - c. 100 years, Drúedain - shorter",
     "distinctions": "Mortality, rulers of Middle-earth",
@@ -247,8 +244,7 @@
     "hair_color": "Black, brown, blond, red, and (when older) grey or white",
     "weaponry": "Swords, bows, axes, spears",
     "locations": "Hildórien, Beleriand, Númenor, Gondor, Arnor, Rohan, Dunland, Harad, Khand, Forochel, Rhûn, Harad, Rhovanion",
-    "people": "Bëorians, Haladin, Hadorians, Easterlings, Númenóreans, Black, Númenóreans, Dúnedain, Arnorians, Gondorians, Corsairs, Forodwaith, Haradrim, Rohirrim, Dunlendings, Men of Dale, Beornings, Bardings, Drúedain, Hobbits",
-    "average_height": "Dúnedain - 6'4\" (average), Númenóreans - 7'0\" (average), Middle Men - Shorter, Drúedain - 4' to 5', Hobbits - 3'6\" (average)"
+    "cultures": "Bëorians, Haladin, Hadorians, Easterlings, Númenóreans, Black, Númenóreans, Dúnedain, Arnorians, Gondorians, Corsairs, Forodwaith, Haradrim, Rohirrim, Dunlendings, Men of Dale, Beornings, Bardings, Drúedain, Hobbits"
   },
   {
     "name": "Ringwraiths",
@@ -261,9 +257,9 @@
     "languages": "Black Speech, Westron",
     "lifespan": "Indefinite",
     "distinctions": "Without physical form",
-    "average_height": "Man-high",
     "weaponry": "Morgul-knife",
-    "notable_members": "Witch-king, Khamûl"
+    "notable_members": "Witch-king, Khamûl",
+    "height": "Man-high"
   },
   {
     "name": "Hobbits",
@@ -277,8 +273,7 @@
     "height": "between 2' and 4', around 60 to 120 cm. Elsewhere noted as between 3', and 4' never less and seldom more.",
     "skin_color": "Nut-brown to White",
     "hair_color": "Typically curly brown, rarely blond (until the Fourth Age), and white, and grey in later years",
-    "other_names": "Halflings",
-    "average_height": "2-4 ft or 0.6-1.2 m (often less than three feet in later days)"
+    "other_names": "Halflings"
   },
   {
     "name": "Elves",
@@ -288,7 +283,7 @@
     "origins": "Firstborn of the Children of Ilúvatar",
     "rivalries": "Orcs, Dwarves",
     "languages": "Various Elvish languages, notably Quenya and Sindarin; Westron",
-    "divisions": "Vanyar, Noldor, Teleri, Sindar, Nandor, Silvan, Falmari, Avari",
+    "cultures": "Vanyar, Noldor, Teleri, Sindar, Nandor, Silvan, Falmari, Avari",
     "lifespan": "Immortal",
     "distinctions": "Tall, agile, graceful, wise, fair",
     "height": "Very tall",
@@ -306,7 +301,6 @@
     "locations": "Belegost, Blue Mountains, Amon Rûdh, Glittering Caves, Grey Mountains, Iron Hills, Lonely Mountain, Khazad-dûm, Nogrod, Nargothrond, Gundabad, Dunland",
     "rivalries": "Elves, Orcs",
     "languages": "Khuzdul, Westron, Sindarin",
-    "divisions": "Longbeards, Firebeards, Broadbeams, Ironfists, Stiffbeards, Blacklocks, Stonefoots, Petty-dwarves",
     "notable_members": "Durin, Gimli, Thorin, Dain Ironfoot, Azaghâl, Mîm, Balin",
     "lifespan": "Around 250-350 years",
     "distinctions": "Stocky; bearded; never bald; especially hardy and loyal; notoriously, stubborn",
@@ -315,7 +309,6 @@
     "hair_color": "Blond, brown, black, blue, red, and (when older) grey or white",
     "weaponry": "Often axes, swords, hammers, mattocks",
     "affiliation": "Union of Maedhros, Last Alliance of Elves and Men",
-    "average_height": "4.5 - 5 feet (1.35 - 1.52 m) tall",
-    "people": "CLANS:, Longbeards, Firebeards, Broadbeams, Ironfists, Stiffbeards, Blacklocks, Stonefoots, Petty-dwarves, GROUPS:, Belegost Dwarves, Erebor Dwarves, Khazad-dûm Dwarves, Nogrod Dwarves, Blue Mountain Dwarves, Grey Mountain Dwarves, Iron Hill Dwarves"
+    "cultures": "CLANS: Longbeards, Firebeards, Broadbeams, Ironfists, Stiffbeards, Blacklocks, Stonefoots, Petty-dwarves, GROUPS: Belegost Dwarves, Erebor Dwarves, Khazad-dûm Dwarves, Nogrod Dwarves, Blue Mountain Dwarves, Grey Mountain Dwarves, Iron Hill Dwarves"
   }
 ]
