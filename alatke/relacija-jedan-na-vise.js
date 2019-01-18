@@ -1,16 +1,15 @@
 const podaci = require('../data/races.json')
-const karakteri = require('../data/characters.json')
+const odrednice = require('../data/locations.json')
 
-// karakteri koji se koriste u podacima
 const koristeniKarakteri = podaci.reduce((acc, x) => {
-  if (x.notable_members) {
-    return new Set([...acc, ...x.notable_members.split(", ")].sort())
+  if (x.locations) {
+    return new Set([...acc, ...x.locations.split(", ")].sort())
   }
   return acc
 }, new Set())
 
 const a = new Set(podaci.map(x => x.cultures).sort())
-const postojeci = new Set(karakteri.map(x => x.name).sort())
+const postojeci = new Set(odrednice.map(x => x.name).sort())
 const razlika = new Set(
   [...koristeniKarakteri].filter(x => !postojeci.has(x)).sort())
 

@@ -7,7 +7,8 @@ const prevediPaSacuvaj = require('./prevedi-jedan')
 const bekap = require('./data/bekap/stranice-bekap.json')
 // const item = require('./item.json')
 
-const found = bekap.find(x => x.title._text == "Squint-eyed Southerner")
+const found = bekap.find(x => x.title._text == "Arda")
+console.log(found)
 const item = {
   name: found.title._text,
   lotr_page_id: found.id._text,
@@ -17,11 +18,8 @@ const item = {
 const site = "lotr" // lotr or tolkiengateway
 const article = encodeURIComponent(item.name)
 
-
 if (site == "lotr") {
   const url = `https://lotr.wikia.com/wiki/${article}`
-  console.log(url)
-  
   request(url, function(error, response, body) {
     const $ = cheerio.load(body)
     const infobox = $('.portable-infobox .pi-data')
@@ -40,8 +38,6 @@ if (site == "lotr") {
 
 if (site == "tolkiengateway") {
   const url = `http://www.tolkiengateway.net/wiki/${article}`
-  console.log(url)
-  
   request(url, function(error, response, body) {
     const $ = cheerio.load(body)
     const table = $('table[style^="float"] tbody')

@@ -3,12 +3,14 @@ const pandoc = require('simple-pandoc')
 const convert = pandoc('mediawiki', 'plain')
 
 module.exports = function (item) {
-  const obecanja = []
   delete item.gallery
   delete item.actor
   delete item.voice
+
+  const obecanja = []
   for (const key in item) {
-    item[key] = convert(item[key]).then(res => item[key] = res.trim())
+    item[key] = convert(item[key])
+      .then(res => item[key] = res.trim().replace(/\[.{1,20}\]/g, ""))
     obecanja.push(item[key])
   }
 
