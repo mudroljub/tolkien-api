@@ -2,7 +2,7 @@ const limit = require('simple-rate-limiter')
 const request = limit(require('request')).to(10).per(1000)
 const cheerio = require('cheerio')
 
-const bekap = require('./data/bekap/stranice-bekap.json')
+const bekap = require('./data/backup/stranice.json')
 const prevediPaSacuvaj = require('./prevedi-jedan')
 
 const found = bekap.find(x => x.title._text == "Mount Gram")

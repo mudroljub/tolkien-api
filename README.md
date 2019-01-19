@@ -109,4 +109,4 @@ Class Race
   hair_color 8
   rivalries 8
   cultures 7
-  weaponry 4
+
