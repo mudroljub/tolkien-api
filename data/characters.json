@@ -1382,7 +1382,7 @@
     "hair": "black",
     "eyes": "Blue (film)",
     "culture": "Black Uruks",
-    "location": "Cirith Ungol (under overlordship of Sauron)"
+    "location": "Cirith Ungol"
   },
   {
     "name": "Finglas",
@@ -2739,7 +2739,7 @@
     "race": "Men",
     "gender": "Male",
     "culture": "Elendili",
-    "location": "Númenor"
+    "location": "Numenor"
   },
   {
     "name": "Estë",
@@ -3135,7 +3135,7 @@
     "race": "Men",
     "gender": "Male",
     "culture": "Éothéod",
-    "location": "Rhovanion, Vales of Anduin"
+    "location": "Rhovanion"
   },
   {
     "name": "Khamûl",
@@ -3185,14 +3185,14 @@
   {
     "name": "Óin",
     "lotr_page_id": "778",
-    "text": "_Disambiguation: For King Óin, father of King Náin II, see Óin (King\n    of Durin's Folk)._\n\nÓIN was a Dwarf of Durin's Folk known for being a part of Thorin and\nCompany during the Quest of Erebor.\n\n\nBiography\n\nThird Age\n\nÓin was the older brother of Glóin, cousin of Dwalin and Balin, and\nuncle of Gimli. He usually wore a brown-hooded cloak when travelling.\nÓin fought in the Battle of Azanulbizar along with Thorin Oakenshield,\nand in TA 2941 joined with Thorin and Company on the quest to reclaim\nthe Lonely Mountain wearing a brown hood. Óin was one of the Dwarves\nwho bet that Bilbo would come along with them to reclaim the Lonely\nMountain. Óin and his brother Glóin were usually in charge of preparing\nthe fire for the Company. He fought in and survived the Battle of the\nFive Armies, and later settled in the Lonely Mountain along with many\nother of the Dwarves of The Company of Thorin such as Bombur.\n\nLater Years\n\nForty-eight years later, in TA 2989, Óin went to Moria with Balin and\nothers to recover the realm for the Dwarves of Durin's Folk. After Balin\nbecame Lord of Moria, according to the Book of Mazarbul Óin was sent to\nthe Upper Armories of the Third Deep (Hall ?) which was apparently\nwestwards of the Hollin gate. While there, the Orcs of Moria attacked\nfive years later. The Dwarves could not escape by the eastern gate\nbecause the Orcs held the Bridge of Khazad-dûm, so they tried to escape\nby the Hollin Gate (the west gate out of Moria). But the water outside\nthe door was right up to the wall, and the Watcher in the Water took\nÓin. He was likely ripped apart and eaten.\n\n _The Hobbit: An Unexpected Party_\n\n _The Lord of the Rings: The Fellowship of the Ring, “The Bridge of\nKhazad-dûm”_",
+    "text": "ÓIN was a Dwarf of Durin's Folk known for being a part of Thorin and\nCompany during the Quest of Erebor.\n\n\nBiography\n\nThird Age\n\nÓin was the older brother of Glóin, cousin of Dwalin and Balin, and\nuncle of Gimli. He usually wore a brown-hooded cloak when travelling.\nÓin fought in the Battle of Azanulbizar along with Thorin Oakenshield,\nand in TA 2941 joined with Thorin and Company on the quest to reclaim\nthe Lonely Mountain wearing a brown hood. Óin was one of the Dwarves\nwho bet that Bilbo would come along with them to reclaim the Lonely\nMountain. Óin and his brother Glóin were usually in charge of preparing\nthe fire for the Company. He fought in and survived the Battle of the\nFive Armies, and later settled in the Lonely Mountain along with many\nother of the Dwarves of The Company of Thorin such as Bombur.\n\nLater Years\n\nForty-eight years later, in TA 2989, Óin went to Moria with Balin and\nothers to recover the realm for the Dwarves of Durin's Folk. After Balin\nbecame Lord of Moria, according to the Book of Mazarbul Óin was sent to\nthe Upper Armories of the Third Deep (Hall ?) which was apparently\nwestwards of the Hollin gate. While there, the Orcs of Moria attacked\nfive years later. The Dwarves could not escape by the eastern gate\nbecause the Orcs held the Bridge of Khazad-dûm, so they tried to escape\nby the Hollin Gate (the west gate out of Moria). But the water outside\nthe door was right up to the wall, and the Watcher in the Water took\nÓin. He was likely ripped apart and eaten.",
     "birth": "TA 2774",
     "death": "TA 2994",
     "weapon": "Fighting Staff, Battle-knife, Erebor Regal Sword and Shield",
     "race": "Dwarves",
     "gender": "Male",
     "culture": "Dwarves of the Lonely Mountain",
-    "location": "Thorin's Halls, Lonely Mountain, Khazad-dûm",
+    "location": "Khazad-dûm",
     "language": "Khuzdul and Westron",
     "house": "House of Durin",
     "parentage": "Gróin",
@@ -3314,7 +3314,7 @@
     "race": "Men",
     "gender": "Male",
     "culture": "Numenoreans",
-    "location": "Númenor"
+    "location": "Numenor"
   },
   {
     "name": "Durin",
@@ -3324,7 +3324,7 @@
     "other_names": "Durin the Deathless, \"Father of the Dwarves\"",
     "titles": "King of Durin's Folk, King of Khazad-dûm",
     "culture": "Durin's Folk",
-    "location": "Gundabad, Khazad-dûm",
+    "location": "Khazad-dûm",
     "language": "Khuzdul",
     "birth": "Between Y.T. 1050 and Y.T. 1250, Mount Gundabad",
     "rule": "Years of the Trees - Late First Age",
@@ -4097,13 +4097,13 @@
     "hair": "Silver",
     "eyes": "Blue",
     "culture": "Teleri",
-    "location": "Tol Eressëa, Alqualondë"
+    "location": "Alqualondë"
   },
   {
     "name": "Anarion",
     "lotr_page_id": "541",
     "text": "ANÁRION was the youngest son of Elendil, the High King of Gondor and\nArnor. He and his brother Isildur jointly ruled Gondor, while their\nfather dwelled in the North. Following his father's death during the\nSiege of Barad-dûr, and Isildur's death at the Disaster of the Gladden\nFields, the kingship of Gondor was committed towards the Line of Anárion\nbeginning with his son, Meneldil.\n\n\nBiography\n\nOrigins\n\nAnárion was born in SA 3219 in Númenor. He and Isildur lived at the\nhaven of Rómenna on the east coast of the island of Númenor. Their\nfather was Elendil son of Amandil, the Lords of Andunie.\n\nIn SA 3262, the Kings of Númenor, took Sauron captive and brought him to\nNúmenor. Sauron allowed himself to be taken because he wanted to corrupt\nthe Númenóreans. He used their desire for immortality and power to\nconvince them to renounce Eru and worship Morgoth.\n\nAs Sauron's influence increased, the Faithful began to prepare to leave\nNúmenor. They filled their ships with many of their prized possessions,\nincluding the Palantíri.\n\nSauron's lies convinced Ar-Pharazôn that he could achieve immortality in\nthe Undying Lands. In SA 3319, Ar-Pharazon set out with a great fleet\nintending to take the Undying Lands by force but when he set foot on the\nshore, Eru caused the Seas to open up. The fleet sank and Numenor was\ndestroyed by a great wave.\n\nFounding of Gondor\n\nThe ships of the Faithful were spared, and a great wind from the west\nsent them to the shores of Middle-earth. Elendil landed in the north,\nwhilst Isildur and Anárion came to the Mouths of the Anduin in the\nsouth. Elendil and his sons established the Northern-kingdom of Arnor\nand the Southern-kingdom of Gondor in SA 3320. Elendil was the High King\nof both realms, but he dwelled in Arnor and committed the rule of Gondor\nto his sons.\n\nIsildur and Anárion had their thrones side by side in the Great Hall of\nOsgiliath, the city they founded on the Anduin. Anárion lived in Minas\nAnor on the western side of the Anduin, while Isildur made his home in\nIthilien on the eastern side of the Anduin. Anárion had one of the\nPalantír, which he used to communicate with his brother and father.\n\nWar of the Last Alliance\n\nWhen Sauron and the forces of Mordor began attacking Gondor in SA 3429,\nIsildur and the royal family were forced to move from Minas Ithil to\nAnnúminas in Arnor. Anárion successfully defended the city and realm and\nwas able to drive the enemy from Ithilien. The War of the Last Alliance\nbegan in SA 3434. Sauron's forces were defeated in the Battle of\nDagorlad and the army of the Last Alliance entered Sauron's realm and\nlaid Siege of Barad-dûr. The siege lasted seven years and many Men and\nElves were killed. Anárion was killed in SA 3440 in Mordor when a stone\ncast from Barad-dûr, either from falling debris or by catapult, killed\nhim.\n\nHis father Elendil later fought Sauron, and his brother Isildur would be\nthe one to cut the One Ring from Sauron's hand with Isildur's broken\nsword.\n\nTwo years later, his fourth child Meneldil becomes the third King of\nGondor, and so his three older children may have been female or they\nmight have died with him.",
-    "titles": "King of Gondor (joint)",
+    "titles": "King of Gondor and Arnor",
     "birth": "SA 3219",
     "rule": "SA 3320 - SA 3440 (120 years)",
     "death": "SA 3440",
@@ -4114,7 +4114,7 @@
     "race": "Men",
     "gender": "Male",
     "culture": "Numenoreans",
-    "location": "Númenor, Gondor"
+    "location": "Gondor"
   },
   {
     "name": "Beleg",
@@ -4251,7 +4251,7 @@
     "gender": "Male",
     "hair": "Dark",
     "culture": "Noldor",
-    "location": "Nevrast (formerly), Gondolin",
+    "location": "Gondolin",
     "house": "House of Fingolfin"
   },
   {
@@ -4315,7 +4315,7 @@
     "gender": "Male",
     "hair": "Black",
     "culture": "Noldor",
-    "location": "Tirion, Formenos",
+    "location": "Tirion",
     "house": "House of Finwë"
   },
   {
@@ -4347,7 +4347,7 @@
     "race": "Orcs",
     "gender": "Male",
     "culture": "Orcs of Moria",
-    "location": "Moria, Mount Gundabad (films only)"
+    "location": "Khazad-dûm"
   },
   {
     "name": "Bard",
@@ -4418,7 +4418,7 @@
     "hair": "Dark",
     "eyes": "Grey",
     "culture": "Elendili",
-    "location": "Rómenna, Númenor;, Arnor;, Gondor"
+    "location": "Reunited Kingdom"
   },
   {
     "name": "Manwë",
@@ -4482,7 +4482,7 @@
     "height": "Large and immense",
     "eyes": "Black",
     "parentage": "Ungoliant",
-    "location": "Torech Ungol"
+    "location": "Shelob's lair"
   },
   {
     "name": "Glaurung",
@@ -4544,7 +4544,7 @@
     "race": "Dwarves",
     "gender": "Male",
     "culture": "Dwarves of the Iron Hills",
-    "location": "Iron Hills, Lonely Mountain"
+    "location": "Iron Hills"
   },
   {
     "name": "Yavanna",
@@ -4559,7 +4559,7 @@
     "race": "Valar",
     "gender": "Female",
     "height": "Varies",
-    "location": "Pastures of Yavanna",
+    "location": "Valinor",
     "culture": "Ainur"
   },
   {
@@ -4763,14 +4763,14 @@
     "height": "tall",
     "hair": "Dark",
     "culture": "Noldor",
-    "location": "Gondolin, Nevrast and possibly Tirion"
+    "location": "Gondolin"
   },
   {
     "name": "Eowyn",
     "lotr_page_id": "192",
     "text": "ÉOWYN was a shieldmaiden of Rohan, daughter of Éomund and Theodwyn,\nyounger sister of Éomer and niece of King Théoden. After the War of the\nRing, she married Faramir and had one son with him, Elboron.\n\n\nBiography\n\n\n\nÉowyn was the second child of Éomund and Theodwyn. Like her brother\nÉomer, she was related to King Théoden through their mother, the King's\nsister. Her father was slain and her mother died of illness in TA 3002.\nAfterwards, Théoden took Éomer and Éowyn in his household and raised\nthem as his children.\n\nWar of the Ring\n\nDuring the War of the Ring, Éowyn was forced to stay in Meduseld and\ncare for her declining uncle for several years, as he was weakened by\nthe influence of Saruman and Gríma Wormtongue. When Gandalf restored the\nKing, he prepared to defend Rohan against Isengard. Since Théoden\nplanned to ride to battle himself, he asked his doorwarden Háma, to\nsuggest a leader for the people in his absence. Háma recommended Éowyn,\nwho, though a woman, was “fearless” and “all love her.”\n\nÉowyn reluctantly obeyed the King's orders to stay behind in Edoras\nwhile Aragorn, Théoden, and the rest of the men confronted Saruman's\narmy at the Battle of the Hornburg. When they returned, victorious to\nEdoras, Éowyn had kept everything in perfect order for their return. It\nwas near this time when she confessed her growing feelings for Aragorn,\nbut he reluctantly refused.\n\nWhen Denethor II urgently called for Théoden's aid against Mordor, Éowyn\nagain, begged to be allowed to ride with Aragorn to battle, but he\nrefused.\n\nIn bitterness, she disguised herself as a man, under the alias Dernhelm,\nand rode to Minas Tirith on her horse Windfola. She took Meriadoc\nBrandybuck along because he likewise wanted to follow his friends to\nbattle, but had been refused by Théoden. Because Éowyn weighed less than\na man of similar height, Windfola was able to bear both her and\nMerry.  During the Battle\nof the Pelennor Fields, she fought in Théoden's escort; when he and his\ncompany were attacked by the Witch-king of Angmar, lord of the Nazgûl,\nshe and Merry were the only riders who did not flee. As Théoden lay\nmortally wounded, she challenged the Witch-King, who boasted that “no\nliving man may hinder me.” In answer, she removed her helmet, exposing\nher long blond hair, and declared, _“No living man am I! You look upon a\nwoman! Éowyn I am, Éomund's daughter. Begone if you be not deathless!\nFor living or dark undead, I will smite you, if you touch him!”_\n\nIn a rage, the Witch-king attacked her, but she cleaved the head off his\nFell Beast. The Witch-king shattered her shield with a blow of his mace,\nbreaking her arm, but stumbled when Merry stabbed his leg from behind\nwith a Barrow-blade of Westernesse make. Éowyn stabbed her sword through\nthe Witch-king's head, killing him, and thus fulfilling Glorfindel's\nprophecy a thousand years earlier at the Battle of Fornost that “not by\nthe hand of man” would the Witch-King fall.\n\n\n\nHer constitution already severely weakened by her loneliness and\ndespair, combined with her physical injuries, Éowyn succumbed to a\nsevere case of the Black Breath. Théoden, not knowing that she was\nnearby, told Merry with his dying words that she had been “dearer than\ndaughter” to him.\n\nSeeing her lying apparently dead on the battlefield caused her brother\nÉomer to go temporarily mad, and charge in fury at the enemy. But during\nthe battle she was found by Prince Imrahil, who noticed that she was\nstill alive, though barely, and ordered her taken to the Houses of\nHealing. There she was healed by Aragorn, the cure of the plant Athelas,\nand the entreaties of her distraught brother.\n\n\n\nÉowyn remained behind in Minas Tirith while the Army of the West marched\ntoward Morannon, the Black Gate, to challenge Sauron. She met and fell\nin love with Faramir, who had likewise been injured before the battle.\nAfter the War of the Ring had ended, she decided to give up dreams of\nglory in battle and devote her life to peace and a happy marriage.\n\nLater years\n\nAt Éowyn's insistence, Merry was made a Knight of the Riddermark. He\nattended Théoden's funeral and Éomer's coronation as King of Rohan,\nwhere Éowyn presented Merry with a parting gift: the Horn of Rohan, a\nsmall silver horn taken from the hoard of Scatha, the dragon.\n\nFaramir and Éowyn settled in Ithilien, where they had at least one son\n(likely Elboron), and their grandson was Barahir, who wrote _The Tale of\nAragorn and Arwen_ in the Fourth Age. The date of Éowyn's death is\nnowhere recorded.\n\n\nEtymology\n\n_Éowyn_ means “horse lover” in Anglo-Saxon (the language Tolkien used to\nrepresent Rohirric).\n\nThe name was derived from an old Welsh name, _Øwyn_ - slightly altered\nto sound like “A-O-win”. The name in Welsh means “Horse friend”, with\nthe prefix _Éo-_ meaning 'horse' and the suffix ''-wyn ''(“whün”)\nmeaning 'friend.'\n\nPronunciation\n\nThe first syllable of Éowyn's name is pronounced “eh-ah,” with the “ah”\njust barely pronounced. The second syllable pronounced is slightly\ndifferent than it looks, however, being in Welsh it is pronounced “een;”\nthe sound it makes together in an “Eh-awe-een,” having the “w” barely\npronounced at all, instead the word creates its own soft “w” without the\nvoluntary sound, as in Welsh “w” is considered to be a vowel. As in\nScandinavian, the “y” in the second syllable is the same sound as the\nGerman letter _“ü”_ or the French \"_u\"_.\n\nTitles\n\nÉowyn's title was “LADY OF ROHAN” and was also known as “The White Lady\nof Rohan” due to her pale complexion. She also used the alias “DERNHELM”\nwhile riding with Rohan's army, and after her wounding by the Witch-king\nin the Pelennor Fields as “Lady of the Shield-arm”. After her\nmarriage to Faramir she was called the Lady of Ithilien (in contrast to\nFaramir, who was styled Prince of Ithilien), and LADY OF EMYN ARNEN.",
     "other_names": "Éowyn, Dernhelm, White Lady of Rohan, Lady of the Shield-arm",
-    "location": "Rohan and Ithilien",
+    "location": "Rohan",
     "language": "Rohirric and Westron",
     "birth": "T.A. 2995",
     "death": "Early Fourth Age",
@@ -4823,7 +4823,7 @@
     "gender": "Male",
     "eyes": "Dark",
     "culture": "Durin's Folk",
-    "location": "Thorin's Halls, Lonely Mountain, Glittering Caves"
+    "location": "Glittering Caves"
   },
   {
     "name": "Durin's Bane",
@@ -4977,7 +4977,7 @@
     "hair": "Dark",
     "eyes": "Grey",
     "culture": "Noldor",
-    "location": "Lindon, Rivendell"
+    "location": "Rivendell"
   },
   {
     "name": "Sam Gamgee",
@@ -5014,7 +5014,7 @@
     "lotr_page_id": "787",
     "text": "THORIN II, also called the OAKENSHIELD, KING UNDER THE MOUNTAIN or the\nMOUNTAIN KING, was the son of Thráin II, the older brother of Frerin\nand Dís, the grandson of King Thrór and the uncle of Fíli and Kíli.\nThorin was best known for his deeds as leader of a company that\ninfiltrated the lost Kingdom under the Mountain to take it back\nfrom Smaug and for leading an alliance of Men, Dwarves, and Elves in the\nBattle of the Five Armies.\n\n\nBiography\n\nEarly Life\n\n\n\nIn the year TA 2746, Thorin II was born to Dwarven prince Thráin II in\nthe mountain city of The Lonely Mountain. Early in his youth, he and the\nother Dwarves of the Lonely Mountain were forced to flee by the dragon\nSmaug in TA 2770. While in exile, he quickly grew to become a capable\nwarrior. This was demonstrated when he participated in the Battle of\nAzanulbizar in TA 2799. He marched with one of the Dwarven armies\nbeneath the East-gate of Moria. At some point in the fighting, his\nshield broke, and using an oaken tree branch found on the floor as a\nshield, he gained the epithet “Oakenshield,” which would remain with him\neven in death.\n\nThorin eventually became King-in-Exile of Durin's Folk after his father\nwent missing, and presumably died in the dungeons of Dol Guldur.\n\nQuest for the Lonely Mountain\n\nIn TA 2941, after receiving a map\nhis father had drawn for him and following advice from Gandalf the Grey,\nhe took a contingent of Twelve Dwarves to visit Bilbo Baggins in order\nto hire him as a burglar for their cause. Thorin's intent was to\ninfiltrate the Lonely Mountain and steal back the treasure from\nSmaug.\n\nThe Dwarves, Bilbo, and Gandalf experienced a number of dangers on their\njourney to the Lonely Mountain, surviving Trolls, Orcs, Wargs, and\nSpiders. He found the legendary sword, Orcrist, in a troll-hoard along\nwith Glamdring. In Rivendell, the Company rested and Elrond\ntranslated the moon runes in Thror's Map. During their journey\nthrough Mirkwood, Thorin and his Company encountered spiders and were\nlater imprisoned by the Elvenking Thranduil. They escaped through\nbarrels and they traveled down to Lake-town.\n\nThorin and Company were greeted warmly by the people of Lake-Town and\nhailed the return of the King under the Mountain. They soon reached\nthe Lonely Mountain and the Dwarves sent Bilbo who converses with\nSmaug. Realizing that the Lake-Men must have helped the intruders, an\nenraged Smaug flew towards Lake-town to take revenge on the Lake-Men.\nThere he was killed by Bard the Bowman who pierced the bare spot on\nSmaug's left breast.\n\nFollowing the death of Smaug, the people of Laketown asked Thorin for a\nshare of the treasure, as they wanted recompense for the destruction of\ntheir city, a part of Smaug's treasure originated from their former\ncity, and it was a lord of Lake-Town, who shot the fatal arrow that\nkilled Smaug. Thorin, overwhelmed by greed after recovering his family's\nriches, and enraged by the presence of Thranduil, refused to share any\npart of the treasure. Instead, he sent a raven to seek aid from his\nrelative, Dáin II Ironfoot, who had a legion of Dwarven soldiers on the\nmove to secure the reclaimed mountain city.Meanwhile, Thorin charged\nhis companions with looking for the Arkenstone within the hoard of\ntreasure. However Bilbo had already found the Arkenstone, and\nsubsequently, secretly brought it to Bard and Thranduil to use as a\nbargaining counter. When Thorin learned of Bilbo's actions he became\nenraged and denounced his former companion as a traitor.\n\n\n\nThe growing conflict over the treasure between Dwarves, Wood Elves, and\nMen, likely to result in bloodshed, was suddenly averted by the approach\nof Goblin and Warg armies, so they instead joined forces to defeat their\ncommon enemies in what was later called the Battle of the Five Armies.\nDuring the battle, Thorin led an assault that proved his strength as a\nleader, striking out from the mountain and providing vital aid as the\ngoblins threatened to overwhelm their foes. He fought courageously, but\nwas mortally wounded in the battle, requiring Beorn to take him to\nsafety.\n\n\n\nBefore he died, he made his peace with Bilbo by commending the Hobbit's\nbravery and good character, apologising for his harsh words as he now\nrecognised his comrade's fundamentally benevolent motives. His last\nwords are, “If more of us valued food and cheer and song above hoarded\ngold, it would be a merrier world. But, sad or merry, I must leave it\nnow. Farewell.”\n\n\nPersonality\n\nThorin was smart, proud, brave, intelligent, vengeful and a bit\nstubborn. He was infamous for a high sense of importance and rank, but\nvalued very nearly every individual of any status. He was extremely\nnoble and highly respectable with a flair of vanity about him. He was\nrespected by many throughout middle earth.\n\nHe shared the greed of his family and had an extensive love for gold,\nthough he valued the welfare of others as well. He was immensely brave\nand was willing to give himself up for any just cause, though this may\nbe to a limit since the upcoming of the Battle of the Five Armies might\nhave come as an exception.\n\nUntil the time of his death, he seemed to be cruel, stubborn and vain,\nand had a very high opinion of value. He was obsessed with possession of\nthe Arkenstone, since it was the heirloom of his family and part of the\nMountain itself.\n\n\nWeapons\n\nThorin fought using typical Dwarven axes, a bow, and swords as well as\nan Elven blade called _ORCRIST_, which he had discovered on the journey\nto the Lonely Mountain. Under Thranduil's imprisonment, the blade\nhad been confiscated by the Wood Elves. At Thorin's burial, Thranduil\ndecided it was more appropriate to place it on Thorin's tomb, and did\nso, along with the Arkenstone.\n\nIn Peter Jackson's trilogy, Thorin begins his quest with his sword, axe,\nand Oak-branch shield. He wielded his sword, Deathless, against the\nTrolls, but was forced to surrender, when the Trolls threatened kill\nBilbo. Thorin later recovered his sword after Gandalf saved them. Later,\nThorin discovered an elven blade in the Troll's hoard. Reluctant at\nfirst, Thorin later keeps the blade when Gandalf tells him that it would\nbe the best he could find. It is unknown what happens to his original\nsword, but it is presumed that he left it in the Troll hoard, as it is\nnot seen again after that. Thorin wields the sword during the orc chase,\nand slays a warg with it. When the company travels to Rivendell, Elrond\ntells Thorin that his sword's name is Orcrist. While traveling from\nRivendell to the Misty Mountains, Thorin's axe is seen as more of a\nwalking axe, then a battle axe. After the company is captured by\nGoblins, Orcrist is taken by them. When the dwarves are brought before\nthe Goblin king, Grinnah finds Orcrist, alerting the other Goblins of\nit's presence, and orders the dwarves' execution over it. When Gandalf\nsaves the dwarves, Nori gives Orcrist to Thorin, which he injures the\nGoblin King with. It is presumed that when the dwarves escape, Thorin\nloses his axe, as it is not seen again. In his battle against Azog,\nThorin uses Orcrist and his Oaken-branch against him. When the eagles\nsave the group, Thorin drops his Oaken-branch, as an eagle picks him up.\nThorin is not seen using Orcrist until Mirkwood, where he uses it to\nslay many spiders, until Mirkwood elves capture them. Legolas\nconfiscates Orcrist, and the company is captured. When the dwarves\nescape from the orcs in the barrel chase, Thorin takes swords and axes\nfrom the orcs, dropping them as he slays the orcs. After the company\ngets help from Lake-Town, Thorin uses a sword when they get to the\nLonely Mountain. In the Battle of the Five Armies, Thorin fires a\nwarning shot at Thranduil, telling him not to approach him. Thorin leads\nthe company into the Battle of the Five Armies with a sword and a\nshield, with which he slays many orcs. Thorin briefly fights Azog on\nRavenhill, where he fends off a pack of Goblin mercenaries with a\ndagger, and the help of Legolas. In the final battle, Thorin fights Azog\nwith Orcrist, which he recovered from Legolas. Azog attempts to stab\nThorin, but is prevented when Thorin uses Orcrist to block his blade. In\nthe end, Thorin gives in, and is stabbed by Azog. However, Thorin\nimpales Azog back, and thrusts Orcrist into him so hard, that the blade\npierces the ice beneath them. At his funeral, Thorin is buried with\nOrcrist, along with the Arkenstone.\n\n\nAbilities\n\nThorin was a fierce and formidable warrior, highly skilled in both\nswordsmanship and archery.",
     "other_names": "Oakenshield",
-    "titles": "King of Durin's Folk, , King under the Mountain (briefly)",
+    "titles": "King of Durin's Folk, King under the Mountain",
     "birth": "TA 2746",
     "rule": "TA 2850 – TA 2941",
     "death": "November 23, TA 2941",
@@ -5026,7 +5026,7 @@
     "gender": "Male",
     "hair": "Black",
     "culture": "Durin's Folk",
-    "location": "Blue Mountains, Dunland, and Lonely Mountain"
+    "location": "Lonely Mountain"
   },
   {
     "name": "Legolas",
@@ -5092,7 +5092,7 @@
     "height": "Tall",
     "hair": "Possibly golden",
     "culture": "Noldor",
-    "location": "Havens of Sirion, Lindon"
+    "location": "Lindon"
   },
   {
     "name": "Radagast",
@@ -5169,7 +5169,7 @@
     "hair": "Black",
     "eyes": "Grey",
     "culture": "Elendili",
-    "location": "Arnor and Gondor"
+    "location": "Reunited Kingdom"
   },
   {
     "name": "Fingolfin",
@@ -5186,7 +5186,7 @@
     "gender": "Male",
     "hair": "Dark",
     "culture": "Noldor",
-    "location": "Hithlum, in the Beleriand"
+    "location": "Hithlum"
   },
   {
     "name": "Túrin",
@@ -5225,7 +5225,7 @@
     "hair": "Raven",
     "eyes": "Grey",
     "culture": "Men of Gondor",
-    "location": "Gondor, Ithilien and Emyn Arnen (after the War of the Ring)"
+    "location": "Gondor"
   },
   {
     "name": "Saruman",
@@ -5262,7 +5262,7 @@
     "hair": "Radiant gold-silver",
     "eyes": "Grey",
     "culture": "Noldor",
-    "location": "Tirion, Doriath, Lindon, Eregion, Lothlórien",
+    "location": "Lothlórien",
     "house": "House of Finarfin"
   },
   {
@@ -5328,7 +5328,7 @@
     "height": "Tall",
     "hair": "Raven Dark",
     "culture": "Noldor",
-    "location": "Tirion, Formenos",
+    "location": "Formenos",
     "house": "House of Finwë"
   },
   {
@@ -5447,7 +5447,7 @@
     "gender": "Male",
     "height": "Any size by choice",
     "hair": "Dark",
-    "location": "Utumno (formerly), Angband, much of Middle-earth and Beleriand for a, time",
+    "location": "Angband",
     "culture": "Demons"
   }
 ]
