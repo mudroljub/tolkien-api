@@ -11,6 +11,8 @@ Otvaranje članka po id-u:
 - povezati slike sa https://lotr.wikia.com/ ili http://www.tolkiengateway.net/
 - rase i kulture imaju lokacije
 
+## Model
+
 Class Character
 
   name 377
@@ -34,7 +36,6 @@ Class Character
   house 27
   siblings 26
   children 25
-  language 18
 
 Class Battle
 
@@ -85,12 +86,6 @@ Class Location
   capital 25
   destroyed 17
 
-Class Quote
-
-  text 50
-  character 50
-  source 50
-
 Class Race
 
   name 24
@@ -110,3 +105,20 @@ Class Race
   rivalries 8
   cultures 7
 
+Class Artefact
+
+  name 63
+  lotr_page_id 63
+  text 63
+  owner 28
+  creator 24
+  location 17
+  appearance 16
+  other_names 12
+  usage 9
+
+Class Quote
+
+  text 50
+  character 50
+  source 50
