@@ -64,22 +64,21 @@ Class Culture
 
 Class Location
 
-  name 439
-  text 439
-  lotr_page_id 439
-  position 243
-  type 233
-  description 184
-  cultures 180 ++
-  other_names 122
-  lifespan 93
-  governance 92
-  languages 86
+  name 446
+  text 446
+  lotr_page_id 446
+  position 249
+  type 239
+  description 189
+  cultures 184 ++
+  other_names 126
+  lifespan 100
+  governance 98
+  founded_or_built 85
   events 81
-  founded_or_built 81
-  regions 76
-  major_towns 33
-  capital 28
+  regions 80
+  major_towns 34
+  capital 31
 
 Class Race
 

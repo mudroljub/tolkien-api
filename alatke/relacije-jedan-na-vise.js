@@ -1,6 +1,6 @@
-const podaci = require('../data/races.json')
-const odrednice = require('../data/locations.json')
-const veza = 'locations'
+const podaci = require('../data/locations.json')
+const odrednice = require('../data/cultures.json')
+const veza = 'cultures'
 
 const koristeniKarakteri = podaci.reduce((acc, x) => {
   if (x[veza]) {

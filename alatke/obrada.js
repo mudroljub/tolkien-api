@@ -1,5 +1,5 @@
 const fs = require('fs')
-const podaci = require('../data/artefacts.json')
+const podaci = require('../data/locations.json')
 
 const obradjeno = podaci
   .sort((a, b) => a.text.length - b.text.length)
@@ -8,7 +8,7 @@ const obradjeno = podaci
   //    x.cultures = x.inhabitants
   //    delete x.inhabitants
   //  }
-    if (!x.owner) console.log(x.name)
+    delete x.languages
     return x
   })
 

@@ -72,17 +72,17 @@
     "cultures": "Men, Bree-hobbits"
   },
   {
-    "name": "Folde",
-    "lotr_page_id": "11493",
-    "text": "The FOLDE was a historic region in the Eastfold of Rohan. It was mainly\ntall grasslands, with a moderate climate.\n\nThe Folde was famous for having been the original homeland of Rohan's\nroyal establishment that was seated in the capital city of Aldburg."
-  },
-  {
     "name": "Girdley Island",
     "lotr_page_id": "4975",
     "text": "GIRDLEY ISLAND was a small island\nin the middle of the Brandywine river.\n\nGirdley Island was approximately four miles long and about a half mile\nwide and located seven or eight miles from the Brandywine Bridge,\naccording to _The Atlas of Middle-earth_.",
     "type": "Island",
     "position": "Brandywine River; in the Shire's Eastfarthing",
     "governance": "The Shire"
+  },
+  {
+    "name": "Folde",
+    "lotr_page_id": "11493",
+    "text": "The FOLDE was a historic region in the Eastfold of Rohan. It was mainly\ntall grasslands, with a moderate climate.\n\nThe Folde was famous for having been the original homeland of Rohan's\nroyal establishment that was seated in the capital city of Aldburg."
   },
   {
     "name": "Mountains of Mithrim",
@@ -114,17 +114,17 @@
     "description": "Two large shallow bends in the Anduin"
   },
   {
-    "name": "Nimbretril",
-    "lotr_page_id": "10153",
-    "text": "NIMBRETRIL was a forest of Birchwood in Arvernien at the Havens of\nSirion in the southwestern Beleriand.\n\nEärendil used the birchwood from these woods as timber in the\nconstruction of Vingilot, the Foam-flower.\n\nIt was also mentioned in a song written by Bilbo called the Song of\nEärendil."
-  },
-  {
     "name": "Tol Fuin",
     "lotr_page_id": "2967",
     "text": "_' Tol Fuin_' was one of the few areas of land that escaped the drowning\nof Beleriand. It originally was the land of Taur-nu-Fuin. When the world\nwas changed, its highest parts survived as the island TOL FUIN (Isle of\nNight), part of the Western Isles.\n\nes:Tol Fuin pl:Tol Fuin ru:Тол Фуин",
     "position": "West of Forlindon",
     "type": "Island",
     "events": "Sinking of Beleriand"
+  },
+  {
+    "name": "Nimbretril",
+    "lotr_page_id": "10153",
+    "text": "NIMBRETRIL was a forest of Birchwood in Arvernien at the Havens of\nSirion in the southwestern Beleriand.\n\nEärendil used the birchwood from these woods as timber in the\nconstruction of Vingilot, the Foam-flower.\n\nIt was also mentioned in a song written by Bilbo called the Song of\nEärendil."
   },
   {
     "name": "Nindamos",
@@ -152,8 +152,7 @@
     "type": "Ford",
     "position": "Head of the Ringló Vale",
     "regions": "Gondor",
-    "cultures": "Men of Gondor",
-    "languages": "Westron"
+    "cultures": "Men of Gondor"
   },
   {
     "name": "Oromet",
@@ -161,14 +160,14 @@
     "text": "OROMET was a hill in the Andustar region of Númenor.\n\nIt was located very close to the shoreline in the utmost west of the\nregion near the haven of Andúnië.\n\n\nHistory\n\nBeing high and as closest that a Man not on a ship could get to the\nUndying Lands, Tar-Minastir, who longed for the lands west built a high\ntower on the hill."
   },
   {
-    "name": "Tumhalad",
-    "lotr_page_id": "10542",
-    "text": "TUMHALAD was a field in the western Beleriand between the rivers Narog\nand Ginglith north of Nargothrond.\n\n\nHistory\n\nTumhalad was where the disastrous Battle of Tumhalad took place in the\nlatter part of the First Age. It, like every other land in\nBeleriand, fell under the Great Sea after the War of Wrath at the end of\nthe First Age.\n"
-  },
-  {
     "name": "Tuckborough",
     "lotr_page_id": "4945",
     "text": "TUCKBOROUGH\nis a location in the Westfarthing of The Shire. Being the main village\nof Tookland, it is where most of the Took clan resided. It was located\nat the western end of the Green Hill Country. The Stock Road ran\neastward from Tuckborough to Stock.\n\nThis region was the site of the Great Smials, the ancestral home of the\nThains."
+  },
+  {
+    "name": "Tumhalad",
+    "lotr_page_id": "10542",
+    "text": "TUMHALAD was a field in the western Beleriand between the rivers Narog\nand Ginglith north of Nargothrond.\n\n\nHistory\n\nTumhalad was where the disastrous Battle of Tumhalad took place in the\nlatter part of the First Age. It, like every other land in\nBeleriand, fell under the Great Sea after the War of Wrath at the end of\nthe First Age.\n"
   },
   {
     "name": "Wall of the Sun",
@@ -209,14 +208,14 @@
     "text": "_This article is on the Elvish-haven in northern Harlindon. For the\nports of Minas Tirith, see Harlond (Minas Tirith)._\n\nHARLOND (Sindarin for “south haven”) is a Elf-haven and a harbour on the\nnorthern shores of Harlindon in the far western parts of Middle-earth.\n\nThe southern harbour on the Gulf of Lhûn was Mithlond, the northern\nbeing Forlond."
   },
   {
-    "name": "Idril's Secret Way",
-    "lotr_page_id": "15473",
-    "text": "IDRIL'S SECRET WAY was an escape tunnel made by Idril Celebrindal under\nthe hidden city of Gondolin.\n\n\nHistory\n\nThe Secret Way ran underneath the city possibly beginning from the house\nof Tuor and Idril beyond its walls and proceeded northward of the Amon\nGwareth. Through the Secret Way, the last survivors of the doomed city\nescaped its destruction."
-  },
-  {
     "name": "Haudh-en-Elleth",
     "lotr_page_id": "7530",
     "text": "HAUDH-EN-ELLETH was the burial mound of Finduilas, located in Brethil\nnear the Crossings of Teiglin. The mound was kept free of orcs by Túrin\nwhile he lived, and here he met (but did not recognize) his sister\nNienor for the first time. \n\nYears later, it was here that Manthor and his guardsmen came across\nHúrin, during the time of Húrin's wanderings."
+  },
+  {
+    "name": "Idril's Secret Way",
+    "lotr_page_id": "15473",
+    "text": "IDRIL'S SECRET WAY was an escape tunnel made by Idril Celebrindal under\nthe hidden city of Gondolin.\n\n\nHistory\n\nThe Secret Way ran underneath the city possibly beginning from the house\nof Tuor and Idril beyond its walls and proceeded northward of the Amon\nGwareth. Through the Secret Way, the last survivors of the doomed city\nescaped its destruction."
   },
   {
     "name": "Tower of Turgon",
@@ -351,7 +350,6 @@
     "position": "Between Drúadan Forest and Grey Wood",
     "regions": "Gondor",
     "description": "One of the Warning beacons of Gondor",
-    "languages": "Westron",
     "governance": "Stewards of Gondor",
     "lifespan": "Third Age"
   },
@@ -466,7 +464,6 @@
     "position": "Northern Rhovanion north of Dale and Lake-town, next to Lonely Mountain",
     "description": "Known for being the dwelling of the Ravens. Friendly with Dwarves of, Lonely Mountain.",
     "cultures": "Ravens",
-    "languages": "Westron",
     "governance": "Roäc",
     "founded_or_built": "Possibly before TA 1999",
     "lifespan": "TA 1999 - Fourth Age (Possibly)"
@@ -698,12 +695,10 @@
     "position": "Eastern coast of the province of Arandor.",
     "regions": "Númenor",
     "description": "Chief seaport of Númenor and shipyard",
-    "cultures": "Númenóreans",
-    "languages": "Adûnaic",
+    "cultures": "Númenóreans, Elendili",
     "governance": "Kings and Queens of Númenor",
     "founded_or_built": "Early Second Age ?",
-    "lifespan": "Early Second Age ? - SA 3319",
-    "inhabitants": "Númenóreans, especially Faithful"
+    "lifespan": "Early Second Age ? - SA 3319"
   },
   {
     "name": "Mount Taras",
@@ -757,14 +752,14 @@
     "cultures": "Orcs"
   },
   {
-    "name": "Tol Brandir",
-    "lotr_page_id": "3426",
-    "text": "TOL BRANDIR or Tindrock was an unclimbable island - unclimable because\nof the sheer rock face which rose from the water at the base of the\nmountain - with a huge pinnacle in the centre of the long lake called\nNen Hithoel. Trees grew on an area of the island, before above it was\nmore inaccessible rock; the mountain itself was capped at by a great\nstone spire. It stood between the hills of Amon Hen and Amon Lhaw and\nlooked over the Falls of Rauros.\n\nIt is stated that no-one, man nor elf nor dwarf had ever set foot upon\nthis island.\n\nde:Tol Brandir pl:Tol Brandir ru:Тол Брандир"
-  },
-  {
     "name": "Tookland",
     "lotr_page_id": "10030",
     "text": "TOOKLAND was a\nsmall section of The Shire west of Hobbiton between Waymeet, Whitwell,\nand Tookbank in around Green-hill country.\n\n\nHistory\n\nTookland was the land of the Tooks and many of the Took clan lived\nthere. During the Battle of Bywater, about 100 Tooks under Peregrin Took\n(Pippin) marched to Bywater to assist in the Scouring of the Shire.\nBefore they left, the Tooks shot a few Ruffian scouts with arrows. These\nruffians had been keeping a watch on Tookland. The Tooks played a huge\nrole in The Battle of Bywater when they shot many Ruffians, as they were\nskilled archers."
+  },
+  {
+    "name": "Tol Brandir",
+    "lotr_page_id": "3426",
+    "text": "TOL BRANDIR or Tindrock was an unclimbable island - unclimable because\nof the sheer rock face which rose from the water at the base of the\nmountain - with a huge pinnacle in the centre of the long lake called\nNen Hithoel. Trees grew on an area of the island, before above it was\nmore inaccessible rock; the mountain itself was capped at by a great\nstone spire. It stood between the hills of Amon Hen and Amon Lhaw and\nlooked over the Falls of Rauros.\n\nIt is stated that no-one, man nor elf nor dwarf had ever set foot upon\nthis island.\n\nde:Tol Brandir pl:Tol Brandir ru:Тол Брандир"
   },
   {
     "name": "Mittalmar",
@@ -781,7 +776,6 @@
     "regions": "Mordor",
     "description": "Known for being the northern border mountain range were behind lies the, dreaded land of Gorgoroth.",
     "cultures": "Orcs, Trolls ?",
-    "languages": "Black Speech, Orcist",
     "governance": "Sauron",
     "lifespan": "Years of the Trees - ?",
     "events": "Wainriders sudden assault upon King Ondoher"
@@ -802,14 +796,14 @@
     "text": "THE YALE was the name of the low-lying lands of the Shire's Eastfarthing\nthat lay along the northern side of the long road from Stock westwards\nto Tuckborough.\n\nThis seems to have been a sparsely populated area, and in fact the map\nof the Shire in _The Lord of the Rings_ marks only a single building\nhere.\n\n\nEtymology\n\nThe meaning of the Yale's name is obscure. The well-known English\npersonal and placename “Yale” has its origins in a Welsh expression\nmeaning “fertile upland.” Its use may suggest that the Hobbits who named\nit had contacts with “strange” languages, possibly those of Dunland."
   },
   {
-    "name": "Lake Helevorn",
-    "lotr_page_id": "3335",
-    "text": "LAKE HELEVORN was a deep, dark lake in Thargelion just south of Mount\nRerir in the northeastern Beleriand.\n\nAccording to _The Atlas of Middle-earth_, it appeared to span around\ntwenty miles from its west to east shoreline.\n\n\nHistory\n\nAfter the Return of the Ñoldor, Caranthir, the fourth son of Fëanor took\nup residence along Lake Helevorn's shorelines. During the Dagor\nBragollach, Glaurung the dragon polluted and defiled its waters. The\nlake as well as Caranthir's domain was destroyed at the conclusion of\nthe War of Wrath.\n\n\nEtymology\n\n_HELEVORN_ is a Sindarin word that meant 'Black-Glass'."
-  },
-  {
     "name": "Udûn (Mordor)",
     "lotr_page_id": "9451",
     "text": "UDÛN was a depressed valley located in northwestern Mordor. It laid\nbetween Cirith Gorgor and the Isenmouthe, and was traversed by large\narmies of Sauron in times of war.\n\nWithin its circumference were many Orc-holds (as told in _The Return of\nthe King_), including Durthang, the forges, and the forts at Carach\nAngren.\n\n\nHistory\n\nUdûn originated with the creation of the lands of Mordor. During both\nthe war of the Last Alliance and the War of the Ring, the vast armies of\nMordor passed through here and out the Black Gate to confront their\nenemies.\n\n\nEtymology\n\n_UDÛN_ meant “hell” in Sindarin."
+  },
+  {
+    "name": "Lake Helevorn",
+    "lotr_page_id": "3335",
+    "text": "LAKE HELEVORN was a deep, dark lake in Thargelion just south of Mount\nRerir in the northeastern Beleriand.\n\nAccording to _The Atlas of Middle-earth_, it appeared to span around\ntwenty miles from its west to east shoreline.\n\n\nHistory\n\nAfter the Return of the Ñoldor, Caranthir, the fourth son of Fëanor took\nup residence along Lake Helevorn's shorelines. During the Dagor\nBragollach, Glaurung the dragon polluted and defiled its waters. The\nlake as well as Caranthir's domain was destroyed at the conclusion of\nthe War of Wrath.\n\n\nEtymology\n\n_HELEVORN_ is a Sindarin word that meant 'Black-Glass'."
   },
   {
     "name": "Mountains of Mirkwood",
@@ -859,7 +853,6 @@
     "regions": "Grey Mountains",
     "description": "Seat of the King of Durin's Folk",
     "cultures": "Dwarves of the Grey Mountains: Longbeards",
-    "languages": "Khuzdul",
     "governance": "King of Durin's Folk",
     "founded_or_built": "Third Age",
     "lifespan": "Third Age - TA 2590 (possibly reclaimed afterwards)"
@@ -884,18 +877,12 @@
     "lotr_page_id": "4171",
     "text": "The TIMELESS HALLS were the place where Eru lived.\n\nIn Tolkien's depiction of them, they are similar to the concept of a\n'Heaven' in that they exist outside the boundaries of the created world\nand in that they do not have a physical form. It is unknown whether or\nnot they are to be the final destination of the souls of Men. This is a\ndistinct possibility, however. Created by Eru the one\n\n\nHistory\n\nThe Music of the Ainur was composed here, as described in the\n_Ainulindalë__,_ before the creation of the world. The Halls were also\nthe home of the Ainur that chose not to descend into Eä, and instead\nchose to remain with Eru.",
     "position": "Outside Eä",
-    "cultures": "Ilúvatar, Ainur",
-    "inhabitants": "Ilúvatar, Ainur"
+    "cultures": "Ilúvatar, Ainur"
   },
   {
     "name": "Kalórmë",
     "lotr_page_id": "10100",
     "text": "KALÓRMË was a mountain in the middle of the Wall of the Sun on the\ncontinent of the Land of the Sun in the farthest east of Arda.\n\n\nHistory\n\nKalórmë seems to be the second tallest mountain in the world of Arda\nnext to Taniquetil. It seems to have existed from the time after the\ndestruction of the Two Lamps but does not appear on maps after the\nChange of the World as the Land of the Sun does not. When seen from\nafar looking at it from the Farthest West, it appeared dim. Oromë\nobserved the peak at some point during the Hiding of Valinor.\nThe Girdle of Arda runs across this peak.\n\n\nEtymology\n\nKalórmë meant 'Sun-rising-hill'.\n"
-  },
-  {
-    "name": "Great Lake",
-    "lotr_page_id": "12574",
-    "text": "The GREAT LAKE was a large lake located in Arda during the time of the\nTwo Lamps in the Spring of Arda.\n\nIt was located in the middle of Arda in Middle-earth between the two\ngreat lamp towers Helcar and Ringol. Amid it lay the Isle of Almaren,\nwhere the Valar dwelt.\n\n\nHistory\n\nThe Valar created the Great Lake and the Isle of Almaren after Melkor\nwas driven from Arda by Tulkas during the First War. Both were destroyed\nalong with the Two Lamps when Melkor returned from the outer darkness to\nbring ruin to the Valar's works and as a result of this, the Great Lake\nwas scuttled and destroyed after Melkor threw down the Two Lamps."
   },
   {
     "name": "Brown Lands",
@@ -906,6 +893,11 @@
     "description": "Barren, generally lifeless area east of the Anduin"
   },
   {
+    "name": "Great Lake",
+    "lotr_page_id": "12574",
+    "text": "The GREAT LAKE was a large lake located in Arda during the time of the\nTwo Lamps in the Spring of Arda.\n\nIt was located in the middle of Arda in Middle-earth between the two\ngreat lamp towers Helcar and Ringol. Amid it lay the Isle of Almaren,\nwhere the Valar dwelt.\n\n\nHistory\n\nThe Valar created the Great Lake and the Isle of Almaren after Melkor\nwas driven from Arda by Tulkas during the First War. Both were destroyed\nalong with the Two Lamps when Melkor returned from the outer darkness to\nbring ruin to the Valar's works and as a result of this, the Great Lake\nwas scuttled and destroyed after Melkor threw down the Two Lamps."
+  },
+  {
     "name": "Stonewain Valley",
     "lotr_page_id": "28708",
     "text": "STONEWAIN VALLEY was a valley of Gondor in the Third Age. It was in the\neast of White Mountains, located deep within the Druadan forest.\n\n\nHistory\n\nKing Théoden led the army of Rohan through this vale to aid Gondor. The\nroad that went through the valley was four horses wide, and had been\nmade in ancient days by the Men of Gondor as a route from the quarries\nbeneath Min-Rimmon to Minas Anor. By the time of the War of the Ring, it\nwas forgotten by Men. However, on March 13, 3019, King Théoden met\nwith Ghân-buri-Ghân, headman of the Woses, in the Druadan forest near\nDunharrow, and the latter revealed the existence of the old road.",
@@ -913,7 +905,6 @@
     "position": "Eastern White Mountains, Between Gondor and Rohan",
     "regions": "Gondor",
     "cultures": "Men",
-    "languages": "Westron",
     "governance": "Kings of Gondor",
     "founded_or_built": "Second Age (Assumed)",
     "lifespan": "Third Age"
@@ -1025,10 +1016,8 @@
     "lotr_page_id": "7479",
     "text": "ARCHET is a remote settlement of Bree Land, it is a village set among\nthe trees on the edge of the Chetwood, east of Bree itself.\n\n\nHistory\n\nAs Aragorn and the Hobbits left Bree on their way to Rivendell, they\nstarted out in the direction of Archet to fool the crowd of\nBree-landers, although they turned aside into the Chetwood before\nreaching the village itself. Later on in the War of the Ring, Archet's\nwoods became home to Ruffians. During the winter they attempted to\ninvade Bree itself, but were fought back. Their accomplices among the\nBree-men, Harry Goatleaf and Bill Ferny, escaped with them, and\napparently joined them in their forest camps near Archet.\n",
     "position": "Bree-land",
-    "cultures": "Men; Hobbits",
-    "languages": "Westron",
-    "type": "Town",
-    "inhabitants": "Men, Hobbits"
+    "cultures": "Men, Hobbits",
+    "type": "Town"
   },
   {
     "name": "Enchanted Isles",
@@ -1063,13 +1052,11 @@
     "text": "HIMLAD was a cold land in the East Beleriand in Middle-earth during the\nFirst Age. It lay between the rivers Aros and Celon in the northwest of\nBeleriand.\n\n\nHistory\n\nHimlad was held by Celegorm and Curufin before the Siege of Angband took\nplace. When Aredhel was lost, she passed through Himlad until she\nfound Nan Elmoth. Years later, when Aredhel and her son Maeglin left Nan\nElmoth to return to Gondolin, Eöl the Dark Elf crossed Himlad and was\ncaptured by the riders of Curufin.\n\nThis land was held by Celegorm and Curufin, until the Dagor Bragollach\nin the latter part of the First Age.\n\n\nEtymology\n\n_HIMLAD_ means “cool plain”, from the Sindarin _him_ (“cool”) and _lad_\n(“plain”).",
     "type": "Field",
     "position": "East Beleriand",
-    "cultures": "Ñoldorin Elves",
-    "languages": "Possibly Quenya and Sindarin",
+    "cultures": "Noldor",
     "governance": "Celegorm and Curufin",
     "lifespan": "Early First Age - FA 587",
     "events": "Dagor Bragollach",
-    "description": "Cold land; a plain lying between the rivers Aros and Celon",
-    "inhabitants": "Noldor, governed by Celegorm and Curufin"
+    "description": "Cold land; a plain lying between the rivers Aros and Celon"
   },
   {
     "name": "Brandywine Bridge",
@@ -1105,16 +1092,6 @@
     "text": "The VALES OF ANDUIN, also known as VALE OF THE GREAT RIVER, were the\nfertile valleys of the Anduin river. They lay between the Misty\nMountains and Mirkwood, and extended for hundreds of miles.\n\n\nHistory\n\nIt was once the original home of all the Hobbits before they migrated\ninto the west to the lands of Bree, Dunland, and finally the Shire due\nto increasing danger coming from Mirkwood. A colony of Stoor hobbits\nremained in the Gladden Fields until sometime after TA 2460.\n\nBy the latter part of the Third Age, this land was for the most part\ndeserted due to the dread of Mirkwood. Only the Beornings, including\nBeorn himself, the Woodmen and Radagast at Rhosgobel dared live in or\nnear this land."
   },
   {
-    "name": "Mountains of Angmar",
-    "lotr_page_id": "3349",
-    "text": "MOUNTAINS OF ANGMAR were a mountain chain in the far north, running west\nfrom Mount Gundabad at the northern end of the Misty Mountains.\n\n\nHistory\n\nThe evil kingdom of Angmar gave its name to the mountains after it was\nestablished there in TA 1300 by Sauron's chief lieutenant, the\nWitch-king of Angmar. The mountains were probably inhabited at various\ntimes both by Dwarves and Orcs. The capital of Angmar, Carn Dûm, was\nlocated at the western foothills of the Mountains of Angmar. From here\nthe Witch-king waged war on the Arnor for hundreds of years.\n\nThe mountains remained a realm of evil for six-hundred and seventy-five\nyears up until TA 1975 when the forces of Gondor defeated the\nWitch-king.",
-    "major_towns": "Carn Dûm",
-    "position": "Northern Eriador, west of Mount Gundabad",
-    "type": "Mountain range",
-    "events": "Destruction of Angmar",
-    "cultures": "Orcs"
-  },
-  {
     "name": "Forochel",
     "lotr_page_id": "927",
     "text": "The area of Forodwaith that lay north of Eriador was known as Forochel,\ntogether with the great ice-bay and cape, which carried the same name.\nThis area roughly corresponded with the area where the Blue Mountains\nand the Iron Mountains once met.\n\n\nHistory\n\nIt is speculated in'' The Atlas of Middle-earth'' that the ancient\nstronghold of Morgoth, Utumno, was once located in Forochel, although\nthis is not necessarily canonical. Forochel was inhabited by a tribe of\nbrown skinned people called the Lossoth, or Snowmen. The chief of these\ntribes sheltered the Arthedain king Arvedui for a time and was given the\nRing of Barahir as a reward.\n\n\nEtymology\n\nForochel is a Sindarin word that meant 'North- ?'.",
@@ -1122,8 +1099,7 @@
     "position": "Forodwaith",
     "regions": "Icebay of FOROCHEL",
     "description": "Frigid region in the north of Middle-earth",
-    "cultures": "Lossoth",
-    "inhabitants": "Lossoth"
+    "cultures": "Lossoth"
   },
   {
     "name": "Dor-en-Ernil",
@@ -1151,11 +1127,9 @@
     "type": "Fortress",
     "position": "Northern Valinor",
     "description": "Fortress and Safe house of the House of Finwë",
-    "cultures": "House of Fëanor",
-    "languages": "Quenya",
+    "cultures": "Noldor",
     "governance": "Fëanor",
     "lifespan": "YT 1490 – YT 1495",
-    "inhabitants": "Noldor",
     "events": "Murder of Finwë, theft of the Silmarils"
   },
   {
@@ -1282,11 +1256,6 @@
     "description": "Stone bridge"
   },
   {
-    "name": "The Marish",
-    "lotr_page_id": "2861",
-    "text": "THE MARISH was the name of a fertile, yet boggy farmland region located\nin the Shire's Eastfarthing on the western side of the Brandywine,\nacross the river from Buckland.\n\n\nHistory\n\nIt was where the Oldbuck family was believed to have lived before\nGorhendad Oldbuck moved the family across the Brandywine to Buckland and\nchanged their name. The Marish was home to many farms, including\nBamfurlong belonging to Farmer Maggot. The two major settlements in the\nMarish were Stock and Rushey.\n\nThe Hobbits of the Marish were mainly of Stoorish descent. They were\nlarge, wore boots in muddy weather, and commonly grew beards. Some\nHobbits of the Marish also lived in houses instead of Smials, a practice\nrumored to have begun in the region.\n\n\nSee Also\n\n-   Bucca of the Marish"
-  },
-  {
     "name": "Pinnath Gelin",
     "lotr_page_id": "9690",
     "text": "The PINNATH GELIN or GREEN HILLS was a green and fertile hilled country\nin western Gondor between the western White Mountains and Anfalas.\n\nThere were people who dwelt in the lower hills, but the area was\nsparsely populated.\n\n\nDescription\n\nThe climate hovered near the moderate and the extreme with mild winters\nand hot, dry summers and the terrain consisted of scattered woodlands on\na hilly area.\n\n\nHistory\n\nAt the time of the War of the Ring, Hirluin the Fair was either a lord\nof that region of Gondor or apparently a figure of authority there. As\nPinnath Gelin was a loyal province of Gondor, Hirluin came with some 300\nwell-armed men marched to the aid of Minas Tirith during the Battle of\nthe Pelennor Fields. Hirluin was killed by Orcs during the ensuing\nbattle.",
@@ -1295,7 +1264,12 @@
     "type": "Range of hills",
     "description": "Hill-range, with unnamed settlements",
     "events": "War of the Ring",
-    "cultures": "Gondorians"
+    "cultures": "Men of Gondor"
+  },
+  {
+    "name": "The Marish",
+    "lotr_page_id": "2861",
+    "text": "THE MARISH was the name of a fertile, yet boggy farmland region located\nin the Shire's Eastfarthing on the western side of the Brandywine,\nacross the river from Buckland.\n\n\nHistory\n\nIt was where the Oldbuck family was believed to have lived before\nGorhendad Oldbuck moved the family across the Brandywine to Buckland and\nchanged their name. The Marish was home to many farms, including\nBamfurlong belonging to Farmer Maggot. The two major settlements in the\nMarish were Stock and Rushey.\n\nThe Hobbits of the Marish were mainly of Stoorish descent. They were\nlarge, wore boots in muddy weather, and commonly grew beards. Some\nHobbits of the Marish also lived in houses instead of Smials, a practice\nrumored to have begun in the region.\n\n\nSee Also\n\n-   Bucca of the Marish"
   },
   {
     "name": "Frogmorton",
@@ -1419,14 +1393,14 @@
     "text": "The WELLS OF VARDA were the places that Varda stored the dews and rains\nfrom the Two Trees of Valinor in the time that they lived.\n\nThey were located in Valmar surrounding Ezellohar and were probably many\nin number.\n\n\nHistory\n\nThey were made by Varda after the Two Trees were flourishing in Valinor\nfor some time. All the inhabitants of the sacred realm drew light and\nrefreshment from them.\n\nLater, when Melkor and Ungoliant descended upon the trees and destroyed\nthem, Ungoliant drank the wells dry. And after their light was gone\nthere was none left in Valinor save for in the Silmarils.\n\n\nNotes\n\n-   It's most likely a reference to the well of Mimir, Mímisbrunnr, from\n    Norse mythology that Odin would consult for knowledge, located at\n    the roots of the world tree. It is where he sacrificed his eye into\n    the well in exchange for deeper knowledge."
   },
   {
-    "name": "Bridge of Menegroth",
-    "lotr_page_id": "31999",
-    "text": "The BRIDGE OF MENEGROTH was a stone bridge over the river Esgalduin in\nDoriath that led to the entrance of Menegroth.\n\nThe bridge was approximately 500 feet in length.\n\n\nHistory\n\nAs the great underground city of Menegroth was delved and built mostly\nby the Dwarves of the Blue Mountains, the bridge was probably made by\nthem. It was used by the Elves of Doriath and welcomed guests\ngoing to and from the city. Tragically, the Dwarves of Nogrod led a\ngreat a host over the bridge intending sack the city and punish the\nelves for what they believed to be the wrongful slaying of their kin in\nthe deep caves of Menegroth. With the final fall of Doriath after the\ndeath of Dior in FA 506, it is possible that the bridge fell into\ndecay for the rest of the First Age, and after the War of Wrath it went\nthe way of all things in the Beleriand, and sunk below the waves.\n"
-  },
-  {
     "name": "Tower of Avallónë",
     "lotr_page_id": "25134",
     "text": "The TOWER OF AVALLÓNË was a great white tower of the Elven city of\nAvallonë on the island of Tol Eressëa\n\nThe tower was the location of the master Palantir.\n\n\nHistory\n\nThe tower dates back to building of the city in the early Second Age by\nthe Elves returning from Middle-earth after the War of Wrath. The tower\nwas the first sight to be seen by mariners sailing to and from Aman and\ncould be clearly be seen from western Númenor and by Númenórean mariners\nlonging for the Undying Lands. By the time of the reign of Tar-Palantir,\nthe city and the tower were veiled in a great cloud and could no longer\nbe seen from Númenor. After Elendil established the Realms in Exile\nin Middle-earth, he erected towers such as Emyn Beraid throughout his\nkingdom which held the Palantíri that the Númenórean exiles brought over\nfrom Númenor, to observe his kingdom and the tower."
+  },
+  {
+    "name": "Bridge of Menegroth",
+    "lotr_page_id": "31999",
+    "text": "The BRIDGE OF MENEGROTH was a stone bridge over the river Esgalduin in\nDoriath that led to the entrance of Menegroth.\n\nThe bridge was approximately 500 feet in length.\n\n\nHistory\n\nAs the great underground city of Menegroth was delved and built mostly\nby the Dwarves of the Blue Mountains, the bridge was probably made by\nthem. It was used by the Elves of Doriath and welcomed guests\ngoing to and from the city. Tragically, the Dwarves of Nogrod led a\ngreat a host over the bridge intending sack the city and punish the\nelves for what they believed to be the wrongful slaying of their kin in\nthe deep caves of Menegroth. With the final fall of Doriath after the\ndeath of Dior in FA 506, it is possible that the bridge fell into\ndecay for the rest of the First Age, and after the War of Wrath it went\nthe way of all things in the Beleriand, and sunk below the waves.\n"
   },
   {
     "name": "Great Gulf",
@@ -1465,14 +1439,14 @@
     "type": "Frozen glacial desert"
   },
   {
-    "name": "Núrn",
-    "lotr_page_id": "879",
-    "text": "NÚRN is a region\nlocated in the southernmost portion of the realm of Mordor that holds\nthe inland Sea of Núrnen. \n\nNúrn was a semi-arid place due to its close proximity to Gorgoroth and\nconsisted mostly of short grass landed plains, fertile enough for\nfarming to support the armies of Sauron, as opposed to the arid plateau\nof Gorgoroth, which is north-west of Núrn.\n\n\nHistory\n\n\n\nNúrn was partially inhabited by Westron-speaking men that were enslaved\nby the Dark Lord Sauron. It was fertile enough to feed Sauron's\nnumberless hordes during the War of the Ring, and covered in vast fields\nof grain worked by slaves. Its soil had been enriched by ash\nfrom Orodruin's eruptions, and its grasslands were fed by water from\nthe Sea of Núrnen.\n\nAfter the overthrow of Sauron, the land was granted to the freed slaves\nof Mordor. They might have been allowed to govern it for themselves.\n"
-  },
-  {
     "name": "Cabed Naeramarth",
     "lotr_page_id": "28594",
     "text": "CABED NAERAMARTH was a river chasm of the river Teiglin.\n\n\nHistory\n\nThe chasm was known earlier as CABED-EN-ARAS (Sindarin; _Deer's Leap_)\nbecause it was narrow enough for a deer to leap across the river from\ncliff to cliff. It received its new name after Niënor Níniel, having\nfound her husband Túrin Turambar apparently dead and realizing (once the\nmortally wounded Dragon Glaurung removed her amnesia) that she had\nmarried her own brother and was carrying his unborn child, leaped into\nCabed Naeramarth, presumably to her death.\n\nLater Túrin returned to Cabed Naeramarth and, realizing what had\nhappened to Niënor and why, he committed suicide at that same place,\nbringing an end to the curse of the Children of Hurin. The place was\nconsidered haunted and cursed thereafter, and even animals avoided\nit.\n\n\nEtymology\n\n_Cabed Naeramarth_ was Sindarin for “Leap of Dreadful Doom”."
+  },
+  {
+    "name": "Núrn",
+    "lotr_page_id": "879",
+    "text": "NÚRN is a region\nlocated in the southernmost portion of the realm of Mordor that holds\nthe inland Sea of Núrnen. \n\nNúrn was a semi-arid place due to its close proximity to Gorgoroth and\nconsisted mostly of short grass landed plains, fertile enough for\nfarming to support the armies of Sauron, as opposed to the arid plateau\nof Gorgoroth, which is north-west of Núrn.\n\n\nHistory\n\n\n\nNúrn was partially inhabited by Westron-speaking men that were enslaved\nby the Dark Lord Sauron. It was fertile enough to feed Sauron's\nnumberless hordes during the War of the Ring, and covered in vast fields\nof grain worked by slaves. Its soil had been enriched by ash\nfrom Orodruin's eruptions, and its grasslands were fed by water from\nthe Sea of Núrnen.\n\nAfter the overthrow of Sauron, the land was granted to the freed slaves\nof Mordor. They might have been allowed to govern it for themselves.\n"
   },
   {
     "name": "Westfarthing",
@@ -1542,6 +1516,11 @@
     "cultures": "Hobbits"
   },
   {
+    "name": "Nivrim",
+    "lotr_page_id": "3443",
+    "text": "NIVRIM also known as OAK FOREST was one of the Forests of the Elven\nrealm of Doriath.\n\nNivrim was situated west of Region, southeast of Amon Rûdh, north of\nAelin-uial, south of the southeastern edge of Brethil, and was located\nwithin the Girdle of Melian. Both it and the forest of Region were\njoined by a bridge crossing the Sirion near where the river Esgalduin\njoined with it.\n\n\nHistory\n\nThe forest was loved by Queen Melian who dedicated it in honor of the\nVala Ulmo and that it should be in the power of the realm of Doriath\nproper, thus placing it within the Melian's protective barrier. Its\nfate was ultimately the fate of Doriath's as when Melian left\nMiddle-earth, it was left unprotected and wide-open to its enemies\nand finally destroyed and the end of the War of Wrath.\n\nThe forest was mainly a forest of oak trees hence the other name “Oak\nForest.”\n\n\nEtymology\n\n_Nivrim_ was Sindarin word that meant 'West March'."
+  },
+  {
     "name": "Ered Wethrin",
     "lotr_page_id": "2465",
     "text": "The ERED WETHRIN was a mountain range in the north of Middle-earth in\nthe First Age.\n\n\nHistory\n\nIn the south, Ered Wethrin was an east-west range that divided Dor-lomin\nand Mithrim to the north from Beleriand to the south, then in the east\nit curved around to the northwest, forming the boundary of Hithlum. A\nline of hills to the southwest formed the southern boundary of Nevrast,\nwhile the MOUNTAINS OF MITHRIM were a northwesterly spur that separated\nDor-lomin from Mithrim from the pool or Ivrin to Tol Sirion. Several\nrivers arose in the Ered Wethrin, including Narog, Teiglin, and Sirion.\nThe easternmost point of the Ered Wethrin reached nearly to the\nEchoriath, forming a steep-sided valley known as the Pass of Sirion\nthrough which the upper Sirion ran.\n\nThe Ered Wethrin disappeared beneath the waves after the War of Wrath at\nthe end of the First Age.\n\n\nEtymology\n\nEred Wethrin was Sindarin for 'Mountains of Shadow'.",
@@ -1563,8 +1542,7 @@
     "position": "Southeastward across the Anduin from Minas Tirith and the Pelennor, Fields",
     "regions": "Gondor",
     "description": "Home to a family of Númenórean nobles of which the Stewards originated, from; later the seat of the Prince of Ithilien and the Lord of Emyn, Arnen",
-    "cultures": "Númenóreans; later Gondorians",
-    "languages": "Westron, Sindarin, Gondor Sindarin",
+    "cultures": "Númenóreans, Men of Gondor",
     "governance": "King of Gondor/Steward of Gondor, Prince of Ithilien, Lord of Emyn Arnen, King of the Reunited Kingdom",
     "founded_or_built": "Second Age",
     "lifespan": "Second Age -"
@@ -1596,15 +1574,6 @@
     "cultures": "Elves, Men, then Hobbits"
   },
   {
-    "name": "Near Harad",
-    "lotr_page_id": "903",
-    "text": "NEAR HARAD was a large region of the land of Harad southeast of Gondor.\n\nThe Men of Gondor and Haradrim regularly skirmished over the territory\nlabeled on the maps as South Gondor. It bordered Khand on the east,\nalthough that boundary was not described by Tolkien. Far Harad was\nlocated south of Near Harad.\n\nThe majority of the Near Harad was a desert, described by Gollum as\nwhere the “_yellow face is bright and terrible_”. In the southeast of\nthe Near Harad, a natural gulf fed far into the landmass, and a large\nriver flowed inland from there to the northwest, later forking. One\nbranch of the river flowed westwards towards Umbar, the other branch\nflowed northeast. Neither the gulf nor the rivers were given names by\nTolkien. Although no cities or permanent dwellings of the Haradrim\nwere described by Tolkien, it is presumable they were located near these\nrivers, where the climate may have been milder and where they could make\nuse of irrigation.",
-    "description": "Landlocked desert",
-    "position": "South of Mordor, east of the Harnen, south-west of Khand",
-    "type": "Region",
-    "cultures": "Haradrim"
-  },
-  {
     "name": "Taur-im-Duinath",
     "lotr_page_id": "3341",
     "text": "TAUR-IM-DUINATH was a dark and gloomy forest that extended over a vast\narea of land in the southern part of East Beleriand.\n\nAccording to _The Atlas of Middle-earth_, Taur-im-Duinath extended over\none-hundred and fifty miles from east to west and possibly two-hundred\nmiles from north to south. Though it is separated from them by the river\nGelion, Taur-im-Duinath was part of a great Southern Forest that\nextended far into Eriador.\n\n\nHistory\n\nApparently no one lives here, at least not permanently, and people\nseemed to fear it greatly including the Orcs. The only people known to\ntravel through here were a few Dark Elves wandering through it on some\nerrand of their own. All of this land was destroyed after the War of\nWrath at the end of the First Age along with most of the rest of the\nBeleriand.\n\n\nEtymology\n\n_Taur-im-Duinath_ is Sindarin, translating as “Forest between Rivers”\nbecause it lies south of the Andram between the Sirion and the\nGelion.",
@@ -1613,6 +1582,15 @@
     "position": "Southern Beleriand. South of the Andram; between the rivers Sirion and, Gelion",
     "other_names": "\"Forest between Rivers\"",
     "cultures": "Moriquendi"
+  },
+  {
+    "name": "Near Harad",
+    "lotr_page_id": "903",
+    "text": "NEAR HARAD was a large region of the land of Harad southeast of Gondor.\n\nThe Men of Gondor and Haradrim regularly skirmished over the territory\nlabeled on the maps as South Gondor. It bordered Khand on the east,\nalthough that boundary was not described by Tolkien. Far Harad was\nlocated south of Near Harad.\n\nThe majority of the Near Harad was a desert, described by Gollum as\nwhere the “_yellow face is bright and terrible_”. In the southeast of\nthe Near Harad, a natural gulf fed far into the landmass, and a large\nriver flowed inland from there to the northwest, later forking. One\nbranch of the river flowed westwards towards Umbar, the other branch\nflowed northeast. Neither the gulf nor the rivers were given names by\nTolkien. Although no cities or permanent dwellings of the Haradrim\nwere described by Tolkien, it is presumable they were located near these\nrivers, where the climate may have been milder and where they could make\nuse of irrigation.",
+    "description": "Landlocked desert",
+    "position": "South of Mordor, east of the Harnen, south-west of Khand",
+    "type": "Region",
+    "cultures": "Haradrim"
   },
   {
     "name": "Eithel Ivrin",
@@ -1692,9 +1670,21 @@
     "regions": "Gondor, Reunited Kingdom",
     "description": "Grassy upland valley inhabited by Men",
     "cultures": "Men of Gondor",
-    "languages": "Westron",
     "governance": "King of Gondor / Stewards of Gondor",
     "lifespan": "Third Age"
+  },
+  {
+    "name": "Ettenmoors",
+    "lotr_page_id": "2611",
+    "text": "The ETTENMOORS, also known as the TROLL-FELLS, were a highland region of\nEriador which was west of the Misty Mountains, located north of the\nColdfells and Rivendell and southeast of Mount Gram. The land was wild,\nuntamed, misty, and sinister, and many evil creatures dwelt there. It\nwas also the home of the trolls in The Hobbit: Tom, Bert and William.\n\n\nHistory\n\n[Ettenmoors showing in the video game _The Lord of the Rings: War in the\nNorth_]\n\n[The Dark untamed lands of the Ettenmoors with a camp of Goblins and\ncreatures.]\n\nThe Ettenmoors had been a peaceful part of the Dúnedain kingdom of Arnor\nuntil the middle of the Third Age when, during the Angmar War, the\nbreakaway kingdom of Rhudaur became a vassal of the Witch-King of\nAngmar. After the war, the Witch-King fled to the Ettenmoors after his\ndefeat at the Battle of Fornost. At that time the Ettenmoors were mainly\nruled by Hill-men, Goblins, and Orc chieftains, and was home to Giants,\nTrolls, Dragons, Orcs, Wargs, White Wolves, and Barrow-wights.",
+    "other_names": "Ettendales, Troll-fells",
+    "position": "Eastern Eriador, north of the Trollshaws",
+    "type": "Moorland",
+    "description": "Highland region infested with Trolls",
+    "cultures": "Trolls, possibly Orcs",
+    "regions": "Eriador",
+    "governance": "Witch-King of Angmar, Golfimbul, later Gorkil the Goblin King",
+    "lifespan": "Third Age and beyond"
   },
   {
     "name": "Seat of Seeing",
@@ -1734,6 +1724,22 @@
     "text": "THE STAR OF EÄRENDIL was the shining light of the Silmaril rescued from\nAngband by Lúthien and Beren, and carried into the skies by their\ndescendant Eärendil aboard his vessel Vingilot.\n\n\nHistory\n\n\n\nAs it first rose in the West, it was recognised by the Elf-lord Maedhros\nas the jewel of his father that he had sought for so long, now placed\nout of his reach beyond the Circles of the World. It was Eärendil and\nthe light of his star that led the Edain to Númenor in the early Second\nage, and at that time the light of the Star was so brilliant that it hid\nall the other stars in the sky. From its guiding light came\nthe Númenoreans' name for their land, Ellena meaning “Starwards”.\n\nThe light of Eärendil's Star played a crucial role much later in\nhistory, as well. It was light from this star that was gathered in\nFrodo's Phial of Galadriel, his gift from Galadriel  which helped him\nsurvive his journey into Mordor. Even today the star still shines — the\nstory of Eärendil and his Silmaril was the Elvish account of the “star”\nwe know today as the planet Venus."
   },
   {
+    "name": "Cirith Gorgor",
+    "lotr_page_id": "3345",
+    "text": "CIRITH GORGOR was the point where the mountain ranges of the Ered Lithui\nand the Ephel Dúath met, located towards the northwest of Mordor.\n\nIt was sealed by the Black Gate and guarded by the two Towers of the\nTeeth, Carchost and Narchost.\n\n\nHistory\n\nOriginally, Cirith Gorgor was part of a series of fortifications and\ntowers that Gondor had placed in the mountains, high points and passes,\nto ensure that Mordor remained desolate and uninhabited. However, Gondor\nfell into decline and was struck by civil war and plague, and so\nafterwards Cirith Gorgor was slowly retaken by Sauron and his other dark\nminions.\n\nAt Cirith Gorgor, Aragorn and the Armies of Gondor and Rohan met with\nthe armies of Mordor in a battle just before the One Ring was destroyed.\nA great many Men of Gondor and Rohan lost their lives, but in the end\nheld Sauron's gaze long enough to allow Frodo to destroy the Ring.\n\nCirith Gorgor was ruined by the devastation of the northwestern part of\nMordor after the destruction of the Ring.\n\n\nEtymology\n\nCirith Gorgor is Sindarin for 'Haunted Pass'.",
+    "type": "Pass",
+    "other_names": "Haunted Pass",
+    "position": "North-west end of Udûn, Mordor",
+    "description": "Evil, dark pass guarded by the Black Gate",
+    "events": "Battle of the Morannon",
+    "cultures": "Orcs"
+  },
+  {
+    "name": "North Downs",
+    "lotr_page_id": "11716",
+    "text": "Description\n\nThe NORTH DOWNS was a location found in Eriador, north of Bree. The\nNorth Downs have a history of constant struggle, for in the time of the\nWar of the Ring, this location experienced deep trouble from Orcs and\nother evil creatures, who were spurred on by the news of the cloud in\nthe East. For Angmar, that most evil of realms in Eriador, was located\njust north of the North Downs, and many evil beings who were struggling\nto find a purpose in Angmar after the departure of the Witch-king\nfinally resolved to invade the lands south of them. Thus, the North\nDowns became a frontier against this new evil arisen in Angmar, a\nremnant of the old power of the Witch King called the Shadow of Angmar.\n\nThere was still hope though, in that harsh war zone, for the Free\nPeoples of Eriador waged constant war on the new servants of Angmar and\nthe Witch King. Several towns that had existed in that area for years,\nand that were now besieged by the servants of the Witch King, found\nthemselves suddenly strengthened by a flow of warriors from all across\nEriador."
+  },
+  {
     "name": "Rammas Echor",
     "lotr_page_id": "7551",
     "text": "The RAMMAS ECHOR was a great ancient wall surrounding Minas Tirith and\nenclosing the Pelennor Fields.\n\n\nHistory\n\nRammas Echor functioned as Minas Tirith's second line of defence, the\nfirst being the Anduin. First built after the fall of Minas Ithil, the\nwall was repaired prior to the War of the Ring by Denethor II, the work\nbeing completed only a few days before the Witch-king of Angmar\nattacked. The Rammas followed an almost elliptical course, being further\nfrom Minas Tirith in some places than others. It was furthest from the\ncity at the point where the highway to Osgiliath entered, and was\nstrengthened there by the Causeway Forts. When the Witch-king's forces\nattacked, however, the Rammas was soon breached in many places, and its\ndefenders, too few to hold such a long fortification, were killed or\nfled back to the city. After overrunning the Pelennor Fields, the\nWitch-king's soldiers failed to guard the Rammas against any allies of\nGondor who might arrive, and so the Rohirrim were able to enter the\nPelennor Fields without significant opposition.\n",
@@ -1745,22 +1751,6 @@
     "founded_or_built": "between TA 2953 and TA 2984",
     "lifespan": "March 15, 3019",
     "events": "Battle of the Pelennor Fields"
-  },
-  {
-    "name": "North Downs",
-    "lotr_page_id": "11716",
-    "text": "Description\n\nThe NORTH DOWNS was a location found in Eriador, north of Bree. The\nNorth Downs have a history of constant struggle, for in the time of the\nWar of the Ring, this location experienced deep trouble from Orcs and\nother evil creatures, who were spurred on by the news of the cloud in\nthe East. For Angmar, that most evil of realms in Eriador, was located\njust north of the North Downs, and many evil beings who were struggling\nto find a purpose in Angmar after the departure of the Witch-king\nfinally resolved to invade the lands south of them. Thus, the North\nDowns became a frontier against this new evil arisen in Angmar, a\nremnant of the old power of the Witch King called the Shadow of Angmar.\n\nThere was still hope though, in that harsh war zone, for the Free\nPeoples of Eriador waged constant war on the new servants of Angmar and\nthe Witch King. Several towns that had existed in that area for years,\nand that were now besieged by the servants of the Witch King, found\nthemselves suddenly strengthened by a flow of warriors from all across\nEriador."
-  },
-  {
-    "name": "Cirith Gorgor",
-    "lotr_page_id": "3345",
-    "text": "CIRITH GORGOR was the point where the mountain ranges of the Ered Lithui\nand the Ephel Dúath met, located towards the northwest of Mordor.\n\nIt was sealed by the Black Gate and guarded by the two Towers of the\nTeeth, Carchost and Narchost.\n\n\nHistory\n\nOriginally, Cirith Gorgor was part of a series of fortifications and\ntowers that Gondor had placed in the mountains, high points and passes,\nto ensure that Mordor remained desolate and uninhabited. However, Gondor\nfell into decline and was struck by civil war and plague, and so\nafterwards Cirith Gorgor was slowly retaken by Sauron and his other dark\nminions.\n\nAt Cirith Gorgor, Aragorn and the Armies of Gondor and Rohan met with\nthe armies of Mordor in a battle just before the One Ring was destroyed.\nA great many Men of Gondor and Rohan lost their lives, but in the end\nheld Sauron's gaze long enough to allow Frodo to destroy the Ring.\n\nCirith Gorgor was ruined by the devastation of the northwestern part of\nMordor after the destruction of the Ring.\n\n\nEtymology\n\nCirith Gorgor is Sindarin for 'Haunted Pass'.",
-    "type": "Pass",
-    "other_names": "Haunted Pass",
-    "position": "North-west end of Udûn, Mordor",
-    "description": "Evil, dark pass guarded by the Black Gate",
-    "events": "Battle of the Morannon",
-    "cultures": "Orcs"
   },
   {
     "name": "Dimrost",
@@ -1780,11 +1770,9 @@
     "regions": "Woodland Realm",
     "description": "The stronghold of the Woodland Realm",
     "cultures": "Silvan Elves",
-    "languages": "Sindarin, Silvan",
     "governance": "Thranduil",
     "founded_or_built": "After TA 1050",
-    "lifespan": "Around TA 1050 -",
-    "inhabitants": "Mostly Silvan Elves"
+    "lifespan": "Around TA 1050 -"
   },
   {
     "name": "Aglon",
@@ -1796,7 +1784,6 @@
     "cultures": "Ñoldor",
     "lifespan": "? - First Age",
     "description": "A cold, windy, narrow pass, steep-sided on the west",
-    "inhabitants": "Noldor",
     "events": "Dagor Bragollach, Nirnaeth Arnoediad"
   },
   {
@@ -1864,7 +1851,6 @@
     "position": "Eriador; the land around the Bree-hill",
     "capital": "Bree",
     "cultures": "Men of Bree, Hobbits",
-    "languages": "Westron, Hobbitish",
     "governance": "Kings of Arnor, Kings of Arthedain, later Kings of the Reunited Kingdom",
     "founded_or_built": "Second Age",
     "lifespan": "Second Age -"
@@ -1880,11 +1866,6 @@
     "cultures": "Sauron, Orcs, Men allied to Sauron"
   },
   {
-    "name": "High Hay",
-    "lotr_page_id": "6475",
-    "text": "The High Hay was a thick, tall hedge that bordered Buckland on the east.\n\n\nHistory\n\nHigh Hay protected the Hobbits of Buckland from the trees of the Old\nForest which grew near it at many points. Planted many generations\nbefore the War of the Ring, they tended it carefully. The hedge was\ntwenty miles long, starting at the Brandywine Bridge, looping away from\nthe river, and ending at Haysend.\n\nThe Brandybuck Family had a private entrance through the High Hay to the\nOld Forest. A brick tunnel sloped down under the hedge and came out in a\nhollow on the other side. There was a gate of thick-set iron bars and a\nlock at the end in the Old Forest. This entrance is how Frodo Baggins,\nSam Gamgee, Meriadoc Brandybuck, and Peregrin Took got into the Old\nForest.\n\nThe trees of the Old Forest once attacked the High Hay, planting\nthemselves beside it and leaning over it. The Hobbits fought back by\ncutting down hundreds of trees and making a bonfire. They burned the\nground in a long strip east of the hedge. The ground stayed clear for\nabout a hundred yards between the High Hay and the Old Forest.\n\nde:Hoher Hag it:Frattalta pl:Zielony Mur"
-  },
-  {
     "name": "Forodwaith",
     "lotr_page_id": "2699",
     "text": "FORODWAITH was the name of both a region and the people who lived there.\n\n\nHistory\n\nThe Sindarin name _Forodwaith_ translates loosely as _Northern Waste_,\nand was a name for the land north of the Iron Mountains of the First\nAge. Little was known of it, except that it was an area of immense cold\ndue to the proximity to the Gap of Ilmen, and Morgoth's evil cold.\n\nAfter the War of Wrath and the breaking of the World, the Iron Mountains\nwere mostly destroyed, and the area of Forodwaith that lay north of\nEriador became known as FOROCHEL, together with the great ice-bay and\ncape that carried the same name.\n\nThe Men of Forodwaith were a strange folk apparently unrelated to the\nEdain. During the Third Age, they were known as the SNOWMEN OF FOROCHEL\nor LOSSOTH. In _Unfinished Tales_, it was stated that they could glide\non ice by tying bones to their feet.\n\nArvedui, last King of Arthedain, fled to the Ice-bay of Forochel after\nhis realm was destroyed by Angmar, and the Lossoth helped him survive\nthe winter. Against their advice he took ship to sail south, and he was\ndrowned in the ice-bay, together with the Palantíri of the North.",
@@ -1893,8 +1874,17 @@
     "position": "The far north of Middle-earth",
     "major_towns": "Most settlements were on the Cape of Forochel",
     "description": "An icy region in the far north of Middle-earth",
-    "cultures": "Forodwaith (the people who gave their name to this region), and later, their descendants the Lossoth",
-    "languages": "Westron"
+    "cultures": "Forodwaith (the people who gave their name to this region), and later, their descendants the Lossoth"
+  },
+  {
+    "name": "High Hay",
+    "lotr_page_id": "6475",
+    "text": "The High Hay was a thick, tall hedge that bordered Buckland on the east.\n\n\nHistory\n\nHigh Hay protected the Hobbits of Buckland from the trees of the Old\nForest which grew near it at many points. Planted many generations\nbefore the War of the Ring, they tended it carefully. The hedge was\ntwenty miles long, starting at the Brandywine Bridge, looping away from\nthe river, and ending at Haysend.\n\nThe Brandybuck Family had a private entrance through the High Hay to the\nOld Forest. A brick tunnel sloped down under the hedge and came out in a\nhollow on the other side. There was a gate of thick-set iron bars and a\nlock at the end in the Old Forest. This entrance is how Frodo Baggins,\nSam Gamgee, Meriadoc Brandybuck, and Peregrin Took got into the Old\nForest.\n\nThe trees of the Old Forest once attacked the High Hay, planting\nthemselves beside it and leaning over it. The Hobbits fought back by\ncutting down hundreds of trees and making a bonfire. They burned the\nground in a long strip east of the hedge. The ground stayed clear for\nabout a hundred yards between the High Hay and the Old Forest.\n\nde:Hoher Hag it:Frattalta pl:Zielony Mur"
+  },
+  {
+    "name": "Ice-Bay of Forochel",
+    "lotr_page_id": "2845",
+    "text": "The ICE-BAY OF FOROCHEL was located north of Eriador and west of\nForodwaith in the cold northern regions of Middle-earth. A strip of land\ncalled the Cape of Forochel extended into the bay from the northwestern\nside and ran south, creating a narrow entrance to the bay.\n\nThe bay was an southern inlet of a vast unnamed bay that led into the\nGreat Sea. It was known to have frozen over during the winters.\n\n\nHistory\n\nAs far back as the Elder Days, before the destruction of Beleriand at\nthe conclusion of War of Wrath, primitive tribes of Men known as the\nForodwaith had lived around the shores of the Ice-bay. Their\ndescendants, known as the Snowmen, or Lossoth, were still living on the\nshores of the bay during the Third Age and beyond.\n\nIt was here that Arvedui, last King of Arthedain, fled when his land was\ndestroyed by Angmar. He was aided by the Lossoth until March of TA\n1975 when, against their advice, he attempted to sail south on one of\nthe ships of Círdan. The ship foundered in the heavy ices of the bay and\nhe was drowned, also losing the Palantíri of the North in the\nprocess.\n\n\nEtymology\n\nForochel is a Sindarin word that meant 'Northern ice'."
   },
   {
     "name": "Bonfire Glade",
@@ -1904,13 +1894,7 @@
     "regions": "Near Buckland",
     "description": "A treeless glade in the Old Forest",
     "cultures": "None",
-    "languages": "Westron",
     "lifespan": "Late Third Age (Possibly)"
-  },
-  {
-    "name": "Ice-Bay of Forochel",
-    "lotr_page_id": "2845",
-    "text": "The ICE-BAY OF FOROCHEL was located north of Eriador and west of\nForodwaith in the cold northern regions of Middle-earth. A strip of land\ncalled the Cape of Forochel extended into the bay from the northwestern\nside and ran south, creating a narrow entrance to the bay.\n\nThe bay was an southern inlet of a vast unnamed bay that led into the\nGreat Sea. It was known to have frozen over during the winters.\n\n\nHistory\n\nAs far back as the Elder Days, before the destruction of Beleriand at\nthe conclusion of War of Wrath, primitive tribes of Men known as the\nForodwaith had lived around the shores of the Ice-bay. Their\ndescendants, known as the Snowmen, or Lossoth, were still living on the\nshores of the bay during the Third Age and beyond.\n\nIt was here that Arvedui, last King of Arthedain, fled when his land was\ndestroyed by Angmar. He was aided by the Lossoth until March of TA\n1975 when, against their advice, he attempted to sail south on one of\nthe ships of Círdan. The ship foundered in the heavy ices of the bay and\nhe was drowned, also losing the Palantíri of the North in the\nprocess.\n\n\nEtymology\n\nForochel is a Sindarin word that meant 'Northern ice'."
   },
   {
     "name": "Ard-galen",
@@ -1938,7 +1922,6 @@
     "position": "Western Eriador, between the Far Downs and the Tower Hills",
     "capital": "Undertowers",
     "governance": "Warden of Westmarch",
-    "languages": "Hobbitish",
     "cultures": "Hobbits"
   },
   {
@@ -1951,11 +1934,9 @@
     "regions": "Gondor; Belfalas",
     "description": "Known for being an Elven haven for Elves before and after Amroth's time.",
     "cultures": "Sindar, Silvan Elves, Nandor",
-    "languages": "Sindarin",
     "governance": "Princes of Belfalas (early), Kings of Gondor/Ruling Stewards of Gondor, Princes of Dol Amroth, Kings of the Reunited Kingdom",
     "founded_or_built": "Late First Age",
     "lifespan": "Late First Age - TA 1981",
-    "inhabitants": "Sindar, Nandor",
     "events": "Loss of Amroth"
   },
   {
@@ -1964,8 +1945,7 @@
     "text": "The HALLS OF MANDOS hold the souls of the dead and are the dwelling\nplace of Mandos.\n\n\nHistory\n\nThe dwellings of the Doomsman of the Valar, the mighty Vala called Námo,\nthough he was more often given the name Mandos after his own halls. The\nname comes from two Elvish words meaning 'prison' and 'fortress', and\nthe Halls stood on the western shores of Valinor, looking out across the\nEncircling Sea. They were said to grow in size as the World aged, and\ntheir walls were hung with the tapestries of Námo's spouse Vairë,\ndepicting all the events of unfolding history.\n\nIt was to the Halls of Mandos that the spirits of the Children of\nIlúvatar were gathered to await their different fates, and so Mandos was\ngiven its common name of the 'Halls of Waiting'. The Elves, after a\nperiod of cleansing and self-reflection, could be reincarnated into\nbodies identical to those of their prior life; however those Elves who\nhad offended the Valar or committed particularly heinous misdeeds were\ndoomed to wait in the halls until the end of time. Men go to a different\nhall to be judged by Mandos before leaving Arda completely. Men had a\ndifferent fate, a fate which not even Manwë truly understood.\"",
     "other_names": "_The Halls of Awaiting_",
     "position": "Northern shores of Aman",
-    "cultures": "Námo, and Vairë. The souls of dead Elves, and Men (temporary)",
-    "inhabitants": "Námo, Vairë, The souls of the dead Elves and Men",
+    "cultures": "Námo, Vairë, The souls of the dead Elves and Men",
     "events": "Lúthien's pleading for Beren before Mandos"
   },
   {
@@ -2024,10 +2004,9 @@
     "text": "The Eastfarthing is a region of the Shire on the borders of Buckland,\ncontaining the towns Frogmorton, Brokenborings, and Whitfurrows and the\nfarms of the Marish. Originally, the Eastfarthing was under the control\nof the Oldbuck family. Even after these became the Brandybucks, the\nfarmers of the Eastfarthing followed the Brandybucks rather than the\nThain and Mayor.\n\n-   The Yale is the name of the low-lying lands of the Shire's\n    Eastfarthing that lay along the northern side of the long road from\n    Stock westwards to Tuckborough. This seems to have been a sparsely\n    populated area, and in fact the map of the Shire in The Lord of the\n    Rings marks only a single building here. The meaning of the Yale's\n    name is obscure. The well-known English personal and placename\n    “Yale” has its origins in a Welsh expression meaning “fertile\n    upland.” Its use may suggest that the Hobbits who named it had\n    contacts with “strange” languages, possibly those of Dunland.\n\n&nbsp;\n-   The Marish is the name of fertile, yet boggy farmlands located in\n    the Shire's Eastfarthing. It is where the Oldbuck family is believed\n    to have lived before Gorhendad Oldbuck removed the family across the\n    Brandywine to Buckland and changed their name.",
     "position": "The Shire",
     "major_towns": "Brockenbores, Budgeford, Deephallow, Dwaling, Frogmorton, Rushey, Scary, Stock, Whitfurrows, Willowbottom and Woodhall",
-    "cultures": "Hobbits",
+    "cultures": "Hobbits, Stoors",
     "type": "Region",
-    "regions": "Bridgefields, the Marish, and The Yale",
-    "inhabitants": "Hobbits, mostly Stoors"
+    "regions": "Bridgefields, the Marish, and The Yale"
   },
   {
     "name": "Gap of Rohan",
@@ -2080,7 +2059,6 @@
     "capital": "Vinyamar",
     "description": "Known for being the first dwelling of Turgon before the founding of, Gondolin.",
     "cultures": "Ñoldor, Sindar Elves",
-    "languages": "Quenya, Sindarin",
     "governance": "Turgon (originally)",
     "founded_or_built": "FA 6",
     "lifespan": "FA 6 - FA 116"
@@ -2195,9 +2173,7 @@
     "other_names": "\"Entwood\"",
     "position": "North of Rohan",
     "description": "Last habitant of Ents",
-    "cultures": "Ents, Huorn",
-    "languages": "Entish",
-    "inhabitants": "Ents, Huorns, Trees"
+    "cultures": "Ents, Huorn"
   },
   {
     "name": "Thargelion",
@@ -2206,10 +2182,8 @@
     "other_names": "Talath Rhúnen, Dor Caranthir",
     "position": "East Beleriand, north of Ossiriand and east of the Gelion",
     "type": "Region",
-    "inhabitants": "Haladin, Noldor",
     "events": "Battle of the Gelion-Ascar Stockade",
-    "cultures": "Ñoldor Elves, Men",
-    "languages": "Probably Quenya",
+    "cultures": "Noldor, Haladin",
     "governance": "Caranthir",
     "founded_or_built": "First Age",
     "lifespan": "Early First Age - FA 587"
@@ -2220,14 +2194,37 @@
     "text": "The black Stone of\nErech stood upon a hill in the north-west of Gondor, looking out upon\nthe Ered Nimrais and the Vale of Morthond in the north and the Neck of\nTarlang some forty miles to the south-east. The Hill of Erech had a\nmirky reputation, as the people who dwelt in the nearby lands said it\nwas a meeting place for the Restless Dead, who whispered in the shadows\nof the Mountains.\n\n\nHistory\n\nErech was a hill in Gondor situated in the far north of the province of\nLamedon at the mouth of the Blackroot Vale, far to the west of Minas\nTirith. It lay near to the southern entrance to the Paths of the Dead.\nUpon the summit stood a smooth black globe, the Stone of Erech.\n\nIn the Second Age, Isildur brought with him the stone as a symbol of his\nlineage and Gondor. He set it upon the hill of Erech and made the local\nhill tribes swear an oath of loyalty on the stone. The hill tribes later\nbroke their oath and were doomed to haunt the place as the Dead Men.\n\nThe area was completely abandoned by the end of the Third Age. On 8\nMarch, TA 3019, at midnight, the heir of Isildur, Aragorn, came to Erech\nto hold the Dead to their oath again, promising that upon its\nfulfillment they would have peace. Several days later, they held true to\ntheir oath and formed the Host of the Dead to help Aragorn defeat the\nCorsairs of Umbar at Pelargir. After the battle at Pelargir, Aragorn\nreleased them from their oath and they were allowed to rest."
   },
   {
+    "name": "Withered Heath",
+    "lotr_page_id": "8782",
+    "text": "The WITHERED HEATH was a region at the eastern extreme of the Grey\nMountains at the time of the Lord of the Rings. There, the Grey\nMountains broke into two spurs, north and south. Between these spurs lay\nthe Withered Heath.\n\n\nHistory\n\n[Smaug, Greatest of the Dragons of the Withered Heath as shown in The\nHobbit films.]\n\nThe Withered Heath was a burned, blackened valley and known for being a\nbreeding ground of the Great Worms and Serpents. The Dragons lived and\nnurtured around the Withered Heath. Smaug the Golden terrorized the\nDwarven Kingdom of Lonely Mountain as well as Dale, a Kingdom of Men.\nSmaug the Golden was the most infamous Dragon from the Withered Heath.\nIn the twenty eighth century of the Third Age, he destroyed the realms\nof the Lonely Mountain and Dale under Thrór and Girion, respectively,\nand was finally slain by Bard the Bowman in TA 2941.\n\n\nAppearances in adaptions\n\nThe Withered Heath appears as a location in the _The Lord of the Rings:\nThe Battle for Middle-Earth II_ video game. In Level Six of the Evil\nCampaign, the forces of Mordor from Dol Guldur march to the Withered\nHeath, led by the Mouth of Sauron, in hopes of gaining the allegiance of\nthe dragons' leader, Drogoth the Dragon Lord. By killing the Dwarven\nforces and freeing the imprisoned offspring, Drogoth agrees to fight for\nSauron with the promise of a Ring of Power, stolen many years ago from\nthe Dwarves. The Withered Heath is also a playable skirmish battlefield.",
+    "position": "Between two arms of the eastern Grey Mountains",
+    "type": "Valley",
+    "description": "A long valley made barren by dragons",
+    "cultures": "Dragons",
+    "race": "Dragons",
+    "lifespan": "Apparently deserted, or at least rarely used, by the late Third Age"
+  },
+  {
     "name": "The Prancing Pony",
     "lotr_page_id": "3301",
     "text": "THE PRANCING PONY (i.e. the INN OF THE PRANCING PONY) was an inn in\nBree where Frodo Baggins, Sam, Pippin, and Merry first met Strider.\n\n\nHistory\n\nThe Prancing Pony was based inside the central hub of the town, near\nstables and various merchant stalls. Since Bree was built on the major\nroad of the Greenway, it was a fairly well-traveled inn, and was so\naccustomed to hobbits that designated hobbit-rooms had been\nbuilt. Barliman Butterbur was the inkeeper at the time of the War of the\nRing. Nob and Bob were two hobbits that worked under him: Nob was a\ngeneral servant, and Bob was as a ostler, tending to the horses and\nponies.\n\nIn the years leading up to the fabled Quest for Erebor, Gandalf the Grey\nmet up with Thorin Oakenshield at The Prancing Pony by chance. Thorin\nwished to slay Smaug the dragon and claim his rightful title of King\nunder the Mountain. Gandalf spoke with him and then would aid him in\nfinding a burglar.\n\nFrodo Baggins stayed at this inn in TA 3018 while traveling to Rivendell\nwith his three companions, having been told by Gandalf to meet him\nthere. They encountered Aragorn (“Strider”), and allowed him to join\ntheir company. On the night of their stay, the hobbits feared the Black\nRiders who had been searching for them, so they avoided sleeping in\ntheir rooms, and stayed with Aragorn. That night, their rooms were\nindeed searched and ravaged by some of the Ringwraiths. The hobbits and\nAragorn made off through the Lowlands the next day.",
     "type": "Inn",
     "position": "Bree",
     "description": "Major inn of the town of Bree",
-    "cultures": "Men; Hobbits",
-    "inhabitants": "Barliman Butterbur, Nob, Bob"
+    "cultures": "Men, Hobbits"
+  },
+  {
+    "name": "Belfalas",
+    "lotr_page_id": "547",
+    "text": "BELFALAS was a coastal region located in Southern Gondor.\n\n\nHistory\n\n[Ruins in Belfalas, shown in _The Lord of the Rings: The Battle for\nMiddle-earth II_]Belfalas was also home to an old Elf-haven called\nEdhellond which was first founded before the end of the First\nAge by Elven remnants of Doriath who did not wish to remain\nin Lindon due to their dislike of the Noldor still held by\nthese Teleri Elves.\n\nBelfalas formed part of Dor-en-Ernil. The Prince in question was the\nLord of Dol Amroth, who lived at the city bearing his name. At the start\nof the second millennium of the Third Age, a certain Imrazôr the\nNúmenórean lived in and ruled over the Belfalas. He married Mithrellas,\na Silvan Elf of Lórien, and their son Galador became the first Prince of\nDol Amroth.\n\nIts chief city was the Prince's residence of Dol Amroth. South of the\nBelfalas lay a great Bay, which was named after it the Bay of Belfalas.\nThe climate hovered near the moderate and the extreme with mild winters\nand hot, dry summers and the terrain consisted of scattered woodlands.\n\nWar of the Ring\n\nDuring the War of the Ring, the Belfalas was raided by the Corsairs of\nUmbar, and therefore did not send any men to help defend Minas Tirith,\nuntil Aragorn liberated the coast with the Grey Company, freeing\nGondor's southern armies to follow him north to relieve Minas Tirith.\n\n\nEtymology\n\n_Belfalas_ means “Great Shore”, from the Sindarin _bel_ or _beleg_\n(“large, great”) and _falas_ (“seashore”).",
+    "location": "Southern Gondor, west of Lebennin and north of Tolfalas",
+    "type": "Region",
+    "major_towns": "Edhellond, Dol Amroth, Linhir",
+    "cultures": "Númenóreans, Dúnedain, Men of Gondor, Sindar, Nandor",
+    "capital": "Dol Amroth",
+    "governance": "Kings of Gondor, Stewards of Gondor, Princes of Belfalas, Princes of Dol Amroth, Kings of the Reunited Kingdom",
+    "founded_or_built": "Late First Age",
+    "lifespan": "Late First Age -"
   },
   {
     "name": "Andúnië",
@@ -2237,12 +2234,10 @@
     "position": "Bay of Andúnië in the Andustar region, on the western end of Elenna.",
     "regions": "Númenor",
     "description": "Home to the Faithful",
-    "cultures": "Númenóreans; The Faithful",
-    "languages": "Elven tongues, Adûnaic",
+    "cultures": "Númenóreans, Elendili",
     "governance": "Kings of Númenor, Lords of Andúnië",
     "founded_or_built": "Before SA 630",
-    "lifespan": "Before SA 630 - SA 3319",
-    "inhabitants": "Númenóreans, later the Faithful"
+    "lifespan": "Before SA 630 - SA 3319"
   },
   {
     "name": "Towers of the Teeth",
@@ -2258,10 +2253,9 @@
     "position": "South of the Teiglin",
     "regions": "Dor-Cúarthol",
     "description": "Hill topped with seregon",
-    "cultures": "Petty-Dwarves",
+    "cultures": "Petty-Dwarves, Gaurwaith",
     "governance": "Mîm",
     "lifespan": "? - First Age",
-    "inhabitants": "Petty-dwarves, and Gaurwaith",
     "events": "Sack of Bar-en-Danwedh"
   },
   {
@@ -2289,8 +2283,7 @@
     "text": "The BOTTOMMOST CELLAR or SMAUG'S LAIR was a hall and the lowest level of\nthe Lonely Mountain. It was home to the Dragon Smaug for over\none-hundred and seventy years.\n\nThe Cellar was large, with a length of 180 feet and had two great doors\nleading up to a stairway to the Chamber of Thrór. It was known to\nhave bats in it at least by the time of Smaug's life there.\n\n\nHistory\n\nThe hall was delved and built by the Dwarves at an unknown time,\npossibly between TA 1999 and TA 2770 when the Dwarves of Durin's Folk\nruled there. It is possible that the Bottommost Cellar was where the\nDwarves mined the ore to make their crafts and stored them. After the\nSmaug attacked and conquered the mountain, he gathered up all the\nDwarves treasures and slept on them for over one-hundred and seventy\nyears. On October 30 and November 1, TA 2941, the hobbit Bilbo on his\ntravels with the Dwarves of Thorin and Company confronted Smaug with\nriddles until he got angry and unleashed his fiery blast on him, forcing\nhim back up the Secret Tunnel on fire. Later when it was\ndiscovered that Smaug had found them out, Thorin and Company was forced\ndown the tunnel into the Cellar and trapped inside when Smaug smashed\nthe Side-door to rumble. Once inside, the Dwarves lit torches that\nilluminated a hall full of the ancient treasures and weapons of the\nKings under the Mountain. Here the Dwarves basked in their finds and\narmed themselves and was where Bilbo found the Arkenstone and where\nThorin gave him his Mithril Shirt. The company soon decided to leave the\nCellar and climb the steps up to the Chamber of Thrór.\n",
     "type": "Hall",
     "position": "Lonely Mountain",
-    "regions": "Lonely Mountain",
-    "languages": "Khuzdul"
+    "regions": "Lonely Mountain"
   },
   {
     "name": "Meneltarma",
@@ -2305,6 +2298,20 @@
     "type": "Cave",
     "description": "A messy, smell cave on a hill",
     "cultures": "The three Trolls"
+  },
+  {
+    "name": "Mount Gundabad",
+    "lotr_page_id": "2513",
+    "text": "MOUNT GUNDABAD was a chief Orc mountain-stronghold situated at the\nnorthern end of the Misty Mountains, located to the east of the ancient\nrealm of Angmar.\n\n\nHistory\n\nDwarves, Durin the Deathless, oldest of the Fathers of the Dwarves,\nawoke at Mount Gundabad in the north of the Misty Mountains shortly\nafter the Awakening of the Elves in the Years of the Trees. Mount\nGundabad then became a sacred place to the Dwarves.\n\nIn the middle of the Second Age, however, Orcs (ruled over by the\nservants of Sauron) invaded the mountains again and took Gundabad. The\nsite would not be cleansed until very late in the Second Age, possibly\naround or after the fall of Sauron and the loss of the One Ring in SA\n3441.\n\n[]\n\nIn the Third Age, the Orcs of Angmar yet again claimed it as their\ncapital, which was one of the reasons for the Dwarves' special hatred of\nthem. After the fall of Angmar, Gundabad remained an Orc stronghold,\nuntil it was cleansed of orcs during the War of the Dwarves and Orcs.\nHowever, hordes of Orcs seem to have trickled back to this hotly\ncontested strongpoint and fortified it anew during the events of ''The\nHobbit, ''menacing the Wilderland for yet another time. It was from here\nthe gargantuan Goblin-horde present during the Battle of the Five Armies\nattacked and marched from. Their leader, Bolg son of Azog, was the\nsupreme commander of the Orcs from Gundabad, and presumably the northern\nMisty Mountains.\n\nIt is possible that the Longbeards may have reclaimed their ancient\nancestral homeland from the orcs due to the reclaiming of Khazad-dûm and\nthe Reunited Kingdom in the Fourth Age.",
+    "type": "Mountain",
+    "other_names": "Gundabad",
+    "position": "At the northern end of the Misty Mountains and west of the Grey, Mountains",
+    "description": "A large mountain, where Durin the Deathless awoke, later capital of the, Orcs of the region",
+    "governance": "Dwarvish lords, Orc chieftains (later)",
+    "founded_or_built": "Early Years of the Trees",
+    "lifespan": "Years of the Trees -",
+    "cultures": "Dwarves, Orcs",
+    "events": "Awakening of Durin, First Sacking of Gundabad, Second Sacking of Gundabad"
   },
   {
     "name": "East Sea",
@@ -2331,16 +2338,16 @@
     "text": "The SEA OF RHÛN also known as INLAND SEA was a large inland sea located\nin eastern Middle-earth.\n\n\nGeography\n\nThe Sea of Rhûn was a large inland sea located in the land of Rhûn, a\nland east of Mirkwood and north of Mordor. The River Running from Lonely\nMountain and the River Redwater from the Iron Hills fed the Sea of Rhûn.\nThe sea also contains an unnamed island that is about thirty miles along\nthe southeastern and northwestern coasts and twenty upon the\nnortheastern and southwestern coasts. According to the _The Atlas of\nMiddle-earth_, it was about seventy-five miles across.\n\nThere were mountains on the southwest side of the sea and a forest on\nthe northeast side. Wild white kine lived near its shores. The Great\nHorn of Gondor was made from the horn of one of these kine that had been\nhunted by Vorondil, a Steward of Gondor.\n\n\nHistory\n\nWhen Gondor was at the height of its power during the reign of King\nHyarmendacil (TA 1015 - TA 1149), the realm extended east as far as the\nSea of Rhûn. But as Gondor's power waned, Easterlings came into the area\naround the Sea of Rhûn and launched attacks on Gondor. In TA 1248,\nMinalcar (later called Romendacil) defeated an army of Easterlings\nbetween Rhovanion and the Sea of Rhûn and destroyed their settlements.\nIn TA 1944, an army of Wainriders gathered on the southern shores of the\nSea of Rhûn before launching an assault on Gondor that left King Ondoher\ndead.\n\nDuring the War of the Ring, forces under the rule of Sauron mustered in\nthe lands beyond the Sea of Rhûn. After the downfall of Sauron, Aragorn\nand Éomer rode beyond the Sea of Rhûn to flush out the last remnants of\nthe enemy forces there."
   },
   {
-    "name": "East Beleriand",
-    "lotr_page_id": "874",
-    "text": "The East Beleriand was the east region of the Beleriand between the\nwestern part and the Blue Mountains during the First Age of\nMiddle-earth.\n\n\nDescription\n\nThe wide and open regions of Lothlann, Maglor's Gap, Thargelion, and the\nOssiriand made up the majority of the East Beleriand. They were lands\nconsisting mostly of hills and lowlands with dense forests, scattered\nwoodlands, scrubs, stunted trees, and thickets. Climates varied from\nseverely cold and dry winters with short and cold summers, to mild\nwinters with mild summers. All of which were under the influence of the\ncold and dry winds from Dor Daidelos and the Iron Mountains to the\nnorth, and the warm and moist winds coming from the sea.\n\n\nHistory\n\nBefore the Return of the Ñoldor, the areas of the East Beleriand were\ninhabited by the Laiquendi living in the Ossiriand and the Sindar in\nother parts. When the Ñoldor did return, the majority of the region was\nunder control of Maedhros, Maglor, Celegorm, Caranthir, Curufin, Amrod\nand Amras, the Sons of Fëanor. They built extensive fortresses and\nCastles in the area between Lothlann and Thargelion which buttressed\nMorgoth's domain in the farther north. The dominant languages here\nduring this time was Sindarin and Quenya but later there were also\nmannish speeches as well.\n\nBy the later First Age, more and more of this land fell under the power\nof Morgoth until it was finally conquered by the Dark Powers and was\nrenamed Dor Daedeloth. It, along with the rest of Beleriand, was\ndestroyed after the War of Wrath. However, some of it did survive into\nthe Second and Third Ages becoming Lindon, the land of Gil-galad and\nthen Círdan the Shipwright."
-  },
-  {
     "name": "Bridge of Khazad-dûm",
     "lotr_page_id": "11781",
     "text": "BRIDGE OF KHAZAD-DÛM, also known as DURIN'S BRIDGE, ran over Khazad-dûm\nin Moria, famously across an enormous dolven abyss.\n\nThe Bridge was located at the foot of Dimrill Stairs over a deep abyss.\nThe bridge was 50 feet long, narrow with no railing and curved upward\nover the abyss and back down again. It was an ancient defense against\nany enemy who might get past the Dimrill Gate (the east gate) and\ncapture the First Hall and the outer passages; walkers on the bridge\ncould only cross it single file, including any enemies.\n\n\nHistory\n\nOn January 15, 3019, the Fellowship came to the Bridge of Khazad-dûm\npursued by Orcs and a Balrog of Morgoth. Gandalf stopped on the Bridge,\nstanding in the middle of the span, allowing the others to escape. He\nleaned on the staff in his left hand and held the sword Glamdring,\ngleaming cold and white, in his right. The Balrog stepped onto the\nBridge, facing Gandalf, and the shadow about it reached out like two\nvast wings. It raised its whip, and the thongs whined and cracked. Fire\ncame from its nostrils. But Gandalf stood firm and declared that the\nBalrog could not pass. They fought, and the Balrog's sword was\ndestroyed. Then the Balrog leaped full upon the Bridge, and Gandalf\nlifted his staff and smote it upon the bridge. His staff shattered, but\nthe Bridge cracked at the Balrog's feet. The stone beneath the Balrog\nbroke and fell, taking the Balrog with it into the abyss, but the thongs\nof its whip snared Gandalf about his knees, and Wizard and Balrog\nplummeted together into the depths of the mountain. Gandalf cried, “Fly,\nyou fools!” and was gone. It is unknown if the Bridge was later ever\nrebuilt or fixed.",
     "other_names": "Durin's Bridge",
     "position": "Moria"
+  },
+  {
+    "name": "East Beleriand",
+    "lotr_page_id": "874",
+    "text": "The East Beleriand was the east region of the Beleriand between the\nwestern part and the Blue Mountains during the First Age of\nMiddle-earth.\n\n\nDescription\n\nThe wide and open regions of Lothlann, Maglor's Gap, Thargelion, and the\nOssiriand made up the majority of the East Beleriand. They were lands\nconsisting mostly of hills and lowlands with dense forests, scattered\nwoodlands, scrubs, stunted trees, and thickets. Climates varied from\nseverely cold and dry winters with short and cold summers, to mild\nwinters with mild summers. All of which were under the influence of the\ncold and dry winds from Dor Daidelos and the Iron Mountains to the\nnorth, and the warm and moist winds coming from the sea.\n\n\nHistory\n\nBefore the Return of the Ñoldor, the areas of the East Beleriand were\ninhabited by the Laiquendi living in the Ossiriand and the Sindar in\nother parts. When the Ñoldor did return, the majority of the region was\nunder control of Maedhros, Maglor, Celegorm, Caranthir, Curufin, Amrod\nand Amras, the Sons of Fëanor. They built extensive fortresses and\nCastles in the area between Lothlann and Thargelion which buttressed\nMorgoth's domain in the farther north. The dominant languages here\nduring this time was Sindarin and Quenya but later there were also\nmannish speeches as well.\n\nBy the later First Age, more and more of this land fell under the power\nof Morgoth until it was finally conquered by the Dark Powers and was\nrenamed Dor Daedeloth. It, along with the rest of Beleriand, was\ndestroyed after the War of Wrath. However, some of it did survive into\nthe Second and Third Ages becoming Lindon, the land of Gil-galad and\nthen Círdan the Shipwright."
   },
   {
     "name": "Taniquetil",
@@ -2364,7 +2371,7 @@
     "position": "Emyn Muil, west bank of Nen Hithoel opposite Amon Lhaw",
     "type": "Hill",
     "events": "Breaking of the Fellowship",
-    "cultures": "Gondorians"
+    "cultures": "Men of Gondor"
   },
   {
     "name": "Henneth Annûn",
@@ -2388,7 +2395,6 @@
     "capital": "Barad Eithel",
     "description": "Known for being the seat of the well-respected Ñoldor House of Fingolfin",
     "cultures": "Ñoldor (House of Fingolfin)",
-    "languages": "Quenya/Sindarin",
     "governance": "High Kings of the Ñoldor",
     "founded_or_built": "YT ?",
     "lifespan": "YT ? - FA 473",
@@ -2440,7 +2446,6 @@
     "type": "Elven realm",
     "description": "Place where the three Elven Rings of Power were forged",
     "cultures": "Mainly Ñoldor",
-    "languages": "Sindarin",
     "founded_or_built": "SA 750",
     "lifespan": "SA 750 - SA 1697"
   },
@@ -2476,7 +2481,6 @@
     "position": "South Gondor on the banks of the Anduin south of Minas Tirith.",
     "regions": "Gondor",
     "description": "Known for being an important harbour of built by The Faithful, Númenóreans and then the Dúnedain realm of Gondor. It was also known, during the War of the Ring for being the place where Aragorn brought the, Army of the Dead who frighten away the Corsairs, who were besieging the, city.",
-    "languages": "Westron",
     "governance": "King of Númenor, Kings of Gondor/Ruling Stewards of Gondor, Kings of the, Reunited Kingdom",
     "founded_or_built": "SA 2350",
     "lifespan": "SA 2350 - Fourth Age",
@@ -2512,7 +2516,6 @@
     "type": "City",
     "description": "Seaside city of pearl and mother-of-pearl",
     "events": "First Kinslaying",
-    "languages": "Telerin",
     "governance": "Olwë",
     "founded_or_built": "YT 1162",
     "lifespan": "Years of the Trees - ?",
@@ -2523,11 +2526,21 @@
     "lotr_page_id": "868",
     "text": "DOR-LÓMIN was a part of Hithlum in the First Age.\n\n\nDescription\n\nDor-lómin was a country in the south-western part of Hithlum, bordered\nin the east by the Mountains of Mithrim, and in the north by the river\nwhich formed the _Rainbow Cleft_ known as _Annon-in-Gelydh_, or “Gate of\nthe Noldor”. It was the birthplace of Túrin son of Húrin and Morwen.\nThere is also a mountain pass in its south unknown to the Enemy.\n\nHúrin's house was built in its south-western corner near the mountain\nknown as _Amon Darthir_, where the river _Nen Lalaith_ began.\n\n\nHistory\n\nDor-lómin was first colonized by the Ñoldor on their return to\nMiddle-earth, Dor-lómin became the lordship of Fingon, but in the\nfifth Century FA Fingolfin gave it to Hador. Dor-lómin became a fief of\nthe Third House of the Edain, which flourished there, strengthened by\nrefugees of the First House from Dorthonion, until the Nirnaeth\nArnoediad. Morgoth gave Dor-lómin, together with the rest of Hithlum, to\nhis Easterlings, who absorbed or enslaved the surviving Edain. Tuor son\nof Huor was fostered by the Elves of Androth in the Mountains of\nMithrim.\n\nBefore the Nirnaeth Arnoediad, the army of Dor-lómin was between 12,000\nand 15,000. The entire host was destroyed during the Nirnaeth Arnoediad.\n\nAfter Túrin fled south over the Ered Wethrin bands of outlaws came and\nattacked and enslaved the peoples of _Dor-lómin_, save Morwen, her\ndaughter Nienor, and her servants, including Sador Labadal. The outlaws\nwere led by Brodda, who wedded Aerin so that when he was dead, he would\nhave an heir to keep the land under his family's rule. Over a year after\nTúrin came to Doriath, Morwen and Nienor went seeking Túrin in\nMenegroth. Later, Túrin came to seek Morwen in Dor-lómin, but they had\nalready gone south over the mountains. Like the rest of Hithlum\nit was destroyed during the War of Wrath.\n\n\nEtymology\n\n_Dor-lómin_ was a Sindarin word that meant 'Land of Echoes'.",
     "type": "Mannish settlement",
+    "position": "Hithlum",
+    "description": "Known for being the settlement of the House of Hador",
+    "cultures": "Edain",
+    "governance": "High King of the Ñoldor",
+    "lifespan": "TA 1601 - ?"
+  },
+  {
+    "name": "Dor-lómin",
+    "lotr_page_id": "868",
+    "text": "DOR-LÓMIN was a part of Hithlum in the First Age.\n\n\nDescription\n\nDor-lómin was a country in the south-western part of Hithlum, bordered\nin the east by the Mountains of Mithrim, and in the north by the river\nwhich formed the _Rainbow Cleft_ known as _Annon-in-Gelydh_, or “Gate of\nthe Noldor”. It was the birthplace of Túrin son of Húrin and Morwen.\nThere is also a mountain pass in its south unknown to the Enemy.\n\nHúrin's house was built in its south-western corner near the mountain\nknown as _Amon Darthir_, where the river _Nen Lalaith_ began.\n\n\nHistory\n\nDor-lómin was first colonized by the Ñoldor on their return to\nMiddle-earth, Dor-lómin became the lordship of Fingon, but in the\nfifth Century FA Fingolfin gave it to Hador. Dor-lómin became a fief of\nthe Third House of the Edain, which flourished there, strengthened by\nrefugees of the First House from Dorthonion, until the Nirnaeth\nArnoediad. Morgoth gave Dor-lómin, together with the rest of Hithlum, to\nhis Easterlings, who absorbed or enslaved the surviving Edain. Tuor son\nof Huor was fostered by the Elves of Androth in the Mountains of\nMithrim.\n\nBefore the Nirnaeth Arnoediad, the army of Dor-lómin was between 12,000\nand 15,000. The entire host was destroyed during the Nirnaeth Arnoediad.\n\nAfter Túrin fled south over the Ered Wethrin bands of outlaws came and\nattacked and enslaved the peoples of _Dor-lómin_, save Morwen, her\ndaughter Nienor, and her servants, including Sador Labadal. The outlaws\nwere led by Brodda, who wedded Aerin so that when he was dead, he would\nhave an heir to keep the land under his family's rule. Over a year after\nTúrin came to Doriath, Morwen and Nienor went seeking Túrin in\nMenegroth. Later, Túrin came to seek Morwen in Dor-lómin, but they had\nalready gone south over the mountains. Like the rest of Hithlum\nit was destroyed during the War of Wrath.\n\n\nEtymology\n\n_Dor-lómin_ was a Sindarin word that meant 'Land of Echoes'.",
+    "type": "Mannish settlement",
     "position": "Southwestern Hithlum",
     "regions": "Hithlum",
     "description": "Known for being the settlement of the House of Hador",
     "cultures": "Men",
-    "languages": "Mannish",
     "governance": "High King of the Ñoldor",
     "lifespan": "TA 1601 - ?"
   },
@@ -2553,7 +2566,6 @@
     "position": "Southern Eriador; south of the Great East Road between the Brandywine, and Greyflood",
     "description": "Founded after the break-up of Arnor due to feuding amongst the sons of, Eärendur",
     "cultures": "Dúnedain, Hobbits",
-    "languages": "Westron",
     "governance": "Kings of Cardolan",
     "founded_or_built": "TA 861",
     "lifespan": "TA 861 - TA 1636",
@@ -2584,11 +2596,9 @@
     "regions": "Mordor",
     "description": "A former outpost of Gondor but better known as a fortress of Mordor.",
     "cultures": "Shelob, Orcs",
-    "languages": "Black Speech Orkish",
     "governance": "Kings of Gondor, Ruling Stewards of Gondor, Dark Lord Sauron (last)",
     "founded_or_built": "Early Third Age ? (by Gondor)",
     "lifespan": "early Third Age - Fourth Age",
-    "inhabitants": "Men, Orcs, Shelob",
     "events": "Quest of the Ring"
   },
   {
@@ -2610,8 +2620,7 @@
     "text": "The FRONT GATE was a common term for the GATE OF EREBOR, the wide arched\nmain entrance of the Dwarf-realm of Erebor. The Great Chamber of\nThrór was near the Gate.\n\nThe entrance was at the head of the valley formed by the two southern\nridges of rock thrust out from the southern slopes of Erebor. Out of\nthe gateway sprang the stream that grew into the River Running.\n\nThrough the gate passed a stone-paved road, wide enough for many men\nabreast. The gate itself was a tall arch and at one time displayed\ncarven work, but during Smaug's residence in the mountain the opening\nhad become worn, splintered, and blackened. From the gate one could look\nout upon Dale (or its ruins during the time of the Dragon).\n\n\nHistory\n\nIn T.A. 2770 Smaug descend upon Erebor and entered the Mountain via the\nFront Gate, which unfortunately was wide enough to accommodate\nhim. Over time Smaug had broken and blocked all of the other gates to\nthe Mountain (except for the secret Back Door), leaving only the Front\nGate for his use.\n\nIn T.A. 2941 Smaug was slain by Bard of Lake-town. Thorin and\ncompany, having entered the Mountain through the Back Door, came out the\nFront Gate not knowing the fate of the dragon. When the dwarves learned\nof Smaug's death they returned to the Mountain and built a high thick\nwall of squared stones across the gate.This barrier allowed them to\nhold off the forces of the Woodland Realm and the Lake-Men while Thorin\nawaited the coming of Dáin II Ironfoot. However, hard upon Dáin's\narrival the Goblins of Bolg also appeared and the Battle of Five\nArmies began. In the middle of the battle Thorin and his companion\ndwarves levered the wall at the Front Gate to fall outwards and they\nthen rushed into the battle. After the battle was over it was at the\nFront Gate that Bilbo Baggins took his leave of the surviving dwarves\nbefore heading home.\n\nDáin was less fortunate: he fell in battle during the War of the Ring at\nthe threshold of the Gate, defending the body of the fallen King Brand\nof Dale, but it protected his people in the short and unsuccessful siege\nthat followed.\n",
     "type": "Gates",
     "position": "Lonely Mountain",
-    "regions": "Lonely Mountain",
-    "languages": "Khuzdul"
+    "regions": "Lonely Mountain"
   },
   {
     "name": "Reunited Kingdom",
@@ -2624,7 +2633,6 @@
     "regions": "Arnor in the north and Gondor in the south.",
     "description": "Reunification of the Two Kingdoms of the Dúnedain, Arnor in the north, and Gondor in the south",
     "cultures": "Men, Hobbits",
-    "languages": "Westron, Sindarin",
     "governance": "Kings of the Reunited Kingdom",
     "founded_or_built": "FO 1",
     "lifespan": "Founded SA 3320, Re-formed FO 1 -",
@@ -2636,6 +2644,15 @@
     "text": "The WEST BELERIAND was the region of the Beleriand that was divided from\nEast Beleriand by the River Sirion.\n\n\nGeography\n\nThe major places, regions, and realms in the West Beleriand were the\nArvernien, Dor-Cúarthol, Forest of Brethil, Havens of the Falas, Talath\nDirnen, and Taur-en-Faroth. They were lands consisting mostly of\nhills, lowlands, and plains and bottomlands. There were some dense\nforests, as with the Forest of Brethil but much of it was scattered\nwoodlands. There was also a moorland called the Moors of the Nibin-Noeg\nnear the Forest of Brethil. The climate was mostly humid with mild\nwinters and mild summers with some influence from the cold of the north\naround the gap between the Ered Wethrin and the Echoriath.\n\n\nHistory and Culture\n\nThe region was populated and controlled by both the Sindar and the\nÑoldor. Vast territory between the River Sirion, the northern mountains\nand the sea belonged to Finrod with the blessing of Thingol, Lord of\nBeleriand. Círdan was the Lord of the Havens of the Falas, the lands\naround the two rivers Brithon and Nenning next to the sea. The Forest of\nBrethil was settled in by the Men of the Haladin, who guarded it and\nDoriath from all enemies. The gap between the Ered Wethrin and the\nEchoriath was looked after by Orodreth, a relative of Finrod at the\nFortress of Tol Sirion until it was conquered by Sauron. The land of\nArvernien around the Mouths of Sirion was populated with both Sindar and\nÑoldor, especially after the conquest of the realms of the north and the\nBeleriand by Morgoth in the mid and late centuries of the First\nAge.\n\nThe dominant language of the West Beleriand was Sindarin except in\nNargothrond and the realm around Tol Sirion where Quenya was spoken. The\nMannish language was used in Brethil by the men who lived there. Both\nSindarin and Quenyan were probably used in Arvernien in the Havens of\nSirion, as it was populated with many elves that were able to escape\nfrom the fallen realms of the Beleriand and the north.\n\nAll of the West Beleriand was destroyed after the War of Wrath and fell\nbeneath the waves of the sea."
   },
   {
+    "name": "The Wold",
+    "lotr_page_id": "4240",
+    "text": "THE WOLD also known as the WOLD OF ROHAN or WOLD were the upland\ngrasslands of Rohan.\n\n\nDescription\n\nThis was the northeastern area of Rohan. It was located between Fangorn\nForest and River Anduin. To the north lay\nriver Limlight and in the south by the East Emnet. The area was\nvirtually treeless and somewhat bleak and was comparable to the adjacent\nBrown Lands to the east.\n\n\nHistory\n\nIn the distant past - perhaps up to the mid-Second Age, the Wold was\nonce well suited to the cultivation of crops and probably had many trees\n(judging by its name), but during the War of the Elves and Sauron,\nSauron invaded the rest of Middle-earth and left lands like the Wold in\nruins.\n\n\n\nMany important battles happened in the Wold:\n\n-   When Eorl the Young arrived in Calenardhon he destroyed a host of\n    orcs there.\n-   In the year TA 2545 Eorl the Young was killed in the Wold in a\n    battle against the Easterlings.\n\nSignificance in The Lord of the Rings\n\nIn The Two Towers, this is where Aragorn, Gimli and Legolas meet Éomer\nand are given the horses Arod and Hasufel. During the War of the Ring,\nan army of orcs from Dol Guldur unsuccessful in their invasion of Lórien\nwere surprised by an attack of Ents led by Treebeard in the Wold, and\nwere defeated.\n\n\nMiscellaneous Information\n\nThe name Wold likely derives from the Anglian Old English “wold” meaning\nforest or woodland (compare to the West Saxon “weald” and German “Wald,”\nfor example). Since the region was originally heavily forested but\nbecame bleak and treeless after Sauron ravaged it, a similarity may be\ndrawn between the Wold of Rohan and the Weald of Southeastern England.\nThis region was once covered by woodland; over centuries, however, local\nindustry, especially iron production, led to deforestation. The\netymological relation, as well as the historical similarity (especially\nwhen considering Sauron's fondness of destructive industrialization and\nTolkien's personal dislike of such), indicate that the name Wold is\nlikely an intentional play on words on Tolkien's part, similar perhaps\nto possibly intentional use of Atalantë (Atlantis) for Numenor.",
+    "type": "Region",
+    "position": "Northern part of the Eastemnet of Rohan",
+    "description": "Grassy uplands",
+    "cultures": "Men"
+  },
+  {
     "name": "Lond Daer",
     "lotr_page_id": "894",
     "text": "LOND DAER ENEDH (also spelt ENED) was a great harbour in Eriador.\n\n\nHistory\n\nLond Daer, under the name VINYALONDË, or 'New Haven', was founded by\nNúmenor's crown prince Aldarion on the estuary of the river Gwathló in\nthe early Second Age. It was the first permanent settlement of the\nNúmenóreans in Middle-earth. From here Aldarion's “Guild of Venturers”\nbegan harvesting the local timber for the shipbuilding industry of\nNúmenor.\n\nWithin a few centuries, the deforestation of the outlying regions\nEnedwaith and Minhiriath became cataclysmic, angering the local native\npopulation (ancestors of the Dunlendings), and they began to fight back\nwith increasing ferocity, destroying the haven several times, and\nfrequently burning the great wood-stores in 'hit-and-run' attacks.\n\nBy the time of the War of the Elves and Sauron in the middle of the\nSecond Age, this 'New Haven' had become very well established, and its\nname had shifted over the intervening one thousand years to 'Lond Daer',\nthe Great Haven. As such, it was one of the two beachheads of the\nNúmenórean forces in Eriador that were used to support the elves around\nSA 1700.\n\nLond Daer's shipyards were starved of timber following the war, as the\nforces of Sauron had burnt almost all of what remained in Enedwaith and\nMinhiriath. Once its shipbuilding yards were no longer practicable, Lond\nDaer declined in importance, and the Númenórean hunger for ever more\nwealth shifted focus to the establishment of newer havens to the south,\nPelargir and Umbar. Following this, Lond Daer was once again renamed,\nbeing now one of several major ports in Middle-earth, and was known as\nLOND DAER ENEDH, or 'Great Middle Haven'. Despite this, Númenor still\nmaintained traffic on the Gwathló as far as the city of Tharbad.\n\nAfter the Downfall of Númenor, Elendil founded the realm of Arnor in the\nlands north of Lond Daer, but the haven was now redundant, and fell into\nruin. Instead, control over the region was maintained from Tharbad. The\nancient ruins of Lond Daer were still visible as late as the end of the\nThird Age, however, and still featured on maps from that time.",
@@ -2645,20 +2662,9 @@
     "regions": "Arnor",
     "description": "Haven originally to support Guild of Venturers of Númenor",
     "cultures": "Men",
-    "languages": "Adûnaic, Westron",
     "governance": "Kings and Queens of Númenor, Kings of Arnor",
     "founded_or_built": "Second Age ?",
-    "lifespan": "Second Age - Early Third Age ?",
-    "inhabitants": "Men"
-  },
-  {
-    "name": "The Wold",
-    "lotr_page_id": "4240",
-    "text": "THE WOLD also known as the WOLD OF ROHAN or WOLD were the upland\ngrasslands of Rohan.\n\n\nDescription\n\nThis was the northeastern area of Rohan. It was located between Fangorn\nForest and River Anduin. To the north lay\nriver Limlight and in the south by the East Emnet. The area was\nvirtually treeless and somewhat bleak and was comparable to the adjacent\nBrown Lands to the east.\n\n\nHistory\n\nIn the distant past - perhaps up to the mid-Second Age, the Wold was\nonce well suited to the cultivation of crops and probably had many trees\n(judging by its name), but during the War of the Elves and Sauron,\nSauron invaded the rest of Middle-earth and left lands like the Wold in\nruins.\n\n\n\nMany important battles happened in the Wold:\n\n-   When Eorl the Young arrived in Calenardhon he destroyed a host of\n    orcs there.\n-   In the year TA 2545 Eorl the Young was killed in the Wold in a\n    battle against the Easterlings.\n\nSignificance in The Lord of the Rings\n\nIn The Two Towers, this is where Aragorn, Gimli and Legolas meet Éomer\nand are given the horses Arod and Hasufel. During the War of the Ring,\nan army of orcs from Dol Guldur unsuccessful in their invasion of Lórien\nwere surprised by an attack of Ents led by Treebeard in the Wold, and\nwere defeated.\n\n\nMiscellaneous Information\n\nThe name Wold likely derives from the Anglian Old English “wold” meaning\nforest or woodland (compare to the West Saxon “weald” and German “Wald,”\nfor example). Since the region was originally heavily forested but\nbecame bleak and treeless after Sauron ravaged it, a similarity may be\ndrawn between the Wold of Rohan and the Weald of Southeastern England.\nThis region was once covered by woodland; over centuries, however, local\nindustry, especially iron production, led to deforestation. The\netymological relation, as well as the historical similarity (especially\nwhen considering Sauron's fondness of destructive industrialization and\nTolkien's personal dislike of such), indicate that the name Wold is\nlikely an intentional play on words on Tolkien's part, similar perhaps\nto possibly intentional use of Atalantë (Atlantis) for Numenor.",
-    "type": "Region",
-    "position": "Northern part of the Eastemnet of Rohan",
-    "description": "Grassy uplands",
-    "cultures": "Men"
+    "lifespan": "Second Age - Early Third Age ?"
   },
   {
     "name": "Kheled-zâram",
@@ -2685,7 +2691,6 @@
     "type": "Road",
     "position": "Grey Havens to Rivendell",
     "regions": "Dwarves/Reunited Kingdom",
-    "languages": "Westron",
     "founded_or_built": "First Age",
     "lifespan": "First Age to Third Age",
     "other_names": "Great Road, East-West Road",
@@ -2709,7 +2714,6 @@
     "type": "Dwarven kingdom",
     "description": "Dwelling of the Dwarves of Nogrod until the beginning of the Second Age",
     "cultures": "Dwarves of Nogrod; Firebeards (presumably)",
-    "languages": "Khuzdul",
     "founded_or_built": "YT",
     "lifespan": "YT - SA 40"
   },
@@ -2743,7 +2747,6 @@
     "capital": "The city was the capital of the kingdom of the Northmen after it was, refounded by Bard",
     "description": "Originally a lordship of Northmen with strong ties to the Lonely, Mountain before Smaug. Later, a strong Kingdom of Men",
     "cultures": "Northmen",
-    "languages": "Dalish, Westron",
     "governance": "Lord of Dale, Kings of Dale",
     "founded_or_built": "Around TA 2590",
     "lifespan": "Around TA 2590 - TA 2770, TA 2944 -"
@@ -2780,7 +2783,6 @@
     "position": "Northeast of Mount Dolmed in ancient Blue Mountains",
     "description": "Dwelling of the Dwarves of Belegost until SA 40",
     "cultures": "Dwarves of Belegost; Broadbeams (presumably)",
-    "languages": "Khuzdul",
     "governance": "Lord of Belegost",
     "founded_or_built": "During the Years of the Trees",
     "lifespan": "YT - SA 40"
@@ -2813,7 +2815,6 @@
     "position": "Easternmost Beleriand",
     "description": "A green country, wooded region with elm trees",
     "cultures": "Nandor Elves",
-    "languages": "Nandorin",
     "governance": "Denethor",
     "founded_or_built": "First Age",
     "lifespan": "Early First Age - FA 587",
@@ -2828,7 +2829,6 @@
     "capital": "Carn Dûm",
     "description": "Known for being the realm of Sauron's chief lieutenant, the Witch-king, of Angmar, who weakened and conquered the North-kingdom of the Dúnedain",
     "cultures": "Orcs, Trolls, Men",
-    "languages": "Black Speech",
     "governance": "Witch-king of Angmar",
     "founded_or_built": "TA 1300",
     "lifespan": "TA 1300 - TA 1975"
@@ -2842,7 +2842,6 @@
     "major_towns": "Breredon, Crickhollow, Haysend, Newbury, Standelf",
     "governance": "Master of Buckland",
     "founded_or_built": "T.A. 2340",
-    "languages": "Hobbitish (Stoorish variant)",
     "cultures": "Hobbits, mostly Brandybucks"
   },
   {
@@ -2853,12 +2852,11 @@
     "other_names": "Udûn (S)",
     "position": "Early Iron Mountains ",
     "description": "Melkor's first fortress of Darkness, with pits extending deep into the, earth",
-    "cultures": "Dark servants and slaves of Melkor",
+    "cultures": "Servants of Melkor",
     "governance": "Melkor",
     "founded_or_built": "Around the Valian Year 3400 ",
     "lifespan": "Valian Year 3400 - VY 1099 ",
-    "events": "Siege of Utumno",
-    "inhabitants": "Melkor and his servants"
+    "events": "Siege of Utumno"
   },
   {
     "name": "Iron Mountains",
@@ -2874,7 +2872,6 @@
     "description": "Lake where the Elves awoke",
     "cultures": "Elves",
     "other_names": "Water of Awakening",
-    "inhabitants": "Elves",
     "events": "Awakening of the Elves"
   },
   {
@@ -2909,7 +2906,6 @@
     "capital": "Cameth Brin",
     "description": "Founded after the break-up of Arnor due to feuding amongst the sons of, Eärendur; later became a vassal for Angmar",
     "cultures": "Dúnedain, Hill-men, Hobbits, Trolls",
-    "languages": "Westron, Languages of Evil",
     "governance": "Kings of Rhudaur",
     "founded_or_built": "TA 861",
     "lifespan": "TA 861 - TA 1409"
@@ -2924,11 +2920,9 @@
     "regions": "Gondor, Rohan",
     "description": "Formed the border between Gondor and Rohan",
     "cultures": "Men of the Mountains, Longbeards, Orcs, Dunlendings, Drúedain",
-    "languages": "Westron, Rohirric, Dunlendish, Khuzdul, Orkish",
     "governance": "King of the Mountains",
     "founded_or_built": "First inhabited in the Second Age",
-    "lifespan": "Years of the Lamps",
-    "inhabitants": "Men, Dwarves, Orcs"
+    "lifespan": "Years of the Lamps"
   },
   {
     "name": "Kingdom of Rhovanion",
@@ -2939,12 +2933,10 @@
     "regions": "Rhovanion",
     "description": "Kingdom of Northmen for about 2000 years. Ally with the Kingdom of, Gondor",
     "cultures": "Northmen",
-    "languages": "Northern tongue akin to \"Dalish\" and Rohirric",
     "governance": "Prince of Rhovanion, King of Rhovanion",
     "founded_or_built": "Before TA 490",
     "lifespan": "Before TA 490 - TA 2510",
     "other_names": "Wilderland",
-    "inhabitants": "Dwarves, Elves, Hobbits, Men, Orcs, Eagles, Dragons",
     "events": "Disaster of the Gladden Fields, The Great Plague, War of the Dwarves and Dragons, Sack of Erebor, War of the Dwarves and Orcs, The Fell Winter, Battle of Five Armies, Fall of Dol Guldur, Battle of Dale"
   },
   {
@@ -2955,7 +2947,6 @@
     "position": "Eastern Shire",
     "regions": "Arnor",
     "description": "Last remnant of a vast and ancient primordial forest dating back to the, Elder Days",
-    "languages": "Westron",
     "cultures": "Tom Bombadil, Goldberry, Old Man Willow, Trees"
   },
   {
@@ -2967,12 +2958,10 @@
     "position": "Valley of Calacirya north of Taniquetil",
     "regions": "Aman",
     "description": "Known as the principal city of the Ñoldor of Aman",
-    "cultures": "Ñoldor",
-    "languages": "Quenya",
+    "cultures": "Noldor",
     "governance": "High King of the Ñoldor",
     "founded_or_built": "Between YT 1133 - YT 1140",
-    "lifespan": "YT 1133 -",
-    "inhabitants": "Noldor"
+    "lifespan": "YT 1133 -"
   },
   {
     "name": "Aman",
@@ -2994,7 +2983,6 @@
     "other_names": "Citadel of the Stars",
     "position": "On the Anduin",
     "regions": "Gondor",
-    "languages": "Westron",
     "governance": "Kings of Gondor",
     "founded_or_built": "after SA 3319",
     "lifespan": "after SA 3319 -",
@@ -3010,7 +2998,6 @@
     "capital": "Fornost",
     "description": "Founded after the break-up of Arnor due to feuding amongst the sons of, Eärendur",
     "cultures": "Dúnedain, Hobbits",
-    "languages": "Westron, Hobbitish",
     "governance": "Kings of Arthedain",
     "founded_or_built": "TA 861",
     "lifespan": "TA 861 - TA 1974",
@@ -3027,12 +3014,10 @@
     "regions": "North Rhovanion",
     "description": "A rich mountain range of many ores",
     "cultures": "Durin's Folk, Dragons, Orcs",
-    "languages": "Westron, Khuzdul, Orkish",
     "governance": "King of Durin's Folk",
     "founded_or_built": "Inhabited in the Third Age by Durin's Folk",
     "lifespan": "Third Age -",
     "major_towns": "Dáin's Halls",
-    "inhabitants": "Durin's Folk, Dragons, Orcs",
     "events": "War of the Dwarves and Dragons, slaying of Scatha the Worm"
   },
   {
@@ -3041,13 +3026,11 @@
     "text": "DALE was a city of the Northmen, destroyed by the dragon Smaug and\nrebuilt after his demise.\n\n\nDescription\n\nDale was situated in the valley between the south-western and\nsouth-eastern arms of the Lonely Mountain, nestled in a sharp U-shaped\nbend of the River Running. It was known as a merry town that traded,\nmainly in food-supplies, for the skills and craft-pieces of the Dwarves.\nDale's toy market was the wonder of the North and the town was\nrenowned for its bells.\n\n\nHistory\n\n\n\nIn TA 2590 King Thrór re-established the Kingdom under the Mountain.\nThe realm prospered and Northmen living to the south came up the River\nRunning and built Dale. The town shared in the prosperity of the\nDwarves and it was governed by the Lord of Dale, of whom the last was\nnamed Girion.\n\nIn TA 2770 Smaug descended upon the Dwarf-kingdom. Although the Men\nof Dale fielded warriors against the monster they could not prevent him\nfrom killing or scattering the Dwarves and then occupying the Lonely\nMountain. After the attack the dragon would crawl out of the Front Gate\nof the Mountain by night and carry away people (especially maidens) from\nDale to eat. The remaining population soon fled and the deserted city\nfell into ruins.\n\nThe death of Smaug and the Battle of Five Armies occurred in TA 2941.\nThree years after the battle, Dale was rebuilt by Bard the Bowman,\nwho had killed the dragon and was the descendant of Girion. Dale soon\nagain enjoyed prosperity: Bard founded the Kingdom of Dale and it\ngathered men from the Long Lake, the South, and the West. Lake-town was\nrebuilt and grew wealthy from traffic with Dale. Its people became\nknown as Bardings, after their new ruler.\n\n\n\nDuring the reign of King Brand, the grandson of Bard the Bowman, Dale\nserved as the capital for the lands he ruled, which extended far south\nand east of Lake-town. However, as Glóin revealed at the Council of\nElrond, in TA 3017 a messenger from Mordor came to ask King Dáin\nIronfoot at the gate to the Lonely Mountain for news of Hobbits and to\nask for Bilbo's ring. Messengers had also come to King Brand and there\nwere enemies gathering upon the Kingdom of Dale's eastern borders.\n\nDuring the War of the Ring, the Easterlings crossed the border and moved\nto attack the city. On 17 March TA 3019 the Battle of Dale began. Not\nable to hold back the Easterlings the Bardings and their allies, the\nDwarves of Erebor, retreated into the Lonely Mountain, but lost Kings\nBrand and Dáin Ironfoot who were both slain at the Gate of Erebor. For\nseven days the Men and Dwarves barricaded themselves in Erebor until\nnews came from the south of the defeat of Sauron. The new kings of Dale\nand Erebor (Bard II and Thorin III Stonehelm), broke the siege and\nchased the Easterlings out of Dale. After the siege, the Bardings\nrebuilt Dale, with the help of the Dwarves. Bard also sent an emissary\nto the coronation of King Elessar.\n\n\nEtymology\n\nThe word _dale_ means “valley”, as it was built in the Celduin valley\nbetween two arms of Erebor.\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n",
     "position": "Northern Wilderland on the banks of River Running, between the, south-west and south-east arms of Lonely Mountain",
     "type": "City-state",
-    "inhabitants": "Northmen",
     "events": "Sack of Erebor, Battle of Five Armies, Battle of Dale",
     "other_names": "Kingdom of Dale",
     "capital": "The city was the capital of the kingdom of the Northmen after it was, refounded by Bard",
     "description": "Originally a lordship of Northmen with strong ties to the Lonely, Mountain before Smaug. Later, a strong Kingdom of Men",
     "cultures": "Northmen",
-    "languages": "Dalish, Westron",
     "governance": "Lord of Dale, Kings of Dale",
     "founded_or_built": "Around TA 2590",
     "lifespan": "Around TA 2590 - TA 2770, TA 2944 -"
@@ -3062,11 +3045,9 @@
     "regions": "Lothlórien",
     "description": "Known for being the last Elven realms of bliss left in Middle-earth",
     "cultures": "Galadhrim",
-    "languages": "Sindarin, Silvan tongues",
     "governance": "Amroth, later Galadriel and Celeborn",
     "founded_or_built": "Years of the Trees ?",
-    "lifespan": "Years of the Trees ? - Early Fourth Age",
-    "inhabitants": "Galadhrim, including Celeborn and Galadriel"
+    "lifespan": "Years of the Trees ? - Early Fourth Age"
   },
   {
     "name": "Cerin Amroth",
@@ -3112,12 +3093,10 @@
     "other_names": "_Ondolindë_, amongst others",
     "position": "Valley of Tumladen",
     "description": "Known for being hidden from the eyes of Morgoth",
-    "cultures": "Ñoldor (Gondolindrim), Sindar",
-    "languages": "Quenya, Sindarin",
+    "cultures": "Noldor, Sindar",
     "governance": "King of Gondolin",
     "founded_or_built": "FA 116",
     "lifespan": "FA 116 - FA 510",
-    "inhabitants": "Noldor, Tuor",
     "events": "Fall of Gondolin"
   },
   {
@@ -3129,12 +3108,10 @@
     "position": "Iron Mountains north of Beleriand",
     "regions": "Far Northern Beleriand",
     "description": "Infamous fortress and prison of the Dark Lord Morgoth",
-    "cultures": "Morgoth's subjugates, Balrogs, Orcs, other evil creatures",
-    "languages": "Orkish dialects, languages of the slaves",
+    "cultures": "Morgoth's subjugates, Balrogs, Orcs, evil creatures",
     "governance": "Sauron, later Melkor/Morgoth",
     "founded_or_built": "YT ?",
-    "lifespan": "YT ? - FA 587",
-    "inhabitants": "Morgoth, Balrogs, Orcs and other creatures"
+    "lifespan": "YT ? - FA 587"
   },
   {
     "name": "Iron Hills",
@@ -3144,7 +3121,6 @@
     "position": "East of Lonely Mountain, north-west of Rhûn",
     "regions": "North Rhovanion",
     "description": "A range of iron-rich hills home to a Dwarf-realm",
-    "languages": "Westron, Khuzdul",
     "governance": "King of Durin's Folk, Lord of the Iron Hills (established as of TA 2590)",
     "founded_or_built": "First Age",
     "lifespan": "First Age -",
@@ -3160,7 +3136,6 @@
     "regions": "Gondor",
     "description": "Known for housing the Anor-stone",
     "cultures": "Men of Gondor",
-    "languages": "Westron",
     "governance": "Kings of Gondor, Ruling Stewards of Gondor",
     "founded_or_built": "TA 1900 (built) TA 2698 (restored)",
     "lifespan": "TA 1900 - ?"
@@ -3174,11 +3149,9 @@
     "position": "Southern Mirkwood",
     "description": "Stronghold of Sauron under the guise of the Necromancer, and then his, dark servants until the end of the War of the Ring",
     "cultures": "Nazgûl, Orcs",
-    "languages": "Black Speech, Orcish",
     "governance": "Sauron, later Khamûl",
     "founded_or_built": "TA 1000",
     "lifespan": "TA 1000 - TA 3019",
-    "inhabitants": "Silvan Elves, later Orcs and other Fell creatures",
     "events": "Attack on Dol Guldur, Fall of Dol Guldur"
   },
   {
@@ -3194,12 +3167,10 @@
     "position": "North-western Middle-earth",
     "regions": "Angmar, Arnor, Arthedain, Cardolan, Rhudaur, Eregion, The Shire, Thorin's Halls",
     "description": "Known for being the early home for the Nandor Elves, various tribes of, Men, and later the exiled Dúnedain, and the Hobbits of the Shire.",
-    "cultures": "Elves, Various tribes of Men, Dúnedain, Hobbits",
-    "languages": "Westron, Hobbitish",
+    "cultures": "Dwarves, Elves, Men, Dúnedain, Hobbits",
     "lifespan": "After the Years of the Lamps -",
     "other_names": "Possibly the Lone-lands, almost synonymous with Arnor",
     "major_towns": "Hobbiton, Michel Delving, Bree, Annúminas, Fornost Erain, Tharbad, Ost-in-Edhil, Rivendell",
-    "inhabitants": "Dwarves, Elves, Hobbits, Men",
     "events": "Foundation of Arnor, Forging of the Rings, War of the Elves and Sauron, Arrival of Hobbits, The Great Plague, The Fell Winter, Battle of Bywater"
   },
   {
@@ -3219,10 +3190,8 @@
     "position": "Off the east coast of Aman in the Bay of Eldamar",
     "major_towns": "Avallónë",
     "description": "Arrowhead-shaped island, green and beautiful",
-    "cultures": "Eldar, mostly Teleri",
-    "languages": "Telerin, Sindarin",
-    "founded_or_built": "Formed in the destruction of the Lamp Illuin in very ancient times.",
-    "inhabitants": "Eldar, mostly Teleri"
+    "cultures": "Eldar, Teleri",
+    "founded_or_built": "Formed in the destruction of the Lamp Illuin in very ancient times."
   },
   {
     "name": "Glittering Caves",
@@ -3233,13 +3202,11 @@
     "position": "White Mountains, behind Helm's Deep",
     "regions": "Rohan",
     "description": "Known for its jeweled radiance and beauty and for being a refuge of the, Rohan during war, and later for being a Dwarven realm founded by the, Dwarf hero Gimli.",
-    "cultures": "Gondorians (originally), Rohirrim (during times of war), Dwarves of, Durin's Folk",
-    "languages": "Westron, Rohirric, then Khuzdul",
+    "cultures": "Rohirrim, Durin's Folk",
     "governance": "Kings of Rohan, then Lords of the Glittering Caves",
     "founded_or_built": "Second Age by Númenóreans",
     "lifespan": "Late Second Age - Fourth Age and beyond",
-    "events": "Battle of the Hornburg",
-    "inhabitants": "Rohirrim, later Durin's Folk"
+    "events": "Battle of the Hornburg"
   },
   {
     "name": "Tumladen",
@@ -3255,11 +3222,10 @@
     "position": "North Western Mordor between Ered Lithui and Ephel Duath",
     "regions": "Gondor, Mordor (after)",
     "description": "Iron wall containing arched two-doored entrance",
-    "cultures": "Originally Men of Gondor; later orcs",
+    "cultures": "Orcs",
     "governance": "Sauron",
     "founded_or_built": "SA 1600",
-    "lifespan": "SA 1600 – March 25, 3019",
-    "inhabitants": "Originally Gondorians; later orcs"
+    "lifespan": "SA 1600 – March 25, 3019"
   },
   {
     "name": "Barad Eithel",
@@ -3281,7 +3247,6 @@
     "regions": "Arthedain, Cardolan, Rhudaur",
     "description": "Founded after the Fall of Númenor. Divided up and fell due feuding and, war.",
     "cultures": "Númenóreans, Dúnedain, Arnorians, Elves, Hobbits",
-    "languages": "Westron, Hobbitish, Sindarin",
     "governance": "Kings of Arnor, King of the Reunited Kingdom",
     "lifespan": "SA 3320 - TA 861 (divided into three kingdoms), final remnant destroyed, in TA 1974, reunited again in FO 1",
     "major_towns": "Lond Daer, Tharbad, Bree, Hobbiton",
@@ -3295,7 +3260,6 @@
     "position": "Between Drúadan Forest and Grey Wood",
     "regions": "Gondor",
     "description": "One of the Warning beacons of Gondor",
-    "languages": "Westron",
     "governance": "Stewards of Gondor",
     "lifespan": "Third Age",
     "other_names": "Eilenaer, the Halifirien"
@@ -3314,11 +3278,23 @@
     "position": "Eriador",
     "regions": "Arnor, Arthedain, Reunited Kingdom",
     "description": "Known as the capital of Arnor and later Arthedain",
-    "languages": "Westron",
     "governance": "Kings of Arnor, Kings of Arthedain, Kings of the Reunited Kingdom",
     "founded_or_built": "SA 3320",
     "lifespan": "Early Third Age - TA 1974, Early Fourth Age -",
     "cultures": "Dunedain of Arnor"
+  },
+  {
+    "name": "Bree",
+    "lotr_page_id": "689",
+    "text": "BREE was a village, of Men and hobbits, in Middle-earth, located east of\nthe Shire and south of Fornost in Eriador.\n\n\nHistory\n\nBree was an ancient settlement of men in Eriador by the time of the\nThird Age of Middle-earth, but after the collapse of the Kingdom of\nCardolan, which had claimed it, Bree continued to thrive without any\ncentral authority or government for many centuries. Bree had become the\nmost westerly settlement of men in all of Middle-earth by the time of\nthe War of the Ring, and became one of only three or four inhabited\nsettlements in all of Eriador. At the time of The Lord of the Rings,\nBree-land was the only part of Middle-earth where Men and Hobbits dwelt\nside by side in peace. Being located on the most important crossroads in\nthe north, on the crossing of the Great East Road and the Greenway,\ntravellers would pass through Bree. The Prancing Pony is equipped with\nrooms, but the local people do not seem accustomed to many travellers.\nHobbits from the Shire would also occasionally visit Bree. The Rangers\nare also familiar to Bree-folk, though they are suspicious of them. The\ndwarves dwelling in Blue Mountains (Ered Luin), such as Thorin\nOakenshield, would be likely to pass through. Gandalf is a frequent\npasser-by as well. Thus Bree is the place where, seemingly by accident,\nGandalf and Thorin once met. They were both thinking about the same\nproblem: the dragon Smaug at the Lonely Mountain (Erebor). The meeting\nled to the undertaking of the Quest of Erebor, which resulted in the\ndeath of Smaug and the finding of the One Ring by Bilbo Baggins.\n\nDuring the War of the Ring, a day's ride east from the village along the\nroad lay The Forsaken Inn, according to Aragorn, although nothing else\nis known of that place. Directly west of Bree were the Barrow-downs and\nthe Old Forest. Bree was the chief village of BREE-LAND, a small wooded\nregion near the intersection of the main north-south and east-west\nroutes through Eriador. [A map of Bree-town from The Atlas of\nMiddle-earth] It was not unheard of for Hobbits of the Shire to visit to\nBree. This was especially true of the more adventurous Brandybucks, who\nlived just over a day's journey from the place. People there could\nrecognize Shire-folk from their accent.\n\nDespite raising some of their own “leaf,” the Bree-folk very much\nenjoyed Shire Pipe-weed from the Southfarthing.\n\n\n\nIn _The Fellowship of the Ring_, Frodo Baggins met Strider (Aragorn) at\nthe largest inn in Bree, The Prancing Pony, owned by Barliman Butterbur.\nSeveral of the Ringwraiths attempted to kill the hobbits, but Strider\nanticipated this, and the hobbits were in a front parlor with him when\nthe Black Riders struck. Frodo and his companions later traveled through\nBree on their way home and found things rather worse off there.\n\n\nVillages\n\nThere were three villages in Bree-land in addition to Bree proper:\n\n-   STADDLE was populated primarily by hobbits who made a living from\n    light agriculture, including Pipeweed. Staddle was on the\n    south-eastern side of Breehill, sitting south of Combe and Archet.\n    It was the only of the villages (other than Bree itself) visible\n    from the Great East Road.\n\n&nbsp;\n-   COMBE was populated primarily by Men, with some hobbits, all of whom\n    made a living from agriculture. Combe was situated on the borders of\n    the CHETWOOD and on the edge of Bree-hill, between the villages of\n    Archet and Staddle.\n\n&nbsp;\n-   ARCHET was the furthest north. Located in the Chetwood, it was\n    populated primarily by Men.\n\n\nEtymology\n\nThe name BREE means “hill” in Brythonic, a Celtic language, referring to\nthe fact that the village of Bree and the surrounding Bree-lands were\ncentered around a large hill. According to Tom Shippey, Tolkien was\ninspired by the actual town of Brill.",
+    "type": "Village",
+    "position": "On Bree-hill, Eriador, by the crossing of the East Road and the Greenway",
+    "regions": "Arnor, Cardolan, Later Reunited Kingdom",
+    "description": "Group of Cross-road Hamlets",
+    "cultures": "Men, Hobbits",
+    "governance": "Kings of Arnor, Kings of Cardolan, Later Kings of the Reunited Kingdom",
+    "founded_or_built": "Third Age",
+    "lifespan": "Third Age -"
   },
   {
     "name": "Nargothrond",
@@ -3328,7 +3304,6 @@
     "other_names": "Nulukkhizdîn",
     "position": "Beneath the forested hills of Taur-en-Faroth in the south-western part, of West Beleriand",
     "description": "Initially a settlement of Petty-Dwarves, and then a hidden stronghold of, the Noldor",
-    "languages": "Quenya, Sindarin",
     "governance": "Finrod, Orodreth (last)",
     "founded_or_built": "FA 52",
     "lifespan": "FA 52 - FA 495",
@@ -3345,12 +3320,10 @@
     "position": "West of the Misty Mountains",
     "regions": "Eriador",
     "description": "The dominion of Elrond and his elves",
-    "cultures": "Ñoldor",
-    "languages": "Sindarin, Westron",
+    "cultures": "Noldor",
     "governance": "Elrond",
     "founded_or_built": "SA 1697",
     "lifespan": "SA 1697 - ?",
-    "inhabitants": "Elves, Bilbo Baggins, some Dúnedain",
     "events": "First and Second Siege of Imladris, Quest of Erebor, Council of Elrond"
   },
   {
@@ -3362,10 +3335,23 @@
     "position": "East of the Misty Mountains, south of Ered Mithrin",
     "regions": "Woodland Realm, Dol Guldur",
     "description": "Deep, thick, dark forest in Rhovanion",
-    "languages": "Sindarin, Silvan, Black Speech, Westron, Orkish",
     "major_towns": "Amon Lanc (later Dol Guldur), Elvenking's Halls, Rhosgobel",
     "events": "Battle Under Trees, Fall of Dol Guldur",
     "cultures": "Wood-elves, Great Spiders, Orcs, Olog-hai, Nazgûl, Woodmen"
+  },
+  {
+    "name": "Harad",
+    "lotr_page_id": "551",
+    "text": "HARAD, fully named _HARADWAITH_, was the immense realm located south of\nGondor and Mordor. The Men of Harad were called _Southrons_ or\n_Haradrim_ (“South-multitude”).\n\n\nGeography\n\nHarad lay between the sea of Umbar to its west and Khand to its\nnortheast, and was divided into two main provinces: Near Harad, which\nwas the closest to both Mordor and Gondor, and Far Harad, nearest to the\nland of Umbar. Harondor, otherwise known as South Gondor, was a buffer\nzone in the very north of Harad between the lush, verdant grasslands on\nthe Gondor side of the Anduin and the inhospitable dunes of sand to the\nfar south, and was contested over by Gondor and Harad. The river Poros\nformed Harondor's northern border, while the river Harnen formed its\nsouthern border. Its climate was most likely a semi-arid grassland but\npresumably more fertile than Harad. Its boundaries extended roughly from\nthe Anduin to the western flank of Mordor and stopped around an\nimaginary line protruding horizontally from the bay of Umbar. On the\nnortheast it was bordered by the Mountains of Shadow, and it ran west to\nthe Bay of Belfalas.\n\nThe boundary between Near Harad and Khand is not described, and it is\nunclear how far east Near Harad extended. The majority of Near Harad is\ndesert, described by Gollum as where the “yellow face is bright and\nterrible”. In the southeast of Near Harad, a natural gulf fed far into\nthe landmass, and a large river flowed inland from there to the\nnorthwest, later forking. One branch of the river flowed westwards\ntowards Umbar, and the other northeast. Neither the gulf nor the rivers\nwere given names by Tolkien.\n\nThe boundary between Near and Far Harad is indistinct, but compared to\nthe other regions Far Harad was immense, covering all the territory\nrelatively equivalent to Africa. Far Harad was large enough that it most\nlikely had an extremely varied climate. Much of the southern extents of\nFar Harad were covered in forests and jungle. The great Mûmakil, called\nOliphaunts in legend by the Hobbits, were native to this area. The\nMûmakil were rarely seen outside of Far Harad after the Third Age.\n\n\nPeople\n\n\n\nHarad's tribes were divided - at least in the minds of the men of\nnorthwestern Middle-earth - into those of Near and Far Harad, although\nthere were many tribes of the Haradrim, often mutually hostile. Those of\nNear Harad were swarthy, with black hair and dark eyes, whereas the\npeople of Far Harad had black skin.\n\n\nHistory\n\nSecond Age\n\nAfter the First Age, the men of these lands were among the lesser men\nwho were instructed by the voyaging Númenóreans in the basic arts of\ncivilization. This went on for some time until the middle of the Second\nAge when the Númenóreans turned their backs on wisdom and became their\noverlords.\n\nFrom the latter part of the Second Age, many of the Men of Harad were\ndominated by the Númenóreans, as were many other peoples whose lands\nincluded a coastline. Shortly before the War of the Last Alliance, two\nNúmenórean lords, named Herumor and Fuinur, “rose to great power amongst\nthe Haradrim”, but their ultimate fate is not recorded.\n\nThird Age\n\nFor many centuries of the Third Age, many Haradrim were still ruled by\nBlack Númenórean Lords and ultimately, the Harad fell under the\ninfluence of Mordor for much of the Age.\n\nMuch of Far Harad was a jungle, although there also was a desert. In Far\nHarad lived the great beasts known as Mûmakil or Oliphaunts native to\nFar Harad used by the Haradrim as moving war towers.\n\nNear Harad later formed an alliance or maybe even a coalition of some\nsort with the Corsairs of Umbar, and was involved in a series of\ncontinual battles with Gondor over South Gondor or Harondor. Anciently\nits northern border was held to be the river Harnen, but by the time of\nthe War of the Ring all the land south of the river Poros was under the\ninfluence of the Haradrim.\n\nFourth Age\n\nAfter the revival of the Reunited Kingdom of Gondor and Arnor in the\nFourth Age, many of the Haradrim were pardoned and allowed to live in\npeace. They were required to relinquish South Gondor and Umbar, but\nremained a free people. \n\n\nEtymology\n\nIn Sindarin, _Harad_ means “South”. In Quenya, it was HYARMEN.[A\n“Haradrim Palace” in the BFME games]\n\n\nPortrayal in adaptations\n\n-   In _The Lord of the Rings: The Battle for Middle-earth II_, warriors\n    from Harad are prominently featured.",
+    "type": "Region",
+    "other_names": "Haradwaith, Sunlands, Sutherland",
+    "position": "Southeastern Middle-earth, south of Gondor and Mordor",
+    "capital": "Unknown",
+    "description": "Home of the Haradrim",
+    "cultures": "Haradrim, Númenóreans, Black Númenóreans",
+    "governance": "Black Númenórean overlords in the Second Age and possibly afterwards, Haradrim chieftains",
+    "founded_or_built": "Unknown",
+    "lifespan": "First Age - ?"
   },
   {
     "name": "Rhovanion",
@@ -3388,10 +3374,8 @@
     "description": "Golden wood with mallorn trees",
     "regions": "Naith, Egladil",
     "major_towns": "Caras Galadhon, Cerin Amroth",
-    "inhabitants": "Galadhrim (Silvan Elves); Sindarin/Noldorin/Telerin leadership",
     "capital": "Caras Galadhon",
-    "cultures": "Galadhrim (Silvan Elves); Sindar/Noldor/Teleri leadership",
-    "languages": "Sindarin, Westron (very few)",
+    "cultures": "Galadhrim (Silvan Elves), Sindar, Noldor, Teleri",
     "governance": "Kings of Lórien, Galadriel and Celeborn",
     "founded_or_built": "During the Great Journey (long before the First Age)",
     "lifespan": "Long before the First Age - Early Fourth Age"
@@ -3405,12 +3389,10 @@
     "position": "North-western part of the Long Lake in Rhovanion",
     "capital": "None",
     "description": "Known for being a poor trading city south of Dale and the Lonely, Mountain destroyed and rebuilt during the events of the Quest of Erebor, and later being a part of the Kingdom of Dale.",
-    "cultures": "Lakemen, Bard the Bowman, Bain, Bard's son, Master of Laketown",
-    "languages": "Westron",
     "governance": "Master of Lake-town (until TA 2944), Kings of Dale (after TA 2944)",
     "founded_or_built": "TA 2600s",
     "lifespan": "TA 2600s ? - ?",
-    "inhabitants": "Lake-men"
+    "cultures": "Lake-men"
   },
   {
     "name": "Valinor",
@@ -3421,7 +3403,6 @@
     "regions": "Eldamar, Lórien, Pastures of Yavanna, Woods of Oromë",
     "capital": "Máhanaxar",
     "governance": "Valar",
-    "languages": "Valarin, Quenya (including Telerin)",
     "cultures": "Valar, Maiar, Vanyar, Noldor,"
   },
   {
@@ -3432,9 +3413,8 @@
     "position": "In Nan Curunír, at the southern tip of the Misty Mountains",
     "type": "Fortress",
     "description": "A circular wall of rock that enclosed the valley, in the centre of which, stood the stone tower of Orthanc",
-    "inhabitants": "Dúnedain, Dunlendings, Saruman, Wicked men, Huorns",
+    "cultures": "Dúnedain, Dunlendings, Orcs, Wicked men, Huorns",
     "events": "Battle of Isengard",
-    "cultures": "Dúnedain, Saruman, Orcs, Wicked men, Ents, Huorns",
     "governance": "Kings of Gondor, Saruman, King of the Reunited Kingdom, Treebeard",
     "founded_or_built": "Late Second Age"
   },
@@ -3447,11 +3427,9 @@
     "regions": "Gondor",
     "description": "Fair, fertile land. Briefly the seat of the King of Durin's Folk",
     "cultures": "Dunlendings, Stoors, Durin's Folk",
-    "languages": "Westron, Dunlendish, Hobbitish, Khuzdul",
     "governance": "King of Durin's Folk (very briefly over the Dwarves in exile)",
     "founded_or_built": "First inhabited in the early Second Age",
-    "lifespan": "Early Second Age -",
-    "inhabitants": "Men, For a time - Stoors and Dwarves"
+    "lifespan": "Early Second Age -"
   },
   {
     "name": "Menegroth",
@@ -3462,13 +3440,11 @@
     "position": "Under the rocky hills next to the river Esgalduin",
     "regions": "Doriath",
     "description": "Capital city of Doriath",
-    "cultures": "Sindar, Dwarves",
-    "languages": "Sindarin",
+    "cultures": "Sindar, Nandor, Dwarves",
     "governance": "King of Doriath",
     "founded_or_built": "YT?",
     "lifespan": "YT? - FA 506",
-    "events": "Second Kinslaying",
-    "inhabitants": "Sindar, Nandor"
+    "events": "Second Kinslaying"
   },
   {
     "name": "Blue Mountains",
@@ -3479,12 +3455,10 @@
     "position": "Along the border between Eriador and Lindon",
     "major_towns": "Nogrod, Belegost, Thorin's Halls, Newer halls in the Southern chain",
     "description": "Known for being an ancient dwelling place of the Dwarves, the boundary, between Eriador and Lindon",
-    "cultures": "Broadbeams, Firebeards, later Longbeards, Elves",
-    "languages": "Khuzdul, Westron, Sindarin",
+    "cultures": "Broadbeams, Firebeards, Longbeards, Elves",
     "governance": "King of Durin's Folk during the Third Age",
     "founded_or_built": "Established during the Years of the Trees",
-    "lifespan": "Years of the Trees -",
-    "inhabitants": "Dwarves of the Blue Mountains: Broadbeams, Firebeards, and Longbeards"
+    "lifespan": "Years of the Trees -"
   },
   {
     "name": "Misty Mountains",
@@ -3497,8 +3471,6 @@
     "regions": "Khazad-dûm, Under the Mountains include Angmar, Eregion, Dunland, Lothlórien, Fangorn",
     "description": "Created by the Vala Melkor during the Years of the Trees as a hindrance, for Oromë",
     "cultures": "Dwarves, Orcs, Trolls, Giants, Eagles",
-    "languages": "Westron, Khuzdul, Black Speech, Orkish, Sindarin",
-    "inhabitants": "Dwarves, Orcs, Trolls, Giants, Eagles",
     "events": "The Great Journey of the Elves, awakening of Durin I, awakening of the, Balrog, dominion of the Orcs, War of the Dwarves and Orcs",
     "founded_or_built": "Years of the Trees"
   },
@@ -3510,12 +3482,11 @@
     "position": "Gondor / Mordor",
     "regions": "Gondor (most of the Third Age), Mordor",
     "description": "Known for being a City/Fortress of the Dúnedain but later an important, city of Mordor",
-    "languages": "Adûnaic ? (early), Westron (most of the Third Age), Black Speech, Orkish",
     "governance": "Kings of Gondor (most of the Third Age),",
     "founded_or_built": "SA 3320",
     "lifespan": "SA 3320 - FA",
     "other_names": "Minas Ithil, Tower of the Moon, Tower of the Rising Moon, Moon-tower, Tower of Black Sorcery, Dead City",
-    "cultures": "Gondorians, Orcs and Nazgûl"
+    "cultures": "Men of Gondor, Orcs and Nazgûl"
   },
   {
     "name": "Ithilien",
@@ -3526,7 +3497,6 @@
     "position": "Easternmost province of Gondor",
     "capital": "Minas Ithil (before TA 2002), Emyn Arnen (Fourth Age)",
     "description": "\"Fairest country in all the westlands\"",
-    "languages": "Westron, Sindarin, Gondor Sindarin",
     "governance": "King of Gondor, Stewards of Gondor, King of the Reunited Kingdom, Lords of Emyn Arnen, Prince of Ithilien",
     "founded_or_built": "S.A. 3320",
     "lifespan": "SA 3320 -",
@@ -3542,7 +3512,6 @@
     "position": "Northern Rhovanion north of Dale and Lake-town",
     "description": "Known for being a great and rich Dwarven kingdom of exiled members of, Durin's Folk, until sacked by Smaug",
     "cultures": "Dwarves",
-    "languages": "Westron, Khuzdul",
     "governance": "King of Durin's Folk",
     "founded_or_built": "TA 1999",
     "lifespan": "TA 1999 - TA 2770, TA 2941 - Fourth Age"
@@ -3560,7 +3529,7 @@
     "description": "White city of seven levels",
     "events": "Siege of Minas Tirith",
     "founded_or_built": "SA 3320",
-    "cultures": "Gondorians"
+    "cultures": "Men of Gondor"
   },
   {
     "name": "Regions of the Shire",
@@ -3575,7 +3544,6 @@
     "position": "On the river Gwathló, at the point where the North-South Road passed, from Minhiriath into Enedwaith",
     "regions": "Arnor, Cardolan",
     "description": "The city at the crossings of Greyflood",
-    "languages": "Adûnaic, Westron",
     "founded_or_built": "Before SA 1098; Probably founded by Tar-Aldarion of Númenor",
     "lifespan": "Before SA 1098 - TA 2912",
     "cultures": "Númenóreans, Dúnedain"
@@ -3589,7 +3557,6 @@
     "position": "Middle of the Misty Mountains, beneath Celebdil, Caradhras and Fanuidhol",
     "description": "Grandest and most famous of the mansions of the Dwarves",
     "cultures": "Mostly Durin's Folk",
-    "languages": "Khuzdul, Sindarin, Westron, Black Speech, Orkish",
     "governance": "King of Durin's Folk, Lord of Moria (TA 2989-TA 2994)",
     "founded_or_built": "Between YT 1050 and YT 1250",
     "lifespan": "Between YT 1050 and YT 1250"
@@ -3604,7 +3571,6 @@
     "major_towns": "Mithlond, Forlond, Harlond",
     "description": "Dates back to the First Age. In later times, it was known as the seat of, the last High King of the Ñoldor Gil-galad and afterwards a safe-haven, for Elves under Círdan, who would be leaving for the Undying Lands.",
     "cultures": "Ñoldor, Sindar, few Dwarves",
-    "languages": "Sindarin, Khuzdul, Westron",
     "governance": "Gil-galad, Círdan",
     "lifespan": "SA 1 - Early Fourth Age",
     "regions": "North and South",
@@ -3625,7 +3591,6 @@
     "capital": "Umbar",
     "regions": "Gondor, Reunited Kingdom",
     "description": "Known for being a haven of Gondor's enemies",
-    "languages": "Westron",
     "governance": "Kings of Númenor, later Black Númenóreans, later Kings of Gondor, later Corsairs of Umbar, Kings of the Reunited Kingdom",
     "founded_or_built": "Late-Second Age",
     "lifespan": "Late-Second Age through the Fourth Age",
@@ -3640,7 +3605,6 @@
     "capital": "Amon Lanc; later Halls of Thranduil",
     "description": "Known for being a realm of the Silvan Elves",
     "cultures": "Silvan, Sindar Elves",
-    "languages": "Silvan Elvish, Sindarin, Westron, Sindarin (rarely)",
     "governance": "King of the Woodland Realm",
     "founded_or_built": "SA 750",
     "lifespan": "SA 750 - Fourth Age"
@@ -3653,12 +3617,10 @@
     "position": "Isengard",
     "regions": "Gondor, Nan Curunír",
     "description": "Carved black Tower of Isengard. Known for being the abode of Saruman.",
-    "cultures": "Dúnedain, Men of Gondor, Saruman",
-    "languages": "Westron",
+    "cultures": "Dúnedain, Men of Gondor, Uruk-hai",
     "governance": "Saruman",
     "founded_or_built": "Second Age",
     "lifespan": "Second Age - ?",
-    "inhabitants": "Dúnedain, Gondorians, Saruman",
     "events": "Battle of Isengard"
   },
   {
@@ -3680,7 +3642,6 @@
     "capital": "Michel Delving",
     "regions": "Arnor",
     "description": "Known for being the home of the Hobbits",
-    "languages": "Hobbitish, Westron",
     "governance": "Kings of Arthedain, later Thains",
     "founded_or_built": "TA 1601 (SR 1)",
     "lifespan": "TA 1601 - ?",
@@ -3695,12 +3656,26 @@
     "position": "Eastern Lands of Middle-earth, east of Mordor and Rhovanion",
     "type": "Region",
     "regions": "Dorwinion, Cuivienen, Hildorien",
-    "inhabitants": "Easterlings, Dwarves, Avari",
     "events": "Awakening of Elves, Awakening of Men",
     "description": "The unknown eastern lands of Middle-earth",
     "cultures": "Easterlings, Dwarves, Avari",
-    "languages": "Mannish dialect unknown to the rest of Middle-earth, Khuzdul, Avari, languages",
     "governance": "Lords/Kings of the Easterlings"
+  },
+  {
+    "name": "Mordor",
+    "lotr_page_id": "239",
+    "text": "MORDOR was a black, volcanic plain located in the southeast of\nMiddle-earth to the East of Gondor, Ithilien and the great river\nAnduin. Mordor was chosen by Sauron to be his realm because of the\nmountain ranges surrounding it on three sides, creating a natural\nfortress against his enemies. Translated, it means, “Land of Darkness”\n\n\nGeography\n\n[]\n\nMordor was protected from three sides by large mountain ranges, arranged\nroughly in a rectangular manner: Ash Mountains in the north, Ephel Dúath\nin the west and south. In the northwest corner of Mordor the deep valley\nof Udûn was the only few entrance for large armies, and that is where\nSauron built the Black Gate of Mordor. In front of the Black Gate lay\nthe Dagorlad or the _Battle Plain_. Sauron's main fortress of Barad-dûr\nwas at the foothills of Ered Lithui. To the southwest of Barad-dûr lay\nthe arid plateau of Gorgoroth and Mount Doom; to the east lay the plain\nof Lithlad. Mordor's geography was excellent for defense against enemies\nattacking on all fronts, for nearly un-scalable mountains defended\nMordor on three sides, while the broken, jagged land of Gorgoroth and\nNúrn would greatly impede any army that managed to break through.\n\nMordor's dry and blasted geography would also be extremely unfriendly to\nany army bivouacked on the plains, forcing a withdrawal within days\n(unless they have stores sufficient for months). The only other path for\narmies to cross into Mordor from the west, over the Ephel Duath was the\nPass of Cirith Ungol. Isildur originally built the city of Minas Ithil (\n“Tower of the Rising Moon”) to guard this pass from evil things\nattempting to re-enter Mordor, but in the Third Age the population of\nthe city waned and was conquered by the Nazgûl. It became the home of\nthe Ringwraiths and was renamed Minas Morgul ( “the Tower of Sorcery”),\nand was thereafter a great stronghold of evil, ever at war with Gondor\nto the west, until the end of the War of the Ring. To escape the\nvigilance of Morgul, to enter Mordor one would still have to get past\nthe lair of Shelob, and the Tower of Cirith Ungol- a feat only Frodo\nBaggins and Samwise Gamgee (led by Gollum) ever accomplished- though not\nwithout being waylaid by the great fearsome spider Shelob, and Frodo\nbeing taken prisoner to the Tower of Cirith Ungol.\n\nThe southern part of Mordor called Núrn was slightly more fertile, and\nmoist enough to carry the inland Sea of Núrnen. Nurn was made somewhat\nfertile because the ash blown from Mount Doom left its soil\nnutrient-rich, thus allowing dry-land farming.\n\nTo the west of Mordor was the narrow land of Ithilien with the city of\nOsgiliath and the great river Anduin, while directly East of it was\nRhûn, and to the southeast, Khand.\n\n\n\nThe east of Mordor is by far the least mentioned of any of Mordor's\ngeographic notes and descriptions. One might assume that the easiest\nroute to Mount Doom would be for the Fellowship to journey through the\n'unguarded' section of the east, where no mountains guard; however, we\nare told in the ''Fellowship of the Ring ''that the area was heavily\ndefended by a line of border forts facing Sauron's allies in Rhûn. In\ntheory, these forts have no use, because to get there they would have to\npass along the western edge of Rhûn, and Sauron's strongest allies, the\nEasterlings, abode there. Also, it would have been difficult to pass\nunnoticed, because the many roads running from Mordor into Rhûn were\nalways being marched along by Easterlings entering Mordor or patrolling\nthe roads and borders.\n\nRegions\n\n-   Gorgoroth\n-   Lithlad\n-   Núrn\n-   Eastern Desolation\n\nMajor Fortresses\n\n-   Barad-dûr (Capital and seat of the Dark Lord Sauron.)\n-   Durthang\n-   Osgiliath (East bank, retaken by Gondorwhen led by Boromir, later\n    whole city is taken as part of the Witch-king's armies campaign to\n    take the city of Minas Tirith during the War of the Ring)\n-   Isenmouthe\n-   Minas Morgul (Home of the Nazgûl including the Witch-King, commander\n    of Mordor's armies and Sauron's second-in-command and the fell\n    captain)\n-   Black Gate\n-   Mount Doom (Oroduin, where Frodo cast the Ring and destroyed it)\n-   Nargroth\n-   Seregost\n-   Tower of Cirith Ungol\n\n \n\n\nFormation\n\nMordor was a relic of the devastating works of Morgoth, apparently\nformed by massive volcanic eruptions. It was given the name Mordor\nalready before Sauron settled there, because of its volcano Mount Doom\nand its eruptions. Sauron however was the first to settle there with the\nexception of Shelob and her ancestors.\n\nOne possible theory to Mordor's creation, based upon maps of\nMiddle-Earth in the First Age is that it maybe the dried seabed of the\nonce inland Sea of Helcar.\n\n\nLanguages and people\n\nAt the time of the War of the Ring, Sauron had gathered great armies to\nserve him. These included enslaved Men of the East and the South, who\nspoke a variety of tongues, and Orcs and Trolls, who usually spoke a\ndebased form of the Common Speech. But within Barad-dûr and among the\ncaptains of Mordor (the Ringwraiths and other high-ranking servants such\nas the Mouth of Sauron), the Black Speech was still used, the language\ndevised by Sauron during the Dark Years of the Second Age. In addition\nto ordinary Orcs and Trolls, Sauron had bred a stronger strain of Orcs,\nthe Uruk-hai, and very large Trolls known as Olog-hai who could endure\nthe sun. The Olog-hai knew only the Black Speech\n\n\nHistory\n\nEarly History\n\nSauron settled in Mordor 1,000 years after the end of the First Age, and\nit remained the pivot of his evil contemplations for the whole of the\nSecond and Third Ages of Middle-earth. In the north-western corner of\nthis land stood Mount Doom, where Sauron had forged the One Ring. Near\nOrodruin stood Sauron's stronghold Barad-dûr. After this time, Sauron\nwas known as the Dark Lord of Mordor. \n\n[Sauron looking over the Orc Army of Gorgoroth]\n\nFor two and a half thousand years, Sauron ruled Mordor uninterruptedly.\nHaving wrought the Ring, it was from there that he launched the attack\nupon the Elves of Eregion. He was repelled by the Men of Númenor. He\nfought against the men again, almost a thousand years later; that time,\nhe was captured by the Númenóreans and brought to their island kingdom,\neventually causing its destruction (see _Akallabêth_). Immediately after\nNúmenor's destruction, Sauron returned to Mordor as a spirit and resumed\nhis rule.\n\nThe Last Alliance and Third Age\n\n[The battle of the Siege of Barad-dûr]\n\nSauron's rule was interrupted yet again when his efforts to overthrow\nthe surviving Men and Elves failed, and they fought their way back to\ntheir foe's domain. After several years of siege, forces of the Last\nAlliance of Elves and Men came into Mordor. Sauron was defeated in a\nfinal battle on the slopes of Mount Doom. For about a thousand years,\nMordor was guarded by Gondor in order to prevent any evil forces from\nbreaking out. Minas Ithil , The Towers of the Teeth and the Tower of\nCirith Ungol were built by Gondor to watch two of the major entry points\nto the dark land.\n\nHowever, Sauron eventually used the Wainriders to distract and weaken\nGondor, and the Nazgûl, after having destroyed Arnor reclaimed it and\nstarted to rebuild its might. Minas Ithil was conquered by the Nine\nRingwraiths and the Gondor fortresses occupied by evil creatures. By the\ntime Sauron returned into Mordor after his false defeat in Dol Guldur\n(in the events that took place at the time of Bilbo Baggins's quest),\nMordor was too strong to be captured by any military might that was\navailable in Middle-earth at the end of the Third Age. In the north of\nMordor during the War of the Ring were the great garrisons and forges of\nwar, while surrounding the bitter inland Sea of Núrnen to the south lay\nthe vast fields tended for the provision of the armies by hordes of\nslaves brought in from lands to the east and south.\n\nWar of the Ring\n\n[Sauron's vast army crossing over Gorgoroth]\n\nDuring the War of the Ring, Sauron gathered all his forces to Mordor.\nAfter the Battle of the Pelennor Fields, a Host of the West went to the\nBlack Gate. Sauron sent his army to destroy the Men of Gondor and Rohan,\nbut then Frodo Baggins destroyed the One Ring and Mordor fell. The Eye\nof Sauron was destroyed, sending shock waves through the air and ground.\nThe Dark Tower of Barad-dûr, the Black Gate and the Towers of Teeth\ncollapsed to ruin. Mount Doom exploded and both Sauron and his\nRingwraiths were apparently destroyed. The shadows fled and the bright\nlight came and filled Mordor.\n\n\nNames and Styles\n\n_Mordor_ actually has two meanings: _THE BLACK LAND_ or _THE DARK LAND_\nin Tolkien's contrived language Sindarin, and _THE LAND OF SHADOW_ in\nQuenya. The root _mor_ (“dark”, “black”) also appears in Moria. _Dor_\n(“land”) also appears in _Gondor_ (“stone-land”) and _Doriath_ (“fenced\nland”). The Quenya word for Shadow is “mordo”. It is pronounced with a\nRussian-sounding _r_. The gate of Mordor, Morannon, means The Black\nGate. It was named this by the elves in the Second Age.\n\nA proposed etymology out of the context of Middle-earth is Old English\n_morthor_, which means “mortal sin” or “murder”. (The latter are\ndescended from the former.) It is not uncommon for names in Tolkien's\nfiction to have relevant meanings in several languages, both those\ninvented by Tolkien, and “real” ones, but this of course happens with\nany two languages. _Mordor_ is also a name cited in some Nordic\nmythologies referring to a land where its citizens practice evil without\nknowing it, imposed on themselves by the society long created for that\npurpose. This quite fits with Tolkien's Mordor.\n\nIn _The Atlas of Middle-earth_, Karen Wynn Fonstad assumes that the\nlands of Mordor, Khand, and Rhûn lay where the inland Sea of Helcar had\nbeen, and that the Sea of Rhûn and Sea of Núrnen were its remnants. The\natlas was published before ''The Peoples of Middle-earth ''however, in\nwhich it turns out that the Sea of Rhûn and Mordor already did exist in\nthe First Age.",
+    "type": "Realm of Evil",
+    "other_names": "The Black Land, The Dark Country, The Dark Land, Land of Shadow, The Nameless Land",
+    "position": "Within Ered Lithui and Ephel Dúath; east of Gondor",
+    "capital": "Barad-dûr",
+    "description": "Sauron's dwelling and base from which he attempted to conquer, Middle-earth",
+    "governance": "Sauron",
+    "founded_or_built": "SA 1000",
+    "lifespan": "SA 1000 - TA 3019",
+    "major_towns": "Minas Morgul, Carchost, Narchost, Cirith Ungol, Durthang",
+    "regions": "Nurn, Gorgoroth, Lithlad, Udûn",
+    "cultures": "Orcs, Trolls, Nazgûl, Men, Deamons"
   },
   {
     "name": "Numenor",
@@ -3713,7 +3688,6 @@
     "major_towns": "Andúnië, Eldalondë, Rómenna, Ondosto, Nindamos",
     "description": "Founded as a dwelling place for the faithful Edain. Fell due to division, and corruption.",
     "cultures": "Númenóreans, Drúedain",
-    "languages": "Adûnaic, Quenya",
     "governance": "Kings and Queens of Númenor",
     "founded_or_built": "SA 32",
     "lifespan": "SA 32 - SA 3319",
@@ -3730,7 +3704,6 @@
     "regions": "Brethil, Nan Elmoth",
     "description": "Realms of the Sindar Elves in Middle-earth",
     "cultures": "Sindar",
-    "languages": "Sindarin, Doriathrin ",
     "governance": "Thingol and Melian",
     "founded_or_built": "c. YT 1152",
     "lifespan": "YT 1152 - FA 506"
@@ -3744,13 +3717,22 @@
     "position": "Southern Middle-earth",
     "capital": "Osgiliath (SA 3320 - TA 1640), Minas Tirith (from TA 1640)",
     "description": "Southern Númenórean Realm in Exile, part of the Reunited Kingdom by FO 1",
-    "cultures": "Númenóreans, Dúnedain, Gondorians, Wood-elves, Sindar, Nandor, Silvan Elves",
-    "languages": "Adûnaic, Westron, Sindarin",
+    "cultures": "Númenóreans, Dúnedain, Men of Gondor, Wood-elves, Sindar, Nandor, Silvan Elves",
     "governance": "Kings of Gondor, Stewards of Gondor, Kings of the Reunited Kingdom",
     "lifespan": "SA 3320 -",
     "major_towns": "Pelargir, Calembel, Dol Amroth, Erech, Linhir, Formerly: Minas Ithil",
     "regions": "Anórien, Ithilien, Lossarnach, Lebennin, Belfalas, Dor-en-Ernil, Lamedon, Anfalas, Formerly: Calenardhon, Harondor",
     "founded_or_built": "SA 3320"
+  },
+  {
+    "name": "Middle-earth",
+    "lotr_page_id": "37",
+    "text": "“MIDDLE-EARTH”, or ENDOR in Quenya (_ENNOR_ in Sindarin) - and in _The\nBook of Lost Tales_ THE GREAT LANDS - are the names used for the\nhabitable parts of Arda after the final ruin of Beleriand, east across\nthe Belegaer from Aman.\n\nThis continent is north of the Hither Lands shown in the Ambarkanta, and\nwest of the East Sea; and throughout the First and Second Ages it went\nthrough many colossal geographical changes, caused by Iluvatar.\n\n\nName\n\nThe term “Middle-earth” was not invented by Tolkien. Rather, it comes\nfrom Middle English _middel-erde_, itself a folk-etymology for the Old\nEnglish word _middangeard_ (_geard_ not meaning _Earth_, but rather\n_enclosure_ or _place_, thus _yard_, with the Old Norse word _miðgarðr_\nbeing a cognate). It is Germanic for what the Greeks called the\nοικουμένη (_oikoumenē_) or “the abiding place of men”, the physical\nworld as opposed to the unseen worlds (_The Letters of J. R. R.\nTolkien_, 151). The word _Mediterranean_ comes from two Latin stems,\n''medi- '', amidst, and _terra_, (earth/land), meaning “the sea placed\nat the middle of the Earth / amidst the lands”.\n\n_Middangeard_ occurs six times in Beowulf, which Tolkien translated and\non which he was arguably the world's foremost authority. (See also J. R.\nR. Tolkien for discussion of his inspirations and sources). See Midgard\nand Norse mythology for the older use. Tolkien made middle earth based\non the world today (Geography).\n\nTolkien was also inspired by this fragment:[Map of Middle-earth from the\nfilms]\n\n    _Eala earendel engla beorhtast / ofer middangeard monnum sended._\n    _Hail Earendel, brightest of angels / above the middle-earth sent\n    unto men._\n\nin the “Crist” poem by Cynewulf. The name _earendel_ (which may mean the\n'morning-star' but in some contexts was a name for Christ) was the\ninspiration for Tolkien's mariner Eärendil.[Map of\nMiddle-earth]“Middle-earth” was consciously used by Tolkien to place\n_The Hobbit_, _The Lord of the Rings_, _The Silmarillion_, and related\nwritings.\n\n[Map of the Western part of Middle-earth at the end of the Third\nAge]Tolkien first used the term “Middle-earth” in the early 1930's in\nplace of the earlier terms “Great Lands”, “Outer Lands”, and “Hither\nLands” to describe the same region in his stories. “Middle-earth” is\nspecifically intended to describe the lands east of the Great Sea\n(Belegaer), thus excluding Aman, but including Harad and other mortal\nlands not visited in Tolkien's stories. Many people apply the name to\nthe entirety of Tolkien's world or exclusively to the lands described in\n_The Hobbit_, _The Lord of the Rings_, and _The Silmarillion_.\n\nIn ancient Germanic and mythology, the universe was believed to consist\nof multiple interconnected physical worlds (in Nordic mythology 9, in\nWest Germanic and English mythology, 8). The world of Men, the\nMiddle-earth, lay in the centre of this universe. The lands of Elves,\ngods, and Giants lay across an encircling sea. The land of the Dead lay\nbeneath the Middle-earth. A rainbow bridge, Bifrost Bridge, extended\nfrom Middle-earth to Asgard across the sea. An outer sea encircled the\nseven other worlds (Vanaheim, Asgard, Alfheim, SvartAlfheim,\nMuspellheim, Nidavellir, and Jotunheim). In this conception, a “world”\nwas more equivalent to a racial homeland than a physically separate\nworld.\n\n\nThe world\n\n[A speculative map of Arda before the end of the First Age, courtesy of\nthe Encyclopedia of Arda.]\n\nTolkien stated that the geography of Middle-earth was intended to align\nwith that of our real Earth in several particulars. (Letters #294)\nExpanding upon this idea some suggest that if the map of Middle-earth is\nprojected on our real Earth, and some of the most obvious\nclimatological, botanical, and zoological similarities are aligned, the\nHobbits' Shire might lie in the temperate climate of England, Gondor\nmight lie in the Mediterranean Italy and Greece, Mordor in Sicily, South\nGondor and Near Harad in the deserts of Northern Africa, Rhovanion in\nthe forests of Germany and the steppes of Western and Southern Russia,\nand the Ice Bay of Forochel in the fjords of Norway. Far Harad may have\ncorresponded with Southern Africa, and Rhûn corresponded with the whole\nof Asia. _The Hobbit_ and _The Lord of the Rings_ are presented as\nTolkien's retelling of events depicted in the Red Book of Westmarch,\nwhich was written by Bilbo Baggins, Frodo Baggins, and other Hobbits,\nand corrected and annotated by one or more Gondorian scholars. Years\nafter publication, Tolkien 'postulated' in a letter that the action of\nthe books takes place roughly 6,000 years ago, though he was not\ncertain.\n\nTolkien wrote extensively about the linguistics, mythology and history\nof the world, which provide back-story for these stories. Many of these\nwritings were edited and published posthumously by his son Christopher.\n\nNotable among them is _The Silmarillion_, which provides a creation\nstory and description of the cosmology which includes Middle-earth. _The\nSilmarillion_ is the primary source of information about Valinor,\nNúmenor, and other lands. Also notable are _Unfinished Tales_ and the\nmultiple volumes of _The History of Middle-earth_, which includes many\nincomplete stories and essays as well as numerous drafts of Tolkien's\nMiddle-earth mythology, from the earliest forms down through the last\nwritings of his life.\n\n\nCosmology\n\nThe supreme deity is called Eru Ilúvatar. In the beginning, Ilúvatar\ncreated spirits named the Ainur and he taught them to make music. After\nthe Ainur had become proficient in their skills, Ilúvatar commanded them\nto make a great music based on a theme of his own design. The most\npowerful Ainu, Melkor (later called Morgoth or “Dark Enemy” by the\nelves), Tolkien's equivalent of Satan, disrupted the theme, and in\nresponse Ilúvatar introduced new themes that enhanced the music beyond\nthe comprehension of the Ainur. The movements of their song laid the\nseeds of much of the history of the as yet unmade universe and the\npeople who were to dwell therein.\n\nThen Ilúvatar stopped the music and he revealed its meaning to the Ainur\nthrough a Vision. Moved by the Vision, many of the Ainur felt a\ncompelling urge to experience its events directly. Ilúvatar therefore\ncreated Eä, the universe itself, and some of the Ainur went down into\nthe universe to share in its experience. But upon arriving in Eä, the\nAinur found it was shapeless because they had entered at the beginning\nof Time. The Ainur undertook great labours in these unnamed “ages of the\nstars”, in which they shaped the universe and filled it with many things\nfar beyond the reach of Men. In time, however, the Ainur formed Arda,\nthe abiding place of the Children of Ilúvatar, Elves and Men. The\nfifteen most powerful Ainur are called the Valar, of whom Melkor was the\nmost powerful, but Manwë was the leader. The Valar settled in Arda to\nwatch over it and help prepare it for the awakening of the Children.\n\nArda began as a single flat world, which the Valar gave light to through\ntwo immense lamps. Melkor destroyed the lamps and brought darkness to\nthe world. The Valar retreated to the extreme western regions of Arda,\nwhere they created the Two Trees to give light to their new homeland.\nAfter many ages, the Valar imprisoned Melkor to punish and rehabilitate\nhim, and to protect the awakening Children. But when Melkor was released\nhe poisoned the Two Trees. The Valar took the last two living fruit of\nthe Two Trees and used them to create the Moon and Sun, which remained a\npart of Arda but were separate from Ambar (the world).\n\nBefore the end of the Second Age, when the Men of Númenor rebelled\nagainst the Valar, Ilúvatar destroyed Númenor, separated Valinor from\nthe rest of Arda, and formed new lands, making the world round. Only\nEndor remained of the original world, and Endor had now become Eurasia.\n\n\nGeography\n\n[A political representation of the lands of Middle-earth] J.R.R. Tolkien\nnever finalized the geography for the entire world associated with _The\nHobbit_ and _The Lord of the Rings_. In _The Shaping of Middle-earth_,\nvolume IV of _The History of Middle-earth_, Christopher Tolkien\npublished several remarkable maps, of both the original flat earth and\nround world, which his father had created in the latter part of the\n1930s. Karen Wynn Fonstad drew from these maps to develop detailed, but\nnon-canonical, “whole world maps” reflecting a world consistent with the\nhistorical ages depicted in _The Silmarillion_, _The Hobbit_, and _The\nLord of the Rings_.\n\nMaps prepared by Christopher Tolkien and/or J.R.R. Tolkien for the world\nencompassing _The Hobbit_ and _The Lord of the Rings_ were published as\nfoldouts or illustrations in _The Hobbit_, _The Lord of the Rings_, and\n_The Silmarillion_. Early conceptions of the maps provided in _The\nSilmarillion_ and _The Lord of the Rings_ were included in several\nvolumes, including “The First Silmarillion Map” in _The Shaping of\nMiddle-earth_, “The First Map of the Lord of the Rings” in _The Treason\nof Isengard_, “The Second Map (West)” and “The Second Map (East)” in the\n_War of the Ring_, and “The Second Map of Middle-earth west of the Blue\nMountains” (also known as “The Second Silmarillion Map”) in _The War of\nthe Jewels_.\n\n_Endor_, the Quenya term for Middle-earth, was originally conceived of\nas conforming to a largely symmetrical scheme which was marred by\nMelkor. The symmetry was defined by two large sub-continents, one in the\nnorth and one in the south, with each of them boasting two long chains\nof mountains in the eastward and westward regions. The mountain chains\nwere given names based on colours (White Mountains, Blue Mountains, Grey\nMountains, and Red Mountains).\n\nMiddle Earth map - FOTR.png\n\nThe various conflicts with Melkor resulted in the shapes of the lands\nbeing distorted. Originally, there was a single inland body of water, in\nthe midst of which was set the island of Almaren where the Valar lived.\nWhen Melkor destroyed the lamps of the Valar which gave light to the\nworld, two vast seas were created, but Almaren and its lake were\ndestroyed. The northern sea became the Sea of Helcar (Helkar). The lands\nwest of the Blue Mountains became Beleriand (meaning, “the land of\nBalar”). Melkor raised the Misty Mountains to impede the progress of the\nVala Orome as he hunted Melkor's beasts during the period of darkness\nprior to the awakening of the Elves.\n\nAdditional changes have occurred when Valar have assaulted Utumno. The\nNorth-west of the Middle-earth, where Melkor met the Valar host, was\n“much broken”. The sea between the Middle-earth and Aman widened, with\nmany bays created, including one which was the confluence of Sirion. The\nhighland of Dorthonion and the mountains about Hithlum were also a\nresult of the battles. Since the changes mentioned include both the\nbeginning and the ending points of Sirion, it is possible the river\nitself was created at the same time.\n\nThe violent struggles during the War of Wrath between the Host of the\nValar and the armies of Melkor at the end of the First Age brought about\nthe destruction of Beleriand. It is also possible that during this time\nthe inland sea of Helcar was drained.\n\nThe world, not including associated celestial bodies, was identified by\nTolkien as “Ambar” in several texts, but also identified as “Imbar”, the\nHabitation, in later post-_Lord of the Rings_ texts. From the time of\nthe destruction of the two lamps until the time of the Downfall of\nNúmenor, Ambar was supposed to be a “flat world”, in that its habitable\nland-masses were all arranged on one side of the world. His sketches\nshow a disk-like face for the world which looked up to the stars. A\nwestern continent, Aman, was the home of the Valar (and the Eldar). The\nmiddle lands, Endor, were called “Middle-earth” and the site of most of\nTolkien's stories. The eastern continent was not inhabited.\n\nWhen Melkor poisoned the Two Trees of the Valar and fled from Aman back\nto Endor, the Valar created the Sun and the Moon, which were separate\nbodies (from Ambar) but still parts of Arda (the Realm of the Children\nof Ilúvatar). A few years after publishing _The Lord of the Rings_, in a\nnote associated with the unique narrative story “Athrabeth Finrod ah\nAndreth” (which is said to occur in Beleriand during the War of the\nJewels), Tolkien equated Arda with the Solar System; because Arda by\nthis point consisted of more than one heavenly body.\n\nAccording to the accounts in both _The Silmarillion_ and _The Lord of\nthe Rings_, when Ar-Pharazôn invaded Aman to seize immortality from the\nValar, they laid down their guardianship of the world and Ilúvatar\nintervened, destroying Númenor, removing Aman “from the circles of the\nworld”, and reshaping Ambar into the round world of today. _Akallabêth_\nsays that the Númenóreans who survived the Downfall sailed as far west\nas they could in search of their ancient home, but their travels only\nbrought them around the world back to their starting points. Hence,\nbefore the end of the Second Age, the transition from “flat earth” to\n“round earth” had been completed.\n\nThe Endor continent became approximately equivalent to the Eurasian\nland-mass, but Tolkien's geography does not provide any exact\ncorrelations between the narrative of _The Lord of the Rings_ and Europe\nor near-by lands. It is therefore assumed that the reader understands\nthe world underwent a subsequent undocumented transformation (which some\npeople speculate Tolkien would have equated with the Biblical deluge)\nsometime after the end of the Third Age, or possibly at the fall of\nSauron itself at the end of the Third Age. Another explanation is that\nmany places shifted location, the Misty Mountains moving North to\nScandinavia, the White Mountains rotating to become the Alps and the\nmountains of the west Balkans, Near Harad moving south and west to\nbecome the Sahara, Eriador flooding to become northern France and the\nBritish Isles, and so on. This would not be the first time that this had\nhappened, as it seems that a consequence from the Siege of Utumno was\nthat Endor rotated eastward, its axis the north pole.\n\n\nPeople\n\n    _see also: List of Middle-earth people_\n\nMiddle-earth was home to several distinct intelligent species. First are\nthe Ainur, angelic beings created by Ilúvatar. The Ainur sing for\nIlúvatar, who creates Eä to give existence to their music in the\ncosmological myth called the _Ainulindalë_, or “Music of the Ainur”.\nSome of the Ainur then enter Eä, and the greatest of these are called\nthe Valar. Melkor (later called _Morgoth_), the chief personification of\nevil in Eä, is initially one of the Valar.\n\nThe other Ainur who enter Eä are called the Maiar. In the First Age the\nmost active Maia is Melian, wife of the Elven King Thingol; in the Third\nAge, during the War of the Ring, five of the Maiar have been embodied\nand sent to Endor to help the free people to overthrow Sauron. Those are\nthe Istari (or _Wise Ones_) (called Wizards by Men), including Gandalf,\nSaruman, Radagast, Alatar and Pallando. There were also evil Maiar,\ncalled Umaiar, including the Balrogs and the second Dark Lord, Sauron.\n\nLater come the Children of Ilúvatar: Elves and Men (men awoke in the\nfirst year of the sun), intelligent beings created by Ilúvatar alone.\n_The Silmarillion_ tells how Elves and Men awaken and spread through the\nworld. The Dwarves are said to have been made by the Vala Aulë, who\noffered to destroy them when Ilúvatar confronted him. Ilúvatar forgives\nAulë's transgression and adopts the Dwarves. Three tribes of Men who\nally themselves with the Elves of Beleriand in the First Age are called\nthe Edain.\n\nAs a reward for their loyalty and suffering in the Wars of Beleriand,\nthe descendants of the Edain are given the island of Númenor to be their\nhome. But as described in the section on Middle-earth's history, Númenor\nis eventually destroyed and a remnant of the Númenóreans establish\nrealms in the northern lands of Endor. Those who remained faithful to\nthe Valar found the kingdoms of Arnor and Gondor. They are then known as\nthe Dúnedain, whereas other Númenórean survivors, still devoted to evil\nbut living far to the south, become known as the Black Númenóreans.\n\nTolkien identified Hobbits as an offshoot of the race of Men. Although\ntheir origins and ancient history are not known, Tolkien implied that\nthey settled in the Vales of Anduin early in the Third Age, but after a\nthousand years the Hobbits began migrating west over the Misty Mountains\ninto Eriador. Eventually, many Hobbits settled in the Shire.\n\nAfter they are granted true life by Ilúvatar, the Dwarves' creator Aulë\nlays them to sleep in hidden mountain locations. Ilúvatar awakens the\nDwarves only after the Elves have awakened. The Dwarves spread\nthroughout northern Endor and eventually found seven kingdoms. Two of\nthese kingdoms, Nogrod and Belegost, befriend the Elves of Beleriand\nagainst Morgoth in the First Age. The greatest Dwarf kingdom is\nKhazad-dûm, later known as Moria.\n\nThe Ents, “shepherds of the trees”, were created by Ilúvatar at the Vala\nYavanna's request to protect trees from the deprivations of Elves,\nDwarves, and Men.\n\nOrcs and Trolls were evil creatures bred by Morgoth. They were not\noriginal creations but rather “mockeries” of Ents and the Children of\nIlúvatar, since only Ilúvatar has the ability to give being to things.\nTheir origins are not detailed (Tolkien considered many possibilities\nand frequently changed his mind). It seems most likely that the Orcs\nwere bred largely from corrupted Elves or Men, or both. Late in the\nThird Age, the Uruks or Uruk-hai appear: a race of Orcs of great size\nand strength. Saruman bred Orcs and Men together to produce “Men-orcs”\nand “Orc-men”; at times, some of these are called “half-orcs” or\n“goblin-men”.\n\nSeemingly sapient animals also appear, such as the Eagles, Huan the\nGreat Hound from Valinor, and the Wargs. The Eagles are created by\nIlúvatar along with the Ents, but in general these animals' origins and\nnature are unclear. Some of them might be Maiar in animal form, or\nperhaps even the offspring of Maiar and normal animals.\n\nIt is unknown to what people of Middle-earth Tom Bombadil belonged. As\nto his nature, Tolkien himself said that some things should remain\nmysterious in any mythology, hidden even to its inventor.\n\n\nLanguages\n\nTolkien devised two main Elven languages which would later become known\nto us as Quenya, spoken by the Vanyar, Noldor, and some Teleri, and\nSindarin, spoken by the Elves who stayed in Beleriand (see below). These\nlanguages were related, and a Common Eldarin form ancestral to them both\nis postulated.\n\nOther languages of the world include\n\n-   Adûnaic – spoken by the Númenóreans\n-   Black Speech – devised by Sauron for his slaves to speak\n-   Khuzdûl – spoken by the Dwarves\n-   Rohirric – spoken by the Rohirrim – represented in the Lord of the\n    Rings by Old English\n-   Westron – the 'Common Speech' – represented by English\n-   Valarin – the language of the Ainur\n\n\nHistory of Middle-earth\n\nThe history of Middle-earth is divided into three time periods, known as\nthe Years of the Lamps, Years of the Trees and Years of the Sun; the\nlatter is typically sub-divided further into four Ages, of which three\nare relevant to the printed works of the legendarium.\n\nThe Years of the Lamps began shortly after the Valar finished their\nlabours in shaping Arda. The Valar created two lamps to illuminate the\nworld, and the Vala Aulë forged great towers, one in the furthest north,\nHelcar with the lamp Illuin, and another in the deepest south, Ringol\nwith the lamp Ormal. The Valar lived in the middle, at the island of\nAlmaren. Melkor's destruction of the two Lamps marked the end of the\nYears of the Lamps.\n\n[A speculative map of Aman during the Second Age.]\n\nThen Yavanna made the Two Trees named Telperion and Laurelin in the land\nof Aman. The Trees illuminated Aman, leaving the rest of Arda in\ndarkness, illuminated only by the stars. At the start of the First Age\nthe Elves awoke beside Lake Cuiviénen in the east of Endor, and were\nsoon approached by the Valar. Many of the elves were persuaded to\nundertake the Great Journey westwards towards Aman, but not all of them\ncompleted the journey (see Sundering of the Elves). The Valar had\nimprisoned Melkor but he appeared to repent and was released on parole.\nHe sowed great discord among the Elves and stirred up rivalry between\nthe Elven princes Fëanor and Fingolfin. He then slew their father, king\nFinwë and stole the Silmarils, three gems crafted by Fëanor that\ncontained light of the Two Trees, from his vault, and destroyed the\nTrees themselves.\n\nFëanor persuaded most of his people, the Noldor, to leave Aman in\npursuit of Melkor to Beleriand, cursing him with the name _Morgoth_.\nFëanor led the first of two groups of Noldor. The larger group was led\nby Fingolfin. The Noldor stopped at the Teleri's port-city, Alqualondë,\nbut the Teleri refused to give them ships to get to Middle-earth. The\nfirst Kinslaying thus ensued; Fëanor and many of his followers attacked\nthe Teleri and stole their ships. Fëanor's host sailed on the stolen\nships, leaving Fingolfin's behind to cross over to Middle-earth through\nthe deadly Helcaraxë (or Grinding Ice) in the far north. Subsequently\nFëanor was slain, but most of his sons survived and founded realms, as\ndid Fingolfin and his heirs.\n\nThe Years of the Sun began when the Valar made the Sun and it rose over\nthe world, Imbar. After several great battles, a Long Peace ensued for\nfour hundred years, during which time the first Men entered Beleriand by\ncrossing over the Blue Mountains. When Morgoth broke the siege of\nAngband, one by one the Elven kingdoms fell, even the hidden city of\nGondolin. The only measurable success achieved by Elves and Men came\nwhen Beren of the Edain and Luthien, daughter of Thingol and Melian,\nretrieved a Silmaril from the crown of Morgoth. Afterward, Beren and\nLuthien died, and were restored to life by the Valar with the\nunderstanding that Luthien was to become mortal and Beren should never\nbe seen by Men again.\n\nThingol quarrelled with the Dwarves of Nogrod and they slew him,\nstealing the Silmaril. With the help of Ents, Beren waylaid the Dwarves\nand recovered the Silmaril, which he gave to Luthien. Soon afterwards,\nboth Beren and Luthien died again. The Silmaril was given to their son\nDior Half-Elven, who had restored the Kingdom of Doriath. The sons of\nFëanor demanded that Dior surrender the Silmaril to them, and he\nrefused. The Fëanorians destroyed Doriath and killed Dior in the second\nKinslaying, but Dior's young daughter Elwing escaped with the jewel.\nThree sons of Fëanor – Celegorm, Curufin, and Caranthir – died trying to\nretake the jewel.\n\nBy the end of the age, all that remained of the free Elves and Men in\nBeleriand was a settlement at the mouth of the River Sirion. Among them\nwas Eärendil, who married Elwing. But the Fëanorians again demanded the\nSilmaril be returned to them, and after their demand was rejected they\nresolved to take the jewel by force, leading to the third Kinslaying.\nEärendil and Elwing took the Silmaril across the Great Sea, to beg the\nValar for pardon and aid. The Valar responded. Melkor was captured, most\nof his works were destroyed, and he was banished beyond the confines of\nthe world into the Door of Night.\n\nThe Silmarils were recovered at a terrible cost, as Beleriand itself was\nbroken and began to sink under the sea. Feanor's last remaining sons,\nMaedhros and Maglor, were ordered to return to Valinor. They proceeded\nto steal the Silmarils from the victorious Valar. But, as with Melkor,\nthe Silmarils burned their hands and they then realized they were not\nmeant to possess them and that the oath was null. Each of the brothers\nmet his fate: Maedhros threw himself with the Silmaril into a chasm of\nfire, and Maglor threw his Silmaril into the sea. Thus the three\nSilmarils ended in the sky with Eärendil, in the earth, and in the sea\nrespectively.\n\nThus began the Second Age. The Edain were given the island of Númenor\ntoward the west of the Great Sea as their home, while many elves were\nwelcomed into the West. The Númenóreans became great seafarers, but also\nbecame increasingly jealous of the elves for their immortality. But\nafter a few centuries, Sauron, Morgoth's chief servant, began to\norganize evil creatures in the eastern lands. He persuaded Elven smiths\nin Eregion to create Rings of Power, and secretly forged the One Ring to\ncontrol the other rings. But the elves became aware of Sauron's plan as\nsoon as he put the One Ring on his hand, and they removed their own\nRings before he could master their wills.\n\n[A map of Númenor during the Second Age, courtesy of the Encyclopedia of\nArda.]\n\nThe last Númenórean king Ar-Pharazôn, by the strength of his army,\nhumbled even Sauron and brought him to Númenor as a hostage. But with\nthe help of the One Ring, Sauron deceived Ar-Pharazôn and convinced the\nking to invade Aman, promising immortality for all those who set foot on\nthe Undying Lands. Amandil, chief of those still faithful to the Valar,\ntried to sail west to seek their aid. His son Elendil and grandsons\nIsildur and Anárion prepared to flee east to Middle-earth. When the\nKing's forces landed on Aman, the Valar called for Ilúvatar to\nintervene. The world was changed, and Aman was removed from Imbar. From\nthat time onward, Men could no longer find Aman, but Elves seeking\npassage in specially hallowed ships received the grace of using the\nStraight Road, which led from Middle-earth's seas to the seas of Aman.\nNúmenor was utterly destroyed, and with it the fair body of Sauron, but\nhis spirit endured and fled back to Middle-earth. Elendil and his sons\nescaped to Endor and founded the realms of Gondor and Arnor. Sauron soon\nrose again, but the elves allied with the men to form the Last Alliance\nand defeated him. His One Ring was taken from him by Isildur, but not\ndestroyed.\n\n[Middle-earth during the Third Age] The Third Age saw the rise in power\nof the realms of Arnor and Gondor, and their decline. By the time of\n_The Lord of the Rings_, Sauron had recovered much of his former\nstrength, and was seeking the One Ring. He discovered that it was in the\npossession of a Hobbit and sent out the nine Ringwraiths to retrieve it.\nThe Ring-bearer, Frodo Baggins, travelled to Rivendell, where it was\ndecided that the Ring had to be destroyed in the only way possible:\ncasting it into the fires of Mount Doom. Frodo set out on the quest with\neight companions—the Fellowship of the Ring. At the last moment he\nfailed, but with the intervention of the creature Gollum—who was saved\nby the pity of Frodo and Bilbo Baggins—the Ring was nevertheless\ndestroyed. Frodo with his companion Sam Gamgee were hailed as heroes.\nSauron was destroyed forever and his spirit dissipated.\n\nThe end of the Third Age marked the end of the dominion of the elves and\nthe beginning of the dominion of men. As the Fourth Age began, many of\nthe elves who had lingered in Middle-earth left for Valinor, never to\nreturn; those who remained behind would “fade” and diminish. The dwarves\neventually dwindled away as well. The dwarves eventually returned in\nlarge numbers and resettled Moria. Peace was restored between Gondor and\nthe lands to the south and east. Eventually, the tales of the earlier\nAges became legends, the truth behind them forgotten.",
+    "type": "Continent",
+    "other_names": "Ennorath, Endor",
+    "position": "Arda, east of Belegaer",
+    "regions": "Rohan, Gondor, Mordor, Arnor, Beleriand, Lothlórien, the Shire, others",
+    "cultures": "Men, Elves, Dwarves, Orcs, Hobbits, Ents"
   },
   {
     "name": "Rohan",
@@ -3765,7 +3747,6 @@
     "type": "Kingdom",
     "description": "Formed out of the Gondor province of Calenardhon as a dwelling place for, the faithful Éothéod, swore to perpetual alliance with Gondor.",
     "cultures": "Rohirrim, Durin's Folk",
-    "languages": "Rohirric, Westron, Khuzdul",
     "founded_or_built": "TA 2510",
     "lifespan": "TA 2510 -"
   }
