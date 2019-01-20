@@ -1,5 +1,5 @@
 const fs = require('fs')
-const karakteri = require('../data/characters.json')
+const karakteri = require('../data/battles.json')
 const odrednice = require('../data/locations.json')
 const kljuc = 'location'
 

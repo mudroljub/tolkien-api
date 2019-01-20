@@ -17,10 +17,10 @@ Class Character
 
   name 377
   text 377
-  race 377
   gender 377
   lotr_page_id 377
-  culture 358
+  race 377 +
+  culture 358 +
   birth 338
   death 337
   titles 300
@@ -28,7 +28,7 @@ Class Character
   spouse 270
   hair 234
   weapon 214
-  location 134
+  location 134 +
   rule 92
   height 70
   eyes 62
@@ -43,7 +43,7 @@ Class Battle
   lotr_page_id 85
   text 85
   conflict 44
-  place 44
+  location 44 +
   outcome 44
   date 43
 

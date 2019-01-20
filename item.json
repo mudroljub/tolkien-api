@@ -1,5 +1,12 @@
 {
-  "name": "Bow Of Galadhrim",
-  "lotr_page_id": "40980",
-  "text": "{{Object infobox |othername= Bow |image =Bow_1 |manufacturer=Elves made=\nWood |usage= Weapon |owners= Legolas |books= _The Lord of the Rings_\n|films=''The Lord of the Rings: Fellowship of the ring, two towers,\nreturn of the king.'' [[Category:Weapons"
+  "name": "Fords of Isen",
+  "lotr_page_id": "2323",
+  "text": "The FORDS OF ISEN were fords in the river Isen, guarded by the Rohirrim\nin Middle-earth. The Fords of Isen were important because they were the\nonly crossing of the Isen into Rohan.\n\nIt was located in the Gap of Rohan at the border of Rohan and the road\nleading to Isengard nearly fifty miles away.\n\n\nHistory\n\nIt was here where the Nine (see: Ringwraith, or Nazgûl) were said to\nhave crossed the river Isen on midsummers eve by Saruman to Gandalf upon\nhis visit to Orthanc. The Fords of Isen had two battles in the War of\nthe Ring that were fought between Orcs and the Rohirrim. It was in this\nfords where Theodred was killed during the First Battle of the Fords of\nIsen. Near the Fords of Isen was where the Rohirrim met with the Grey\nCompany.",
+  "type": "Fords",
+  "location": "Between Isengard and Rohan",
+  "regions": "Rohan",
+  "description": "Fords of Rohan located near Isengard",
+  "founded_or_built": "Late Third Age",
+  "lifespan": "Late Third Age -",
+  "other_names": "Athrad Angren, Ethraid Engrin"
 }
