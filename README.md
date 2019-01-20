@@ -9,7 +9,6 @@ Otvaranje članka po id-u:
 ## TODO
 
 - povezati slike sa https://lotr.wikia.com/ ili http://www.tolkiengateway.net/
-- rase i kulture imaju lokacije
 
 ## Model
 
@@ -49,11 +48,11 @@ Class Battle
 
 Class Culture
 
-  lotr_page_id 94
   name 94
   text 94
+  lotr_page_id 94
   locations 52
-  notable_members 46
+  notable_members 46 ++
   languages 43
   lifespan 39
   other_names 28
@@ -62,29 +61,25 @@ Class Culture
   origins 25
   skin_color 23
   hair_color 18
-  rivalries 15
-  affiliation 14
 
 Class Location
 
-  name 423
-  text 423
-  lotr_page_id 423
-  location 228
-  type 218
-  description 170
-  inhabitants 130
-  other_names 110
-  governance 82
-  lifespan 81
-  cultures 81
-  events 77
-  languages 77
-  founded_or_built 70
-  regions 63
-  major_towns 29
-  capital 25
-  destroyed 17
+  name 439
+  text 439
+  lotr_page_id 439
+  position 243
+  type 233
+  description 184
+  cultures 180 ++
+  other_names 122
+  lifespan 93
+  governance 92
+  languages 86
+  events 81
+  founded_or_built 81
+  regions 76
+  major_towns 33
+  capital 28
 
 Class Race
 
@@ -93,7 +88,7 @@ Class Race
   distinctions 24
   text 24
   lotr_page_id 24
-  notable_members 20
+  notable_members 20 ++
   height 18
   languages 17
   lifespan 17
@@ -103,16 +98,16 @@ Class Race
   affiliation 10
   hair_color 8
   rivalries 8
-  cultures 7
+  cultures 7  ++
 
 Class Artefact
 
   name 63
   lotr_page_id 63
   text 63
-  owner 28
-  creator 24
-  location 17
+  owner 28 +
+  creator 24 +
+  location 17 +
   appearance 16
   other_names 12
   usage 9
@@ -120,5 +115,5 @@ Class Artefact
 Class Quote
 
   text 50
-  character 50
+  character 50 +
   source 50
