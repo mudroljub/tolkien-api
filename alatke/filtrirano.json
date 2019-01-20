@@ -2,7 +2,7 @@
   {
     "name": "The Fall of Erebor",
     "lotr_page_id": "41246",
-    "location": "Lonely Mountain",
+    "location": "Erebor",
     "text": "THE FALL OF EREBOR was a catastrophic event in the Third Age. In summer,\nan enormous Fire-drake named Smaug descended on the mountain and\ndestroyed Dale and the Kingdom of the Dwarves of the Lonely Mountain."
   },
   {
@@ -145,6 +145,12 @@
     "lotr_page_id": "14133",
     "location": "Rivendell",
     "text": "The FIRST SIEGE OF IMLADRIS was an assault on Rivendell in mid-Second\nAge during the War of the Elves and Sauron.\n\n\nHistory\n\nElrond fled with the other Elves of Eregion to the Valley on the North\nof the Misty Mountains. Sauron, in the beginning, paid little heed\nbecause he suspected that Gil-galad, being the High King of the Ñoldor\nand thus Celebrimbor's superior, was in possession of all three Elven\nrings, although in truth he had two. Because of this, Sauron was focused\non defeating his ancient enemy and this spared the survivors of Eregion\nfrom annihilation. But knowing that Elrond will attack him from the\nrear, he sent a small force to lay siege on Rivendell. This force was\neventually defeated just in time for Elrond to come in from behind,\ncrushing Sauron's forces that survived the Battle of Gwathló between his\narmy and that of Gil-galad and the Numenoreans."
+  },
+  {
+    "name": "Siege of Osgiliath",
+    "lotr_page_id": "34770",
+    "location": "Osgiliath",
+    "text": "SIEGE OF OSGILIATH was a battle between the hosts of Mordor a Gondor\nduring the War of the Last Alliance at Second Age.\n\n\nPrelude\n\nSoon after conquest of Minas Ithil the Witch-king of Angmar took control\nof the fort, having collected a huge army of Orcs and Evil Men he\nprepared to attack Osgiliath\n\n\nBackground\n\nWhen the Witch King fell on Osgiliath, Isildur as best he could be\norganized and prepared a desperate defense, reflecting catapults Isildur\ndid pay dearly for the crossing of Anduin to the forces of Mordor, but\ncould not hold the Legions of Mordor and forced to retire. The main\ncontingent attacked Osgiliath East, while two other contingent the river\nto the north and south and attack Osgiliath West.\n\nIsildur had to leave Osgiliath East to defend the West but when he cross\nthe river saw could not contain both armies, so he run to Minas Anor as\nquicker possible to prepare for the attack."
   },
   {
     "name": "Battle of the Gwathló",
@@ -360,12 +366,6 @@
     "text": "The KINSLAYING AT ALQUALONDË was the first slaying of Elf by Elf, and\nwas the act that banned the Ñoldor from returning to Aman, the lands of\nthe West, for centuries.\n\n\nPrelude\n\nWhen Fëanor intended to leave Valinor, he needed ships to get to\nMiddle-earth without great loss, but the Ñoldor possessed no ships, and\nFëanor feared that any delay in their departure would cause the Ñoldor\nto reconsider. The Ñoldor, led by Fëanor and his sons, tried to persuade\ntheir friends, the Teleri of Alqualondë, to give him their ships.\nHowever, the Teleri would not help in any way against the will of the\nValar, and in fact attempted to persuade their friends to reconsider and\nstay in Aman. Unwilling to take “no” for an answer, the Ñoldor started\ntaking the ships and sailing them away. This angered the Teleri, and\nthey threatened the Ñoldor with rocks and arrows, and they threw many of\nFëanor's followers out of the ships and into the harbor. They also began\nto attempt to block the harbour; however, it is only slightly possible\nthat the Teleri drew first blood.\n\n\nThe Battle\n\nThen the Ñoldor drew swords, and the Teleri their bows, and there was a\nbitter fight that seemed evenly matched, if not even in favor of the\nTeleri, until the second Host of the Ñoldor, led by Fingon, arrived\ntogether with some of Fingolfin's people. Misunderstanding the\nsituation, they assumed the Teleri had attacked the Ñoldor under orders\nof the Valar, and they joined the fight.\n\nConsequences\n\nIn the end many Teleri were slain and the ships taken and many of the\nstolen ships were wrecked in the waves. All that continued towards\nMiddle-earth were therefore cursed by Mandos. The act also had\nrepercussions in Middle-earth, when the Sindar, especially those of\nDoriath, found out about it, costing the Ñoldor the support of the\nSindar in their war against Morgoth; the Sindar King Thingol barred\nthose of the House of Fëanor, or any others that took place in the\nKinslaying, from entering his kingdom. He also forbade the use of Quenya\nin his domain."
   },
   {
-    "name": "Siege of Osgiliath",
-    "lotr_page_id": "34770",
-    "location": "Osgiliath",
-    "text": "SIEGE OF OSGILIATH was a battle between the hosts of Mordor a Gondor\nduring the War of the Last Alliance at Second Age.\n\n\nPrelude\n\nSoon after conquest of Minas Ithil the Witch-king of Angmar took control\nof the fort, having collected a huge army of Orcs and Evil Men he\nprepared to attack Osgiliath\n\n\nBackground\n\nWhen the Witch King fell on Osgiliath, Isildur as best he could be\norganized and prepared a desperate defense, reflecting catapults Isildur\ndid pay dearly for the crossing of Anduin to the forces of Mordor, but\ncould not hold the Legions of Mordor and forced to retire. The main\ncontingent attacked Osgiliath East, while two other contingent the river\nto the north and south and attack Osgiliath West.\n\nIsildur had to leave Osgiliath East to defend the West but when he cross\nthe river saw could not contain both armies, so he run to Minas Anor as\nquicker possible to prepare for the attack."
-  },
-  {
     "name": "Siege of Barad-dûr",
     "lotr_page_id": "4515",
     "location": "Barad-dûr",
@@ -383,7 +383,7 @@
   {
     "name": "Skirmish at Weathertop",
     "lotr_page_id": "16313",
-    "location": "Amon Sûl",
+    "location": "Weathertop",
     "text": "THE SKIRMISH AT WEATHERTOP was a battle that occurred on Weathertop\nduring the night of October 6, 3018 between the Nazgûl and the\nFellowship, only made out of Aragorn and the Hobbits at that time. It\nresulted in Frodo getting stabbed by a Morgul-blade and only minor\ninjuries to the Nazgûl.\n\n\nHistory\n\nBackground\n\nAfter Bilbo Baggins' 111th birthday party, the One Ring was passed onto\nhis nephew, Frodo Baggins. After Gandalf returned from Gollum's\ninterrogation, he ordered Frodo and Samwise Gamgee to flee from The\nShire and meet him at The Prancing Pony in Bree. Upon leaving, Frodo and\nSam met with Merry and Pippin, who decided to join them in their quest\nto Bree.\n\nStrider and Making Way to Weathertop\n\nThe Hobbits reached The Prancing Pony and Gandalf was nowhere to be\nseen. After Frodo accidentally placed on the One Ring, Aragorn,\ndisguised as a man named Strider, pulled Frodo to another section of The\nPrancing Pony to tell him that their journey is not over and they must\njourney to Rivendell where the ring will be in safer hands.\n\nThe group stopped at Weathertop as night was coming. As Aragorn left to\ngather more supplies and look out for intruders, the Nazgûl found the\nHobbits and chased them to the top of Weathertop where the battle was to\nbegin.\n\n\nThe Battle\n\n\n\nThe Hobbits attacked the Nazgûl as the battle began. Due to their\ninexperience with Swords and combat, the Hobbits were no match against\nthe Nazgûl and were defeated with minor wounds. The Witch-king of Angmar\nthen realized that Frodo had the One Ring and approached him during the\nbattle.\n\nAragorn arrived before more damage could be done onto the Hobbits. He\nfought against the Nazgûl and was able to drive most of them away.\nHowever, noticing the Witch-King approaching, Frodo put on the One Ring\nin attempt to hide from the Witch-King. That proved to have no effect\nwhen the Witch-king saw him in the wraith-world, and stabbed his\nshoulder with a Morgul-blade.\n\nFrodo fainted, but took off the Ring before losing consciousness\ncompletely. Aragorn was able to drive the rest of the Nazgûl off, but\nFrodo had sustained a wound that would haunt him in the years after.\n\nThe Nazgûl escaped but Frodo was left poisoned by the Witch-king's\ndagger and required healing from the Elves."
   },
   {

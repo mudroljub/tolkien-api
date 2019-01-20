@@ -39,11 +39,11 @@ Class Character
 
 Class Battle
 
-  name 85
-  lotr_page_id 85
-  text 85
+  name 82
+  lotr_page_id 82
+  location 82 +
+  text 82
   conflict 44
-  location 44 +
   outcome 44
   date 43
 
