@@ -106,7 +106,6 @@ Class Artefact
   lotr_page_id 63
   text 63
   owner 28 +
-  creator 24 +
   location 17 +
   appearance 16
   other_names 12

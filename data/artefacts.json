@@ -18,13 +18,21 @@
     "name": "Gúthwinë",
     "lotr_page_id": "2549",
     "text": "GÚTHWINË was the sword that belonged to Éomer.\n\nIt was borne by him at the Battle of the Hornburg, and presumably at the\nBattle of the Pelennor Fields and the battle before Morannon.\n\n\nEtymology\n\nIn Old English, GÚTHWINË means “Battle-friend”.\n",
-    "owner": "Éomer",
+    "owner": "Eomer",
     "location": "Rohan"
   },
   {
     "name": "Ringwraith sword",
     "lotr_page_id": "27636",
     "text": "The RINGWRAITH SWORD were long swords of black steel that were\nhand-forged in Mordor for the Ringwraiths, the deadliest servants of\nSauron.\n\nThey wielded these weapons mainly during the War of the Ring until their\ndeaths in March 25, 3019, when Sauron was finally destroyed."
+  },
+  {
+    "name": "The Mirror of Galadriel",
+    "lotr_page_id": "7360",
+    "text": "THE MIRROR OF GALADRIEL was a silver basin of\nwater used in the Elven realm of Lothlórien by Galadriel, that could\nshow to the viewer “things that were, and things that are, and things\nthat yet may be.”\n\n\nHistory\n\nWhen, where, or how the Mirror of Galadriel was constructed is unknown.",
+    "owner": "Galadriel",
+    "usage": "To show the one who looked into the \"mirror\" the \"things that were, the, things that are, and the things that may yet be.\"",
+    "location": "Lothlórien"
   },
   {
     "name": "Ring of Isengard",
@@ -47,15 +55,6 @@
     "text": "The BOW OF BREGOR of the House of Bëor was a bow used by Bregor, son of\nBoromir during his life in Middle-earth during the First Age.\n\n\nHistory\n\nThe bow was never mentioned in Bregor's lifetime only that it was an\nheirloom of House of Bëor and was preserved in Númenor by the royal\nfamily along with Dramborleg and the Ring of Barahir. It did not survive\nthe fall."
   },
   {
-    "name": "The Mirror of Galadriel",
-    "lotr_page_id": "7360",
-    "text": "THE MIRROR OF GALADRIEL was a silver basin of\nwater used in the Elven realm of Lothlórien by Galadriel, that could\nshow to the viewer “things that were, and things that are, and things\nthat yet may be.”\n\n\nHistory\n\nWhen, where, or how the Mirror of Galadriel was constructed is unknown.",
-    "owner": "Galadriel",
-    "creator": "Galadriel?",
-    "usage": "To show the one who looked into the \"mirror\" the \"things that were, the, things that are, and the things that may yet be.\"",
-    "location": "Lothlórien"
-  },
-  {
     "name": "Keys of Orthanc",
     "lotr_page_id": "13027",
     "text": "The '''Keys to Orthanc '''were described as two, great, black keys of an\nintricate shape, joined by a ring of steel. At one point during _The Two\nTowers_, Gandalf said to Saruman that if he handed over the Keys to\nOrthanc, and his staff, in time he may be pardoned and get them both\nback.  Saruman did not surrender them immediately, but did eventually\nsurrender them to Fangorn (Treebeard).\n"
@@ -74,8 +73,7 @@
     "name": "Anguirel",
     "lotr_page_id": "2539",
     "text": "ANGUIREL was one of the two swords forged by Eöl from an iron meteorite.\nIts mate, Anglachel, was given to Thingol as payment for living in Nan\nElmoth.\n\n\nHistory\n\nIt was kept by Eöl as his weapon, but was later stolen by his son\nMaeglin. It was presumed that Maeglin stole Anguirel when he and\nhis mother Aredhel fled to Gondolin.\n\n\nEtymology\n\nAlthough the meaning of its name is unclear, ANGUIREL has the Sindarin\n_ang_, which means “iron”.",
-    "owner": "Eöl, Maeglin",
-    "creator": "Eöl",
+    "owner": "Maeglin",
     "location": "Nan Elmoth, Gondolin",
     "appearance": "A glowing black blade that could slice through iron; forged from a, meteorite"
   },
@@ -101,8 +99,7 @@
     "name": "Aranrúth",
     "lotr_page_id": "2537",
     "text": "ARANRÚTH was a sword that belonged to Elu Thingol, King of Doriath and\nHigh King of the Sindar. After the Second Sack of Doriath, the sword\nwas rescued with Elwing and was passed on to their descendants.\n\nIt later became the sword of the Kings and Queens of Númenor but was\neventually lost with Ar-Pharazon, who was entombed on the shores of\nAman, during the Downfall of Númenor in SA 3319.\n\n\nEtymology\n\nARANRÚTH means “King's Ire”, from the Sindarin _aran_ (“king”) and\n_rûth_ (“anger”).",
-    "owner": "Thingol, later Kings and Queens of Númenor",
-    "creator": "Elves",
+    "owner": "Thingol",
     "usage": "Heirloom",
     "location": "Doriath, Mouths of Sirion, Númenor",
     "appearance": "Sword"
@@ -122,7 +119,6 @@
     "lotr_page_id": "2547",
     "text": "DRAMBORLEG was the great axe wielded by Tuor during the First Age.\n\n\nHistory\n\nDuring the Fall of Gondolin, Tuor used Dramborleg and clove five Balrogs\nto death.\n\nAfter Tuor sailed for the West, the axe was kept by Elros and his\ndescendants, and eventually became a royal heirloom of Númenor. It was\nlost in the Downfall of Númenor near the end of Second Age.\n\n\nEtymology\n\nIn the language of the Gondolindrim, DRAMBORLEG means\n“Thudder-sharp”, from _daram_ (“beat, hew”) or _dram_ (“heavy\nstroke”).\n\nIts earlier name was DRAMBOR.",
     "owner": "Tuor",
-    "creator": "Unknown",
     "location": "Gondolin, Númenor",
     "appearance": "Great axe"
   },
@@ -163,16 +159,14 @@
     "name": "Black Arrow",
     "lotr_page_id": "2542",
     "text": "The BLACK ARROW was an heirloom of the house of Girion, Lord of Dale,\npassed down to Bard, his descendant.\n\n\nHistory\n\nThe Black Arrow was Bard the Bowman's last remaining arrow when Smaug\nattacked Laketown and, directed by a Thrush who had overheard a\nconversation between Bilbo Baggins and Smaug, he shot it with remarkable\nspeed into a weak spot in the left part of the chest of the dragon's\nnatural armour of scales, killing him, and thus freeing Lonely Mountain,\nDale, and Lake town.\n\nThe Black Arrow was forged by Thrór, who was the King under the Mountain\nbefore its fall seated in the Lonely Mountain, according to _The\nHobbit_. It is not known if it had any magical properties, but Bard said\nthat he had successfully retrieved it every time he used it (like\nBeleg's arrow Dailir).\n",
-    "owner": "Girion, Bard",
-    "creator": "Dwarves",
+    "owner": "Bard",
     "location": "Lonely Mountain, Lake-town"
   },
   {
     "name": "Herugrim",
     "lotr_page_id": "2550",
     "text": "HERUGRIM was an ancient sword, an heirloom of the royalty in Rohan.\n\n\nHistory\n\nAt the time of King Théoden, the sword was at least five hundred years\nold. (When Gandalf and Aragorn point out the burial mounds outside\nEdoras, Legolas says, “500 times have the red leaves fallen in Mirkwood\nin my home since then.” ) It was at last passed to Théoden, the last\nking of the second line of Kings in Rohan; who won victory with it at\nHelm's Deep, and died with it in his hand on Pelennor Fields, outside of\nMinas Tirith, while aiding Aragorn II Elessar in his plight.\n\nUnder the influence of Grima's leechcraft, Théoden had entrusted the\nblade to Gríma Wormtongue for safekeeping, but Gríma Wormtongue hid it\naway and allowed it to rust. After Gandalf restored Théoden to himself,\nHáma the doorwarden found the sword locked in Grima's chest.\n",
-    "owner": "King of Rohan",
-    "creator": "Rohirrim",
+    "owner": "King Theoden",
     "location": "Rohan"
   },
   {
@@ -198,16 +192,14 @@
     "other_names": "Vingilot, Rothinzil",
     "location": "Evening or morning sky",
     "owner": "Eärendil",
-    "creator": "Eärendil and Círdan",
     "appearance": "Fairest ship ever built"
   },
   {
     "name": "Shards of Narsil",
     "lotr_page_id": "4446",
-    "text": "The Shards of Narsil were what was left of the broken sword Narsil.\n\n\nIn the Novels\n\nIn _The Fellowship of the Ring_, they are carried by Strider. He uses\nthe fact that he is carrying “the blade that was broken,” mentioned in\nAll that is Gold Does Not Glitter in Gandalf's letter, to try to\nconvince Sam Gamgee that he is truly Aragorn. The shards are also\nmentioned in the poem _Seek for the Sword that was broken_ that Boromir\nand Faramir hear in their dreams. In the book, the shards are reforged\nat Rivendell before the Fellowship of the Ring leaves, and Aragorn\nrenames the sword Andúril.\n\n\nIn the Movies\n\n In _The Fellowship of the Ring_, the shards are\ndisplayed in Rivendell. They remain there until _The Return of the King_\nwhen Arwen asks her father Elrond to reforge the sword for Aragorn.\nBoromir cuts his finger on a shard when examining them.\n\nIn _The Hobbit: An Unexpected Journey_ (extended version), 60 years\nbefore the events of the _Lord of the Rings_, Bilbo notices the shards\non display, before seeing the painting of Sauron and Isildur during the\nWar of the Last Alliance between Elves and Men.",
-    "creator": "Telchar, Nogrod, First Age",
+    "text": "The Shards of Narsil were what was left of the broken sword Narsil.\n\n\nIn the Novels\n\nIn _The Fellowship of the Ring_, they are carried by Strider. He uses\nthe fact that he is carrying “the blade that was broken,” mentioned in\nAll that is Gold Does Not Glitter in Gandalf's letter, to try to\nconvince Sam Gamgee that he is truly Aragorn. The shards are also\nmentioned in the poem _Seek for the Sword that was broken_ that Boromir\nand Faramir hear in their dreams. In the book, the shards are reforged\nat Rivendell before the Fellowship of the Ring leaves, and Aragorn\nrenames the sword Andúril.",
     "location": "Nogrod, Númenor, Arnor, Rivendell",
-    "owner": "Kings of Númenor, Lords of Andúnië, Elendil, Kings of Arnor, Kings of, Arthedain, Chieftains of the Dúnedain",
+    "owner": "Aragorn",
     "other_names": "\"Sword That Was Broken\", \"The Sword Reforged\""
   },
   {
@@ -224,8 +216,7 @@
     "name": "Ring of Thrór",
     "lotr_page_id": "37457",
     "text": "The RING OF THRÓR was the mightiest of the seven dwarven rings.\n\n\nBackground\n\nThe RING OF THRÓR was the first of the Seven Dwarf-rings to be forged,\nand the last to be recovered by Sauron.\n\nWhile Sauron himself gave the Dwarves their Rings of Power, this one was\noriginally given to King Durin III of Khazad-dûm by Celebrimbor, and it\nremained in his line for thousands of years until it was inherited by\nThrór, the King under the Mountain.\n\nIt was during Thrór's reign that Smaug descended on Lonely Mountain and\ndrove the Dwarves into exile. Long after his kingdom's destruction,\nThrór passed the ring to his son Thráin, who dwelt for many years as an\nexile from his ancient home.\n\nAt last, Thráin set out on an ill-fated quest to regain his kingdom, but\nhe was captured by the spies of Sauron, and the Ring of Thrór was lost\nforever.\n\nMany Dwarves however did not know the fate of the Ring, and thought that\nit was lost in Moria when Thrór was killed by Azog. It was thought that\none of the reasons Balin wished to reclaim Moria was to find the Ring.\nIn the Council of Elrond, Gandalf told Glóin that Balin would not find\nthe Ring there, as it was given to Thráin and lost in Dol Guldur.\n",
-    "owner": "Durin III, other Kings of Durin's Folk, Thrór, Thráin II",
-    "creator": "Celebrimbor",
+    "owner": "Thrór",
     "usage": "Amplified their wearer's natural skills and desire of dominion; the, power to multiply whatever they mined"
   },
   {
@@ -237,8 +228,7 @@
     "name": "Red Arrow",
     "lotr_page_id": "2552",
     "text": "The RED ARROWS were arrows that were used by Gondor to summon its allies\nin time of need.\n\n\nDescription\n\nIts fletching was black and its barb was made of steel, and it took its\nname from a mark of red painted on the arrow's tip, standing for blood\nto show the situation was serious. The black fletching were like the Orc\narrows.\n\n\nHistory\n\nFirst mention of the Red Arrow is when Borondir of Gondor and five other\nmessengers rode north along Anduin to seek out Gondor's old allies, the\nÉothéod, when Gondor was being overrun by Easterlings, in TA 2509.\nBorondir was the only survivor, and presented the Red Arrow to the\nÉothéod King Eorl the Young.\n\nLater it became a summons for the Rohirrim. The Red Arrow was presented\nto Rohan by Hirgon, Gondor's messenger in the War of the Ring. As a\nresult, King Théoden rode out with the Rohirrim to the Battle of the\nPelennor Fields. Théoden's forces were a great aid to the hard-pressed\nsoldiers of Gondor, though the King was slain in the battle.\n\nIt is not certain where the Red Arrow came from: it is possible that the\ntradition was an old one and that Gondor had always summoned its allies\nthis way, but another possibility is that Borondir actually took an Orc\narrow with a bloody tip to present to the Éothéod, to prove that the\nsituation was as bad as his message stated.",
-    "owner": "Borondir, Hirgon",
-    "creator": "Men of Gondor",
+    "owner": "Hirgon",
     "usage": "For summoning allies",
     "location": "Gondor, Rohan",
     "appearance": "Black flights, steel barbs; red mark painted on the arrow's tip"
@@ -250,7 +240,6 @@
     "location": "Taur-nu-Fuin, Nargothrond, Dor-lómin, Brethil, Tol Morwen",
     "owner": "Túrin",
     "appearance": "A glowing black blade that could slice through iron; forged from a, meteorite",
-    "creator": "Túrin (originally Eöl), Nargothrond, c. F.A. 490-495",
     "other_names": "\"Iron of Death\""
   },
   {
@@ -258,14 +247,13 @@
     "lotr_page_id": "2551",
     "text": "MORGUL-BLADES, also called “Morgul-knives”, were magical and poisonous\ndaggers that were used by the Ringwraiths during the Third Age. After\nhaving tasted flesh, the dagger breaks, leaving a shard of the blade in\nits victim. The remaining blade soon turns to dust, and the shard works\nits way through the body to the heart. If the shard of the blade stays\nin the victim for too long, the victim becomes a wraith.\n\n\nHistory\n\n\n\nSince they are just short daggers, Morgul Blades may not have been very\neffective in battle. The blade might have been reserved for Mordor's\ngreatest enemies or for use as a punishment.\n\nFrodo himself was stabbed by a Morgul Blade at Weathertop by The\nWitch-king of Angmar. A fragment of the blade remained within Frodo's\nwound, working its way toward his heart and threatening to turn Frodo\ninto a wraith. Elrond was able to remove the shard and heal the wound,\nbut each year on the anniversary of receiving the wound Frodo became\nseriously ill. Only his eventual departure to Eldamar, also known as the\nUndying Lands, offered a permanent cure.\n\n\n\n_Athelas_ (or _Kingsfoil_) is known to slow the poisonous effect of the\nMorgul-blade, though true healing (usually Elven healing) is necessary\nin order to fully cure a victim. This remedy is also known to heal other\nMordor-associated illnesses, like the Black Breath of the Ringwraiths.\n",
     "other_names": "Morgul-knives",
-    "owner": "Nazgûl"
+    "owner": "Ringwraiths"
   },
   {
     "name": "Key to the Side-door",
     "lotr_page_id": "22040",
     "text": "The KEY TO THE SIDE-DOOR was a small curious-looking silver key with a\nlong barrel. It was used to open the secret entrance to the Lonely\nMountain, and for it there was a hidden keyhole.\n\n\nHistory\n\nLike the map, the key was made at an unknown time by Thrór and his son\nThráin before the fall of the Lonely Mountain. It was kept by Thrór and\nthen Thráin with the map. When Thráin was captured by the Necromancer,\nit was given to Gandalf in TA 2850 by Thráin just before he died in the\ndungeons of the Necromancer. The key and the map was presented to\nThorin the day that he and his fellow Dwarves visited Bilbo at Bag End\nin late April, 2941, and from that moment he kept it fastened to a chain\naround his neck.\n\nWhen Thorin and Company were at the place of Side-door, time began to\npass and the Sun began to fall and the Moon appeared and a hole appeared\nabout three feet from the ground. As the Dwarves attempted to force the\nrock without success, Bilbo suddenly remembered the key Gandalf gave\nThorin and told Thorin to use it to open the door before the light\ndisappeared that revealed it. Thorin took the key and put it in the\nkeyhole which caused the door-cracks to appear and the door to open.\n\n\nRunes\n\nIn _The Hobbit: An Unexpected Journey_, the key is ornately wrought and\nwith Dwarven runes written on both sides of the shaft. When translated,\nthese runes read “Durins Heir”, and are a reference to Thorin's\nancestor, Durin the Deathless.\n",
-    "owner": "Thror, , Thráin II, Thorin II Oakenshield",
-    "creator": "Dwarves",
+    "owner": "Thorin",
     "usage": "To open the side-door of Lonely Mountain"
   },
   {
@@ -278,10 +266,9 @@
   {
     "name": "Pipe-weed",
     "lotr_page_id": "3131",
-    "text": "PIPE-WEED (also known as HALFLINGS' LEAF) was grown and enjoyed much by\nthe hobbits of the Shire, to whom it was first introduced by a hobbit\nnamed Tobold Hornblower. It was first grown among hobbits by Tobold\nHornblower in Longbottom (a region in the Shire) around S.R. 1070 (TA\n2670). Despite its foreign origins, the hobbits (possibly those in Bree)\nwere the first to use it for smoking.\n\nPipe-weed production is a major industry there, especially in the south.\nIt was known among the Dúnedain as _sweet galenas_ for its fragrance.\n\n\n\nIn Gondor, it is known as '''Westman's-weed '''and grows as a wild\nplant, appreciated primarily for its sweet-scented flowers. The\ncolloquial name is in reference to its origins: it was apparently\nbrought to Middle-earth by Númenóreans during the Second Age.\n\nPopular varieties of pipe-weed include Longbottom Leaf, Old Toby (which\nis named after Tobold Hornblower), Southern Star, and Southlinch, which\nis grown in Bree.\n\nThe Wizard Gandalf learned to smoke\npipe-weed from the hobbits and is known to blow elaborate smoke-rings.\nSaruman initially derided him for this, but at some point he took up\nsmoking himself. After the destruction of Isengard, pipe-weed was found\namong its stores, but the hobbits Merry and Pippin failed to realized\nthe sinister implications of the discovery that Saruman has had commerce\nwith the Shire.\n\n\nSee Also\n\n\n\n-   Old Toby (disambiguation)\n-   Athelas\n\nde:Pfeifenkraut it:Erba Pipa ru:Трубочное зелье",
+    "text": "PIPE-WEED (also known as HALFLINGS' LEAF) was grown and enjoyed much by\nthe hobbits of the Shire, to whom it was first introduced by a hobbit\nnamed Tobold Hornblower. It was first grown among hobbits by Tobold\nHornblower in Longbottom (a region in the Shire) around S.R. 1070 (TA\n2670). Despite its foreign origins, the hobbits (possibly those in Bree)\nwere the first to use it for smoking.\n\nPipe-weed production is a major industry there, especially in the south.\nIt was known among the Dúnedain as _sweet galenas_ for its fragrance.\n\n\n\nIn Gondor, it is known as '''Westman's-weed '''and grows as a wild\nplant, appreciated primarily for its sweet-scented flowers. The\ncolloquial name is in reference to its origins: it was apparently\nbrought to Middle-earth by Númenóreans during the Second Age.\n\nPopular varieties of pipe-weed include Longbottom Leaf, Old Toby (which\nis named after Tobold Hornblower), Southern Star, and Southlinch, which\nis grown in Bree.\n\nThe Wizard Gandalf learned to smoke\npipe-weed from the hobbits and is known to blow elaborate smoke-rings.\nSaruman initially derided him for this, but at some point he took up\nsmoking himself. After the destruction of Isengard, pipe-weed was found\namong its stores, but the hobbits Merry and Pippin failed to realized\nthe sinister implications of the discovery that Saruman has had commerce\nwith the Shire.",
     "other_names": "Halfling's Leaf, Westman's Weed, Longbottom Leaf, Sweet Galenas, etc.",
-    "owner": "Many unspecified Hobbits, Gandalf, Aragorn, Merry, Pippin, Saruman, et., al.",
-    "creator": "Hobbits of the Shire, Gondorians, Dúnedain, et. al.",
+    "owner": "Gandalf",
     "usage": "For smoking in a pipe"
   },
   {
@@ -289,9 +276,8 @@
     "lotr_page_id": "6369",
     "text": "The HORN OF GONDOR is a horn that Boromir carried with him during the\nevents in _The Fellowship of the Ring _novel.\n\n\nHistory\n\nIt was a large war-horn and tipped with silver written in ancient\ncharacters. Boromir blew it before leaving Rivendell with the\nFellowship, as he always did when setting out on a journey. He sounded\nit again in Moria, causing the Orcs and even the Balrog to pause in\ntheir advance. The third time he blew it was on the banks of Parth\nGalen, calling for help in defending Meriadoc Brandybuck and Peregrin\nTook. This last call, in addition to being heard by Aragorn, Legolas,\nand Gimli, was faintly heard by his brother Faramir and his father\nDenethor II. The horn was broken into two pieces during Boromir's last\nfight with the Orcs and Uruk-hai of Saruman at Amon Hen.\n\nAn heirloom of the house of the Stewards of Gondor, the Horn of Gondor\nhad been carried by the eldest son for generations. The horn was crafted\nbefore the line of the Kings of Gondor was broken, when \"Vorondil the\nHunter father of Mardil Voronwë hunted the wild Kine of Araw in the far\nfields of Rhûn. The story surrounding the horn mentioned that it was\nmade from the horn of \" the wild ox of the East \" and that “if it be\nblown at need anywhere within the bounds of Gondor, as the realm was of\nold, its voice will not pass unheeded.”\n\n\n\nThe Horn of Gondor was not present in Faramir's vision of his dead\nbrother in the boat from Lórien. However, when Gandalf and Pippin arrive\nin Minas Tirith, the broken horn was being held by Denethor II,\nBoromir's father.",
     "other_names": "Horn of Boromir",
-    "owner": "Vorondil and descendants up until Boromir",
-    "appearance": "White horn tipped with silver",
-    "creator": "Vorondil, c. 20th century, Third Age"
+    "owner": "Boromir",
+    "appearance": "White horn tipped with silver"
   },
   {
     "name": "Thrór's Map",
@@ -302,8 +288,7 @@
     "name": "Ringil",
     "lotr_page_id": "2553",
     "text": "RINGIL was the sword of Fingolfin, the High King of the Ñoldor.\n\n\nHistory\n\nThe sword was of elvish make. It bit with chilling cold, a blade that\nglittered like ice by the light of the stars. Fingolfin wielded it to\ngreat effect against Morgoth during their duel before the gates of\nAngband, wounding him seven times. However, he was slain by the Dark\nLord, who broke Fingolfin's neck with his foot. With his last breath,\nFingolfin hewed Morgoth's foot with Ringil, rendering him lame for the\nrest of his existence. Ringil's ultimate fate is unknown, it may have\nbeen broken by Morgoth's foot, or it could have been stolen, and then\nexperienced a similar fate to Glamdring and Orcrist. It is likely that\nneither Morgoth nor his subjects would wish to handle the blade, after\nthe grievous injury it dealt to Morgoth.\n\n\nEarlier versions of the legendarium\n\nBefore the tales that make up the Quenta Silmarillion evolved to their\nfinal versions, _Ringil_ was a name of one of the lamp-pillars erected\nby Melko (Melkor) during the days of the coming of the Valar into\nMiddle-earth - the name of the other pillar being _Helkar_. Melko\n(Melkor) made the two pillars, of ice, and from the light they melted,\neventually forming seas and lakes.\n\nIn the final account (the chapter “Of the Beginning of Days” of _The\nSilmarillion_), the two Lamps of the Valar themselves have names, and\nthey are Illuin and Ormal - and it is Aulë, Yavanna, and Manwë who\ninvent them. _Ringil_ remained only the name of Fingolfin's sword, and\nbears the same meaning as it had before.\n\n\nEtymology\n\nThe name _RINGIL_ may have come from the Quenya _ringa_ (“damp, cold,\nchilly”) or _ringi_ (“cold”).",
-    "owner": "Fingolfin",
-    "creator": "Elves"
+    "owner": "Fingolfin"
   },
   {
     "name": "Elendilmir",
@@ -319,8 +304,7 @@
     "name": "Angrist",
     "lotr_page_id": "2538",
     "text": "ANGRIST was a knife made by Telchar of Nogrod and borne by Curufin, one\nof Fëanor's sons. It was taken from Curufin by Beren, who used it to cut\na Silmaril out of Melkor's Iron Crown. However, as he was attempting to\nremove a second Silmaril, the knife broke and it cut Melkor. \n\n\nHistory\n\nDuring the First Age, Beren and Lúthien encountered Celegorm and Curufin\nin the forest of Brethil. A fight ensued when the brothers attempted to\nkidnap Lúthien. Curufin's knife, Angrist, was taken by Beren. Later,\nduring the Quest for the Silmaril, Beren used Angrist to cut the\nSilmaril from Melkor's crown. As Beren was trying to cut a second\nSilmaril, however, the knife snapped and its shard grazed Melkor on the\ncheek, awakening him. Angrist was left behind when Beren escaped\nAngband.\n\n\nEtymology\n\nIn Sindarin, ANGRIST means “Iron-cutter”, from _ang_ (“iron”) and _ris_\n(“to cut”).\n\n\nOther versions of the legendarium\n\nThe blade is first described in _The Lays of Beleriand_ in several of\nthe poems and stories, where it had been forged by the Wicked dwarves of\nNogrod.\n\nIn later versions and the version published in _The Silmarillion_, this\nblade became Angrist, which was originally the blade of Curufin. It\nstill maintained its Dwarven heritage, further being described as having\nbeen forged by Telchar of Nogrod (in earlier versions he was of\nBelegost). Although the evil connotations of it being enchanted dark\nweapon or having  'betrayed' him were played down or removed in the\npublished version.\n\nIn earliest versions of the story the knife was once taken from the\nkitchens of Tevildo.\n\nBeren and Lúthien reintroduces both of these accounts (along with the\nreintroduction of the treacherous dwarves) to the 'complete story' as\ntold in the 2017 release.",
-    "owner": "Curufin, Beren",
-    "creator": "Telchar",
+    "owner": "Beren",
     "usage": "For cutting",
     "appearance": "Knife"
   },
@@ -329,16 +313,14 @@
     "lotr_page_id": "8111",
     "text": "The DRAGON-HELM OF DOR-LÓMIN, also known as the DRAGON OF DOR-LÓMIN,\nDRAGON-HEAD OF THE NORTH, and the HELM OF HADOR, was a formidable\nDwarven war helmet from the First Age. It was most notably associated\nwith Túrin.\n\n\nDescription\n\n\n\nThe appearance of the helm was magnificent, adorned by Gold, on the\nbackground of Grey steel. At the top of the helm, the armor bore the\nsculpture of the Dragon, Glaurung, The Deceiver. The helm also had a\nvisor, “in the style of most dwarven armor.” The armor struck fear into\nthe hearts of the enemies of the wearer.\n\n\nHistory\n\nThe Dragon Helm is the ancient Dwarven-crafted war helm crafted by the\nDwarf-smith Telchar of Nogrod for the lord of Belegost, Azaghâl. Azaghâl\nthen gave it to Maedhros as a gift, who eventually passed it on to\nFingon. From then on, it remained in the keeping of the High Kings of\nthe Ñoldor that then passed it on to the Men who settled in Dor-lómin.\n\nThe helm was given to Túrin Turambar by his foster father, Thingol\nsometime between FA 463 and FA 473, and from Túrin's mother, Morwen, he\nhad received it. Since the helm was an heirloom in the House of\nHador, it is sometimes referred to as the Helm of Hador. However, Húrin\nwas not of the stature as the rest of his elders. He could not wear the\nHelm comfortably because he was of lesser stature than his forefathers.\nHe also said he preferred to look at the enemy with his own eyes.\n\nTúrin, however, was of greater stature than his father was and was able\nto unlock the magical properties of the ancient helm. It had the ability\nto protect the wearer from any harm or wound, major or minor: _“A power\nwas in it that guarded any who wore it from wound or death, for the\nsword that hewed it was broken, and the dart that smote it sprang\naside.”_",
     "other_names": "Helm of Hador",
-    "creator": "Telchar, Nogrod, c. F.A. 260",
     "appearance": "Visored steel helm, embelished with gold and runes, bearing a crest in, the image of the head of Glaurung",
-    "owner": "Azaghâl, Maedhros, Fingon, Hador, Galdor, Húrin, Túrin"
+    "owner": "Túrin"
   },
   {
     "name": "Anglachel",
     "lotr_page_id": "2540",
     "text": "ANGLACHEL was a sword smithed by Eöl, the Dark Elf.\n\n\nDescription\n\nIt is described as being forged from the “iron that fell from heaven as\na flaming star” or a meteorite. According to Melian, Eöl's dark malice\nis left in the sword.\n\nAnglachel seems to have held a certain level of sentient awareness,\npoured into it from Eöl: it was fierce and bloodthirsty, drinking the\nblood of those it bit. “From no blood wilt thou shrink.” said Turin\nafter seeing it unharmed by the scorching blood of Glaurung.\nNevertheless, innocent blood left a terrible shroud of grief on the\nsword, and it remembered: when it spoke to Turin it named two especially\nwhose innocent blood it had drunk: Beleg, slain by mischance, and\nBrandir slain unjustly. It was also said to “mourn” for Beleg, and to\n“rejoice” when unsheathed in war.\n\n\nHistory\n\nIt was one of two swords Eöl forged from a meteorite. The other,\nAnguirel, he kept for himself. Eöl gave this sword to Thingol as payment\nfor staying in his forest, Nan Elmoth, though he did not relish giving\nit away. Thingol gave the sword in keeping to his subject Beleg\nCúthalion, when Beleg left to seek down Turin. Whenever Beleg took the\nsword out of its sheath, the sword is said to have sung with gladness.\n\nAt one time, Beleg was unbinding the unconscious Túrin, who had been\nheld captive. However, whilst undoing his bonds, the sword slipped or\nfell and cut Túrin in his foot. Túrin then woke, and not knowing who it\nwas, slew Beleg with Anglachel, a mistake that he mourned for a long\ntime.\n\nTúrin was then given the sword by Gwindor, and Túrin travelled to\nNargothrond, Gwindor's place of birth, where the sword was reforged and\nrenamed Gurthang “Iron of Death”.\n\n\nEtymology\n\nThe name ANGLACHEL means “Flaming Iron”, from the Sindarin _ang_ (iron“)\nand _lhach_ (”leaping flame\").",
-    "owner": "Eöl, Thingol",
-    "creator": "Eöl",
+    "owner": "Thingol",
     "location": "Nan Elmoth, Menegroth",
     "appearance": "A glowing black blade that could slice through iron; forged from a, meteorite"
   },
@@ -346,8 +328,7 @@
     "name": "Phial of Galadriel",
     "lotr_page_id": "724",
     "text": "THE PHIAL OF GALADRIEL was given by Galadriel to Frodo Baggins as a\nlight to use in dark places.\n\n\nHistory\n\nThe Phial of Galadriel was a crystal phial filled with water from her\nfountain which held the light of Eärendil's star - the light of the Two\nTrees as preserved in a Silmaril.\n\nFrodo used the mere touch of it to ease the thought of the One Ring when\nhe, Sam Gamgee, and Gollum were watching the Witch-king lead his army\nout of Minas Morgul. He also used it while entering into Mordor to\ndefend himself from the spider Shelob. When Shelob first approached, Sam\nreminded him of the “star-glass” and its light drove her away. Frodo\ngave the light to Sam to hold while he cut through Shelob's webbing and\nSam wielded it when he attacked Shelob to rescue Frodo. The star-glass\nshone particularly bright in response to his indomitable spirit. He used\nit twice to get past the Two Watchers who guarded the tower of Cirith\nUngol; the second time the phial shone out lightning-bright in tribute\nto his hardiness and faithfulness.\n\n\n\nSam also attempted to use the light in the Crack of Doom but the light\nwas subdued by the power of the heart of Sauron's realm. The light was\none of the items found on him when he and Frodo were rescued by the\nEagles; Gandalf kept both it and Sam's box of Earth from Galadriel safe\nwhile the two hobbits were being healed after their collapse on the side\nof Mount Doom.\nThe Phial of Galadriel seemed to inspire its bearers to call out to\nElbereth, who is also known as Varda, as both Frodo and Sam call out in\nElvish. Frodo also cries out “aiya Eärendil elenion ancalima!” the first\ntime he uses it against Shelob. Although Frodo did not understand these\nwords, they were in reference to Eärendil, and they translate as “hail\nEärendil, brightest of stars!” from Quenya.\n\nAt the end of the Third Age, the Light of Earendil went to the Uttermost\nWest with Frodo.\n",
-    "owner": "Galadriel, , Frodo Baggins",
-    "creator": "Elves",
+    "owner": "Frodo Baggins",
     "usage": "Served as light in dark places"
   },
   {
@@ -360,8 +341,7 @@
     "lotr_page_id": "10528",
     "text": "The ELESSAR or ELFSTONE was a green gem set on a silver eagle-shaped\nbrooch. It had the light of the Sun within it and those who looked\nthrough it saw everything that was aged and withered as young once more.\n\n\nOrigins\n\nThe elfstone was crafted by an elven-smith in Gondolin named Enerdhil,\nwhose skill in jewel-crafting was second only to Feanor. He gave it to\nIdril which she bore upon her breast during the fall of Gondolin,\naccounting for its escape, and in turn she gave it to her son Eärendil,\nwho bore it upon his breast on his flight to the Undying Lands.\n\nTwo versions are hereafter recorded as to the fate of the stone.\n\n-   Olorin brings the stone to Middle-earth as a sign that the Valar had\n    not forsaken Middle-earth. He gave it to Galadriel but he prophesied\n    that, “...it is not for you to possess. You shall hand it on when\n    the time comes. For before you grow weary, and at last forsake\n    Middle-earth one shall come who is to receive it, and his name shall\n    be that of the stone: Elessar he shall be called.”  (Aragorn, son\n    of Arathorn II).\n-   The stone remains with the Valar, and Galadriel longs to once more\n    return to Valinor but remains under the ban of the Noldor. Thus she\n    turns to Celebrimbor and laments to him, “I am grieved in\n    Middle-earth, for leaves fall and flowers fade that I have loved so\n    that the land of my dwelling is filed with regret that no spring can\n    redress. I would have trees and grass about me that do not die -\n    here in the land that is mine.” Celebrimbor, who is in love with\n    her, remakes the jewel and gives it to her. He learned the art of\n    elven blacksmithing in Gondolin when he was a friend of Enerdhil and\n    ever his friendly, competitive rival. Galadriel then passes the\n    stone to her daughter Celebrian, who in turn gives it to her\n    daughter Arwen. Galadriel keeps it once more in Lothlorien to pass\n    it on to Aragorn.\n",
     "other_names": "Elessar",
-    "owner": "Aragorn, Arwen, Enerdhil, Galadriel, et. al.",
-    "creator": "Enerdhil"
+    "owner": "Aragorn"
   },
   {
     "name": "Bilbo's Mithril Shirt",
@@ -372,8 +352,7 @@
     "name": "Barrow-blades",
     "lotr_page_id": "2543",
     "text": "The BARROW-BLADES, also known as DAGGERS OF WESTERNESSE, were daggers\nfrom theBarrow-downs, given by Tom Bombadil to the four hobbits of the\nFellowship.\n\n\nDescription\n\nThe Barrow-blades have long, leaf-shaped blades, which is damasked with\nserpent-forms in red and gold. Fiery stones are set on the strange, yet\nlight and strong, metal. The blades gleam and are made of marvelous\nworkmanship.\n\n\nHistory\n\n The\nBarrow-blades were found in the barrow of a Barrow-wight on the\nBarrow-downs and given to the hobbits by Tom Bombadil, who told them\nthat the blades were forged long ago by Men of Westernesse, foes of the\nDark Lord who were overcome by the evil king of Carn Dûm in the Land of\nAngmar.\n\nFrodo's sword broke in the confrontation with the Nazgûl on the banks of\nthe River near Rivendell and was replaced at Rivendell by Bilbo's gift\nof the elvish sword Sting. Sam, Merry, and Pippin kept their swords. The\nBarrow-blades carried by Merry and Pippin were taken and discarded when\nthe two hobbits were captured by Uruk-hai at Amon Hen, but Aragorn saved\nthem and they were returned when they were reunited at Isengard. Merry's\nBarrow-blade played a major role in the Battle of the Pelennor Fields.\nIt was enchanted with the power to harm the Witch-king of Angmar himself\nby a weaponsmith of Arthedain long before. When he stabbed the\nWitch-king in the knee with it, it distracted the Nazgûl and broke the\nspell binding his undead flesh to his will, allowing Eowyn to kill him\nby driving her sword into his unseen head, thus fulfilling the prophesy\nof Glorfindel that “not by the hand of man shall he fall.” Merry's\nBarrow-blade then burned away, a fate common to weapons brought into\ncontact with the Witch-king. The sword is approximately 30 inches long,\nso as to be wielded by Hobbit-folk.\n\nPippin also used his Barrow-blade to kill a Troll at the Battle of the\nBlack Gate, and afterwards refers to it as a Troll's bane. He later\nwielded this Barrow-blade during the Scouring of the Shire. Sam left his\nsword with Frodo after presuming him dead from an encounter with Shelob,\nand it was later taken from Frodo's body by Shagrat and delivered to\nBarad-dûr with Frodo's Mithril coat. Both were later recovered from the\nMouth of Sauron by Gandalf, who returned them to Frodo and Sam.\n",
-    "owner": "Frodo Baggins, Samwise Gamgee, Peregrin Took, Meriadoc Brandybuck",
-    "creator": "Númenoreans"
+    "owner": "Frodo Baggins, Sam Gamgee, Merry, Pippin"
   },
   {
     "name": "White Tree of Gondor",
@@ -388,8 +367,7 @@
     "lotr_page_id": "3320",
     "text": "The NAUGLAMÍR was a necklace crafted by the Dwarves in the First Age\nwhich played an important role during the final parts of the _Narn i\nChîn Húrin_.\n\n\nHistory\n\nAfter Húrin brought the treasures of Nargothrond to Doriath, Thingol\nsummoned Dwarves of Nogrod to Menegroth and invited them to work the\ntreasure into jewelry. The finest of these pieces was the Nauglamír.\n\nThe Nauglamír was the second-greatest treasure of Doriath, prized above\nall but Beren and Lúthien's Silmaril. After the smiths of Belegost\nfinished their work on the Nauglamír, Thingol requested that the Dwarves\nof Nogrod set the Silmaril in it. The Nauglamír, now bearing the\nSilmaril was held to be the fairest object in Arda.\n\nEnthralled by its beauty and greedy for the Silmaril, the dwarves\ndemanded the necklace insisting that as dwarf work it belonged to them.\nThingol was unwilling to surrender the treasure and replies with an\nimpertinent answer. In their anger, the Dwarves slew him. Two escaped to\nNogrod and told a much different story to their kinsmen, persuading the\ncity to march on Doriath.\n\nAfter the Fall of Doriath, the Dwarves of Nogrod marched homewards with\nthe stolen Nauglamír and the rest of the treasures of that land but\nBeren, at the head of an army of Laiquendi and Ents slew the dwarves.\nThe treasure was cast into the Ascar save the Nauglamír, which Beren\ngave to Lúthien.\n\nAfter Beren and Lúthien's final deaths, the necklace was inherited by\ntheir son, Dior, who became the second King of Doriath. When the Sons of\nFëanor heard that the inheritor of the throne of Doriath, they demanded\nthat he surrender it to them or become their enemy. When he refused,\nthis brought about the Second Kinslaying as the Sons of Fëanor, seeking\nthe Silmaril in accordance with the Oath of Fëanor, attacked Doriath.\nDior's daughter, Elwing, escaped the kinslaying with the Nauglamír,\nfleeing to the Mouths of Sirion.\n\nIn the Third Kinslaying, the Sons of Fëanor attacked the Elven havens in\nthe Mouths of Sirion, still trying to obtain the Silmaril within the\nNauglamír but Elwing cast herself into the sea with it rather than\nsurrender the gem to Maedhros and Maglor. The Nauglamír was lost, while\nElwing and the Silmaril were saved by the Vala Ulmo.\n\n\nOther versions of the legendarium\n\nIn an earlier myth of First Age lore that preceded the final stories in\n_The Silmarillion_, namely the Lost Tale _The Nauglafring_, the\nNauglamír (named the NAUGLAFRING) is more important: the necklace\nbecomes caught behind a tree branch when Thingol is riding outside the\nGirdle of Melian and is attacked by the Dwarves. Thingol is unhorsed and\nslain. Following this, Melian's protection is lifted and Doriath is\nsacked.",
     "location": "Nargothrond, Doriath, Mouths of Sirion",
-    "owner": "Finrod, Thingol, Lúthien, Dior, Elwing",
-    "creator": "Craftsmen of Nogrod and Belegost, Blue Mountains",
+    "owner": "Dior",
     "appearance": "Carcanet of gold, and set therein were gems uncounted from Valinor;, later set with a Silmaril",
     "other_names": "\"Necklace of the Dwarves\""
   },
@@ -397,8 +375,7 @@
     "name": "Sting",
     "lotr_page_id": "716",
     "text": "STING was an Elven shortsword made in Gondolin during the First\nAge. After wielding it during the Quest for Erebor, Bilbo Baggins had it\nengraved with the Sindarin text, _Maegnas aen estar nin dagnir in yngyl\nim_. Translated into English, it reads, “_Sting_ is my name; I am the\nspider's bane.” The Appendix of ''The Silmarillion _defines_ _the\nelement _maeg'' in Sindarin as meaning “sharp” or “piercing”. During the\nThird Age, it was wielded by Bilbo Baggins, Frodo Baggins, and Samwise\nGamgee.\n\n\nHistory\n\n\n\nSting was an ancient Elvish blade made by weapon-smiths in Gondolin.\nWhen Orcs or goblins were within an undetermined radius of it, the blade\nglowed blue, alerting the wielder and others who could see it to their\npresence. It had been lost during the Fall of Gondolin, the same battle\nin which Turgon fell and Glamdring was taken. It appeared as a curved\nblade with a silver loop or spiral design on it, later runes were added\nto it by Bilbo after his adventures. These runes seem to have been made\nby the Elves as they are in Sindarin.\n\nIn _The Hobbit_, Bilbo and his dwarven companions found Sting in a\nTroll-hoard alongside two other elven blades: Glamdring and Orcrist.\nThough just a dagger by the standard of elves, Sting made a perfect\nshort sword for a Hobbit, although it was still rather small, as Bilbo\ninitially chose to wear it “inside his breeches” and was still able\nto travel and even run without any apparent inconvenience.\n\nJust before his nephew embarked on his quest to Mordor from Rivendell,\nBilbo gave Sting to Frodo. Sam then took the weapon from his (seemingly\ndead) master and used it to good effect against Shelob on the borders of\nMordor. After the defeat of Sauron at the end of the Third Age, Frodo\nentrusted Sting to Sam and it became an heirloom of the Gamgee family.\n\nGollum, who disliked anything made by the Elves, was afraid of Sting.\nThis fear aided Bilbo when he confronted Gollum in the Cave at the base\nof the Misty Mountains in _The Hobbit_. It also helped Frodo and Sam\nsubdue Gollum in _The Lord of the Rings_. Orcs also had an instinctive\nfear of these weapons and hated any who carried them.\n\nAs is fitting for a blade of Gondolin, Sting could easily cut through\nthe webs of the offspring of Ungoliant, including the evil Shelob and\nthe spiders of Mirkwood. Bilbo had named the weapon _Sting_ after he had\n“stung” one of them with it. In The Hobbit when Bilbo wears the One\nRing, and defends himself against a spider, he names the blade “Sting”.\nThe narrator describes the spider's lack of acquaintance with creatures\nwith such stings, and evidently this was also Bilbo's presumption in\nnaming it as such. Sting was like Glamdring and Orcrist in that “being\nthe work of Elvish smiths in the Elder Days these swords shone with a\ncold light, if any Orcs were near at hand.” But only Sting was\ndefinitively described as glowing blue, or glittering with blue flame at\nits edges.\n",
-    "owner": "Bilbo Baggins, Frodo Baggins",
-    "creator": "Elves",
+    "owner": "Frodo Baggins",
     "location": "Shire",
     "appearance": "Short sword, glows blue in the presence of Orcs"
   },
@@ -417,7 +394,6 @@
     "lotr_page_id": "2654",
     "text": "The TWO TREES OF VALINOR also known as the TREES OF THE VALAR,''' '''the\nTWO TREES: '''Laurelin '''(the Gold Tree) and '''Telperion '''(the\nSilver Tree), brought light into the Land of the Valar in ancient times.\nThey were destroyed by Melkor and Ungoliant, but their last flower and\nfruit were made by the Valar into the Sun and the Moon.\n\n\nCreation and destruction\n\nThe first sources of light for all of Arda were two enormous Lamps,\nIlluin, the silver one to the north, and Ormal, the golden one to the\nsouth. These were cast down and destroyed by Melkor. Afterward, the\nValar went to Valinor and Yavanna sang into existence the Two Trees,\nsilver Telperion and golden Laurelin. Telperion was considered male and\nLaurelin female. The Trees sat on the hill Ezellohar located outside\nValimar. They grew in the presence of all of the Valar, watered by the\ntears of Nienna.\n\n Each tree was a source of\nlight: Telperion's silver and Laurelin's gold. Telperion had dark leaves\n(silver on one side) and his silvery dew was collected as a source of\nwater and of light. Laurelin had gold-trimmed leaves and her dew was\nlikewise collected by Varda. One “day” lasted twelve hours. Each Tree,\nin turn, would give off light for seven hours (waxing to full brightness\nand then slowly waning again), so that at one hour each of “dawn” and\n“dusk” soft gold and silver light would be given off together.\n\nJealous, Melkor enlisted the help of the giant spider-creature Ungoliant\n(the mother of Shelob) to destroy the Two Trees. Concealed in Unlight,\nMelkor struck each Tree and the insatiable Ungoliant devoured whatever\nlife and light remained in them.\n\nAgain Yavanna sang and Nienna wept, but they succeeded only in reviving\nTelperion's last flower (to become the Moon) and Laurelin's last fruit\n(to become the Sun). These were assigned to lesser spirits, male Tilion\nand female Arien, after the 'genders' of the Trees themselves. This\nis why, in _The Lord of the Rings_, the Sun is usually referred to as\n“she” and the moon as “he”.\n\nHowever, the true light of the Trees, before their poisoning by\nUngoliant, was said to afterwards reside only in the Silmarils.\n\n\nTelperion's descendants\n\nBecause the Elves that first came to Valinor especially loved Telperion,\nYavanna made a second tree like it to stand in the city of Tirion where\nthe Vanyar and Ñoldor dwelt together at first. This tree,\nnamed Galathilion, was identical to Telperion except that it gave no\nlight of its own. It had many seedlings, one of which was planted in the\nisle of Tol Eressëa (named CELEBORN).\n\nIn the Second Age, a seedling of Celeborn was brought as a gift to the\nNúmenóreans - this was Nimloth, the White Tree of Númenor. It lasted\nthrough the majority of the realm's duration, but when Sauron took\ncontrol of the island he commanded King Ar-Pharazôn to chop it down.\n\nFortunately Isildur managed to save a single fruit of that tree. Of this\nfruit later came the White Tree of Gondor.\n\n\nInternal significance\n\nThe Two Trees of Valinor existed at a time when the only other source of\nlight was the stars (which had been created for the Elves' benefit by\nVarda from the dews collected from the Two Trees). When three Elven\nambassadors were brought to see Valinor for themselves, in order that\nthe Elves might be convinced to come to Valinor, it seems that the Two\nTrees affected them most significantly.\n\nIn particular Thingol is said to have been motivated in the Great\nJourney by his desire to see the Light of Valinor again (until he finds\ncontentment in the light he sees in Melian's face). Also in later times,\nthe Elves would be divided between the _CALAQUENDI_ who had seen the\nlight of the Trees, and the _MORIQUENDI_ who hadn't; with the former\ngroup having found enlightenment and near rapture in the light they\nbeheld.\n\nThe Silmarillion repeatedly states that those Elves who saw the Two\nTrees were mighty, with the light of Aman in their faces. As vassals of\nthe Valar, the trees somehow bestowed otherworldy power and\nunderstanding on those who were exposed to them. Galadriel in particular\nhad an affinity to Laurelin, as her hair was said to have captured the\ngolden light of that tree. In turn this inspired Feanor to make the\njewels that could hold that same light; the Silmarils.\n\nThe whole of the history of the First Age is strongly affected by the\ndesire of many different characters to possess the Silmarils, which\ncontain the only remaining unsullied light of the Trees. Yet upon his\nflight from Valinor after destroying the light of the Two Trees, Melkor\nstole the Silmarils and sparked the Oath of Fëanor (who renamed Melkor\nMorgoth) and after many years the Valar embarked on the War of Wrath,\nWhich ended the First Age\n\nIn the Second and Third Ages, the White Trees of Númenor and of Gondor,\nwhose likeness descends from that of Telperion, have a mostly symbolic\nsignificance. They stand both as symbols of the kingdoms in question,\nand also as reminders of the ancestral alliance between the Dúnedain and\nthe Elves. Even in this late age the two trees are remembered by some.\nGandalf obviously remembers them with reverence, as he speaks of them to\nPippin.\n\n\nExternal significance\n\nTolkien, as a Roman Catholic, would have been exposed to the\nsignificance of light in Catholic symbolism. Trees were of special\nimportance to him - in his short story _Leaf by Niggle_, which in a\nsense was an elaborate allegory explaining his own creative process, the\nprotagonist spends his life painting a single Tree.\n\nThe Two Trees represent the recurrent 'gold and silver' concept of the\nlegendarium. They are created after the lamps Ormal and Illuin - and\nfrom the trees themselves, the Sun and Moon are later created.\n\nTolkien may have also gotten inspiration for the trees directly from the\nSun, which rises in the day (as Laurelin, the golden tree), and the moon\nwhich rises in the night (Telperion, the silver tree).\n\n\nEtymology\n\nBoth Telperion and Laurelin are said to have been given many names among\nwhich are the following: Laurelin was also given the names of MALINALDA\nand CULÚRIEN,''' '''while Telperion was also named '''Silpion '''and\nNINQUELÓTË. Telperion's name in Valarin, the language of the Valar, is\nsaid to have been _IBRÎNIÐILPATHÂNEZEL_; Laurelin's name is recorded as\n_TULUKHEDELGORÛS._\n\nIn early writings of Tolkien, Telperion's names were SILPION ,\nBANSIL, and BELTHIL.\n\n\nQuotations\n\n“Yet even as hope failed  Telperion bore at last upon a leafless\nbough one great flower of silver, and Laurelin a single fruit of gold.”\n- _The Silmarillion_\n\n“... and perceive the unimaginable hand and mind of Feanor at their\nwork, while both the White Tree and Golden were in flower!” Gandalf to\nPippin, _The Two Towers_\n\n\nNotes\n\n-   Tolkien could have taken the creation of light mentioned in Genesis\n    as inspiration for the two trees, as both brought light into\n    Middle-earth and were turned into the moon and sun.",
     "location": "Ezellohar",
-    "creator": "Yavanna, , V.Y. 3450–3500",
     "appearance": "Two tall trees, one of gold, the other of silver"
   }
 ]
