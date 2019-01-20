@@ -1,9 +1,10 @@
 const podaci = require('../data/races.json')
 const odrednice = require('../data/locations.json')
+const veza = 'locations'
 
 const koristeniKarakteri = podaci.reduce((acc, x) => {
-  if (x.locations) {
-    return new Set([...acc, ...x.locations.split(", ")].sort())
+  if (x[veza]) {
+    return new Set([...acc, ...x[veza].split(", ")].sort())
   }
   return acc
 }, new Set())
