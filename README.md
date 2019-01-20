@@ -102,14 +102,14 @@ Class Race
 
 Class Artefact
 
-  name 63
-  lotr_page_id 63
-  text 63
-  owner 28 +
-  location 17 +
-  appearance 16
-  other_names 12
+  name 50
+  lotr_page_id 50
+  text 50
+  character 50 +
+  location 14 +
+  appearance 13
   usage 9
+  other_names 9
 
 Class Quote
 
