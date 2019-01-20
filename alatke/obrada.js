@@ -8,7 +8,7 @@ const obradjeno = podaci
   //    x.cultures = x.inhabitants
   //    delete x.inhabitants
   //  }
-    delete x.creator
+    if (!x.owner) console.log(x.name)
     return x
   })
 
