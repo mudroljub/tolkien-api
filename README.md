@@ -87,7 +87,7 @@ Class Race
   distinctions 24
   text 24
   lotr_page_id 24
-  notable_members 20 ++
+  notable_members 20 ++ (characters)
   height 18
   languages 17
   lifespan 17

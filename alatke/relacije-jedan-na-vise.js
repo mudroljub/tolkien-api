@@ -1,4 +1,4 @@
-const podaci = require('../data/locations.json')
+const podaci = require('../data/races.json')
 const odrednice = require('../data/cultures.json')
 const veza = 'cultures'
 
