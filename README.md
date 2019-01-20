@@ -14,53 +14,59 @@ Otvaranje članka po id-u:
 
 Class Character
 
-  name 377
-  text 377
-  gender 377
-  lotr_page_id 377
-  race 377 +
-  culture 358 +
-  birth 338
-  death 337
-  titles 300
-  other_names 271
-  spouse 270
+  name 385
+  race 385 +
+  gender 385
+  text 385
+  lotr_page_id 385
+  culture 364 +
+  birth 345
+  death 342
+  titles 306
+  spouse 275
+  other_names 273
   hair 234
-  weapon 214
-  location 134 +
-  rule 92
-  height 70
-  eyes 62
-  parentage 39
-  house 27
-  siblings 26
-  children 25
+  weapon 216
+  location 142 +
+  rule 93
+  height 71
+  eyes 64
+  parentage 44
+  siblings 29
+  house 28
 
-Class Battle
+Class Race
 
-  name 82
-  lotr_page_id 82
-  location 82 +
-  text 82
-  conflict 44
-  outcome 44
-  date 43
+  name 24
+  locations 24 ++
+  distinctions 24
+  text 24
+  lotr_page_id 24
+  characters 20 ++
+  height 18
+  languages 17
+  lifespan 17
+  skin_color 15
+  other_names 12
+  origins 12
+  hair_color 8
+  cultures 7 ++
 
 Class Culture
 
-  name 94
-  text 94
-  lotr_page_id 94
-  locations 52
-  notable_members 46 ++
-  languages 43
-  lifespan 39
-  other_names 28
+  name 98
+  text 98
+  lotr_page_id 98
+  locations 56 ++
+  characters 49 ++
+  languages 46
+  lifespan 41
+  other_names 31
+  distinctions 28
   height 27
-  distinctions 26
-  origins 25
-  skin_color 23
-  hair_color 18
+  origins 27
+  skin_color 24
+  hair_color 19
 
 Class Location
 
@@ -80,24 +86,15 @@ Class Location
   major_towns 34
   capital 31
 
-Class Race
+Class Battle
 
-  name 24
-  locations 24
-  distinctions 24
-  text 24
-  lotr_page_id 24
-  notable_members 20 ++ (characters)
-  height 18
-  languages 17
-  lifespan 17
-  skin_color 15
-  other_names 12
-  origins 12
-  affiliation 10
-  hair_color 8
-  rivalries 8
-  cultures 7  ++
+  name 82
+  lotr_page_id 82
+  location 82 +
+  text 82
+  conflict 44
+  outcome 44
+  date 43
 
 Class Artefact
 

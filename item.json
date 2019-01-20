@@ -1,9 +1,16 @@
 {
-  "name": "Squint-eyed Southerner",
-  "lotr_page_id": "12103",
-  "text": "The SOUTHERNER (aka the SQUINT-EYED SOUTHERNER ) was an old man from the\nhills of Dunland, an outlaw with possible Orc ancestry.\n\n\nBiography\n\nThe Squint-eyed Southerner's true name is unknown. It was rumored that\nhe was a Half-orc and had been driven from Dunland. He was Saruman\nthe White's agent and was put in charge of the negotiation and purchase\nof Pipe-weed and other supplies for Isengard during the war. His orders\nwere also to penetrate the Shire further and learn of any departure of\nany important people recently. He was cornered with Bill Ferny in\nTharbad by the Nazgûl, where out of fear for his own life, he betrayed\nSaruman's own secrets about knowledge of the Shire.\n\nThe Southerner was in league with Bill Ferny and met him in Bree where\nhe told him who Frodo, Sam, Pippin, and Merry were. He was seen in\nFerny's house by the departing company as they were about to leave Bree.\nHe was also called the GOBLIN MAN.",
-  "position": "Spy",
-  "location": "Dunland",
-  "affiliation": "Saruman",
-  "gender": "Male"
+  "name": "The King of the Dead",
+  "lotr_page_id": "5306",
+  "text": "The KING OF THE DEAD or originally KING OF THE MOUNTAINS was the King of\nthe Dead Men of the Mountains in Dwimorberg, and before that had been a\nreal Man. His spirit resided along with that of his kin in the Paths of\nthe Dead.\n\n\nBiography\n\nIn the later years of the Second Age, he and his men also served and\nworshiped Sauron, until he and his army found Gondor. Isildur was the\nKing of Gondor at that time. The King of the Dead made an oath to fight\non Isildur's side when Isildur needed him, but when Isildur needed him\nmost he did not come. Isildur cursed the King of the Dead and his army.\nThen the King of the Dead could not rest until his oath was fulfilled.\nIn _The Return of the King_, the king and his army fought with Aragorn\nand the Grey Company at Pelargir. There they defeated the Corsairs of\nUmbar and an army of Haradrim. When the battle was over and Aragorn, as\nthe Heir of Isildur, told the Army of the Dead that the oath was\nfulfilled, the king broke his spear and threw it aside. Then he bowed to\nAragorn, turned away, and, with the rest of his people, “vanished like a\nmist that is driven back by a sudden wind,” never to be seen again.",
+  "other_names": "True name unknown",
+  "titles": "King of the Mountains, King of the Dead, King of Dead Men of Dunharrow, Lord of the Paths of the Dead, Leader of the Army of the Dead, King of the Oathbreakers",
+  "birth": "Second Age",
+  "rule": "Second Age - TA 3019",
+  "death": "Sometime after the War of the Last Alliance (first death), March, 3019, (final death)",
+  "location": "Paths of the Dead",
+  "weapon": "Sword, Spear",
+  "race": "Undead",
+  "gender": "Male",
+  "height": "Tall",
+  "culture": "Army of the Dead"
 }
