@@ -1,22 +1,21 @@
-const podaci = require('../data/races.json')
-const odrednice = require('../data/cultures.json')
-const veza = 'cultures'
+const podaci = require('../data/cultures.json')
+const odrednice = require('../data/characters.json')
+const veza = 'characters'
 
-const koristeniKarakteri = podaci.reduce((acc, x) => {
+const koristeno = podaci.reduce((acc, x) => {
   if (x[veza]) {
     return new Set([...acc, ...x[veza].split(", ")].sort())
   }
   return acc
 }, new Set())
 
-const a = new Set(podaci.map(x => x.cultures).sort())
-const postojeci = new Set(odrednice.map(x => x.name).sort())
+const postojece = new Set(odrednice.map(x => x.name).sort())
 const razlika = new Set(
-  [...koristeniKarakteri].filter(x => !postojeci.has(x)).sort())
+  [...koristeno].filter(x => !postojece.has(x)).sort())
 
 console.log("Koristeno: ")
-console.log(koristeniKarakteri)
-// console.log("Svi postojeci: ")
-// console.log(postojeci)
+console.log(koristeno)
+// console.log("Postojece: ")
+// console.log(postojece)
 console.log("Fali: ")
 console.log(razlika)

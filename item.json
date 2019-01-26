@@ -1,16 +1,15 @@
 {
-  "name": "The King of the Dead",
-  "lotr_page_id": "5306",
-  "text": "The KING OF THE DEAD or originally KING OF THE MOUNTAINS was the King of\nthe Dead Men of the Mountains in Dwimorberg, and before that had been a\nreal Man. His spirit resided along with that of his kin in the Paths of\nthe Dead.\n\n\nBiography\n\nIn the later years of the Second Age, he and his men also served and\nworshiped Sauron, until he and his army found Gondor. Isildur was the\nKing of Gondor at that time. The King of the Dead made an oath to fight\non Isildur's side when Isildur needed him, but when Isildur needed him\nmost he did not come. Isildur cursed the King of the Dead and his army.\nThen the King of the Dead could not rest until his oath was fulfilled.\nIn _The Return of the King_, the king and his army fought with Aragorn\nand the Grey Company at Pelargir. There they defeated the Corsairs of\nUmbar and an army of Haradrim. When the battle was over and Aragorn, as\nthe Heir of Isildur, told the Army of the Dead that the oath was\nfulfilled, the king broke his spear and threw it aside. Then he bowed to\nAragorn, turned away, and, with the rest of his people, “vanished like a\nmist that is driven back by a sudden wind,” never to be seen again.",
-  "other_names": "True name unknown",
-  "titles": "King of the Mountains, King of the Dead, King of Dead Men of Dunharrow, Lord of the Paths of the Dead, Leader of the Army of the Dead, King of the Oathbreakers",
-  "birth": "Second Age",
-  "rule": "Second Age - TA 3019",
-  "death": "Sometime after the War of the Last Alliance (first death), March, 3019, (final death)",
-  "location": "Paths of the Dead",
-  "weapon": "Sword, Spear",
-  "race": "Undead",
+  "name": "Frumgar",
+  "lotr_page_id": "2274",
+  "text": "FRUMGAR was the fourth Lord of the Éothéod and the ancestor of Eorl the\nYoung.\n\n\nBiography\n\nFrumgar led his people away from the Vales of Anduin in a migration to\nthe land between the rivers Langwell and Greylin after the overthrown of\nAngmar, to escape the ever increasing dangers of their former home.",
+  "titles": "Lord of the Éothéod",
+  "birth": "TA 1940",
+  "death": "TA 2001",
+  "spouse": "Unnamed wife",
+  "race": "Men",
   "gender": "Male",
-  "height": "Tall",
-  "culture": "Army of the Dead"
+  "culture": "Éothéod",
+  "location": "North-west Rhovanion",
+  "language": "language of the Éothéod",
+  "children": "Fram"
 }

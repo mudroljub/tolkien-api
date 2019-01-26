@@ -2548,6 +2548,34 @@
     "major_towns": "Tharbad"
   },
   {
+    "name": "Grey Havens",
+    "lotr_page_id": "2376",
+    "text": "GREY HAVENS, known also as MITHLOND, was an Elvish port city on the Gulf\nof Lune in the Elven realm of Lindon in Middle-earth.\n\n\nDescription\n\nBecause of its cultural and spiritual importance to the Elves, the Grey\nHavens in time became the primary Elven settlement west of the Misty\nMountains prior to the establishment of Eregion and, later, Rivendell.\nEven after the death of Gil-galad and as the Elves dwindled in numbers\nby the year, the Grey Havens remained a focal point of the history in\nthe northern part of Middle-earth.\n\nDespite being a major port, the Grey Havens had sparse population, like\nRivendell and northeastern Mirkwood.\n\n\nHistory\n\nSecond Age\n\nThe Grey Havens was founded at the beginning of the Second Age by the\nsurviving Elves of the realm of Beleriand, those who chose to remain on\nMiddle-earth after the wars against Morgoth.\n\nIt was frequently visited from the west by the Númenoreans. On SA 1700,\nTar-Minastir sent great fleets from Númenor to the Havens in assistance\nin the war against Sauron.\n\nIt was also one of the main sources for the Elven fleet of ships that\nsailed back and forth between Middle Earth and Eldamar in Aman.\n\nThird Age\n\nIn TA 1000, the Istari arrived in Middle-earth, and it was here where\nCírdan gave Narya, the Elven Ring of Fire, to Gandalf.\n\nDuring the War of the Ring, Galdor of the Havens was among the members\nof the Council of Elrond.\n\nAfter the defeat of Sauron and the coronation of Aragorn II Elessar,\nGandalf, Galadriel, and Elrond left for Valinor from the Grey Havens.\nThe Ring-bearers Bilbo Baggins and Frodo Baggins accompanied them to\nValinor. Years later, Samwise Gamgee did likewise, himself being a\nRing-bearer (although briefly).\n\n\nFate\n\nThe Grey Havens still existed into the Fourth Age under Círdan, but its\npopulation declined as did the elven presence in Middle-earth. It is\nunclear just what the Fate of the Elves of Middle-earth was in the early\nFourth Age and how long Círdan or his remaining folk dwelled at the\nHavens and continued to build the great ships that carried the Elves to\nthe Blessed Realm.\n\n\nEtymology\n\n_MITHLOND_ means “Grey Haven(s)”, from the Sindarin _mith_ (“grey”) and\n_lond_ (“haven, harbour”).",
+    "type": "City/Port, Haven",
+    "other_names": "Mithlond, The Havens",
+    "location": "Central Lindon",
+    "regions": "Eriador",
+    "race": "Ñoldor, Sindar Elves",
+    "spoken_languages": "Sindarin, Westron",
+    "governance": "Círdan the Shipwright",
+    "founded_or_built": "SA 1",
+    "lifespan": "SA 1 - Fourth Age",
+    "description": "An important coastal port, at the mouth of the Lhûn river",
+    "inhabitants": "Elves of Lindon",
+    "created": "S.A. 1"
+  },
+  {
+    "name": "March of Maedhros",
+    "lotr_page_id": "873",
+    "text": "The MARCH OF MAEDHROS was an Elven realm in the eastern Beleriand\nbetween Dorthonion and the Blue Mountains next to his younger brother's\ndomain.\n\nIt consisted of a series of hills and plains.\n\n\nHistory\n\nThe March of Maedhros was fortified by Maedhros after he moved his\nbrothers and their people out of Hithlum further east to avoid any feuds\nwith their kinsmen. He established himself on the Hill of Himring. It\nwithstood the frequent attacks by the forces of Angband throughout the\nFirst Age, standing strong in the Battles of Beleriand including the\nravages of the Dagor Bragollach (Battle of Sudden Flame). It was finally\noverrun during the Nirnaeth Arnoediad (Battle of Unnumbered Tears) in FA\n473.",
+    "location": "North-eastern Beleriand",
+    "capital": "Himring",
+    "population": "Noldor",
+    "governance": "Maedhros",
+    "founded": "F.A. 7",
+    "defeated": "By F.A. 540"
+  },
+  {
     "name": "Paths of the Dead",
     "lotr_page_id": "2646",
     "text": "The PATHS OF THE DEAD was a haunted pass through the White Mountains.\nThe paths started at the Dark Door at the end of the long valley of\nHarrowdale, beyond the Firienfeld and the forest of Dimholt, wedged in\nbetween the mountains Irensaga, Starkhorn, and the Dwimorberg.\n\n\nHistory\n\nAfter the Dark Door, the Paths went under the Dwimorberg, past another\ndoor where Aragorn and company found the remains of Baldor, son of the\nsecond King of Rohan, Brego. The Paths then continued past forgotten\ncities, emerging at the southern end of the White Mountains in Morthond\nvale, near the Stone of Erech.\n\nIn the Second Age, a people related to the Dunlendings had lived in the\nWhite Mountains, and they had for a time served the Dark Lord Sauron.\nThey later swore allegiance to Isildur of Gondor and Arnor, but betrayed\nhim during the Last Alliance of Elves and Men and refused to fight on\neither side. For this reason, Isildur cursed them, proclaiming that, if\nthe Alliance triumphed, they would linger in the mountains until one of\nhis heirs called them again to fight against Sauron.\n\nIsildur's curse succeeded: their people dwindled and eventually died\nout, until only their ghosts remained at the end of the Third Age. When\nAragorn and company took the Paths of the Dead and, deep within the\nmountains, summoned them to the Stone of Erech, their shades followed\nhim. At the Stone at midnight, Aragorn unfurled his banner, declared\nhimself the heir of Isildur, and commanded the dead to aid him; they\nobeyed, and defeated the armies of the Corsairs of Umbar who were\nattacking the landings in southern Gondor. (Supposedly, the only weapon\nthat they required was fear, driving their enemies to cast themselves\nmadly into the sea.) When those foes were defeated and Aragorn could\nclaim the black ships of the Corsairs for his own, he declared that the\ncurse was lifted, and the dead departed forever. When the dead had gone,\nthe men of southern Gondor joined Aragorn in the ships and sailed to the\naid of Minas Tirith.\n",
