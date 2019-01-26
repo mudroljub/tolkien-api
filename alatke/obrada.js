@@ -8,7 +8,7 @@ const obradjeno = podaci
     //    x.cultures = x.inhabitants
     //    delete x.inhabitants
     //  }
-    delete x.siblings
+    delete x.house
     return x
   })
 

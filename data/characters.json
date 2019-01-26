@@ -60,7 +60,6 @@
     "text": "IMINYË was an Elf of Cuiviénen.\n\n\nBiography\n\nIminyë was awoken by the Elf who became her husband. She became the wife\nof Imin, the first of the Elves to awaken in Cuivienen. Not much is\nknown about her life afterwards.",
     "location": "Cuiviénen",
     "birth": "Y.T. 1050, Cuiviénen",
-    "parentage": "None: Firstborn",
     "spouse": "Imin",
     "gender": "Female",
     "death": "Unknown",
@@ -110,8 +109,6 @@
     "text": "HILD was a noble woman who lived in Rohan.\n\nShe was the daughter of King Gram, the eighth King of Rohan and the\nsister of Helm Hammerhand, the ninth King of Rohan. She was the mother\nof Fréaláf, who became the first King of Rohan in the second line.\n",
     "location": "Rohan",
     "birth": "Fl. T.A. early 28th century",
-    "house": "House of Eorl",
-    "parentage": "Gram",
     "race": "Men",
     "culture": "Rohirrim",
     "gender": "Female"
@@ -190,8 +187,6 @@
     "location": "Gondor",
     "death": "T.A. 1437 (aged 107+)",
     "birth": "Before T.A. 1330",
-    "parentage": "Eldacar",
-    "house": "House of Anárion",
     "gender": "Male",
     "race": "Men",
     "culture": "Men of Gondor"
@@ -264,7 +259,7 @@
     "race": "Men",
     "gender": "Male",
     "culture": "Éothéod",
-    "location": "North-west Rhovanion"
+    "location": "Rhovanion"
   },
   {
     "name": "Ebor",
@@ -519,8 +514,6 @@
     "text": "MINASTAN was a man of Gondor, born sometime after TA 1516, who was the\nsecond son of Minardil and father of Tarondor. His elder brother\nTelemnar was King of Gondor for only two years until he died in the\nGreat Plague of 1636. Minastan might have died too in that Plague, or\nelse he died earlier. \n\nMinastan's son succeeded Telemnar on the throne, beginning a new\nline.",
     "location": "Gondor",
     "birth": "After T.A. 1516",
-    "house": "House of Anárion",
-    "parentage": "Minardil",
     "race": "Men",
     "culture": "Men of Gondor",
     "gender": "Male"
@@ -546,8 +539,6 @@
     "location": "Thargelion",
     "birth": "F.A. 341, Thargelion",
     "death": "F.A. 375, Battle of the Gelion-Ascar Stockade",
-    "house": "House of Haleth",
-    "parentage": "Haldad",
     "gender": "Male",
     "race": "Men",
     "culture": "House of Haleth"
@@ -689,19 +680,6 @@
     "culture": "Avari"
   },
   {
-    "name": "Lungorthin",
-    "lotr_page_id": "7165",
-    "text": "LUNGORTHIN was a Balrog mentioned in earlier versions of _The\nSilmarillion_. Biography Like Gothmog, he bore the title of “Lord of\nBalrogs”. He was the captain of security in Angband and, like his\nsuperior officer, Gothmog, was fiercely loyal to his lord, Morgoth. It\nis unknown if he was an earlier version of Gothmog, but he might have\nbeen a different Balrog altogether. de:Lungorthin es:Lungorthin\nit:Lungorthin ru:Лунгортин",
-    "titles": "Lord of Balrogs, Captain of Angband",
-    "birth": "Before the creation of Arda",
-    "death": "First Age ??",
-    "weapon": "Fiery weapons",
-    "race": "Balrogs",
-    "gender": "Male",
-    "hair": "Mane of red flame",
-    "culture": "Demons"
-  },
-  {
     "name": "Beechbone",
     "lotr_page_id": "3460",
     "text": "BEECHBONE was one of the younger Ents who lived in the Fangorn Forest.\nBiography Not much is known about the life of Beechbone, apart from that\nhe took part in Battle of Isengard with the other Ents on March 3, 3019.\nIn the book _The Two Towers_, he was caught on fire by the gas let out\nby the Uruk-hai and apparently burned to death. However, this only\nencouraged the other Ents to double their efforts in destroying\nIsengard.",
@@ -722,6 +700,19 @@
     "race": "Orcs",
     "gender": "Male",
     "culture": "Orcs of Mordor"
+  },
+  {
+    "name": "Lungorthin",
+    "lotr_page_id": "7165",
+    "text": "LUNGORTHIN was a Balrog mentioned in earlier versions of _The\nSilmarillion_. Biography Like Gothmog, he bore the title of “Lord of\nBalrogs”. He was the captain of security in Angband and, like his\nsuperior officer, Gothmog, was fiercely loyal to his lord, Morgoth. It\nis unknown if he was an earlier version of Gothmog, but he might have\nbeen a different Balrog altogether. de:Lungorthin es:Lungorthin\nit:Lungorthin ru:Лунгортин",
+    "titles": "Lord of Balrogs, Captain of Angband",
+    "birth": "Before the creation of Arda",
+    "death": "First Age ??",
+    "weapon": "Fiery weapons",
+    "race": "Balrogs",
+    "gender": "Male",
+    "hair": "Mane of red flame",
+    "culture": "Demons"
   },
   {
     "name": "Axantur",
@@ -1081,7 +1072,6 @@
     "text": "HALDAD was a leader of the Haladin (House of Haleth) in Thargelion.\n\nHe became their leader when a swarm of orcs assaulted his people. He\ncreated a defensive stockade between the two rivers Gelion and Ascar and\nwas besieged by orcs. They exhausted their food supply, and Haldad led a\nsortie against the orcs, only to be slain. His son, Haldar, was also\nslain while trying to retrieve his body. His daughter, Haleth, led the\nHaladin through another week of starvation until Caranthir and his army\nrescued them.\n\n-   \n\nit:Haldad pl:Haldad ru:Халдад",
     "titles": "Chieftain of the Haladin",
     "location": "Thargelion",
-    "house": "House of Haleth",
     "birth": "F.A. 315, Thargelion",
     "height": "House of Haleth",
     "gender": "Male",
@@ -1140,12 +1130,11 @@
     "titles": "Elf-father, Leader of the Minyar",
     "location": "Cuiviénen",
     "birth": "Y.T. 1050, Cuiviénen",
-    "parentage": "None; one of the Firstborn",
     "spouse": "Iminyë",
     "gender": "Male",
     "death": "Unknown",
     "race": "Elves",
-    "culture": "Vanyar-elves"
+    "culture": "Vanyar"
   },
   {
     "name": "Primula Brandybuck",
@@ -1181,7 +1170,7 @@
     "text": "GALION was a Nandorin Wood-elf of the Woodland Realm in Northern\nMirkwood.\n\n\nBiography\n\nGalion was the King's butler and was probably one of his many servants.\nHe was also charged with shipping out the empty barrels into the\nunderground river down the Long Lake and finally back to Lake-town. He\nwas very fond of his wine. It is not known when or where he was actually\nborn or if he lived in the realm when it was known as _Greenwood the\nGreat_. Drinking with the guard captain, he fell asleep allowing Bilbo\nto steal the keys and release the Dwarves from prison.",
     "race": "Elves",
     "gender": "Male",
-    "culture": "Elves of Mirkwood"
+    "culture": "Wood Elves"
   },
   {
     "name": "Brodda",
@@ -1402,7 +1391,6 @@
     "other_names": "Andy",
     "location": "Westfarthing",
     "birth": "S.R. 1323",
-    "parentage": "Hobson \"Roper\" Gamgee",
     "race": "Hobbits",
     "culture": "Hobbits of the Shire",
     "gender": "Male"
@@ -1865,7 +1853,7 @@
     "death": "Unknown, early Fourth Age",
     "spouse": "Unknown",
     "weapon": "Tooth and claw (in bear-form)",
-    "race": "Man",
+    "race": "Men",
     "gender": "Male",
     "height": "Tall (in Man-form)",
     "hair": "Dark",
@@ -1896,8 +1884,7 @@
     "race": "Men",
     "gender": "Male",
     "culture": "Éothéod",
-    "location": "Rhovanion",
-    "parentage": "Marhwini"
+    "location": "Rhovanion"
   },
   {
     "name": "Arathorn II",
@@ -1922,10 +1909,8 @@
     "spouse": "Unknown",
     "race": "Men",
     "gender": "Male",
-    "culture": "Dúnedain (House of Anárion), Haradrim, Corsairs of Umbar",
-    "location": "Umbar",
-    "house": "House of Anárion",
-    "parentage": "unknown; great-grandson of Castamir"
+    "culture": "Corsairs of Umbar",
+    "location": "Umbar"
   },
   {
     "name": "Almarian",
@@ -2143,7 +2128,6 @@
     "lotr_page_id": "2781",
     "text": "GHÂN-BURI-GHÂN was the chief of the Drúedain living in the Drúadan\nForest in the latter half of the Third Age.\n\n\nBiography\n\nGhân-buri-Ghân's early history is unknown. He was best known for giving\naid to King Théoden's relief army of Rohirrim to the aid of the city of\nMinas Tirith during the Siege of Gondor. He guided them through a safe\npath through the secret pass of Stonewain Valley to avoid being attacked\nby the Orcs, so they could safely reach Minas Tirith with reinforcements\nbefore it was conquered by the enemy. In return, Théoden promises that\nhis people will make peace with the Drúedain, and that his people will\nbattle and drive away the Gorgûn (Orcs), that have been troubling the\nDrúedain for years.\n\nWhen Aragorn became King of the Reunited Kingdom, the Drúadan Forest\nofficially belonged to Ghân-buri-Ghân and his people, and no one could\nenter it without their permission.",
     "location": "Drúadan Forest",
-    "parentage": "Ghân",
     "gender": "Male",
     "height": "Short",
     "other_names": "Ghan, Chieftain of the Woses",
@@ -2208,10 +2192,9 @@
     "weapon": "Sword, spear, bow",
     "race": "Men",
     "gender": "Male",
-    "culture": "Easterlings of Morgoth",
+    "culture": "Easterlings",
     "other_names": "\"the Accursed\"",
-    "location": "Around the March of Maedhros",
-    "parentage": "Ulfang"
+    "location": "March of Maedhros"
   },
   {
     "name": "Squint-eyed Southerner",
@@ -2335,8 +2318,7 @@
     "race": "Elves",
     "gender": "Female",
     "hair": "Star-like Silver",
-    "culture": "Falmari",
-    "house": "House of Olwë"
+    "culture": "Falmari"
   },
   {
     "name": "Belecthor II",
@@ -2755,8 +2737,7 @@
     "gender": "Male",
     "hair": "Fair",
     "eyes": "Unsteady and glittering",
-    "culture": "Edain",
-    "house": "House of Hador"
+    "culture": "Edain"
   },
   {
     "name": "Ingwë",
@@ -2875,8 +2856,8 @@
     "lotr_page_id": "3077",
     "text": "OLD MAN WILLOW was a great willow tree of the Old Forest; he was the\nroot cause of much of the Forest's anger and hatred towards trespassers.\nHe was most likely a Huorn, as the Old Forest was originally part of the\nsame primordial forest as Fangorn. He had great power within the Old\nForest, and was able to direct all paths in the woodland to him.\n\nTom Bombadil had power over Old Man Willow, and checked the evil in him\nas much as he could, or was willing to.\n\n\nHistory\n\nIn _The Fellowship of the Ring_, Old Man Willow casts a spell on the\nHobbits (Frodo, Sam, Merry and Pippin), causing them to feel sleepy.\nMerry and Pippin lean against his trunk and fall asleep, while Frodo\nsits on a root to dangle his feet in the water, before also falling\nasleep. The ill spirit then traps Merry and Pippin in the folds of its\ntrunk. Sam and Frodo attempt to burn Old Man Willow in order to release\ntheir friends, but Old Man Willow communicates to Merry, who is still\ninside his roots, that if the burning does not cease, the Hobbits would\nbe squeezed in two. They are saved by the timely arrival of Tom\nBombadil, who 'sings' the ancient tree to sleep. Whether or not Old Man\nWillow is truly evil remains a mystery. It is possible that he\nrepresents the anger and bitterness of nature toward those who try to\ndestroy it.",
     "other_names": "The Great Willow; \"Old grey Willow-man\"",
-    "location": "The Old Forest",
-    "race": "Huorn",
+    "location": "Old Forest",
+    "race": "Huorns",
     "gender": "Male",
     "weapon": "Spells",
     "birth": "Unknown"
@@ -3082,9 +3063,7 @@
     "race": "Dwarves",
     "gender": "Male",
     "culture": "Dwarves of the Lonely Mountain",
-    "location": "Khazad-dûm",
-    "house": "House of Durin",
-    "parentage": "Gróin"
+    "location": "Khazad-dûm"
   },
   {
     "name": "Araphor",
@@ -3222,12 +3201,10 @@
     "rule": "FA 363? - FA 420",
     "death": "FA 420",
     "spouse": "None",
-    "parentage": "Haldad",
     "race": "Men",
     "gender": "Female",
     "culture": "Edain",
-    "location": "Brethil",
-    "house": "House of Haleth"
+    "location": "Brethil"
   },
   {
     "name": "Argon",
@@ -3253,11 +3230,9 @@
     "location": "Rohan",
     "birth": "Before T.A. 2544",
     "death": "T.A. 2570, Paths of the Dead",
-    "house": "House of Eorl",
     "gender": "Male",
     "race": "Men",
     "culture": "Rohirrim",
-    "parentage": "Brego",
     "other_names": "\"the Hapless\""
   },
   {
@@ -3266,7 +3241,6 @@
     "text": "MARHWINI was the first lord of the people who became known as the\nÉothéod, later the Rohirrim.\n\n\nBiography\n\nMarhwini was the son of Marhari, who led a remnant of the Northmen to\nbattle alongside Gondor to stop the advance of the Wainriders years\nearlier. Through Marhari his father, he was also a direct descendant of\nVidugavia, 'King of Rhovanion'.\n\nMarhwini's father Marhari first aligned his people with Gondor in a\nfight with the Wainriders called the Battle of the Plains. In that\nconflict, King Narmacil II of Gondor was slain, as was Marhari. Marhwini\nthen led a remnant of what remained of the Northmen to the vales of\nAnduin, where they mixed with fugitives escaped from the east. This was\nthe beginning of the culture that would become the Rohirrim.\n\nDuring the reign of Calimehtar, King of Gondor, Marhwini sent word to\nGondor that a host of Wainriders was preparing to assault the land of\nCalenardhon (later Rohan). Eager to avenge Gondor's prior defeat by the\nWainriders, Calimehtar led an army out of Gondor and joined with\nNorthmen under Marhwini. The combined force overwhelmed the Wainriders'\narmy. As Marhwini had hoped, many thralls of the Wainriders who had once\nbeen among the Northmen revolted, and caused their captor's settlements\nto be destroyed. As the Wainriders retreated from battle, they were\nforced to return far to the east, having been defeated and driven from\ntheir homes. Thus were the Men of Éothéod for a time victorious.\n\nHe had a son named Forthwini.\n\n\nEtymology\n\n_Marhwini_ means _horse-friend_, and is taken from the Gothic language\nwith _Marh_ (mearh in Old English) meaning 'horse' and _wini_ (winë in\nOld English) meaning 'friend'.",
     "titles": "Lord of the Éothéod",
     "rule": "From TA 1856",
-    "parentage": "Marhari",
     "race": "Men",
     "gender": "Male",
     "culture": "Éothéod",
@@ -3461,8 +3435,6 @@
     "birth": "Between Y.T. 1050 and Y.T. 1250, Mount Gundabad",
     "rule": "Years of the Trees - Late First Age",
     "death": "Late First Age (aged at least 2,395), Khazad-dûm",
-    "house": "Founded the House of Durin",
-    "parentage": "None; created by Aulë",
     "gender": "Male"
   },
   {
@@ -3626,8 +3598,7 @@
     "race": "Elves",
     "gender": "Male",
     "hair": "Golden",
-    "culture": "Noldor",
-    "house": "House of Finrod"
+    "culture": "Noldor"
   },
   {
     "name": "Amras",
@@ -3691,12 +3662,11 @@
     "gender": "Male",
     "hair": "Possibly dark",
     "culture": "Grey Elves",
-    "location": "Doriath",
-    "house": "House of Thingol"
+    "location": "Doriath"
   },
   {
     "name": "Beorn",
-    "race": "Man",
+    "race": "Men",
     "text": "BEORN was a Northman, a Skin-changer, and a Beorning chieftain. Beorn's\nkin once inhabited the North of the Anduin valley between the Misty\nMountains and Mirkwood during the last centuries of the Third Age. They\nguarded the Ford of Carrock from the Goblins and Wargs.\n\n\nBiography\n\nThird Age\n\nBeorn was a warrior with great strength who could turn into a great\nblack bear. In human form, he appeared as a, tall, black-haired man with\nhuge arms and a great beard. Beorn kept many animals at his residence,\nsuch as horses, dogs and sheep. His animals were all extremely\nintelligent; his dogs, for instance, could walk on their hind legs while\ncarrying things with their forelegs, set the table, and able to speak.\nBeorn's horses could also understand what their master said. Beorn was\nalso capable of speaking in the tongue of beasts, as he could\ncommunicate with bears. When he spoke to his dogs, his words sounded\nlike “barks twisted into some form of speech”.\n\nThe Quest of Erebor\n\n\n\nIn the years following the Battle of Five Armies, Beorn became a great\nchieftain among the folk of the Anduin Vales and his followers became\nknown as the Beornings. At some point he took a wife and sired a son,\nGrimbeorn, later known as Grimbeorn the Old. Before the War of the Ring,\nBeorn passed away, and his son Grimbeorn eventually took over his\nduties as chieftain. \n\n\nEtymology\n\nThe name _BEORN_ originates from an Old English term that means\n“warrior” . It is a cognate to the Old Norse _bjǫrn_ which means\n“bear”.\n\n\nCharacter\n\nDespite being incredibly powerful, Beorn respects all life forms, with\nthe absolute exception of Goblins and Wargs. He has a magic-like effect\non his animals, who seemed to be more intelligent and strong than other\nanimals. He keeps bee pastures and spends his nights patrolling the\nwoods and mountains in the form of a bear. He is wise, mysterious and\npowerful, possessing incredible strength and durability. He is fairly\ndecent, as he allows Thorin and Company to stay at his home for a short\nwhile and even offers them sanctuary from the Goblins. He is also\nvengeful. When Thorin is fatally wounded, he storms the Goblin ranks,\nrescues Thorin and then returns, destroying the Goblins and killing Bolg\nhimself.",
     "titles": "Chieftain of the Beornings",
     "birth": "During the last years of the Second Age",
@@ -3842,8 +3812,7 @@
     "height": "Tall",
     "hair": "Golden",
     "eyes": "Blue or grey",
-    "culture": "Edain",
-    "house": "House of Hador"
+    "culture": "Edain"
   },
   {
     "name": "Bëor",
@@ -3923,7 +3892,6 @@
     "text": "DWALIN was one of the Dwarves who travelled with Bilbo and Gandalf on\nthe quest to regain the Lonely Mountain from Smaug. He is the brother of\nBalin and the youngest son of Fundin.\n\nTall, moody, strong and very brave, Dwalin is a Dwarf through and\nthrough. A famous warrior, powerful ally and muscular, Dwalin would like\nnothing more than to see the return of the Dwarven King under the\nMountain.\n\n\nBiography\n\nEarly life\n\nBorn in TA 2772, two years after the dragon Smaug had come to Erebor and\ntook over the Kingdom, Dwalin was the son of Fundin and younger brother\nof Balin (though he is taller). After fighting in the Battle of\nAzanulbizar at the age of 27, Dwalin accompanied Thrain the Second and\nThorin Oakenshield to settle peacefully in the northern Ered Luin\n\nLater in TA 2841, Dwalin, along with his brother Balin, and a few others\naccompanied Thráin when he left the Ered Luin to visit Erebor. The small\nparty was dogged by the emissaries of Sauron. In TA 2845, Thráin was\ncaptured one night when he and his companions sheltered under the eaves\nof Mirkwood from a black rain. After a fruitless search for their\nleader, the Dwarves gave up and returned to Thorin to inform him the\nnews.\n\nQuest of Erebor\n\nDwalin was the first Dwarf to arrive, alone, at Bag End when the\nunexpected party began at Bilbo's hobbit hole. He was wearing a\ndark-green hood and walked in as if expected, which greatly surprised\nBilbo. Soon Balin arrived and he and Dwalin sat talking while Bilbo kept\nanswering the door for the arrival of more and more Dwarves. Later, when\nBilbo griped aloud in his kitchen about the lack of help in setting out\nrefreshments, Dwalin and Balin were the first (followed by Fíli and\nKíli) to lend a hand. Later still, when the Dwarves filled Bag End with\nmusic, Dwalin played on a viol as big as himself. Dwalin lent a green\nhood and cloak to Bilbo when they set out on their journey.\n\nAfter reclaiming the mountain from Smaug, Dwalin fought in the Battle of\nFive Armies and was one of those that survived the terrible battle. He\nlater received his fourteenth share and chose to live in Erebor under\nthe rule of Dáin II Ironfoot, Thorin's cousin.\n\nLater life\n\nDwalin was one of seven of the ten Dwarves of Thorin's company who were\nstill living in Erebor when Frodo came to Rivendell, as reported by\nGlóin. After the War of the Ring was over, resulting the defeat of\nSauron and the destruction of the One Ring, Dwalin lived throughout his\nlife in the Fourth Age in Middle-earth and passed away in FO 91 at the\nage of 340, considered later than any other known date of death for\nothers of the company.",
     "birth": "TA 2772",
     "death": "FO 91",
-    "parentage": "Fundin",
     "weapon": "Axe(s)",
     "race": "Dwarves",
     "gender": "Male",
@@ -3973,8 +3941,7 @@
     "gender": "Female",
     "height": "Tall",
     "hair": "Dark, grey in old age",
-    "culture": "Edain",
-    "house": "House of Bëor"
+    "culture": "Edain"
   },
   {
     "name": "Denethor",
@@ -3985,14 +3952,12 @@
     "rule": "TA 2984 - TA 3019 (35 years)",
     "death": "March 15, 3019",
     "spouse": "Finduilas",
-    "parentage": "Ecthelion II",
     "weapon": "Sword and knife",
     "race": "Men",
     "gender": "Male",
     "hair": "Dark, grey (in old age)",
     "culture": "Men of Gondor",
-    "location": "Gondor",
-    "house": "House of Húrin"
+    "location": "Gondor"
   },
   {
     "name": "Castamir the Usurper",
@@ -4020,7 +3985,6 @@
     "birth": "FA 532",
     "rule": "SA 32 - SA 442 (410 years)",
     "death": "SA 442",
-    "parentage": "Eärendil, father, Elwing, mother, Maglor, foster father",
     "weapon": "Aranrúth, Dramborleg",
     "race": "Half-elven",
     "gender": "Male",
@@ -4049,7 +4013,6 @@
     "birth": "Late Second Age ?",
     "death": "Sailed West either SA 3310 or SA 3316, fate unknown",
     "spouse": "Unnamed wife",
-    "parentage": "Númendil",
     "gender": "Male",
     "culture": "Numenoreans",
     "lotr_page_id": "2498",
@@ -4232,7 +4195,6 @@
     "birth": "SA 3219",
     "rule": "SA 3320 - SA 3440 (120 years)",
     "death": "SA 3440",
-    "parentage": "Elendil",
     "weapon": "Sword",
     "race": "Men",
     "gender": "Male",
@@ -4247,7 +4209,6 @@
     "birth": "SA 3219",
     "rule": "SA 3320 - SA 3440 (120 years)",
     "death": "SA 3440",
-    "parentage": "Elendil",
     "weapon": "Sword",
     "gender": "Male",
     "culture": "Numenoreans",
@@ -4286,8 +4247,7 @@
     "gender": "Male",
     "hair": "Golden",
     "eyes": "Blue",
-    "culture": "Edain",
-    "house": "House of Hador"
+    "culture": "Edain"
   },
   {
     "name": "Mablung",
@@ -4316,8 +4276,7 @@
     "gender": "Male",
     "hair": "Dark",
     "culture": "Noldor",
-    "location": "Gondolin",
-    "house": "House of Fingolfin"
+    "location": "Gondolin"
   },
   {
     "name": "Helm",
@@ -4397,7 +4356,6 @@
     "rule": "TA 2980 - TA 3019",
     "death": "March 15, 3019",
     "spouse": "Elfhild",
-    "parentage": "Thengel & Morwen",
     "weapon": "Herugrim",
     "race": "Men",
     "gender": "Male",
@@ -4421,8 +4379,7 @@
     "gender": "Male",
     "hair": "Black",
     "culture": "Noldor",
-    "location": "Tirion",
-    "house": "House of Finwë"
+    "location": "Tirion"
   },
   {
     "name": "Thrór",
@@ -4433,12 +4390,10 @@
     "rule": "King of Durin's Folk (TA 2589), King under the Mountain (TA 2589)",
     "death": "TA 2790 (aged 248)",
     "spouse": "Unnamed wife",
-    "parentage": "Dáin I",
     "race": "Dwarves",
     "gender": "Male",
     "culture": "Durin's Folk",
-    "location": "Grey Mountains, Lonely Mountain",
-    "house": "House of Durin"
+    "location": "Lonely Mountain"
   },
   {
     "name": "Bombur",
@@ -4480,8 +4435,7 @@
     "weapon": "Claws, beak",
     "race": "Great Eagles",
     "gender": "Male",
-    "eyes": "Gold",
-    "parentage": "Unknown; descendant of Thorondor"
+    "eyes": "Gold"
   },
   {
     "name": "Bard",
@@ -4526,7 +4480,6 @@
     "birth": "SA 3119",
     "rule": "SA 3320 - SA 3441",
     "death": "SA 3441",
-    "parentage": "Amandil",
     "weapon": "Narsil",
     "race": "Men",
     "gender": "Male",
@@ -4614,7 +4567,6 @@
     "gender": "Female",
     "height": "Large and immense",
     "eyes": "Black",
-    "parentage": "Ungoliant",
     "location": "Shelob's lair"
   },
   {
@@ -4638,7 +4590,6 @@
     "birth": "TA 2767",
     "rule": "TA 2805 - TA 2941 (Lord), TA 2941 - TA 3019 (King)",
     "death": "March 17, 3019 (aged 252)",
-    "parentage": "Náin",
     "weapon": "Red axe, Warhammer",
     "race": "Dwarves",
     "gender": "Male",
@@ -4669,7 +4620,6 @@
     "rule": "SA 3255 - SA 3319",
     "death": "Still alive (Imprisoned in the Caves of the Forgotten)",
     "spouse": "Tar-Míriel",
-    "parentage": "Gimilkhâd",
     "weapon": "Aranrúth",
     "gender": "Male",
     "height": "Tall",
@@ -4735,8 +4685,6 @@
     "birth": "T.A. 2991",
     "rule": "T.A. 3019 - Fo.A. 63",
     "death": "Fo.A. 63 (aged 93)",
-    "house": "House of Eorl",
-    "parentage": "Éomund & Théodwyn",
     "spouse": "Lothíriel",
     "gender": "Male",
     "height": "Around 6' 6\"",
@@ -4752,7 +4700,6 @@
     "titles": "Lord of the Havens, Master of the Grey Havens, The Shipwright",
     "location": "Lindon",
     "birth": "Between Y.T. 1050 and 1149, Middle-earth",
-    "parentage": "Unknown (kinsman of Thingol and Olwë)",
     "race": "Elves",
     "culture": "Teleri",
     "gender": "Male",
@@ -4785,7 +4732,6 @@
     "birth": "Before SA 750",
     "rule": "From SA 3434",
     "death": "Unknown",
-    "parentage": "Oropher",
     "weapon": "Sword",
     "race": "Elves",
     "gender": "Male",
@@ -4832,7 +4778,6 @@
     "rule": "TA 3019 - FO 120",
     "death": "FO 121",
     "spouse": "Aragorn II Elessar",
-    "parentage": "Elrond and Celebrían",
     "gender": "Female",
     "hair": "Black",
     "eyes": "Grey",
@@ -4848,8 +4793,6 @@
     "location": "Rohan",
     "birth": "T.A. 2995",
     "death": "Early Fourth Age",
-    "house": "House of Eorl",
-    "parentage": "Éomund & Théodwyn",
     "spouse": "Faramir",
     "gender": "Female",
     "titles": "White Lady of Rohan, Shieldmaiden of Rohan, Lady of the Shield-arm, Lady of Ithilien, Lady of Emyn Arnen",
@@ -4893,8 +4836,7 @@
     "height": "He was of unimpressive stature",
     "hair": "Golden, grey (in old age)",
     "eyes": "Blue",
-    "culture": "Edain",
-    "house": "House of Hador"
+    "culture": "Edain"
   },
   {
     "name": "Aulë",
@@ -4919,7 +4861,6 @@
     "birth": "TA 2879",
     "rule": "Early Fourth Age - FO 120",
     "death": "Departed to Aman in FO 120 from Ithilien",
-    "parentage": "Glóin",
     "weapon": "Broad-bladed axe",
     "race": "Dwarves",
     "gender": "Male",
@@ -4934,7 +4875,6 @@
     "titles": "Captain of the White Tower, Captain-General, High Warden of the White Tower, Steward-prince of Gondor",
     "birth": "TA 2978",
     "death": "February 26, 3019",
-    "parentage": "Denethor II and Finduilas of Dol Amroth",
     "weapon": "Sword, Shield, dagger (movies)",
     "gender": "Male",
     "height": "c. 6ft 4in (1.93m)",
@@ -4993,8 +4933,7 @@
     "gender": "Male",
     "height": "Tall",
     "hair": "Golden",
-    "culture": "Edain",
-    "house": "House of Hador"
+    "culture": "Edain"
   },
   {
     "name": "Ecthelion of the Fountain",
@@ -5089,7 +5028,6 @@
     "rule": "SA 1697 - TA 3021",
     "death": "Still alive; departed to Aman on September 29, 3021",
     "spouse": "Celebrían",
-    "parentage": "Eärendil, father, Elwing, mother, Maglor, foster father",
     "weapon": "Hadhafang (films)",
     "race": "Half-elven",
     "gender": "Male",
@@ -5139,7 +5077,6 @@
     "rule": "TA 2850 – TA 2941",
     "death": "November 23, TA 2941",
     "spouse": "None",
-    "parentage": "Thráin II",
     "weapon": "Orcrist, Axe, Dwarven Sword, Lake-town Sword, Dwarven Regal Sword, Dwarven Shield, Oaken branch",
     "race": "Dwarves",
     "gender": "Male",
@@ -5154,12 +5091,27 @@
     "other_names": "Greenleaf",
     "titles": "Prince of Woodland Realm",
     "location": "Woodland Realm",
-    "parentage": "Thranduil",
     "gender": "Male",
     "weapon": "Bow of Lórien and \"long white knife\"",
     "death": "Departed to Aman in FO 120 from Ithilien",
     "race": "Elves",
     "culture": "Wood Elves"
+  },
+  {
+    "name": "Tom Bombadil",
+    "lotr_page_id": "429",
+    "text": "TOM BOMBADIL was an enigmatic figure that lived throughout the\nhistory of Arda. He was known by the Elves as _IARWAIN BEN-ADAR_\n(“Oldest and Fatherless” in Sindarin), who dwelt in the valley of the\nriver Withywindle, east of the Shire.\n\nA mysterious being, Tom lived in the depths of the Old Forest, close to\nthe Barrow Downs. His lands were not particularly extensive, but within\nhis domain his power over virtually everything in it was extraordinary.\nTom was a paradoxical creature, one moment defeating ancient forces with\nhardly an effort, the next capering and singing nonsensical songs. He\nlived with his wife Goldberry, “Daughter of the River,” far from any\nother settlement. Although seemingly benevolent, he took no stance\nagainst the Dark Lords.\n\n\nBiography\n\nOrigins & First Age\n\nThe origins and nature of Tom Bombadil are unknown; however, he already\nexisted when the Dark Lord came to Arda, signifying he may have been\nalive even before the coming of the Valar. However, he may have been\nspeaking in this instance of Melkor's second entry into Arda after he\nwas driven out by the arrival of Tulkas.\n\nHis role and nature in the First Age is unknown, but he must have\nwitnessed most of the major events and battles. He also witnessed the\nreducing of the great forests that covered all Middle-earth, and perhaps\nof his powers.\n\nThe level of his interactions with the outside world is also unclear;\nhowever, he seemed to have a name among many people and perhaps became a\nfolkloric figure in the traditions and legends of Elves, Dwarves and\nMen. He has already also lived in the west much before the Elves went\nthere and the tides were folded. It had been sometime in this period,\nprobably, that he met the River-daughter, Goldberry, with whom he would\neventually marry.\n\nThird Age\n\nIt is not known when Tom settled into his\ndomain outside the Old Forest, but it is clear, by the time of the War\nof the Ring, that he has been there for quite some time. Farmer Maggot\nof Marish in the Eastfarthing and a few Bucklanders knew him and were\nfriendly with him.\n\nWar of the Ring\n\nIn TA 3018, Frodo and his company had a chance meeting with Bombadil in\nthe Old Forest after a nearly disastrous encounter with Old Man Willow.\nFrodo, who had fled from the tree looking for help, enlisted Bombadil,\nwho had been out gathering water lilies. Bombadil went immediately with\nFrodo to the tree and commanded it to release its prisoners, Merry and\nPippin, which it immediately did. He then invited Frodo and his\ncompanions to his home, where the Hobbits had an almost dreamlike stay,\nfeasting and making merry with Tom. In this state, Frodo rather\ninadvertently told Tom all about the Ring and his quest, and when Tom\nasked to inspect the Ring, Frodo, without question and without any of\nthe reluctance that tended to accompany giving the Ring to another,\nallowed him to. Tom then put the Ring on his finger, yet not only did he\nnot disappear, but the Ring appeared to have no effect on him at all.\nAfter making the Ring itself vanish with a sleight-of-hand trick, he\nreturned it to Frodo, who, slightly suspicious that it had not made Tom\nvanish, put it on to make sure it was the genuine Ring. Tom surprised\nhim yet again by revealing that he could see Frodo even with the Ring\non, and told Frodo to remove it, stating that his hand was fairer\nwithout it.\n\nAfter two days resting and feasting at Tom's home, the Hobbits set out\nagain, only to be captured the next day by Wights on the Barrow-downs\nFortunately, Tom once again came to their rescue, dispersing the Wights\nand breaking open their tomb. After this, he escorted the Hobbits to\nthe borders of his land and left them there.\n\nThe peril of the hobbits was not over; an attack on their lives was\ncarried out, and their ponies were set loose. The ponies apparently\nremembered the care they were given in the house of Tom Bombadil, and\nreturned to stay beside Tom's own pony, Fatty Lumpkin. He returned them\nto Barliman Butterbur, the proprietor of The Prancing Pony. Since he had\npaid eighteen pence as compensation for the loss, he was now the owner\nof five fine ponies.\n\nOver a month later, Tom became a topic of discussion at the Council of\nElrond. There, Elrond, who had apparently met Tom in times long past,\nreminisced about him briefly before the question was put before the\nCouncil of whether or not to give the Ring to Tom, as it appeared as\nthough Tom may have had power over even the Ring within his lands.\nHowever, Gandalf quickly dismissed the idea, saying that rather than Tom\nhaving power over the Ring, the Ring simply had no power over Tom. He\nwas immune to its influence, but he could not alter it. There is however\nevidence of Toms ability to effect the rings power over others, as we\nsee Frodo freely give the ring to Tom without the usual hesitation or\nprotective behaviours. Additionally, he said that, while Tom might be\nwilling to take the Ring if asked by all the Free People of the world,\nhe might do so, but would not understand the reason. Due to this, Tom\nwould have likely either forgot about it or thrown it away, as such\nthings had little relevance to him. It was also mentioned that taking\nthe Ring back to him would be impossible to accomplish without it\nbecoming known to Sauron, and that sooner or later, Sauron would bend\nall his power towards Tom's realm to take the Ring back. Despite his\nmastery within his realm, it was assumed that Tom would not have cared\nor been able to keep the Ring contained to his realm.\n\nAfter War\n\nFour years after the One Ring was destroyed, Gandalf spent some time\nwith Bombadil. It is unknown how the meeting was or what they discussed\nbetween them. Gandalf remarked to the Hobbits that Bombadil would\ndoubtless have little interest in the tales of their adventures, except\nperhaps their encounters with the Ents.\n\n\nInterpretations and Description\n\nThere are many theories of his origins, such as of\nhim being in truth a Maia, a man, Ilúvatar himself, or even the reader,\nthough more on this can be found elsewhere (see below). He appeared as\nan old man, at least to Hobbit eyes, with a wrinkled and ruddy face,\nbright blue eyes, and a bristling brown beard. He was said to be taller\nthan a typical Hobbit, but too short to be a Man, which would put him\nsomewhere between four and a half and five feet in height. He spoke in\nstress-timed metre.\n\nHis clothing consisted of a blue jacket and yellow boots, and he wore an\nold and battered hat, surmounted by a feather. He seems to have\npreferred to wear a swan-feather in his hat, but before he met Frodo and\ncompany on the banks of the Withywindle, he had acquired the feather of\na kingfisher instead. In his own house, rather than a hat, he wore a\ncrown of autumn leaves.\n\nIn his preface to _The Adventures of Tom Bombadil,_ Tolkien tells us\nthat Tom's name is “Bucklandish in form,” and suggests that it was given\nto him by the Hobbits of that region, as he has many other names. The\nresemblance of the -dil ending to the common Elvish _(n)dil,_ “friend,”\nmay or may not be coincidental. Despite seeming to be a rather whimsical\nand nonsensical being, he was well known to many powerful beings in\nMiddle-earth, including Elrond and Gandalf, and he could be serious if\nthe need arose.\n\nSee also: _The Letters of J. R. R. Tolkien_, with special reference to\nLetters 144 and 153.\n\n\nAbilities\n\nGoldberry described him as\nbeing “Master of wood, water and hill.” His power over supernatural\nbeings is evidenced by both his freeing the Hobbits from Old Man Willow\nand his rescue of them from the Barrow-wights, whose cursed treasure he\nwas also able to make clean. Here it is seen that the One Ring has no\npower over Bombadil; he can see Frodo when the Ring makes him invisible\nto others, and can wear it himself with no effect. He even tosses the\nRing in the air and makes it disappear, but then produces it from his\nother hand and returns it to Frodo. While this seems to demonstrate that\nhe has unique and mysterious power over the Ring, the idea of giving him\nthe Ring for safekeeping is rejected in Book Two's second chapter, “The\nCouncil of Elrond”. Gandalf says, rather, that “the Ring has no power\nover him...” and believes that Tom would not find the Ring to be very\nimportant and so might simply misplace it.\n\n\nEtymology\n\nTom Bombadil went by many names:\n\n-   To Elves and Dúnedain he was known as IARWAIN BEN-ADAR, which\n    translates to “oldest and fatherless”. _Iarwain_ literally means\n    “Old-young”.\n-   To Men of the Vales of Anduin and Rohan, he was known as ORALD.\n    This is an Old English word meaning \"very ancient.\n-   The Dwarves knew him as FORN. This too is a reference to his\n    age: it is Old Norse for “(belonging to) ancient (days)”.\n-   _Tom Bombadil_ is said to be a Bucklandish name, added by Hobbit\n    chroniclers to his many older ones. Like most Bucklandish names, its\n    translation is unknown.",
+    "other_names": "Iarwain Ben-adar, Orald, Forn, \"Moss gatherer\"",
+    "titles": "Elderest, The First",
+    "birth": "Before the coming of Melkor",
+    "death": "Immortal",
+    "spouse": "Goldberry",
+    "weapon": "Songs",
+    "race": "Unknown",
+    "gender": "Male",
+    "hair": "Brown",
+    "eyes": "Blue",
+    "location": "Old Forest"
   },
   {
     "name": "Mîm",
@@ -5183,14 +5135,12 @@
     "rule": "YT 1497 - FA 5 (High King, FA 7 - FA 472 (lord of Himring)",
     "death": "FA 587",
     "spouse": "None",
-    "parentage": "Fëanor and Nerdanel",
     "weapon": "Elven sword",
     "race": "Elves",
     "gender": "Male",
     "height": "Tall",
     "hair": "Dark red",
-    "culture": "Noldor",
-    "house": "House of Fëanor"
+    "culture": "Noldor"
   },
   {
     "name": "Gil-galad",
@@ -5201,7 +5151,6 @@
     "birth": "FA 450",
     "rule": "FA 510 - SA 3441",
     "death": "SA 3441",
-    "parentage": "Fingon (The Silmarillion), Orodreth (later notes)",
     "weapon": "Aeglos",
     "race": "Elves",
     "gender": "Male",
@@ -5234,22 +5183,6 @@
     "gender": "Male"
   },
   {
-    "name": "Tom Bombadil",
-    "lotr_page_id": "429",
-    "text": "TOM BOMBADIL was an enigmatic figure that lived throughout the\nhistory of Arda. He was known by the Elves as _IARWAIN BEN-ADAR_\n(“Oldest and Fatherless” in Sindarin), who dwelt in the valley of the\nriver Withywindle, east of the Shire.\n\nA mysterious being, Tom lived in the depths of the Old Forest, close to\nthe Barrow Downs. His lands were not particularly extensive, but within\nhis domain his power over virtually everything in it was extraordinary.\nTom was a paradoxical creature, one moment defeating ancient forces with\nhardly an effort, the next capering and singing nonsensical songs. He\nlived with his wife Goldberry, “Daughter of the River,” far from any\nother settlement. Although seemingly benevolent, he took no stance\nagainst the Dark Lords.\n\n\nBiography\n\nOrigins & First Age\n\nThe origins and nature of Tom Bombadil are unknown; however, he already\nexisted when the Dark Lord came to Arda, signifying he may have been\nalive even before the coming of the Valar. However, he may have been\nspeaking in this instance of Melkor's second entry into Arda after he\nwas driven out by the arrival of Tulkas.\n\nHis role and nature in the First Age is unknown, but he must have\nwitnessed most of the major events and battles. He also witnessed the\nreducing of the great forests that covered all Middle-earth, and perhaps\nof his powers.\n\nThe level of his interactions with the outside world is also unclear;\nhowever, he seemed to have a name among many people and perhaps became a\nfolkloric figure in the traditions and legends of Elves, Dwarves and\nMen. He has already also lived in the west much before the Elves went\nthere and the tides were folded. It had been sometime in this period,\nprobably, that he met the River-daughter, Goldberry, with whom he would\neventually marry.\n\nThird Age\n\nIt is not known when Tom settled into his\ndomain outside the Old Forest, but it is clear, by the time of the War\nof the Ring, that he has been there for quite some time. Farmer Maggot\nof Marish in the Eastfarthing and a few Bucklanders knew him and were\nfriendly with him.\n\nWar of the Ring\n\nIn TA 3018, Frodo and his company had a chance meeting with Bombadil in\nthe Old Forest after a nearly disastrous encounter with Old Man Willow.\nFrodo, who had fled from the tree looking for help, enlisted Bombadil,\nwho had been out gathering water lilies. Bombadil went immediately with\nFrodo to the tree and commanded it to release its prisoners, Merry and\nPippin, which it immediately did. He then invited Frodo and his\ncompanions to his home, where the Hobbits had an almost dreamlike stay,\nfeasting and making merry with Tom. In this state, Frodo rather\ninadvertently told Tom all about the Ring and his quest, and when Tom\nasked to inspect the Ring, Frodo, without question and without any of\nthe reluctance that tended to accompany giving the Ring to another,\nallowed him to. Tom then put the Ring on his finger, yet not only did he\nnot disappear, but the Ring appeared to have no effect on him at all.\nAfter making the Ring itself vanish with a sleight-of-hand trick, he\nreturned it to Frodo, who, slightly suspicious that it had not made Tom\nvanish, put it on to make sure it was the genuine Ring. Tom surprised\nhim yet again by revealing that he could see Frodo even with the Ring\non, and told Frodo to remove it, stating that his hand was fairer\nwithout it.\n\nAfter two days resting and feasting at Tom's home, the Hobbits set out\nagain, only to be captured the next day by Wights on the Barrow-downs\nFortunately, Tom once again came to their rescue, dispersing the Wights\nand breaking open their tomb. After this, he escorted the Hobbits to\nthe borders of his land and left them there.\n\nThe peril of the hobbits was not over; an attack on their lives was\ncarried out, and their ponies were set loose. The ponies apparently\nremembered the care they were given in the house of Tom Bombadil, and\nreturned to stay beside Tom's own pony, Fatty Lumpkin. He returned them\nto Barliman Butterbur, the proprietor of The Prancing Pony. Since he had\npaid eighteen pence as compensation for the loss, he was now the owner\nof five fine ponies.\n\nOver a month later, Tom became a topic of discussion at the Council of\nElrond. There, Elrond, who had apparently met Tom in times long past,\nreminisced about him briefly before the question was put before the\nCouncil of whether or not to give the Ring to Tom, as it appeared as\nthough Tom may have had power over even the Ring within his lands.\nHowever, Gandalf quickly dismissed the idea, saying that rather than Tom\nhaving power over the Ring, the Ring simply had no power over Tom. He\nwas immune to its influence, but he could not alter it. There is however\nevidence of Toms ability to effect the rings power over others, as we\nsee Frodo freely give the ring to Tom without the usual hesitation or\nprotective behaviours. Additionally, he said that, while Tom might be\nwilling to take the Ring if asked by all the Free People of the world,\nhe might do so, but would not understand the reason. Due to this, Tom\nwould have likely either forgot about it or thrown it away, as such\nthings had little relevance to him. It was also mentioned that taking\nthe Ring back to him would be impossible to accomplish without it\nbecoming known to Sauron, and that sooner or later, Sauron would bend\nall his power towards Tom's realm to take the Ring back. Despite his\nmastery within his realm, it was assumed that Tom would not have cared\nor been able to keep the Ring contained to his realm.\n\nAfter War\n\nFour years after the One Ring was destroyed, Gandalf spent some time\nwith Bombadil. It is unknown how the meeting was or what they discussed\nbetween them. Gandalf remarked to the Hobbits that Bombadil would\ndoubtless have little interest in the tales of their adventures, except\nperhaps their encounters with the Ents.\n\n\nInterpretations and Description\n\nThere are many theories of his origins, such as of\nhim being in truth a Maia, a man, Ilúvatar himself, or even the reader,\nthough more on this can be found elsewhere (see below). He appeared as\nan old man, at least to Hobbit eyes, with a wrinkled and ruddy face,\nbright blue eyes, and a bristling brown beard. He was said to be taller\nthan a typical Hobbit, but too short to be a Man, which would put him\nsomewhere between four and a half and five feet in height. He spoke in\nstress-timed metre.\n\nHis clothing consisted of a blue jacket and yellow boots, and he wore an\nold and battered hat, surmounted by a feather. He seems to have\npreferred to wear a swan-feather in his hat, but before he met Frodo and\ncompany on the banks of the Withywindle, he had acquired the feather of\na kingfisher instead. In his own house, rather than a hat, he wore a\ncrown of autumn leaves.\n\nIn his preface to _The Adventures of Tom Bombadil,_ Tolkien tells us\nthat Tom's name is “Bucklandish in form,” and suggests that it was given\nto him by the Hobbits of that region, as he has many other names. The\nresemblance of the -dil ending to the common Elvish _(n)dil,_ “friend,”\nmay or may not be coincidental. Despite seeming to be a rather whimsical\nand nonsensical being, he was well known to many powerful beings in\nMiddle-earth, including Elrond and Gandalf, and he could be serious if\nthe need arose.\n\nSee also: _The Letters of J. R. R. Tolkien_, with special reference to\nLetters 144 and 153.\n\n\nAbilities\n\nGoldberry described him as\nbeing “Master of wood, water and hill.” His power over supernatural\nbeings is evidenced by both his freeing the Hobbits from Old Man Willow\nand his rescue of them from the Barrow-wights, whose cursed treasure he\nwas also able to make clean. Here it is seen that the One Ring has no\npower over Bombadil; he can see Frodo when the Ring makes him invisible\nto others, and can wear it himself with no effect. He even tosses the\nRing in the air and makes it disappear, but then produces it from his\nother hand and returns it to Frodo. While this seems to demonstrate that\nhe has unique and mysterious power over the Ring, the idea of giving him\nthe Ring for safekeeping is rejected in Book Two's second chapter, “The\nCouncil of Elrond”. Gandalf says, rather, that “the Ring has no power\nover him...” and believes that Tom would not find the Ring to be very\nimportant and so might simply misplace it.\n\n\nEtymology\n\nTom Bombadil went by many names:\n\n-   To Elves and Dúnedain he was known as IARWAIN BEN-ADAR, which\n    translates to “oldest and fatherless”. _Iarwain_ literally means\n    “Old-young”.\n-   To Men of the Vales of Anduin and Rohan, he was known as ORALD.\n    This is an Old English word meaning \"very ancient.\n-   The Dwarves knew him as FORN. This too is a reference to his\n    age: it is Old Norse for “(belonging to) ancient (days)”.\n-   _Tom Bombadil_ is said to be a Bucklandish name, added by Hobbit\n    chroniclers to his many older ones. Like most Bucklandish names, its\n    translation is unknown.\n\n\nInspiration\n\nTom Bombadil was inspired primarily from a doll Tolkien's son, Michael,\ntoyed with.\n\nPaula Marmor notes that bobadil is an archaic word meaning “braggart”,\nas seen in the character “Captain Bobadill” in the English play Every\nMan in His Humour. Because of its Bucklandish form, An Introduction to\nElvish lists the name Bombadil under the “Celtic-sounding names”.\nHowever, it is said that the word derives from Boabdil, the Spaniard\nname of Abu Abdillah Muhammad XII, the last Moorish ruler of\nGranada.\n\nJohn D. Rateliff has noted a theory launched by scholar Justin Noetzel.\nIn the latter's paper “Beorn and Tom Bombadil: Mythology, Narrative, and\nThe Most (Non) Essential Characters in Middle-earth”, Noetzel suggests\nan association of Tom Bombadil with the Celtic Otherworld and tales of\nthe Tuatha Dé Danann.\n\nIn _The Letters of J. R. R. Tolkien_, Tolkien describes Goldberry as the\nseasonal changes in nature, and Tom Bombadil as the spirit of the\n(vanishing) Oxford and Berkshire countryside, meaning that Tom'' is\n''the countryside existing in Time, alive and embodied; However, this\nletter was in reference to works which pre-dated the writings of _Lord\nof The Rings_ and thus may not be true of Tom as he appears in _Lord of\nthe Rings_.\n\n\nQuotes\n\n\nOther versions\n\n_The Adventures of Tom Bombadil_, a book of verse published in 1962,\npurported to contain a selection of Hobbit poems, two of which were\nabout Tom Bombadil and include his adventure with Badger folk. He also\nappears in the poem _The Stone Troll_, supposedly composed by Sam Gamgee\nand recorded in the _Red Book of Westmarch_, in which Tom mentions his\n“nuncle” Tim, on whose bones the troll is feeding, and he also mentions\nhis father.",
-    "other_names": "Iarwain Ben-adar, Orald, Forn, \"Moss gatherer\"",
-    "titles": "Elderest, The First",
-    "birth": "Before the coming of Melkor",
-    "death": "Immortal",
-    "spouse": "Goldberry",
-    "weapon": "Songs",
-    "race": "Unknown",
-    "gender": "Male",
-    "hair": "Brown",
-    "eyes": "Blue",
-    "location": "Old Forest"
-  },
-  {
     "name": "Celeborn",
     "race": "Elves",
     "text": "CELEBORN was the_' Lord of Lothlórien_', and his wife was Galadriel,\nLady of the Golden Wood. Celeborn was said to be one of the wisest Elves\nin Middle-earth at the end of the Third Age.\n\nDuring the War of the Ring, Celeborn defended Lothlórien and led the\nassault on the Enemy castle of Dol Guldur. He remained in Middle-earth\nfor a time at the beginning of the Fourth Age, but eventually he joined\nhis wife in the Undying Lands.\n\n\nBiography\n\nOrigins\n\nCeleborn was a Prince of Doriath and a kinsman of Thingol, the King of\nDoriath. Celeborn was said to be the grandson of Thingol's brother Elmo.\nCeleborn's father was Galadhon and he had a brother named Galathil.\n\nFirst Age\n\nAround FA 52, Galadriel came to Doriath. Galadriel was one of the Ñoldor\nwho came to Middle-earth wishing to see the lands and rule a realm of\nher own. She came with the second 'group' of elves from Aman with\nFingolfin and Finrod. Celeborn and Galadriel fell in love and married\neach other.\n\nIt is not clear how long Celeborn and Galadriel dwelled in Beleriand.\nAccording to one story, they left Beleriand and crossed the Blue\nMountains into Eriador before the Fall of Nargothrond in FA 495, but\naccording to another story they remained in Beleriand until the end of\nthe First Age.\n\nAround FA 502, King Thingol of Doriath summoned dwarf craftsmen to set a\nSilmaril in Nauglamir, the fabled jeweled Necklace of the Dwarves. The\ndwarf craftsmen coveted the necklace and especially the Silmaril, and\nthey demanded that Thingol give it to them. When Thingol refused, they\nkilled him and took the necklace set with the Silmaril. The Dwarven\ncraftsmen were pursued by Elves of Doriath, who killed the Dwarves and\nretrieved the necklace. However, two Dwarves escaped and returned to\nNogrod in the Blue Mountains and rallied their kinsmen to seek vengeance\non the Elves of Doriath. An army of Dwarves attacked Doriath and\ndefeated the elves. They took the necklace once more, but Beren again\nreclaimed it.\n\nDoriath was briefly re-inhabited by Beren's son Dior Eluchíl, but the\nsons of Feanor came to try to take the Silmaril. Though Dior's daughter\nElwing escaped with the Silmaril, Dior was killed and Doriath was ruined\nand abandoned.\n\nCeleborn's distrust of Dwarves began at this time. His role in these\nevents is unknown, although in one account it is written that Celeborn\nescaped the sack of Doriath.\n\nThe First Age ended with the War of Wrath and the defeat of Morgoth.\nBeleriand was ruined and sank beneath the Sea. Many of the Ñoldor\nreturned to the Undying Lands with the pardon of the Valar, but\nGaladriel remained in Middle-earth with Celeborn.\n\nSecond Age\n\nCeleborn and Galadriel probably lived for a time in Lindon, a coastal\nregion west of the Blue Mountains. Gil-galad was the High King of the\nelves who dwelled in Lindon. However, many of the elves in Harlindon -\nthe part of Lindon south of the Gulf of Lune - were Sindarin elves like\nCeleborn, and he may have ruled a fiefdom there under Gil-galad.\n\nAt some time early in the Second Age, Celeborn and Galadriel are said to\nhave moved eastward into Eriador with a number of Elves in their\nfollowing. They may have lived for a while near Lake Evendim. Their\ndaughter Celebrian may have been born during this time. They began to\nmove eastward again around the year SA 700 because Galadriel sensed a\ngrowing evil in Middle-earth that she felt duty-bound to oppose.\n\nThe realm of Eregion was founded in SA 750, and Galadriel and Celeborn\nare said to have dwelled there for a time along with Celebrimbor and the\nElven-smiths. The Elves of Eregion had dealings with the Dwarves of\nKhazad-dûm nearby, but Celeborn still distrusted Dwarves and would not\nenter Khazad-dûm, although the Dwarves there had nothing to do with the\ndestruction of Doriath.\n\nThe Elves of Eregion also had contact with the Elves of Lothlórien on\nthe other side of the Misty Mountains. According to one story, Galadriel\nwent to dwell in Lothlórien around SA 1350 to SA 1400 while Celeborn\nremained in Eregion. However, in other versions of the story both\nGaladriel and Celeborn stayed in Eregion.\n\nSauron came to Eregion in a fair disguise as Annatar the “Lord of gifts”\nin SA 1200 and deceived the Elven-smiths, who began forging the Rings of\nPower under his instruction in SA 1500. Sauron forged the One Ring to\nrule the others around SA 1600, and Celebrimbor hid from him the Three\nElven Rings of power that he had made without Sauron knowing of its\ncreation and help. Enraged, Sauron attacked Eregion in SA 1697.\n\nCeleborn led a sortie from Eregion to meet the vanguard of Sauron's\narmy. He was able to drive the enemy back long enough to join forces\nwith Elrond, who brought reinforcements from Lindon. But Sauron's army\nwas greater than their combined forces and Eregion soon fell.\nCelebrimbor was killed, and Sauron took the Nine Rings and at least six\nof the Seven rings. Sauron would eventually be driven back to Mordor in\nSA 1701.\n\nThe movements of Celeborn and Galadriel after the fall of Eregion are\nunclear. Celeborn may have gone to Lothlórien to help strengthen their\ndefenses against Sauron. He and Galadriel may have lived there for a\ntime, but they did not become the rulers of Lothlórien then. The king of\nLothlórien at that time was Amdír, who was killed in the War of the Last\nAlliance at the end of the Second Age and was succeeded by his son\nAmroth.\n\nThird Age\n\nCeleborn and Galadriel may also have lived for a while in Rivendell, the\nhome of Elrond. At some point, they may have travelled to the coastal\nregion of Belfalas in the south to be near the sea.\n\nCeleborn and Galadriel's daughter Celebrian married Elrond in TA 109.\nElrond and Celebrian had three children: twin sons Elladan and Elrohir,\nborn in TA 130, and a daughter Arwen, born in TA 241.\n\nAround TA 1050, the Necromancer, who was actually Sauron, built the\nstronghold of Dol Guldur across the Anduin from Lothlórien. Celeborn and\nGaladriel are said to have returned to Lothlórien to investigate the\nNecromancer and ensure the safety of Lothlórien. But after a time, they\nonce again departed, possibly for Rivendell. Lothlórien remained under\nthe rule of King Amroth.\n\nA Balrog awoke in Khazad-dum in TA 1980. Many of the Elves of Lothlórien\nfled, including Amroth's lover Nimrodel. Amroth followed Nimrodel and he\nlater perished at sea. Lothlórien was left without a leader, so Celeborn\nand Galadriel returned there and became the Lord and Lady of Lothlórien\nin TA 1981. They ruled the realm from Caras Galadhon, the City of the\nTrees.\n\nCelebrian was on her way to Lothlórien to visit her parents in TA 2509\nwhen she was captured by orcs in Caradhras. Her sons Elladan and Elrohir\nrescued Celebrian, but the horror of the experience remained with her\nand she decided to leave Middle-earth the next year to dwell in the\nUndying Lands.\n\nIn TA 2941, Sauron was driven out of Dol Guldur by the White Council -\nof which Galadriel was a member. However, Sauron had been prepared for\nthe attack and returned to Mordor. He sent Nazgûl led by Khamul to\noccupy Dol Guldur.\n\nAragorn came to Lothlórien in TA 2980 and became betrothed to Arwen, who\nwas there visiting her grandparents.\n\nWar of the Ring\n\nIn December of 3018, Elladan and Elrohir brought word to Celeborn and\nGaladriel of the Fellowship of the Ring's quest to destroy the One Ring.\nThe Fellowship arrived in Lothlórien on January 15, 3019, and was\nbrought to Caras Galadhon to meet Celeborn and Galadriel on January 17.\n\n\n\nCeleborn at first welcomed Gimli despite his distrust of Dwarves and\nsaid he hoped that there could be friendship between their peoples once\nmore. Then he  learned that the Balrog had been disturbed by an\nexpedition of Dwarves to Khazad-dum led by Balin several years before,\nand that the Balrog had attacked the Fellowship resulting in the loss of\nGandalf the Grey. Celeborn was angry at first and regretted allowing the\nFellowship to enter Lothlórien, but Galadriel soothed him and he\napologized to Gimli.\n\nCeleborn promised to help the Fellowship in any way he could. On the eve\nof the Fellowship's departure from Lothlórien, he discussed what route\nthey might take, and offered them boats to ease their journey down the\nAnduin. The next day on February 16, Celeborn and Galadriel prepared a\nfeast for the Fellowship and gave them gifts. Celeborn gave them further\nadvice about navigating the Great River Anduin.\n\n\n\nLothlórien was attacked thrice by forces from Dol Guldur during the War\nof the Ring: on March 11, 15, and 22. Each time, the Galadhrim led by\nCeleborn and Galadriel repelled them. After the destruction of the One\nRing and Sauron's defeat, Celeborn led a force across the Anduin and\ncaptured Dol Guldur on March 28. The shadow was lifted from Mirkwood.\n\nOn April 6, Celeborn met Thranduil, the King of the Woodland Realm, in\nMirkwood. They renamed the forest the Wood of Greenleaves. Thranduil\nretained kingship of the northern part of the forest, while the center\npart was given to the Beornings and the Woodmen. Celeborn claimed the\nsouthern part of the forest below the Narrows of the Forest to be part\nof Lothlórien. This region was named East Lórien.\n\nCeleborn and Galadriel accompanied their granddaughter Arwen to Minas\nTirith, where she wed Aragorn on Midyear's Day. Celeborn and Galadriel\nthen travelled to Rohan and attended the funeral of the King Theoden. On\nthe way home, they met with Treebeard at Isengard.\n\nWhen Celeborn and Galadriel parted from Aragorn, Celeborn said to his\ngranddaughter's husband: _“Kinsman, farewell! May your doom be other\nthan mine, and your treasure remain with you to the end!”_\n\nCeleborn may have been anticipating the day when his own wife would\ndepart for the Undying Lands while he remained in Middle-earth. On\nSeptember 13, Celeborn and Galadriel crossed the Redhorn Gate to return\nto Lothlórien.\n\nFourth Age\n\n\n\nGaladriel left Middle-earth to return to the Undying Lands in 3021 at\nthe end of the Third Age. Celeborn remained in Lothlórien, but after a\nfew years he began to grow weary. He went to Rivendell to live with his\ngrandsons Elladan and Elrohir for awhile in the early part of the Fourth\nAge. Eventually, Celeborn went to the Grey Havens and sailed for the\nUndying Lands where his wife and daughter dwelled. It is said that “with\nhim went the last living memory of the Elder Days in Middle-earth.”\n\n\nEtymology\n\nThe name _CELEBORN_ means “Silver tree”, from the Sindarin words _celeb_\n(“silver”) and _orn_ (“tree”). His original name was TELEPORNO, a\nTelerin name which means “Silver-high”, from Quenyan _tyelpe_\n(“silver”).\n\n\nPronunciation\n\nCeleborn is pronounced ‘Keleborn’ and not ‘Seleborn’.",
@@ -5258,7 +5191,6 @@
     "birth": "Uncertain; possibly Years of the Trees",
     "death": "Sailed West in the early Fourth Age",
     "spouse": "Galadriel",
-    "parentage": "Galadhon",
     "gender": "Male",
     "height": "6 feet 4 inches (193cm)",
     "hair": "Silver, long",
@@ -5274,7 +5206,6 @@
     "birth": "SA 3209",
     "rule": "SA 3441 - TA 2 (2 years)",
     "death": "TA 2",
-    "parentage": "Elendil",
     "weapon": "Sword",
     "race": "Men",
     "gender": "Male",
@@ -5316,8 +5247,7 @@
     "hair": "Dark",
     "eyes": "Grey or blue",
     "culture": "Edain",
-    "location": "Dor-lómin",
-    "house": "House of Hador"
+    "location": "Dor-lómin"
   },
   {
     "name": "Faramir",
@@ -5328,7 +5258,6 @@
     "rule": "TA 3019 - FO 82 (84 years)",
     "death": "February 26, 82 (aged 120)",
     "spouse": "Éowyn",
-    "parentage": "Denethor II and Finduilas of Dol Amroth",
     "weapon": "Sword, nail-knife, bow (films)",
     "race": "Men",
     "gender": "Male",
@@ -5363,7 +5292,6 @@
     "birth": "YT 1362",
     "death": "Alive; departed to Valinor on September 29, 3021",
     "spouse": "Celeborn",
-    "parentage": "Finarfin and Eärwen",
     "weapon": "Elf magic, Ring Nenya (after the destruction of the One Ring, it lost, its power)",
     "race": "Elves",
     "gender": "Female",
@@ -5371,8 +5299,7 @@
     "hair": "Radiant gold-silver",
     "eyes": "Grey",
     "culture": "Noldor",
-    "location": "Lothlórien",
-    "house": "House of Finarfin"
+    "location": "Lothlórien"
   },
   {
     "name": "Witch-king",
@@ -5436,8 +5363,7 @@
     "height": "Tall",
     "hair": "Raven Dark",
     "culture": "Noldor",
-    "location": "Formenos",
-    "house": "House of Finwë"
+    "location": "Formenos"
   },
   {
     "name": "Bilbo Baggins",
@@ -5499,7 +5425,6 @@
     "rule": "TA 2933 - 3019 (Chieftain), , TA 3019 - FO 120 (King)",
     "death": "FO 120",
     "spouse": "Arwen",
-    "parentage": "Arathorn II, father, Gilraen, mother, Elrond, foster father",
     "weapon": "Andúril, Bow, Sword",
     "gender": "Male",
     "height": "6'6 _(198 cm)_",

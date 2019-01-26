@@ -5,7 +5,7 @@ const cheerio = require('cheerio')
 const bekap = require('./backup/stranice.json')
 const prevediPaSacuvaj = require('./prevedi-jedan')
 
-const found = bekap.find(x => x.title._text == "Old Man Willow")
+const found = bekap.find(x => x.title._text == "Undead")
 console.log(!!found)
 
 const item = {

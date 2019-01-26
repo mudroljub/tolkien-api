@@ -31,8 +31,6 @@ Class Character
   rule 94
   height 72
   eyes 64
-  parentage 46
-  house 29 +
 
 Class Race
 
@@ -111,3 +109,15 @@ Class Quote
   text 50
   character 50 +
   source 50
+
+## Fale
+
+### Kulture
+
+[ 
+  'Elves of Rivendell',
+  'Ents of Fangorn Forest',
+  'Hobbits of the Shire',
+  'Orcs of Morgoth',
+  'Orcs of the Misty Mountains',
+]
