@@ -34,54 +34,53 @@ Class Character
 
 Class Race
 
-  name 24
-  locations 24 ++
-  distinctions 24
-  text 24
-  lotr_page_id 24
-  characters 20 ++
-  height 18
-  languages 17
-  lifespan 17
-  skin_color 15
-  other_names 12
-  origins 12
+  name 23
+  locations 23 ++
+  distinctions 23
+  text 23
+  lotr_page_id 23
+  characters 21 ++
+  languages 16
+  height 16
+  skin_color 13
+  other_names 13
+  lifespan 12
+  origins 11
   hair_color 8
-  cultures 7 ++
 
 Class Culture
 
-  name 98
-  text 98
-  lotr_page_id 98
-  locations 56 ++
-  characters 49 ++
-  languages 46
-  lifespan 41
-  other_names 31
-  distinctions 28
-  height 27
+  name 97
+  text 97
+  lotr_page_id 97
+  locations 55 ++
+  characters 48 ++
+  languages 45
+  lifespan 40
+  other_names 30
+  distinctions 27
   origins 27
+  height 26
   skin_color 24
   hair_color 19
 
 Class Location
 
-  name 448
-  text 448
-  lotr_page_id 448
-  position 251
-  type 240
-  cultures 211 ++
-  description 190
-  other_names 127
-  lifespan 101
-  governance 100
-  founded_or_built 86
+  name 449
+  text 449
+  lotr_page_id 449
+  position 252
+  type 241
+  cultures 212 ++
+  description 191
+  other_names 128
+  lifespan 100
+  governance 98
+  founded_or_built 85
   regions 81
   events 81
   major_towns 34
-  capital 32
+  capital 30
 
 Class Battle
 
@@ -112,12 +111,14 @@ Class Quote
 
 ## Fale
 
-### Kulture
-
-[ 
+- Kulture:
   'Elves of Rivendell',
   'Ents of Fangorn Forest',
   'Hobbits of the Shire',
   'Orcs of Morgoth',
   'Orcs of the Misty Mountains',
-]
+  'Dwarves of the Blue Mountains'
+
+- Karakteri:
+  'Elladan', 'Elrohir'
+  'Fíli', 'Kíli', 'Orophin', 'Rúmil', 'Ulfast' 

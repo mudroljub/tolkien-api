@@ -59,7 +59,6 @@
     "lifespan": "? presumably after SA 32 - SA 3319",
     "position": "Númenor, Forostar",
     "description": "City of Númenor in the region of Forostar",
-    "governance": "Unknown",
     "cultures": "Numenoreans"
   },
   {
@@ -933,7 +932,6 @@
     "lotr_page_id": "3174",
     "text": "ALDBURG (OE. 'Old Fortress') was one of the oldest settlements of\nMiddle-earth, in Rohan. It was recorded to have been built by Eorl in\nthe region known as the Folde, some miles to the southeast of Edoras.\nThough he and his family moved to Edoras early in Rohan's history,\nAldburg remained a seat of noblemen.\n\nAt the time of the War of the Ring, it was the home of King Théoden's\nnephew Éomer, who was Third Marshal of the Mark, and heir of the\nKingship of Rohan himself.\n\nIn the _Lord of the Rings_ book-series, Aldburg is never referenced to,\nand doesn't appear on the maps.\n\nde:Aldburg es:Aldburg it:Aldburg nl:Aldburg pl:Aldburg ru:Альдбург",
     "type": "Fortified City",
-    "lifespan": "Unknown",
     "position": "Rohan",
     "description": "Seat of the Eorl the Young, later, Seat of the Third Marshal of the Mark",
     "governance": "Eorl the Young, later, the Third Marshal of the Mark"
@@ -957,7 +955,6 @@
     "position": "Tol Eressëa",
     "regions": "Tol Eressëa",
     "description": "Teleri (Falmari) of Aman possibly with help from the Ñoldor. Largest, city in Tol Eressëa",
-    "governance": "Unknown",
     "founded_or_built": "YT - ?",
     "lifespan": "YT - ?",
     "cultures": "Elves"
@@ -1981,7 +1978,6 @@
     "name": "Khand",
     "lotr_page_id": "881",
     "text": "KHAND was the name of a land which lay to the south-east of Mordor and\nto the east of Near Harad. Almost nothing is known about Khand or its\nnomadic people. “Variags” (men of Khand) fought for Sauron's army, but\nnothing aside from their name was mentioned.\n\n\nHistory\n\nKhand was under the influence of Mordor and supplied it with horses, and\ntwice came into the history of Gondor: first in the year TA 1944 when\nthe Variags together with the Wainriders attacked Gondor, and later\nduring the War of the Ring when they fought and died on the Pelennor\nFields. While this is not directly said in the literature, it is\nprobable that Khand gradually fell under the control of Gondor during\nthe Fourth Age and was hostile to it no longer.\n\nBased on the map of the region, and its proximity to Harad, Khand was\nmost likely a dry and barren land covered in desert. Its geography is\nlittle-known, although it could either constitute dry grassland or sandy\ndesert.\n\n\nEtymology\n\nThe name is possibly something in the language of the indigenous\npopulation. Also, _Khand_ is a word that means “realm” in India,\naccording to _The Thain's Book Website_, for instance in the usage of\nthe Indian state of Uttarakhand, literally meaning “Northern Realm”.",
-    "capital": "Unknown",
     "type": "Region",
     "lifespan": "Founded ?",
     "position": "South-east of Mordor",
@@ -2168,7 +2164,7 @@
   {
     "name": "Fangorn Forest",
     "lotr_page_id": "910",
-    "text": "'''Fangorn Forest ''' was a forest beneath the southeastern flank of the\nMisty Mountains.\n\nIt was known for being the last habitation of the Ents and Huorns. It\nwas named after the oldest Ent, Fangorn (Treebeard). It is also called\nENTWOOD by the Rohirrim.\n\n\nHistory\n\n\n\nFangorn Forest was actually just the easternmost survivor of the immense\nforest that spanned all of Eriador and Calenardhon in the First Age and\nearly Second Age, but which was destroyed by the Numenoreans felling\ntrees to build their mighty ships and Sauron's war on the Elves. Fangorn\nforest was the oldest part of Treebeard's realm, and to here the Ents\nretreated.\n\nThird Age\n\n\n\nOn the late February of TA 3019, Meriadoc Brandybuck and Peregrin\nTook escaped from the Orcs that captured them and met Treebeard. They\npersuaded him of the danger that Saruman poses to the Ents and their\nforest. The Ents took council and agree to march against Isengard.\nHuorns were sent to Helm's Deep to assist in the Battle of the\nHornburg.\n\nOn March 1, TA 3019, Aragorn, Legolas, and Gimli enter the forest and\nencounter the White Rider, whom they believed to be Saruman, but was in\nfact Gandalf returned from his battle at Khazad-dum.\n\n\nEtymology\n\nThe name FANGORN means “Treebeard”, from the Sindarin _fang_ (“beard”)\nand _orn_ (“tree”). The Rohirric ENTWOOD comes from the Old English\n_Entwudu_, from _wudu_ (“wood”).\n\nThe Quenya embellishment of Fangorn Forest was AMBARÓNA.",
+    "text": "FANGORN FOREST was a forest beneath the southeastern flank of the\nMisty Mountains.\n\nIt was known for being the last habitation of the Ents and Huorns. It\nwas named after the oldest Ent, Fangorn (Treebeard). It is also called\nENTWOOD by the Rohirrim.\n\n\nHistory\n\n\n\nFangorn Forest was actually just the easternmost survivor of the immense\nforest that spanned all of Eriador and Calenardhon in the First Age and\nearly Second Age, but which was destroyed by the Numenoreans felling\ntrees to build their mighty ships and Sauron's war on the Elves. Fangorn\nforest was the oldest part of Treebeard's realm, and to here the Ents\nretreated.\n\nThird Age\n\n\n\nOn the late February of TA 3019, Meriadoc Brandybuck and Peregrin\nTook escaped from the Orcs that captured them and met Treebeard. They\npersuaded him of the danger that Saruman poses to the Ents and their\nforest. The Ents took council and agree to march against Isengard.\nHuorns were sent to Helm's Deep to assist in the Battle of the\nHornburg.\n\nOn March 1, TA 3019, Aragorn, Legolas, and Gimli enter the forest and\nencounter the White Rider, whom they believed to be Saruman, but was in\nfact Gandalf returned from his battle at Khazad-dum.\n\n\nEtymology\n\nThe name FANGORN means “Treebeard”, from the Sindarin _fang_ (“beard”)\nand _orn_ (“tree”). The Rohirric ENTWOOD comes from the Old English\n_Entwudu_, from _wudu_ (“wood”).\n\nThe Quenya embellishment of Fangorn Forest was AMBARÓNA.",
     "type": "Forest",
     "other_names": "\"Entwood\"",
     "position": "North of Rohan",
@@ -2585,6 +2581,16 @@
     "lifespan": "SA 1 - Fourth Age",
     "description": "An important coastal port, at the mouth of the Lhûn river",
     "cultures": "Noldor, Grey Elves"
+  },
+  {
+    "name": "Barrow-downs",
+    "lotr_page_id": "2332",
+    "text": "The BARROW-DOWNS, or TYRN GORTHAD, was an area of low hills located to\nthe east of the Shire and the Old Forest, and west of the village of\nBree. They were made by men in the ancient days of the Northern Kingdom.\nMany of the hills were crowned with monoliths and barrows, whence comes\ntheir name. They served as resting places for the men of the north, as\nwell as the Dunedain, until evil spirits called Barrow-wights, sent by\nthe Witch-king of Angmar, began to inhabit them. During the Third Age,\nthe hills lay within the bounds of Cardolan in the region of Eriador.\n\n\nHistory\n\n\n\nThe Barrow-downs were first inhabited by Men related to the Edain in the\nFirst Age, together with men from the Hills of Evendim to the north.\nThey fled as Eriador was invaded by Easterlings, but when they\ndisappeared after the War of Wrath the Edain returned to the region.\n\nDuring the Second Age, these people were fairly numerous, and when they\nmet with the Númenóreans the Barrow-downs were the first places where\nthe Dúnedain émigrés from Númenor settled. When Elendil returned to\nMiddle-earth, the Barrow-downs were incorporated into the kingdom of\nArnor.\n\nAfter the breaking of Arnor, the area of the Barrow-downs became the\ncapital of Cardolan. After Rhudaur fell to Angmar, the Dúnedain of\nCardolan entrenched themselves here, but eventually the realm fell.\nAfter the collapse of Cardolan and the flight of the remaining Dúnedain,\nthe area was left empty. To ensure that this place would remain\nuninhabited by his enemies, the Witch-king of Angmar sent evil spirits,\nknown as Barrow-wights, to haunt the once-great tombs of the ancient\nmen. After Arthedain claimed kingship over all of Arnor, there was an\nattempt by the Dúnedain to recolonize Cardolan once again; this\nultimately failed due to the mysterious power of the barrow-wights.\n\n\n\nFleeing the Black Riders, Frodo and his fellow Hobbits were ensnared by\na wight in one of the numerous barrows. The four were separated from one\nanother in a dense fog, and, all captured, ended up in the same barrow.\nThree of the Hobbits seemed under a spell, but Frodo, almost succumbing\nto the wight, was able to call out to Tom Bombadil. Tom, hearing his\nsong, came with haste to the barrow and dispelled the evil spirit from\nthe tomb. Tom Bombadil, whose house dwells in the Old Forest near to the\nBarrow-downs, had told them earlier to pass by barrows on the western\nside; the hobbits stopped for lunch on what must have been a barrow, and\npromptly fell asleep in the shade on the east side. After their rescue,\nthe hobbits each took from the spoils of the tomb a finely crafted\nDúnedain knife, and continued their journey towards Bree.",
+    "other_names": "Tyrn Gorthad",
+    "position": "Central Eriador, south of the East Road and Bree, on borders the Old Forest",
+    "type": "Hills",
+    "cultures": "Barrow-wights",
+    "description": "Burial grounds for the men of the ancient Northern Kingdom"
   },
   {
     "name": "March of Maedhros",
@@ -3369,11 +3375,9 @@
     "type": "Region",
     "other_names": "Haradwaith, Sunlands, Sutherland",
     "position": "Southeastern Middle-earth, south of Gondor and Mordor",
-    "capital": "Unknown",
     "description": "Home of the Haradrim",
     "cultures": "Haradrim, Numenoreans, Black Numenoreans",
     "governance": "Black Númenórean overlords in the Second Age and possibly afterwards, Haradrim chieftains",
-    "founded_or_built": "Unknown",
     "lifespan": "First Age - ?"
   },
   {

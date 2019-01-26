@@ -1,14 +1,10 @@
 const fs = require('fs')
-const podaci = require('../data/characters.json')
+const podaci = require('../data/races.json')
 
 const obradjeno = podaci
   .sort((a, b) => a.text.length - b.text.length)
   .map(x => {
-    //  if (!x.cultures && x.inhabitants) {
-    //    x.cultures = x.inhabitants
-    //    delete x.inhabitants
-    //  }
-    delete x.house
+    if (!x.characters) console.log(x.name)
     return x
   })
 
