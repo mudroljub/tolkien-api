@@ -167,14 +167,6 @@
     "hair": "Golden"
   },
   {
-    "name": "Malantur",
-    "lotr_page_id": "42376",
-    "text": "MALANTUR was a Númenorean noble, the son of Caliondo, son of Eärendur.\nHe lived during the late first millennium of the Second Age.\n\nMalantur, it is said, was to be the heir to his cousin the king\nTar-Aldarion, but when laws were altered, the King's daughter Ancalimë\nbecame heir instead.",
-    "race": "Men",
-    "gender": "Male",
-    "culture": "Numenoreans"
-  },
-  {
     "name": "Ornendil",
     "lotr_page_id": "4202",
     "text": "ORNENDIL was the elder son of King Eldacar of Gondor.\n\n\nBiography\n\nIn the siege of Osgiliath during the Kin-strife. Omendil's father was\ndriven out by Castamir the Usurper. Unfortunately, Ornendil did not\nescape with his father and was put to death by Castamir upon the fall of\nOsgiliath.",
@@ -184,6 +176,14 @@
     "gender": "Male",
     "race": "Men",
     "culture": "Men of Gondor"
+  },
+  {
+    "name": "Malantur",
+    "lotr_page_id": "42376",
+    "text": "MALANTUR was a Númenorean noble, the son of Caliondo, son of Eärendur.\nHe lived during the late first millennium of the Second Age.\n\nMalantur, it is said, was to be the heir to his cousin the king\nTar-Aldarion, but when laws were altered, the King's daughter Ancalimë\nbecame heir instead.",
+    "race": "Men",
+    "gender": "Male",
+    "culture": "Numenoreans"
   },
   {
     "name": "Baranor",
@@ -254,16 +254,15 @@
     "text": "EBOR was the son of Meleth and Agathora, and brother to Manthor, his\nlord, and Hunthor.\n\n\nHistory\n\nEbor appears in the account of the wanderings of Hurin, after the death\nof Turin Turambar. He was a captain of men of Brethil, to whom Asgon and\nhis men were brought after being captured by march-wardens."
   },
   {
-    "name": "Borlad",
+    "name": "Arthad",
     "race": "Men",
-    "text": "BORLAD was the son of Bór, possibly the eldest of his three sons.\n\n\nBiography\n\nBorlad fought with the Union of Maedhros at the Nirnaeth Arnoediad and\nlike his father and two brothers remained loyal to the Sons of Fëanor,\nunlike those of Ulfang who betrayed them. He was slain fighting against\nthe traitors.",
+    "text": "ARTHAD was an Edain Man of the House of Bëor.\n\n\nBiography\n\nArthad was a Men of Dorthonion before the Dagor Bragollach. Afterwards,\nhe was one of Barahir's Outlaws that lived in Dorthonion deifying\nMorgoth's forces. He was killed along with the other outlaws at Tarn\nAeluin as a result of Gorlim's betrayal.",
     "birth": "Late First Age ?",
-    "death": "FA 473",
-    "spouse": "Unnamed wife",
-    "weapon": "Sword, Bow ?",
+    "death": "FA 460",
+    "weapon": "Bow, sword ?",
     "gender": "Male",
-    "culture": "Easterlings",
-    "lotr_page_id": "9397",
+    "culture": "Edain",
+    "lotr_page_id": "12243",
     "other_names": "Egnor , Aikanár, Aikanáro",
     "titles": "Lord of Dorthonion with Angrod",
     "hair": "Golden"
@@ -276,15 +275,16 @@
     "text": "NAN was a Giant, mentioned only in ''The Book of Lost Tales 2, ''for\nwhom the Nauglafring (the early name of the Necklace of the Dwarves) was\nmade. He and another Giant Gilim are not told of in _The Silmarillion_.\n\nNan is told in _The Tale of Tinúviel_ to have owned a particularly long\nsword, named Glend."
   },
   {
-    "name": "Arthad",
+    "name": "Borlad",
     "race": "Men",
-    "text": "ARTHAD was an Edain Man of the House of Bëor.\n\n\nBiography\n\nArthad was a Men of Dorthonion before the Dagor Bragollach. Afterwards,\nhe was one of Barahir's Outlaws that lived in Dorthonion deifying\nMorgoth's forces. He was killed along with the other outlaws at Tarn\nAeluin as a result of Gorlim's betrayal.",
+    "text": "BORLAD was the son of Bór, possibly the eldest of his three sons.\n\n\nBiography\n\nBorlad fought with the Union of Maedhros at the Nirnaeth Arnoediad and\nlike his father and two brothers remained loyal to the Sons of Fëanor,\nunlike those of Ulfang who betrayed them. He was slain fighting against\nthe traitors.",
     "birth": "Late First Age ?",
-    "death": "FA 460",
-    "weapon": "Bow, sword ?",
+    "death": "FA 473",
+    "spouse": "Unnamed wife",
+    "weapon": "Sword, Bow ?",
     "gender": "Male",
-    "culture": "Edain",
-    "lotr_page_id": "12243",
+    "culture": "Easterlings",
+    "lotr_page_id": "9397",
     "other_names": "Egnor , Aikanár, Aikanáro",
     "titles": "Lord of Dorthonion with Angrod",
     "hair": "Golden"
@@ -312,6 +312,20 @@
     "text": "ARTAMIR was the eldest son of King Ondoher of Gondor. He, his father,\nand his younger brother were killed in battle with the Wainriders.\n\n\nEtymology\n\nThe name _ARTAMIR_ comes from Quenya and means “noble jewel”. It is made\nfrom the words _arta_, meaning “exalted” or “noble”, and _mírë_, meaning\n“treasure” or “jewel”."
   },
   {
+    "name": "Adrahil II",
+    "race": "Men",
+    "text": "ADRAHIL II was the twenty-first Prince of Dol Amroth.\n\n\nBiography\n\nAdrahil was the only son of Angelimir. He succeeded his father on TA\n2977. He was the father of Ivriniel, Finduilas, and the famed Prince\nImrahil. He reigned for thirty-three years, during the stewardship of\nEcthelion II and the start of Denethor II's.",
+    "titles": "Prince of Dol Amroth",
+    "birth": "TA 2917",
+    "death": "TA 3010",
+    "spouse": "Unnamed wife",
+    "gender": "Male",
+    "culture": "Dunedain",
+    "lotr_page_id": "8682",
+    "other_names": "Egnor , Aikanár, Aikanáro",
+    "hair": "Golden"
+  },
+  {
     "name": "Atanatar I",
     "race": "Men",
     "text": "ATANATAR I was the tenth King of Gondor.\n\n\nBiography\n\nAtanatar was the son of Turambar and succeeded his father to the throne\nof Gondor in TA 667. His reign was uneventful and presumably peaceful.\nHe died in TA 748 and was succeeded by his son Siriondil.\n\n\nEtymology\n\nAtanatar was a Quenya word that meant 'man-father'.",
@@ -327,20 +341,6 @@
     "other_names": "Egnor , Aikanár, Aikanáro",
     "hair": "Golden",
     "location": "Gondor"
-  },
-  {
-    "name": "Adrahil II",
-    "race": "Men",
-    "text": "ADRAHIL II was the twenty-first Prince of Dol Amroth.\n\n\nBiography\n\nAdrahil was the only son of Angelimir. He succeeded his father on TA\n2977. He was the father of Ivriniel, Finduilas, and the famed Prince\nImrahil. He reigned for thirty-three years, during the stewardship of\nEcthelion II and the start of Denethor II's.",
-    "titles": "Prince of Dol Amroth",
-    "birth": "TA 2917",
-    "death": "TA 3010",
-    "spouse": "Unnamed wife",
-    "gender": "Male",
-    "culture": "Dunedain",
-    "lotr_page_id": "8682",
-    "other_names": "Egnor , Aikanár, Aikanáro",
-    "hair": "Golden"
   },
   {
     "name": "Borthand",
@@ -1094,6 +1094,16 @@
     "culture": "Vanyar"
   },
   {
+    "name": "Ibûn",
+    "lotr_page_id": "4426",
+    "text": "IBÛN was a Petty-dwarf, was the son of Mîm and brother of Khîm.\n\n\nBiography\n\nHe was captured with his father and brother by Túrin's outlaw band.\nDuring the Sack of Amon Rûdh, he was missing in action. He might have\nbeen killed by an orc or might of died of an accident like his brother.\nBut after the destruction of Amon Rudh, he was never seen again.\n\n\nBehind the scenes\n\nIn _The Children of Hurin_ and _Unfinished Tales_, Ibûn is last\nmentioned being held hostage by the Orcs that Mîm had aligned himself\nwith, but he is never mentioned again after that.",
+    "birth": "First age",
+    "death": "Unknown, possibly FA 489",
+    "race": "Dwarves",
+    "gender": "Male",
+    "culture": "Petty-Dwarves"
+  },
+  {
     "name": "Primula Brandybuck",
     "race": "Hobbits",
     "text": "PRIMULA BAGGINS was a Hobbit of the Shire, the mother of Frodo Baggins,\nwho was one of the many bearers of the Ring, and the cousin of Bilbo\nBaggins.\n\n\nBiography\n\nPrimula was a daughter of Gorbadoc Brandybuck, Master of Buckland, and\nMirabella Took, the youngest daughter of the Old Took. She married Drogo\nBaggins, and had one child, Frodo. In TA 2980 (SR 1380), she and her\nhusband were drowned in the Brandywine River, leaving Frodo an orphaned\nchild. She was sixty years old.\n\n\nEtymology\n\nPrimula was a species of the Primrose family of flowering plants.",
@@ -1671,16 +1681,6 @@
     "hair": "Golden"
   },
   {
-    "name": "Ibûn",
-    "lotr_page_id": "4426",
-    "text": "IBÛN was a Petty-dwarf, was the son of Mîm and brother of Khîm.\n\n\nBiography\n\nHe was captured with his father and brother by Túrin's outlaw band.\nDuring the Sack of Amon Rûdh, he was missing in action. He might have\nbeen killed by an orc or might of died of an accident like his brother.\nBut after the destruction of Amon Rudh, he was never seen again.\n\n\nBehind the scenes\n\nIn _The Children of Hurin_ and _Unfinished Tales_, Ibûn is last\nmentioned being held hostage by the Orcs that Mîm had aligned himself\nwith, but he is never mentioned again after that.",
-    "birth": "First age",
-    "death": "Unknown, possibly FA 489",
-    "race": "Dwarves",
-    "gender": "Male",
-    "culture": "Petty-Dwarves"
-  },
-  {
     "name": "Angbor",
     "race": "Men",
     "text": "ANGBOR was a Man of Gondor and the Lord of Lamedon at the end of the\nThird Age and beginning of the Fourth Age.\n\n\nBiography\n\nDuring the last months of the War of the Ring, Angbor was met by Aragorn\nwhen the latter arrived from the Paths of the Dead. He was in battle\nwith the Corsairs of Umbar, when the Army of the Dead gave their aid.\nAngbor was the only man who had courage enough to meet with Aragorn, who\ninstructed him to gather his men and ride to the aid of Minas Tirith. It\nwas later mentioned that he and his men arrived at Minas Tirith during\nthe time Aragorn and company left for the Black Gate. It was Aragorn who\nnamed Angbor “the Fearless”.\n\n\nEtymology\n\n_Angbor_ is a Sindarin word meaning “iron fist”.",
@@ -1876,19 +1876,6 @@
     "location": "Numenor"
   },
   {
-    "name": "Grór",
-    "lotr_page_id": "774",
-    "text": "GRÓR was the founder of the Dwarven realm in the Iron Hills and its\nfirst lord.\n\n\nBiography\n\nGrór was born in Grey Mountains as the youngest of three sons born to\nDáin I. His older brothers were Thrór and Frór. After the death of his\nfather in TA 2589, he and his brother left the Grey Mountains and while\nThrór went back to the Lonely Mountain, Grór went further into the east\nand in TA 2590 he established the Kingdom of the Dwarves in the Iron\nHills. Two hundred years later, just before the Battle of Azanulbizar in\nTA 2799, he thought himself too old to go at age 237 (physically\napproximately 68 years old), and instead sent his son Náin and grandson\nDáin II, the king of the dwarves at the Iron Hills at the time of _The\nHobbit_. Grór was indeed old, for he died not too long after in TA\n2805.",
-    "titles": "Lord of the Iron Hills",
-    "birth": "TA 2563",
-    "death": "TA 2805 (aged 242)",
-    "spouse": "Unnamed wife",
-    "weapon": "Unknown, probably a Battle axe",
-    "race": "Dwarves",
-    "gender": "Male",
-    "culture": "Dwarves of the Iron Hills"
-  },
-  {
     "name": "Celebrindor",
     "race": "Men",
     "text": "CELEBRINDOR was the fifth King of Arthedain.\n\n\nBiography\n\nCelebrindor was the son of King Celepharn of Arthedain. He came to the\nthrone in TA 1191 at the death of his father. During Celebrindor's rule\nover Arthedain, there was peace between relations with the other\nsplinter-realms of Arnor, Cardolan and Rhudaur and therefore his reign\nwas an uneventful one, and no evil threatened the realm as of yet.\nCelebrindor died in TA 1272 after ruling for eighty-one years and was\nsucceeded by his son Malvegil.\n\n\nEtymology\n\n_CELEBRINDOR_ was a Sindarin name that probably meant 'silverlord' or\n'silverlike lord'.\n\nFormer names\n\nAs outlined in _The Peoples of Middle-earth_: The Heirs of Elendil,\nCelebrindor was first written as _Celemenegil_ and _Celebrindol_ but was\ncorrected and changed to Celebrindor.",
@@ -1904,6 +1891,19 @@
     "other_names": "Egnor , Aikanár, Aikanáro",
     "hair": "Golden",
     "location": "Arthedain"
+  },
+  {
+    "name": "Grór",
+    "lotr_page_id": "774",
+    "text": "GRÓR was the founder of the Dwarven realm in the Iron Hills and its\nfirst lord.\n\n\nBiography\n\nGrór was born in Grey Mountains as the youngest of three sons born to\nDáin I. His older brothers were Thrór and Frór. After the death of his\nfather in TA 2589, he and his brother left the Grey Mountains and while\nThrór went back to the Lonely Mountain, Grór went further into the east\nand in TA 2590 he established the Kingdom of the Dwarves in the Iron\nHills. Two hundred years later, just before the Battle of Azanulbizar in\nTA 2799, he thought himself too old to go at age 237 (physically\napproximately 68 years old), and instead sent his son Náin and grandson\nDáin II, the king of the dwarves at the Iron Hills at the time of _The\nHobbit_. Grór was indeed old, for he died not too long after in TA\n2805.",
+    "titles": "Lord of the Iron Hills",
+    "birth": "TA 2563",
+    "death": "TA 2805 (aged 242)",
+    "spouse": "Unnamed wife",
+    "weapon": "Unknown, probably a Battle axe",
+    "race": "Dwarves",
+    "gender": "Male",
+    "culture": "Dwarves of the Iron Hills"
   },
   {
     "name": "Hirgon",
@@ -1935,19 +1935,6 @@
     "culture": "Ainur"
   },
   {
-    "name": "Borlas",
-    "race": "Men",
-    "text": "BORLAS was a Man of Gondor in the Fourth Age, and a key figure in J.R.R.\nTolkien's short-lived story _The New Shadow_. He had two children, an\nunnamed daughter and a son Berelach, a friend of Saelon.\n\n\nBiography\n\nBorlas was the son of Beregond, the captain who saved Faramir from being\nburned by Denethor. After the War of the Ring, he lived in Pen-arduin,\nwhich was in Emyn Arnen. Sometime in the past he caught a young man\nstealing an apple from his garden. He scolded him describing his\nbehavior as “Orc work” but took the boy under his wing becoming his\nmaster. Years later, he learned through him of the growing shadow among\nMen and the possibility of a secret cult worshiping the old enemies of\nthe world.\n\n\nEtymology\n\n_BORLAS_ means “Enduring joy” from _bor_ (“endure”) and _glass_ or\n_galas_ (“joy”).",
-    "birth": "TA 3011",
-    "spouse": "Unnamed wife",
-    "gender": "Male",
-    "culture": "Men of Gondor",
-    "lotr_page_id": "9603",
-    "other_names": "Egnor , Aikanár, Aikanáro",
-    "titles": "Lord of Dorthonion with Angrod",
-    "hair": "Golden"
-  },
-  {
     "name": "Berúthiel",
     "lotr_page_id": "4462",
     "text": "BERÚTHIEL was a Queen of Gondor in the Third Age before the reign of the\nStewards. Biography Berúthiel was a Black Númenórean and the wife of\nTarannon Falastur of Gondor. She was noted for being “nefarious,\nsolitary, and loveless”. It is therefore of no surprise that Tarannon\ndied childless. She lived with her husband in Osgiliath but hated the\nsound and smell of the sea. She had ten cats under her service — nine\nblack and one white, with whom she conversed and set as spies to the Men\nof Gondor. Eventually, Tarannon exiled her from Gondor. He set her and\nher cats on a ship that was last seen past Umbar. Her name was removed\nfrom the Books of the Kings but not from the memory of Men. It was\nproved when Aragorn had made mention of Berúthiel and her cats more than\n2,000 years after her disappearance.",
@@ -1976,6 +1963,19 @@
     "lotr_page_id": "2286",
     "hair": "Golden",
     "location": "Rohan"
+  },
+  {
+    "name": "Borlas",
+    "race": "Men",
+    "text": "BORLAS was a Man of Gondor in the Fourth Age, and a key figure in J.R.R.\nTolkien's short-lived story _The New Shadow_. He had two children, an\nunnamed daughter and a son Berelach, a friend of Saelon.\n\n\nBiography\n\nBorlas was the son of Beregond, the captain who saved Faramir from being\nburned by Denethor. After the War of the Ring, he lived in Pen-arduin,\nwhich was in Emyn Arnen. Sometime in the past he caught a young man\nstealing an apple from his garden. He scolded him describing his\nbehavior as “Orc work” but took the boy under his wing becoming his\nmaster. Years later, he learned through him of the growing shadow among\nMen and the possibility of a secret cult worshiping the old enemies of\nthe world.\n\n\nEtymology\n\n_BORLAS_ means “Enduring joy” from _bor_ (“endure”) and _glass_ or\n_galas_ (“joy”).",
+    "birth": "TA 3011",
+    "spouse": "Unnamed wife",
+    "gender": "Male",
+    "culture": "Men of Gondor",
+    "lotr_page_id": "9603",
+    "other_names": "Egnor , Aikanár, Aikanáro",
+    "titles": "Lord of Dorthonion with Angrod",
+    "hair": "Golden"
   },
   {
     "name": "Landroval",
@@ -2010,6 +2010,18 @@
     "culture": "Gondolindrim"
   },
   {
+    "name": "Girion",
+    "lotr_page_id": "2509",
+    "text": "GIRION was the last Lord of Dale, who ruled from TA 2763 to his death in\nTA 2770.\n\n\nBiography\n\n\n\nBorn in TA 2732, Girion became the Lord of Dale and ruled the city\npeacefully with the Dwarves of Erebor. However, in the year TA 2770,,\nhe was killed when the dragon Smaug destroyed Dale and the neighboring\nDwarven realm of Erebor. However, his wife (name unknown) and son\nescaped. One-hundred and seventy-four years later, Bard, Girion's\ndescendant, took revenge on the dragon, slaying him by shooting an arrow\ninto a small gap in the old dragon's scales, which was the only\nvulnerable spot on his body.\n\nIt is also mentioned in _The Hobbit_ that Girion had owned a necklace of\nfive hundred emeralds, later found among the treasures hoarded by Smaug\nin the Lonely Mountain. Bard obtained this necklace from Dain\nIronfoot, and in turn he gave it to the Elvenking Thranduil.",
+    "titles": "Lord of Dale",
+    "birth": "TA 2732",
+    "death": "TA 2770",
+    "spouse": "Unnamed wife",
+    "race": "Men",
+    "gender": "Male",
+    "culture": "Men of Dale"
+  },
+  {
     "name": "Anairë",
     "race": "Elves",
     "text": "ANAIRË was an Elf of Valinor and the wife of Fingolfin.\n\n\nBiography\n\nLittle is known of Anairë's life, only that she did not choose to follow\nher husband to Middle-earth during their departure from Aman. They had\nfour children during the Noontide of Valinor, namely Fingon, Turgon,\nAredhel, and Argon. Anairë was known to be friends with Eärwen,\nFinarfin's wife. It is assumed that she still resides in Aman along\nwith all the other Elves of Valinor.\n\n\n\n\nEtymology\n\nIn Quenya, ANAIRË means _Holiest_, from _airë_ (“holy”) and _an-_, a\nsuperlative prefix.\n\n\nOther versions in the legendarium\n\nAnairë does not appear in the _Silmarillion_ and Fingolfin is given\nthree children but no mention of a named wife.\n\nIn an early manuscript, her name was spelled as “Alaire”. In another,\nshe was identified as a Vanya who remained in Túna, who would later be\nElenwë, Turgon's wife.",
@@ -2022,18 +2034,6 @@
     "titles": "Lord of Dorthonion with Angrod",
     "death": "FA 455",
     "hair": "Golden"
-  },
-  {
-    "name": "Girion",
-    "lotr_page_id": "2509",
-    "text": "GIRION was the last Lord of Dale, who ruled from TA 2763 to his death in\nTA 2770.\n\n\nBiography\n\n\n\nBorn in TA 2732, Girion became the Lord of Dale and ruled the city\npeacefully with the Dwarves of Erebor. However, in the year TA 2770,,\nhe was killed when the dragon Smaug destroyed Dale and the neighboring\nDwarven realm of Erebor. However, his wife (name unknown) and son\nescaped. One-hundred and seventy-four years later, Bard, Girion's\ndescendant, took revenge on the dragon, slaying him by shooting an arrow\ninto a small gap in the old dragon's scales, which was the only\nvulnerable spot on his body.\n\nIt is also mentioned in _The Hobbit_ that Girion had owned a necklace of\nfive hundred emeralds, later found among the treasures hoarded by Smaug\nin the Lonely Mountain. Bard obtained this necklace from Dain\nIronfoot, and in turn he gave it to the Elvenking Thranduil.",
-    "titles": "Lord of Dale",
-    "birth": "TA 2732",
-    "death": "TA 2770",
-    "spouse": "Unnamed wife",
-    "race": "Men",
-    "gender": "Male",
-    "culture": "Men of Dale"
   },
   {
     "name": "Will Whitfoot",

@@ -4,7 +4,10 @@ const podaci = require('../data/races.json')
 const obradjeno = podaci
   .sort((a, b) => a.text.length - b.text.length)
   .map(x => {
-    if (!x.characters) console.log(x.name)
+    for (const key in x) {
+      if (x[key] == "Unknown")
+        delete x[key]
+    }
     return x
   })
 

@@ -25,6 +25,16 @@
     "cultures": "Elves"
   },
   {
+    "name": "Durin's Tower",
+    "lotr_page_id": "2740",
+    "text": "DURIN'S TOWER was a dwarvish tower that stood on the peak of\nZirakzigil above Moria, at which Gandalf defeated Durin's Bane.\n\nIt could only be reached by a long stairwell which began in the deep far\nbelow the mines.",
+    "type": "Tower",
+    "position": "Atop Zirakzigil",
+    "description": "Carved out of the living rock of the mountain",
+    "events": "Battle of the Peak",
+    "cultures": "Dwarves, Orcs"
+  },
+  {
     "name": "Old Mill",
     "lotr_page_id": "12370",
     "text": "The OLD MILL was located\non The Water in Hobbiton. It was owned by Ted Sandyman, and during the\nScouring of the Shire was burnt down during the War of the Ring by\nRuffians. Afterwards, it was rebuilt as the New Mill."
@@ -36,14 +46,10 @@
     "cultures": "Numenoreans"
   },
   {
-    "name": "Durin's Tower",
-    "lotr_page_id": "2740",
-    "text": "DURIN'S TOWER was a dwarvish tower that stood on the peak of\nZirakzigil above Moria, at which Gandalf defeated Durin's Bane.\n\nIt could only be reached by a long stairwell which began in the deep far\nbelow the mines.",
-    "type": "Tower",
-    "position": "Atop Zirakzigil",
-    "description": "Carved out of the living rock of the mountain",
-    "events": "Battle of the Peak",
-    "cultures": "Dwarves, Orcs"
+    "name": "Harlond",
+    "lotr_page_id": "3251",
+    "text": "HARLOND (Sindarin for “south haven”) is a Elf-haven and a harbour on the\nnorthern shores of Harlindon in the far western parts of Middle-earth.\n\nThe southern harbour on the Gulf of Lhûn was Mithlond, the northern\nbeing Forlond.",
+    "cultures": "Elves"
   },
   {
     "name": "Bay of Eldanna",
@@ -186,6 +192,11 @@
     "text": "The WALL OF THE SUN was a vast mountain range in the Land of the Sun in\nthe far eastern part of Arda during the time before the Change of the\nWorld.\n\nThe Wall of the Sun's highest peak was Kalórmë, directly across Arda\nfrom which lay the mountain of Taniquetil in Valinor. The land it was on\nwas across the Eastern Seas from Middle-Earth."
   },
   {
+    "name": "Harrowdale",
+    "lotr_page_id": "3354",
+    "text": "HARROWDALE was the name given to the deep north-south valley cut out of\nthe White Mountains by the Snowbourn river.\n\nAt its southern end, beneath the mountain known as the Starkhorn, stood\nDunharrow, a great refuge of the Rohirrim. At its northern end, where\nthe Snowbourn issued onto the plains of Rohan, stood that nation's\ncapital, Edoras."
+  },
+  {
     "name": "Merethrond",
     "lotr_page_id": "10093",
     "text": "MERETHROND also known as the GREAT HALL OF FEASTS was a great hall in\nMinas Tirith used by the nobility of Gondor for feasting. It is located\nin the Citadel next to the Tower of Ecthelion.\n\nAragorn met Éomer at this place once the War of the Ring ended.\n\n\nEtymology\n\n_Merethrond_ is a Sindarin word that meant 'Fell-hall' or 'Hall of\nFeasts'.",
@@ -194,11 +205,6 @@
     "description": "The feasting hall of the king in Gondor, filled with tables",
     "type": "Hall",
     "cultures": "Men of Gondor"
-  },
-  {
-    "name": "Harrowdale",
-    "lotr_page_id": "3354",
-    "text": "HARROWDALE was the name given to the deep north-south valley cut out of\nthe White Mountains by the Snowbourn river.\n\nAt its southern end, beneath the mountain known as the Starkhorn, stood\nDunharrow, a great refuge of the Rohirrim. At its northern end, where\nthe Snowbourn issued onto the plains of Rohan, stood that nation's\ncapital, Edoras."
   },
   {
     "name": "Helm's Dike",
@@ -215,20 +221,14 @@
     "text": "MORGUL-ROAD is the road that runs\nthrough the Morgul Vale. Not to be confused with Cirith Ungol (also\nknown as the Nameless Pass, High Pass, or Pass of the Spider) which\nFrodo and Sam went on to get to the Tower of Cirith Ungol in The Two\nTowers and The Return of the King in the books, but in the movies it\nonly appears in The Return of the King."
   },
   {
-    "name": "Harlond",
-    "lotr_page_id": "3251",
-    "text": "HARLOND (Sindarin for “south haven”) is a Elf-haven and a harbour on the\nnorthern shores of Harlindon in the far western parts of Middle-earth.\n\nThe southern harbour on the Gulf of Lhûn was Mithlond, the northern\nbeing Forlond.",
-    "cultures": "Elves"
+    "name": "Idril's Secret Way",
+    "lotr_page_id": "15473",
+    "text": "IDRIL'S SECRET WAY was an escape tunnel made by Idril Celebrindal under\nthe hidden city of Gondolin.\n\n\nHistory\n\nThe Secret Way ran underneath the city possibly beginning from the house\nof Tuor and Idril beyond its walls and proceeded northward of the Amon\nGwareth. Through the Secret Way, the last survivors of the doomed city\nescaped its destruction."
   },
   {
     "name": "Haudh-en-Elleth",
     "lotr_page_id": "7530",
     "text": "HAUDH-EN-ELLETH was the burial mound of Finduilas, located in Brethil\nnear the Crossings of Teiglin. The mound was kept free of orcs by Túrin\nwhile he lived, and here he met (but did not recognize) his sister\nNienor for the first time. \n\nYears later, it was here that Manthor and his guardsmen came across\nHúrin, during the time of Húrin's wanderings."
-  },
-  {
-    "name": "Idril's Secret Way",
-    "lotr_page_id": "15473",
-    "text": "IDRIL'S SECRET WAY was an escape tunnel made by Idril Celebrindal under\nthe hidden city of Gondolin.\n\n\nHistory\n\nThe Secret Way ran underneath the city possibly beginning from the house\nof Tuor and Idril beyond its walls and proceeded northward of the Amon\nGwareth. Through the Secret Way, the last survivors of the doomed city\nescaped its destruction."
   },
   {
     "name": "Tower of Turgon",
@@ -479,14 +479,14 @@
     "text": "LAKE OF MITHRIM was a great lake in the land of Mithrim in Hithlum.\n\n\nHistory\n\nLake Mithrim was where on the second year of the sun where the Ñoldor\nfirst dwelt in Middle-earth: the Sons of Fëanor on the northern shore\nand Fingolfin's host on the southern shore.\n\nIt was fed by three streams coming from the Ered Wethrin.\n\n\nEtymology\n\nThe word _Mith_ means Grey and _rim_ means Folk so therefore it means\n_Lake Grey-folk_ or perhaps _Lake of the Grey-folk_ in Sindarin."
   },
   {
-    "name": "Firienfeld",
-    "lotr_page_id": "9683",
-    "text": "FIRIENFELD was a grassy field in Dunharrow between the Irensaga and\nStarkhorn.\n\nIt served as an encampment and gathering point for the Men of Rohan\nduring times of war.\n\nThe road to the Dimholt ran through tents and pavilions that were raised\nas shelter for the soldiers and their horses.\n\n\nHistory\n\nThe Rohirrim were camped here in twenty-eight century of the Third Age\nduring their war with Dunlendings. It was also encamped by the Rohirrim\nduring the War of the Ring."
-  },
-  {
     "name": "Ringol",
     "lotr_page_id": "2427",
     "text": "_RINGOL_ was the name of a great tower upon which the mighty lamp Ormal\nsat.\n\nIt was raised by the Valar to house the Southern of the Two Lamps,\nOrmal. It was placed in the south of Middle-earth, and together with the\nnorthern lamp Illuin lit up all of Arda.\n\nRingol was destroyed by Melkor, and collapsed. This ruined a great part\nof Middle-earth, and waters most likely from the eastern ocean flowed in\nto fill the void. Later here was formed the inland Sea of Ringol."
+  },
+  {
+    "name": "Firienfeld",
+    "lotr_page_id": "9683",
+    "text": "FIRIENFELD was a grassy field in Dunharrow between the Irensaga and\nStarkhorn.\n\nIt served as an encampment and gathering point for the Men of Rohan\nduring times of war.\n\nThe road to the Dimholt ran through tents and pavilions that were raised\nas shelter for the soldiers and their horses.\n\n\nHistory\n\nThe Rohirrim were camped here in twenty-eight century of the Third Age\nduring their war with Dunlendings. It was also encamped by the Rohirrim\nduring the War of the Ring."
   },
   {
     "name": "Losgar",
@@ -715,6 +715,11 @@
     "position": "Westernmost peak between Nevrast and West Beleriand"
   },
   {
+    "name": "Hobbiton Hill",
+    "lotr_page_id": "11621",
+    "text": "HOBBITON HILL, also called the THE HILL, was a hill in the Westfarthing\nbetween Hobbiton and Overhill. It was on this hill that Bag End stood as\nwell as Bagshot Row and its residents, the Party Field, and the Party\nTree. The hill had many other large trees as well.\n\n\nHistory\n\nDuring the Shire's rule by Lotho and Saruman much of the hill's places\nand trees were dug up and destroyed, and a large sand and gravel quarry\nstood in the place of Bagshot Row. During the Scouring of the Shire, the\nParty Tree was replaced by a Mallorn, and Bagshot Row was replaced by\nNew Row."
+  },
+  {
     "name": "Lake Evendim",
     "lotr_page_id": "2382",
     "text": "LAKE EVENDIM, or “NENUIAL”, was one of the many lakes of Middle-earth.\n\nThe elven name _Nenuial_ is Sindarin for “Lake of Twilight”, suggesting\nthat the lake was best seen at that time of day. The lake was about 100\nmiles north of the Shire in northern Eriador. It was approximately 50\nmiles from north to south and 20 miles east to west. It was bounded on\nthe west by the Emyn Uial (Hills of Evendim) and on the south by a ridge\nof hills not named. On its southern shore was Annúminas, the first\ncapital of Arnor.\n\nThe Baranduin flowed out of this lake towards the east.",
@@ -724,11 +729,6 @@
     "description": "Large lake partly encircled by hills",
     "events": "Battle of Fornost",
     "cultures": "Elves, Men"
-  },
-  {
-    "name": "Hobbiton Hill",
-    "lotr_page_id": "11621",
-    "text": "HOBBITON HILL, also called the THE HILL, was a hill in the Westfarthing\nbetween Hobbiton and Overhill. It was on this hill that Bag End stood as\nwell as Bagshot Row and its residents, the Party Field, and the Party\nTree. The hill had many other large trees as well.\n\n\nHistory\n\nDuring the Shire's rule by Lotho and Saruman much of the hill's places\nand trees were dug up and destroyed, and a large sand and gravel quarry\nstood in the place of Bagshot Row. During the Scouring of the Shire, the\nParty Tree was replaced by a Mallorn, and Bagshot Row was replaced by\nNew Row."
   },
   {
     "name": "Brandy Hall",
@@ -775,6 +775,16 @@
     "text": "The MITTALMAR was the central province of Númenor, containing Arandor\n(or 'Kings'-land'), which itself was the most populous part of the\nrealm.\n\nThe land was Númenor's main pastoral land and consisted mainly of\ngrasslands and like most of Númenor it had a humid climate with mild\nwinters. It was oval in shape and ran about two-hundred miles from east\nto west and over one-hundred and fifty miles from north to south. In its\nnear center was the mountain of Meneltarma, the Pillar of Heaven. Its\ntwo main rivers Nunduinë and Siril (Númenor's only ones) were present\nmostly in this region."
   },
   {
+    "name": "Himling",
+    "lotr_page_id": "4064",
+    "text": "HIMLING was a small island about twenty-five miles off\nthe coast of northern Lindon in the northern part of the Belegaer, and\nabout a dozen miles east of the island of Tol Fuin according to _The\nAtlas of Middle-earth_.\n\nNo one is known to have lived there either in the Second or Third ages\nor beyond.\n\n\nHistory\n\nDuring the First Age of Middle-earth, Himling was once a hill known as\nHimring which was the location of the realm of Maedhros, the eldest son\nof Fëanor. After the sinking of the Beleriand at the end of the War of\nWrath, the peak of the hill remained above water as an island.",
+    "description": "Tall flat-topped treeless hill, fortified",
+    "events": "Dagor Bragollach, Nirnaeth Arnoediad",
+    "type": "Hill/island",
+    "position": "Between the Pass of Aglon and Maglor's Gap; later as an island in, Belegaer",
+    "cultures": "Noldor"
+  },
+  {
     "name": "Ash Mountains",
     "lotr_page_id": "9333",
     "text": "The ASH MOUNTAINS, or ERED LITHUI was a mountain range that formed the\nnorthern border of Mordor.\n\n\nDescription\n\nAccording to the _The Atlas of Middle-earth_, the range was some 500\nmiles in length stretching from the Black Gate and Cirith Gorgor, where\nit met the Ephel Dúath in the west and Rhûn in the far east. Barad-dûr\nstood on an outcrop of this range on the plateau of Gorgoroth to its\nsouth. These mountains were probably heavily blackened by the\nvolcanic activity of Mount Doom hence the name.\n\n\nEtymology\n\nThe Sindarin name Ered Lithui meant 'Ash Mountains' or 'Ashy\nMountains'.",
@@ -789,29 +799,19 @@
     "events": "Wainriders sudden assault upon King Ondoher"
   },
   {
-    "name": "Himling",
-    "lotr_page_id": "4064",
-    "text": "HIMLING was a small island about twenty-five miles off\nthe coast of northern Lindon in the northern part of the Belegaer, and\nabout a dozen miles east of the island of Tol Fuin according to _The\nAtlas of Middle-earth_.\n\nNo one is known to have lived there either in the Second or Third ages\nor beyond.\n\n\nHistory\n\nDuring the First Age of Middle-earth, Himling was once a hill known as\nHimring which was the location of the realm of Maedhros, the eldest son\nof Fëanor. After the sinking of the Beleriand at the end of the War of\nWrath, the peak of the hill remained above water as an island.",
-    "description": "Tall flat-topped treeless hill, fortified",
-    "events": "Dagor Bragollach, Nirnaeth Arnoediad",
-    "type": "Hill/island",
-    "position": "Between the Pass of Aglon and Maglor's Gap; later as an island in, Belegaer",
-    "cultures": "Noldor"
-  },
-  {
     "name": "The Yale",
     "lotr_page_id": "2862",
     "text": "THE YALE was the name of the low-lying lands of the Shire's Eastfarthing\nthat lay along the northern side of the long road from Stock westwards\nto Tuckborough.\n\nThis seems to have been a sparsely populated area, and in fact the map\nof the Shire in _The Lord of the Rings_ marks only a single building\nhere.\n\n\nEtymology\n\nThe meaning of the Yale's name is obscure. The well-known English\npersonal and placename “Yale” has its origins in a Welsh expression\nmeaning “fertile upland.” Its use may suggest that the Hobbits who named\nit had contacts with “strange” languages, possibly those of Dunland."
   },
   {
-    "name": "Udûn (Mordor)",
-    "lotr_page_id": "9451",
-    "text": "UDÛN was a depressed valley located in northwestern Mordor. It laid\nbetween Cirith Gorgor and the Isenmouthe, and was traversed by large\narmies of Sauron in times of war.\n\nWithin its circumference were many Orc-holds (as told in _The Return of\nthe King_), including Durthang, the forges, and the forts at Carach\nAngren.\n\n\nHistory\n\nUdûn originated with the creation of the lands of Mordor. During both\nthe war of the Last Alliance and the War of the Ring, the vast armies of\nMordor passed through here and out the Black Gate to confront their\nenemies.\n\n\nEtymology\n\n_UDÛN_ meant “hell” in Sindarin."
-  },
-  {
     "name": "Lake Helevorn",
     "lotr_page_id": "3335",
     "text": "LAKE HELEVORN was a deep, dark lake in Thargelion just south of Mount\nRerir in the northeastern Beleriand.\n\nAccording to _The Atlas of Middle-earth_, it appeared to span around\ntwenty miles from its west to east shoreline.\n\n\nHistory\n\nAfter the Return of the Ñoldor, Caranthir, the fourth son of Fëanor took\nup residence along Lake Helevorn's shorelines. During the Dagor\nBragollach, Glaurung the dragon polluted and defiled its waters. The\nlake as well as Caranthir's domain was destroyed at the conclusion of\nthe War of Wrath.\n\n\nEtymology\n\n_HELEVORN_ is a Sindarin word that meant 'Black-Glass'."
+  },
+  {
+    "name": "Udûn (Mordor)",
+    "lotr_page_id": "9451",
+    "text": "UDÛN was a depressed valley located in northwestern Mordor. It laid\nbetween Cirith Gorgor and the Isenmouthe, and was traversed by large\narmies of Sauron in times of war.\n\nWithin its circumference were many Orc-holds (as told in _The Return of\nthe King_), including Durthang, the forges, and the forts at Carach\nAngren.\n\n\nHistory\n\nUdûn originated with the creation of the lands of Mordor. During both\nthe war of the Last Alliance and the War of the Ring, the vast armies of\nMordor passed through here and out the Black Gate to confront their\nenemies.\n\n\nEtymology\n\n_UDÛN_ meant “hell” in Sindarin."
   },
   {
     "name": "Mountains of Mirkwood",
@@ -918,14 +918,14 @@
     "lifespan": "Third Age"
   },
   {
-    "name": "Amon Gwareth",
-    "lotr_page_id": "6543",
-    "text": "AMON GWARETH was a stone hill that sat in the middle of the fair vale of\nTumladen in the First Age Elven city of Gondolin.\n\n\nHistory\n\nAmon Gwareth was a smooth, hard, and black hill of stone sitting in the\nmiddle of the fair vale. It was on this hill of stone that the great and\nbeautiful city of Gondolin was built, and the hill acted as its\nfoundation. Amon Gwareth was located in the center of the fair vale of\nTumladen, which was located inside the Echoriath.\n\nThe great cliff of Caragdûr where Eöl was cast off of was located on its\nnorth side near the North Gate.\n\n\nEtymology\n\nAmon Gwareth was a Sindarin word that meant 'Hill of Watch'."
-  },
-  {
     "name": "Amon Ethir",
     "lotr_page_id": "3715",
     "text": "AMON ETHIR, also known as SPYHILL, was an artificial hill in the plain\nof Talath Dirnen above the river Narog. Situated around a league (five\nkilometres) east of the Doors of Nargothrond, its clear summit was used\nby Finrod Felagund's spies to watch the surrounding lands.\n\nThe hill remaining standing after the Sack of Nargothrond and in these\nlater years Nienor encountered Glaurung the Dragon here, who had\nblanketed the land with dragon-reek, with only the hill top above the\nmists. Here he cast Nienor into a deep spell of forgetfulness.\n\n\nEtymology\n\nAmon Ethir meant 'Hill of spies' in Sindarin.\n\nde:Amon Ethir pl:Amon Ethir ru:Амон Этир"
+  },
+  {
+    "name": "Amon Gwareth",
+    "lotr_page_id": "6543",
+    "text": "AMON GWARETH was a stone hill that sat in the middle of the fair vale of\nTumladen in the First Age Elven city of Gondolin.\n\n\nHistory\n\nAmon Gwareth was a smooth, hard, and black hill of stone sitting in the\nmiddle of the fair vale. It was on this hill of stone that the great and\nbeautiful city of Gondolin was built, and the hill acted as its\nfoundation. Amon Gwareth was located in the center of the fair vale of\nTumladen, which was located inside the Echoriath.\n\nThe great cliff of Caragdûr where Eöl was cast off of was located on its\nnorth side near the North Gate.\n\n\nEtymology\n\nAmon Gwareth was a Sindarin word that meant 'Hill of Watch'."
   },
   {
     "name": "Aldburg",
@@ -1108,6 +1108,15 @@
     "cultures": "Lossoth"
   },
   {
+    "name": "March of Maedhros",
+    "lotr_page_id": "873",
+    "text": "The MARCH OF MAEDHROS was an Elven realm in the eastern Beleriand\nbetween Dorthonion and the Blue Mountains next to his younger brother's\ndomain.\n\nIt consisted of a series of hills and plains.\n\n\nHistory\n\nThe March of Maedhros was fortified by Maedhros after he moved his\nbrothers and their people out of Hithlum further east to avoid any feuds\nwith their kinsmen. He established himself on the Hill of Himring. It\nwithstood the frequent attacks by the forces of Angband throughout the\nFirst Age, standing strong in the Battles of Beleriand including the\nravages of the Dagor Bragollach (Battle of Sudden Flame). It was finally\noverrun during the Nirnaeth Arnoediad (Battle of Unnumbered Tears) in FA\n473.",
+    "position": "North-eastern Beleriand",
+    "capital": "Himring",
+    "cultures": "Noldor",
+    "governance": "Maedhros"
+  },
+  {
     "name": "Dor-en-Ernil",
     "lotr_page_id": "16253",
     "text": "DOR-EN-ERNIL or LAND OF THE PRINCE is one of Gondor's most southern\ncoastal regions. The name is a presumable reference to the Princes of\nDol Amroth, subjects to the Kings of Gondor, who ruled the lands from\nthe Ringló to the Gilrain. The lands of Dor-en-Ernil were probably the\nones between an unspecified mountaineous area and the Gilrain, although\nChristopher Tolkien suspects the regions Belfalas and the Land of the\nPrince to be the same. The borders of this region were not specified by\nTolkien himself.\n\nbelfalas-map.gif|A basic map, pinpointing a presumable location of\nDor-en-Ernil harnendor2.jpg|The lands of Belfalas, Tolfalas and\nDor-en-Ernil.\n\nes:Dor-en-Ernil it:Dor-en-Ernil pl:Dor-en-Ernil"
@@ -1283,28 +1292,19 @@
     "text": "FROGMORTON was a village located in the Eastfarthing region of The\nShire.\n\nIt is located on the Great East Road between the Three Farthing Stone\nand Whitfurrows. Its best known feature was The Floating Log inn. A\nshort distance to the north lie a place where The Water broke into two\nstreams, and in the middle there was a watery marsh-like place, which\nmay have been responsible for Frogmorton's name “Frog Marsh”. Bilbo\nBaggins claims to have walked from Hobbiton to Frogmorton in The Hobbit.\n\n\nHistory\n\nDuring the War of the Ring when Sharkey and his band of thugs took over\nThe Shire, it was the base camp of the First Eastfarthing Troop company\nof Shirriffs who were responsible for arresting Frodo and Company when\nthey returned to the Shire after the Quest of the Ring."
   },
   {
-    "name": "Forgotten Villages",
-    "lotr_page_id": "43886",
-    "text": "The FORGOTTEN VILLAGES were what the Hobbits referred to as their early\nsettlements in Eriador that they inhabited after migrating from the\nupper Vales of Anduin but before settling farther west to what would\nlater became the Shire.\n\n\nHistory\n\nThe communities were located in Eriador between the Misty Mountains,\nBree-land, and Arnor. They were pleasant and well-ordered communities\nwhere the Fallohides, Harfoots, and Stoor Hobbit groups lived and\nintermingled with each other in peace. The Hobbits began leaving these\nsettlements to begin settling in other places which were intended to be\nmore permanent homes. The settlements seemed to exist in the years\nbetween TA 1150 and TA 1300. All complex details of the Forgotten\nVillages were lost to memory by Bilbo Baggins' time."
-  },
-  {
     "name": "Doors of Felagund",
     "lotr_page_id": "40743",
     "text": "The doors that guarded the entrance to Nargothrond, raised by its\nbuilder Finrod Felagund. They were set in the face of a cliff above the\nriver Narog, and approached only by a narrow pathway across the cliff,\nmaking Nargothrond secure from enemy attack.\n\nAfter Felagund's death, Túrin came to dwell in Nargothrond, and he\npersuaded King Orodreth to change this secretive policy, and to build a\ngreat bridge before the Doors of Felagund, so that his armies could more\neasily pass across the Narog. This was a dire error, because it\ngave Morgoth's forces a means to approach the Doors. After the Battle of\nTumhalad, Glaurung the Dragon came against the Doors of Felagund and\ndestroyed them, allowing the Orcs to sack the once-mighty citadel.\n\nde:Tore Felagunds pl:Drzwi Felagunda"
   },
   {
+    "name": "Forgotten Villages",
+    "lotr_page_id": "43886",
+    "text": "The FORGOTTEN VILLAGES were what the Hobbits referred to as their early\nsettlements in Eriador that they inhabited after migrating from the\nupper Vales of Anduin but before settling farther west to what would\nlater became the Shire.\n\n\nHistory\n\nThe communities were located in Eriador between the Misty Mountains,\nBree-land, and Arnor. They were pleasant and well-ordered communities\nwhere the Fallohides, Harfoots, and Stoor Hobbit groups lived and\nintermingled with each other in peace. The Hobbits began leaving these\nsettlements to begin settling in other places which were intended to be\nmore permanent homes. The settlements seemed to exist in the years\nbetween TA 1150 and TA 1300. All complex details of the Forgotten\nVillages were lost to memory by Bilbo Baggins' time."
+  },
+  {
     "name": "Cracks of Doom",
     "lotr_page_id": "712",
     "text": "THE CRACKS OF DOOM is the name given to the volcanic fissure in Mount\nDoom, where Frodo Baggins had to throw the One Ring into to be\ndestroyed. It was the only place in Middle-earth where the One Ring\ncould be destroyed.\n\n\nHistory\n\nIt is described in _The Return of the King_ as a great fissure that\nsplit a long tunnel that bored into Mount Doom. From the Crack of Doom,\na red light, presumably from lava, is emitted. The red glow is the only\nlight in the cavern, as even the Phial of Galadriel is dimmed by the\npower of Sauron in the heart of his realm. There is a road leading from\nBarad-dûr to the Crack of Doom.\n\nFrodo claims the One Ring here; he and Gollum fight over it. Gollum\nfalls into the Crack of Doom with the ring, thus completing the\nFellowship of the Ring's quest.\n"
-  },
-  {
-    "name": "Carrock",
-    "lotr_page_id": "2735",
-    "text": "CARROCK was a stony eyot in the upper reaches of the River Anduin, to\nthe north of the Old Ford a few miles west of Beorn's farmstead.\n\nThe stairs had been built by Beorn who sometimes would be seen climbing\nto the top in the form of a bear to look at the Moon or the Misty\nMountains.\n\n\nHistory\n\nDuring their journey to the Lonely Mountain, Thorin and Company were\nhoused there overnight by the Eagles before they went to see Beorn.\n\nGandalf states that the steps from the base of the rock to the flat top\nwere made by Beorn and that “Carrock” is Beorn's name for it.\n\n\nEtymology\n\nThis is somewhat of a linguistical joke on Tolkien's part; in\nAnglo-Saxon _carr_ means “rock” and in Welsh, _carreg_ also means “rock,\nstone”.\n\n\nGallery\n\n3Carrock.JPG|The Carrock 2Carrock.JPG|The Carrock",
-    "type": "Eyot",
-    "position": "In the river Anduin, Rhovanion",
-    "description": "Large rock with steps to the base",
-    "events": "T.A. 2941 - Thorin and Company reach the Carrock"
   },
   {
     "name": "Harlindon",
@@ -1315,6 +1315,15 @@
     "description": "Fair, green coastal land",
     "major_towns": "Harlond",
     "cultures": "Grey Elves"
+  },
+  {
+    "name": "Carrock",
+    "lotr_page_id": "2735",
+    "text": "CARROCK was a stony eyot in the upper reaches of the River Anduin, to\nthe north of the Old Ford a few miles west of Beorn's farmstead.\n\nThe stairs had been built by Beorn who sometimes would be seen climbing\nto the top in the form of a bear to look at the Moon or the Misty\nMountains.\n\n\nHistory\n\nDuring their journey to the Lonely Mountain, Thorin and Company were\nhoused there overnight by the Eagles before they went to see Beorn.\n\nGandalf states that the steps from the base of the rock to the flat top\nwere made by Beorn and that “Carrock” is Beorn's name for it.\n\n\nEtymology\n\nThis is somewhat of a linguistical joke on Tolkien's part; in\nAnglo-Saxon _carr_ means “rock” and in Welsh, _carreg_ also means “rock,\nstone”.\n\n\nGallery\n\n3Carrock.JPG|The Carrock 2Carrock.JPG|The Carrock",
+    "type": "Eyot",
+    "position": "In the river Anduin, Rhovanion",
+    "description": "Large rock with steps to the base",
+    "events": "T.A. 2941 - Thorin and Company reach the Carrock"
   },
   {
     "name": "Falls of Rauros",
@@ -1545,11 +1554,6 @@
     "lifespan": "Second Age -"
   },
   {
-    "name": "Dor Daedeloth",
-    "lotr_page_id": "863",
-    "text": "DOR DAEDELOTH was the land of Morgoth, and at a time made up the north\nhalf of Beleriand. It once lay to the south of Ard-Galen.\n\n\nHistory\n\nDor Daedeloth, lay around the fortresses of Angband, Utumno,\nThangorodrim, Ered Gorgoroth and on both sides of the Ered Engrin. It\nwas here that the Orcs and other creatures of Morgoth lived and bred.\n\nAfter defeating the armies of Morgoth in the Dagor-nuin-Giliath, the\nmarch of the Ñoldor in early First Age was halted there after Fëanor,\nwho had pressed on to Angband to face the Dark Lord himself, was\nmortally wounded by Balrogs.\n\nThe Ñoldor then encircled the land (at least in the south), starting the\nSiege of Angband. It is probable that they built a number of fortresses\nand outposts there, but they must have been destroyed or taken over by\nthe enemy during Dagor Bragollach.\n\nThe area perished with the rest of the Beleriand at the conclusion of\nthe War of Wrath at the end of the First Age.\n"
-  },
-  {
     "name": "Tower Hills",
     "lotr_page_id": "652",
     "text": "The TOWER HILLS or EMYN BERAID in Sindarin, were a series of steep hills\nlocated at the west end of Eriador.\n\nThey lay about 30 Númenórean miles east of Mithlond, the Grey Havens of\nLindon, and about 50 miles west of the White Downs, of old the border of\nthe Shire.\n\n\nHistory\n\nThe Tower Hills date back to Gil-galad's kingdom in Lindon when he built\nthree tall towers, the highest of which was called Elostirion which had\nheld an important Palantír that looked to Mithlond and the Far\nWest.\n\nThe Tower Hills formed the ancient border between the Elven realm of\nLindon and the Kingdom of Arnor, and the Great East Road which led all\nthe way to Rivendell ran through them.\n\nIn SR 1462, Elanor daughter of Samwise Gamgee and her husband _Fastred_\nmoved to the Tower Hills, founding the town of Undertowers on the\neastern slopes of the Hills, and becoming the _Wardens of Westmarch_,\nwhen the Tower Hills became the new western border of the Shire.",
@@ -1560,6 +1564,11 @@
     "major_towns": "Undertowers",
     "founded_or_built": "After S.A. 3320",
     "cultures": "Elves, Men, Hobbits"
+  },
+  {
+    "name": "Dor Daedeloth",
+    "lotr_page_id": "863",
+    "text": "DOR DAEDELOTH was the land of Morgoth, and at a time made up the north\nhalf of Beleriand. It once lay to the south of Ard-Galen.\n\n\nHistory\n\nDor Daedeloth, lay around the fortresses of Angband, Utumno,\nThangorodrim, Ered Gorgoroth and on both sides of the Ered Engrin. It\nwas here that the Orcs and other creatures of Morgoth lived and bred.\n\nAfter defeating the armies of Morgoth in the Dagor-nuin-Giliath, the\nmarch of the Ñoldor in early First Age was halted there after Fëanor,\nwho had pressed on to Angband to face the Dark Lord himself, was\nmortally wounded by Balrogs.\n\nThe Ñoldor then encircled the land (at least in the south), starting the\nSiege of Angband. It is probable that they built a number of fortresses\nand outposts there, but they must have been destroyed or taken over by\nthe enemy during Dagor Bragollach.\n\nThe area perished with the rest of the Beleriand at the conclusion of\nthe War of Wrath at the end of the First Age.\n"
   },
   {
     "name": "Elostirion",
@@ -1733,11 +1742,6 @@
     "cultures": "Orcs"
   },
   {
-    "name": "North Downs",
-    "lotr_page_id": "11716",
-    "text": "Description\n\nThe NORTH DOWNS was a location found in Eriador, north of Bree. The\nNorth Downs have a history of constant struggle, for in the time of the\nWar of the Ring, this location experienced deep trouble from Orcs and\nother evil creatures, who were spurred on by the news of the cloud in\nthe East. For Angmar, that most evil of realms in Eriador, was located\njust north of the North Downs, and many evil beings who were struggling\nto find a purpose in Angmar after the departure of the Witch-king\nfinally resolved to invade the lands south of them. Thus, the North\nDowns became a frontier against this new evil arisen in Angmar, a\nremnant of the old power of the Witch King called the Shadow of Angmar.\n\nThere was still hope though, in that harsh war zone, for the Free\nPeoples of Eriador waged constant war on the new servants of Angmar and\nthe Witch King. Several towns that had existed in that area for years,\nand that were now besieged by the servants of the Witch King, found\nthemselves suddenly strengthened by a flow of warriors from all across\nEriador."
-  },
-  {
     "name": "Rammas Echor",
     "lotr_page_id": "7551",
     "text": "The RAMMAS ECHOR was a great ancient wall surrounding Minas Tirith and\nenclosing the Pelennor Fields.\n\n\nHistory\n\nRammas Echor functioned as Minas Tirith's second line of defence, the\nfirst being the Anduin. First built after the fall of Minas Ithil, the\nwall was repaired prior to the War of the Ring by Denethor II, the work\nbeing completed only a few days before the Witch-king of Angmar\nattacked. The Rammas followed an almost elliptical course, being further\nfrom Minas Tirith in some places than others. It was furthest from the\ncity at the point where the highway to Osgiliath entered, and was\nstrengthened there by the Causeway Forts. When the Witch-king's forces\nattacked, however, the Rammas was soon breached in many places, and its\ndefenders, too few to hold such a long fortification, were killed or\nfled back to the city. After overrunning the Pelennor Fields, the\nWitch-king's soldiers failed to guard the Rammas against any allies of\nGondor who might arrive, and so the Rohirrim were able to enter the\nPelennor Fields without significant opposition.\n",
@@ -1749,6 +1753,11 @@
     "founded_or_built": "between TA 2953 and TA 2984",
     "lifespan": "March 15, 3019",
     "events": "Battle of the Pelennor Fields"
+  },
+  {
+    "name": "North Downs",
+    "lotr_page_id": "11716",
+    "text": "Description\n\nThe NORTH DOWNS was a location found in Eriador, north of Bree. The\nNorth Downs have a history of constant struggle, for in the time of the\nWar of the Ring, this location experienced deep trouble from Orcs and\nother evil creatures, who were spurred on by the news of the cloud in\nthe East. For Angmar, that most evil of realms in Eriador, was located\njust north of the North Downs, and many evil beings who were struggling\nto find a purpose in Angmar after the departure of the Witch-king\nfinally resolved to invade the lands south of them. Thus, the North\nDowns became a frontier against this new evil arisen in Angmar, a\nremnant of the old power of the Witch King called the Shadow of Angmar.\n\nThere was still hope though, in that harsh war zone, for the Free\nPeoples of Eriador waged constant war on the new servants of Angmar and\nthe Witch King. Several towns that had existed in that area for years,\nand that were now besieged by the servants of the Witch King, found\nthemselves suddenly strengthened by a flow of warriors from all across\nEriador."
   },
   {
     "name": "Dimrost",
@@ -1833,15 +1842,6 @@
     "cultures": "Ainur, Vanyar"
   },
   {
-    "name": "Nan Elmoth",
-    "lotr_page_id": "2658",
-    "text": "NAN ELMOTH was a forest in the East Beleriand east of Doriath and south\nof the River Celon.\n\nThe trees grew here to be the tallest and darkest in the Beleriand,\nblocking the Sun entirely from the forest floor.\n\n\nHistory\n\nIt was in Nan Elmoth that Melian enchanted the Teleri Elf-lord Elwë\n(Thingol), before they both founded the realm of Doriath. Long the\ncouple spent here as their love grew and young trees grew tall before\nthey spoke. When Melian and Elwë left for Doriath, Nan Elmoth was\nheld to be part of the kingdom of Doriath. Eöl, the Dark Elf paid\nThingol with the sword Anglachel to dwell there on his own. Here, he\nlived apparently for hundreds of years alone save for a few servants\nunder the shadows of the tall trees. The Gondolin princess Aredhel\nAr-Feiniel came there, and it was here that he first met her and married\nher and had a son named Maeglin born FA 320 under the shadows of Nan\nElmoth.\n\nAfter the death of Eöl, no known Man or Elf lived in there ever again\nand after the end of First Age it went down with the rest of the\nBeleriand.\n\n\nEtymology\n\nNan Elmoth is a Sindarin word meaning 'Stardust valley'.",
-    "type": "Forest",
-    "position": "East Beleriand, east of Doriath adjacent to the Celon",
-    "events": "First meeting of Melian and Thingol",
-    "cultures": "Dark Elves"
-  },
-  {
     "name": "Bree-land",
     "lotr_page_id": "11437",
     "text": "BREE-LAND was an area of Eriador located between the Midgewater Marshes\nand the Barrow-downs.\n\n\nDescription\n\nBree-land appears to be a lowland area with a hill and a small forested\narea in its northeastern part. The climate is moderate with warm and\nmoist prevailing winds from the sea. The common tongue of Westron seems\nto be the preferred speech here.\n\nBree-land is about twenty-five miles in diameter. Normally it can be\napproached via the Great East Road coming out of the Shire in the west\nand from the Greenway from either the north or the south.\n\nThe township of Bree lies within this land. Other villages in the area\nare Combe, Staddle, and Archet. These settlements are home to a mixed\npopulation of both Men and Hobbits.\n\n\nHistory\n\n\n\nThe area was settled in the Second Age by Men from Dunland. Surviving\nthe wars and chaos of that time, it became part of the kingdoms of Arnor\nthen Arthedain and then maintained a certain independence with the\nunknowing protection of the Rangers of the North. After the War of the\nRing, Bree-land became part of the Reunited Kingdom and presumably\nprospered well into the Fourth Age.\n",
@@ -1852,6 +1852,15 @@
     "governance": "Kings of Arnor, Kings of Arthedain, later Kings of the Reunited Kingdom",
     "founded_or_built": "Second Age",
     "lifespan": "Second Age -"
+  },
+  {
+    "name": "Nan Elmoth",
+    "lotr_page_id": "2658",
+    "text": "NAN ELMOTH was a forest in the East Beleriand east of Doriath and south\nof the River Celon.\n\nThe trees grew here to be the tallest and darkest in the Beleriand,\nblocking the Sun entirely from the forest floor.\n\n\nHistory\n\nIt was in Nan Elmoth that Melian enchanted the Teleri Elf-lord Elwë\n(Thingol), before they both founded the realm of Doriath. Long the\ncouple spent here as their love grew and young trees grew tall before\nthey spoke. When Melian and Elwë left for Doriath, Nan Elmoth was\nheld to be part of the kingdom of Doriath. Eöl, the Dark Elf paid\nThingol with the sword Anglachel to dwell there on his own. Here, he\nlived apparently for hundreds of years alone save for a few servants\nunder the shadows of the tall trees. The Gondolin princess Aredhel\nAr-Feiniel came there, and it was here that he first met her and married\nher and had a son named Maeglin born FA 320 under the shadows of Nan\nElmoth.\n\nAfter the death of Eöl, no known Man or Elf lived in there ever again\nand after the end of First Age it went down with the rest of the\nBeleriand.\n\n\nEtymology\n\nNan Elmoth is a Sindarin word meaning 'Stardust valley'.",
+    "type": "Forest",
+    "position": "East Beleriand, east of Doriath adjacent to the Celon",
+    "events": "First meeting of Melian and Thingol",
+    "cultures": "Dark Elves"
   },
   {
     "name": "Gorgoroth",
@@ -2200,15 +2209,6 @@
     "lifespan": "Apparently deserted, or at least rarely used, by the late Third Age"
   },
   {
-    "name": "The Prancing Pony",
-    "lotr_page_id": "3301",
-    "text": "THE PRANCING PONY (i.e. the INN OF THE PRANCING PONY) was an inn in\nBree where Frodo Baggins, Sam, Pippin, and Merry first met Strider.\n\n\nHistory\n\nThe Prancing Pony was based inside the central hub of the town, near\nstables and various merchant stalls. Since Bree was built on the major\nroad of the Greenway, it was a fairly well-traveled inn, and was so\naccustomed to hobbits that designated hobbit-rooms had been\nbuilt. Barliman Butterbur was the inkeeper at the time of the War of the\nRing. Nob and Bob were two hobbits that worked under him: Nob was a\ngeneral servant, and Bob was as a ostler, tending to the horses and\nponies.\n\nIn the years leading up to the fabled Quest for Erebor, Gandalf the Grey\nmet up with Thorin Oakenshield at The Prancing Pony by chance. Thorin\nwished to slay Smaug the dragon and claim his rightful title of King\nunder the Mountain. Gandalf spoke with him and then would aid him in\nfinding a burglar.\n\nFrodo Baggins stayed at this inn in TA 3018 while traveling to Rivendell\nwith his three companions, having been told by Gandalf to meet him\nthere. They encountered Aragorn (“Strider”), and allowed him to join\ntheir company. On the night of their stay, the hobbits feared the Black\nRiders who had been searching for them, so they avoided sleeping in\ntheir rooms, and stayed with Aragorn. That night, their rooms were\nindeed searched and ravaged by some of the Ringwraiths. The hobbits and\nAragorn made off through the Lowlands the next day.",
-    "type": "Inn",
-    "position": "Bree",
-    "description": "Major inn of the town of Bree",
-    "cultures": "Men, Hobbits"
-  },
-  {
     "name": "Belfalas",
     "lotr_page_id": "547",
     "text": "BELFALAS was a coastal region located in Southern Gondor.\n\n\nHistory\n\n[Ruins in Belfalas, shown in _The Lord of the Rings: The Battle for\nMiddle-earth II_]Belfalas was also home to an old Elf-haven called\nEdhellond which was first founded before the end of the First\nAge by Elven remnants of Doriath who did not wish to remain\nin Lindon due to their dislike of the Noldor still held by\nthese Teleri Elves.\n\nBelfalas formed part of Dor-en-Ernil. The Prince in question was the\nLord of Dol Amroth, who lived at the city bearing his name. At the start\nof the second millennium of the Third Age, a certain Imrazôr the\nNúmenórean lived in and ruled over the Belfalas. He married Mithrellas,\na Silvan Elf of Lórien, and their son Galador became the first Prince of\nDol Amroth.\n\nIts chief city was the Prince's residence of Dol Amroth. South of the\nBelfalas lay a great Bay, which was named after it the Bay of Belfalas.\nThe climate hovered near the moderate and the extreme with mild winters\nand hot, dry summers and the terrain consisted of scattered woodlands.\n\nWar of the Ring\n\nDuring the War of the Ring, the Belfalas was raided by the Corsairs of\nUmbar, and therefore did not send any men to help defend Minas Tirith,\nuntil Aragorn liberated the coast with the Grey Company, freeing\nGondor's southern armies to follow him north to relieve Minas Tirith.\n\n\nEtymology\n\n_Belfalas_ means “Great Shore”, from the Sindarin _bel_ or _beleg_\n(“large, great”) and _falas_ (“seashore”).",
@@ -2220,6 +2220,15 @@
     "governance": "Kings of Gondor, Stewards of Gondor, Princes of Belfalas, Princes of Dol Amroth, Kings of the Reunited Kingdom",
     "founded_or_built": "Late First Age",
     "lifespan": "Late First Age -"
+  },
+  {
+    "name": "The Prancing Pony",
+    "lotr_page_id": "3301",
+    "text": "THE PRANCING PONY (i.e. the INN OF THE PRANCING PONY) was an inn in\nBree where Frodo Baggins, Sam, Pippin, and Merry first met Strider.\n\n\nHistory\n\nThe Prancing Pony was based inside the central hub of the town, near\nstables and various merchant stalls. Since Bree was built on the major\nroad of the Greenway, it was a fairly well-traveled inn, and was so\naccustomed to hobbits that designated hobbit-rooms had been\nbuilt. Barliman Butterbur was the inkeeper at the time of the War of the\nRing. Nob and Bob were two hobbits that worked under him: Nob was a\ngeneral servant, and Bob was as a ostler, tending to the horses and\nponies.\n\nIn the years leading up to the fabled Quest for Erebor, Gandalf the Grey\nmet up with Thorin Oakenshield at The Prancing Pony by chance. Thorin\nwished to slay Smaug the dragon and claim his rightful title of King\nunder the Mountain. Gandalf spoke with him and then would aid him in\nfinding a burglar.\n\nFrodo Baggins stayed at this inn in TA 3018 while traveling to Rivendell\nwith his three companions, having been told by Gandalf to meet him\nthere. They encountered Aragorn (“Strider”), and allowed him to join\ntheir company. On the night of their stay, the hobbits feared the Black\nRiders who had been searching for them, so they avoided sleeping in\ntheir rooms, and stayed with Aragorn. That night, their rooms were\nindeed searched and ravaged by some of the Ringwraiths. The hobbits and\nAragorn made off through the Lowlands the next day.",
+    "type": "Inn",
+    "position": "Bree",
+    "description": "Major inn of the town of Bree",
+    "cultures": "Men, Hobbits"
   },
   {
     "name": "Andúnië",
@@ -2335,16 +2344,16 @@
     "text": "The SEA OF RHÛN also known as INLAND SEA was a large inland sea located\nin eastern Middle-earth.\n\n\nGeography\n\nThe Sea of Rhûn was a large inland sea located in the land of Rhûn, a\nland east of Mirkwood and north of Mordor. The River Running from Lonely\nMountain and the River Redwater from the Iron Hills fed the Sea of Rhûn.\nThe sea also contains an unnamed island that is about thirty miles along\nthe southeastern and northwestern coasts and twenty upon the\nnortheastern and southwestern coasts. According to the _The Atlas of\nMiddle-earth_, it was about seventy-five miles across.\n\nThere were mountains on the southwest side of the sea and a forest on\nthe northeast side. Wild white kine lived near its shores. The Great\nHorn of Gondor was made from the horn of one of these kine that had been\nhunted by Vorondil, a Steward of Gondor.\n\n\nHistory\n\nWhen Gondor was at the height of its power during the reign of King\nHyarmendacil (TA 1015 - TA 1149), the realm extended east as far as the\nSea of Rhûn. But as Gondor's power waned, Easterlings came into the area\naround the Sea of Rhûn and launched attacks on Gondor. In TA 1248,\nMinalcar (later called Romendacil) defeated an army of Easterlings\nbetween Rhovanion and the Sea of Rhûn and destroyed their settlements.\nIn TA 1944, an army of Wainriders gathered on the southern shores of the\nSea of Rhûn before launching an assault on Gondor that left King Ondoher\ndead.\n\nDuring the War of the Ring, forces under the rule of Sauron mustered in\nthe lands beyond the Sea of Rhûn. After the downfall of Sauron, Aragorn\nand Éomer rode beyond the Sea of Rhûn to flush out the last remnants of\nthe enemy forces there."
   },
   {
+    "name": "East Beleriand",
+    "lotr_page_id": "874",
+    "text": "The East Beleriand was the east region of the Beleriand between the\nwestern part and the Blue Mountains during the First Age of\nMiddle-earth.\n\n\nDescription\n\nThe wide and open regions of Lothlann, Maglor's Gap, Thargelion, and the\nOssiriand made up the majority of the East Beleriand. They were lands\nconsisting mostly of hills and lowlands with dense forests, scattered\nwoodlands, scrubs, stunted trees, and thickets. Climates varied from\nseverely cold and dry winters with short and cold summers, to mild\nwinters with mild summers. All of which were under the influence of the\ncold and dry winds from Dor Daidelos and the Iron Mountains to the\nnorth, and the warm and moist winds coming from the sea.\n\n\nHistory\n\nBefore the Return of the Ñoldor, the areas of the East Beleriand were\ninhabited by the Laiquendi living in the Ossiriand and the Sindar in\nother parts. When the Ñoldor did return, the majority of the region was\nunder control of Maedhros, Maglor, Celegorm, Caranthir, Curufin, Amrod\nand Amras, the Sons of Fëanor. They built extensive fortresses and\nCastles in the area between Lothlann and Thargelion which buttressed\nMorgoth's domain in the farther north. The dominant languages here\nduring this time was Sindarin and Quenya but later there were also\nmannish speeches as well.\n\nBy the later First Age, more and more of this land fell under the power\nof Morgoth until it was finally conquered by the Dark Powers and was\nrenamed Dor Daedeloth. It, along with the rest of Beleriand, was\ndestroyed after the War of Wrath. However, some of it did survive into\nthe Second and Third Ages becoming Lindon, the land of Gil-galad and\nthen Círdan the Shipwright."
+  },
+  {
     "name": "Bridge of Khazad-dûm",
     "lotr_page_id": "11781",
     "text": "BRIDGE OF KHAZAD-DÛM, also known as DURIN'S BRIDGE, ran over Khazad-dûm\nin Moria, famously across an enormous dolven abyss.\n\nThe Bridge was located at the foot of Dimrill Stairs over a deep abyss.\nThe bridge was 50 feet long, narrow with no railing and curved upward\nover the abyss and back down again. It was an ancient defense against\nany enemy who might get past the Dimrill Gate (the east gate) and\ncapture the First Hall and the outer passages; walkers on the bridge\ncould only cross it single file, including any enemies.\n\n\nHistory\n\nOn January 15, 3019, the Fellowship came to the Bridge of Khazad-dûm\npursued by Orcs and a Balrog of Morgoth. Gandalf stopped on the Bridge,\nstanding in the middle of the span, allowing the others to escape. He\nleaned on the staff in his left hand and held the sword Glamdring,\ngleaming cold and white, in his right. The Balrog stepped onto the\nBridge, facing Gandalf, and the shadow about it reached out like two\nvast wings. It raised its whip, and the thongs whined and cracked. Fire\ncame from its nostrils. But Gandalf stood firm and declared that the\nBalrog could not pass. They fought, and the Balrog's sword was\ndestroyed. Then the Balrog leaped full upon the Bridge, and Gandalf\nlifted his staff and smote it upon the bridge. His staff shattered, but\nthe Bridge cracked at the Balrog's feet. The stone beneath the Balrog\nbroke and fell, taking the Balrog with it into the abyss, but the thongs\nof its whip snared Gandalf about his knees, and Wizard and Balrog\nplummeted together into the depths of the mountain. Gandalf cried, “Fly,\nyou fools!” and was gone. It is unknown if the Bridge was later ever\nrebuilt or fixed.",
     "other_names": "Durin's Bridge",
     "position": "Moria"
-  },
-  {
-    "name": "East Beleriand",
-    "lotr_page_id": "874",
-    "text": "The East Beleriand was the east region of the Beleriand between the\nwestern part and the Blue Mountains during the First Age of\nMiddle-earth.\n\n\nDescription\n\nThe wide and open regions of Lothlann, Maglor's Gap, Thargelion, and the\nOssiriand made up the majority of the East Beleriand. They were lands\nconsisting mostly of hills and lowlands with dense forests, scattered\nwoodlands, scrubs, stunted trees, and thickets. Climates varied from\nseverely cold and dry winters with short and cold summers, to mild\nwinters with mild summers. All of which were under the influence of the\ncold and dry winds from Dor Daidelos and the Iron Mountains to the\nnorth, and the warm and moist winds coming from the sea.\n\n\nHistory\n\nBefore the Return of the Ñoldor, the areas of the East Beleriand were\ninhabited by the Laiquendi living in the Ossiriand and the Sindar in\nother parts. When the Ñoldor did return, the majority of the region was\nunder control of Maedhros, Maglor, Celegorm, Caranthir, Curufin, Amrod\nand Amras, the Sons of Fëanor. They built extensive fortresses and\nCastles in the area between Lothlann and Thargelion which buttressed\nMorgoth's domain in the farther north. The dominant languages here\nduring this time was Sindarin and Quenya but later there were also\nmannish speeches as well.\n\nBy the later First Age, more and more of this land fell under the power\nof Morgoth until it was finally conquered by the Dark Powers and was\nrenamed Dor Daedeloth. It, along with the rest of Beleriand, was\ndestroyed after the War of Wrath. However, some of it did survive into\nthe Second and Third Ages becoming Lindon, the land of Gil-galad and\nthen Círdan the Shipwright."
   },
   {
     "name": "Taniquetil",
@@ -2569,39 +2578,6 @@
     "major_towns": "Tharbad"
   },
   {
-    "name": "Grey Havens",
-    "lotr_page_id": "2376",
-    "text": "GREY HAVENS, known also as MITHLOND, was an Elvish port city on the Gulf\nof Lune in the Elven realm of Lindon in Middle-earth.\n\n\nDescription\n\nBecause of its cultural and spiritual importance to the Elves, the Grey\nHavens in time became the primary Elven settlement west of the Misty\nMountains prior to the establishment of Eregion and, later, Rivendell.\nEven after the death of Gil-galad and as the Elves dwindled in numbers\nby the year, the Grey Havens remained a focal point of the history in\nthe northern part of Middle-earth.\n\nDespite being a major port, the Grey Havens had sparse population, like\nRivendell and northeastern Mirkwood.\n\n\nHistory\n\nSecond Age\n\nThe Grey Havens was founded at the beginning of the Second Age by the\nsurviving Elves of the realm of Beleriand, those who chose to remain on\nMiddle-earth after the wars against Morgoth.\n\nIt was frequently visited from the west by the Númenoreans. On SA 1700,\nTar-Minastir sent great fleets from Númenor to the Havens in assistance\nin the war against Sauron.\n\nIt was also one of the main sources for the Elven fleet of ships that\nsailed back and forth between Middle Earth and Eldamar in Aman.\n\nThird Age\n\nIn TA 1000, the Istari arrived in Middle-earth, and it was here where\nCírdan gave Narya, the Elven Ring of Fire, to Gandalf.\n\nDuring the War of the Ring, Galdor of the Havens was among the members\nof the Council of Elrond.\n\nAfter the defeat of Sauron and the coronation of Aragorn II Elessar,\nGandalf, Galadriel, and Elrond left for Valinor from the Grey Havens.\nThe Ring-bearers Bilbo Baggins and Frodo Baggins accompanied them to\nValinor. Years later, Samwise Gamgee did likewise, himself being a\nRing-bearer (although briefly).\n\n\nFate\n\nThe Grey Havens still existed into the Fourth Age under Círdan, but its\npopulation declined as did the elven presence in Middle-earth. It is\nunclear just what the Fate of the Elves of Middle-earth was in the early\nFourth Age and how long Círdan or his remaining folk dwelled at the\nHavens and continued to build the great ships that carried the Elves to\nthe Blessed Realm.\n\n\nEtymology\n\n_MITHLOND_ means “Grey Haven(s)”, from the Sindarin _mith_ (“grey”) and\n_lond_ (“haven, harbour”).",
-    "type": "City/Port, Haven",
-    "other_names": "Mithlond, The Havens",
-    "position": "Central Lindon",
-    "regions": "Eriador",
-    "governance": "Círdan the Shipwright",
-    "founded_or_built": "SA 1",
-    "lifespan": "SA 1 - Fourth Age",
-    "description": "An important coastal port, at the mouth of the Lhûn river",
-    "cultures": "Noldor, Grey Elves"
-  },
-  {
-    "name": "Barrow-downs",
-    "lotr_page_id": "2332",
-    "text": "The BARROW-DOWNS, or TYRN GORTHAD, was an area of low hills located to\nthe east of the Shire and the Old Forest, and west of the village of\nBree. They were made by men in the ancient days of the Northern Kingdom.\nMany of the hills were crowned with monoliths and barrows, whence comes\ntheir name. They served as resting places for the men of the north, as\nwell as the Dunedain, until evil spirits called Barrow-wights, sent by\nthe Witch-king of Angmar, began to inhabit them. During the Third Age,\nthe hills lay within the bounds of Cardolan in the region of Eriador.\n\n\nHistory\n\n\n\nThe Barrow-downs were first inhabited by Men related to the Edain in the\nFirst Age, together with men from the Hills of Evendim to the north.\nThey fled as Eriador was invaded by Easterlings, but when they\ndisappeared after the War of Wrath the Edain returned to the region.\n\nDuring the Second Age, these people were fairly numerous, and when they\nmet with the Númenóreans the Barrow-downs were the first places where\nthe Dúnedain émigrés from Númenor settled. When Elendil returned to\nMiddle-earth, the Barrow-downs were incorporated into the kingdom of\nArnor.\n\nAfter the breaking of Arnor, the area of the Barrow-downs became the\ncapital of Cardolan. After Rhudaur fell to Angmar, the Dúnedain of\nCardolan entrenched themselves here, but eventually the realm fell.\nAfter the collapse of Cardolan and the flight of the remaining Dúnedain,\nthe area was left empty. To ensure that this place would remain\nuninhabited by his enemies, the Witch-king of Angmar sent evil spirits,\nknown as Barrow-wights, to haunt the once-great tombs of the ancient\nmen. After Arthedain claimed kingship over all of Arnor, there was an\nattempt by the Dúnedain to recolonize Cardolan once again; this\nultimately failed due to the mysterious power of the barrow-wights.\n\n\n\nFleeing the Black Riders, Frodo and his fellow Hobbits were ensnared by\na wight in one of the numerous barrows. The four were separated from one\nanother in a dense fog, and, all captured, ended up in the same barrow.\nThree of the Hobbits seemed under a spell, but Frodo, almost succumbing\nto the wight, was able to call out to Tom Bombadil. Tom, hearing his\nsong, came with haste to the barrow and dispelled the evil spirit from\nthe tomb. Tom Bombadil, whose house dwells in the Old Forest near to the\nBarrow-downs, had told them earlier to pass by barrows on the western\nside; the hobbits stopped for lunch on what must have been a barrow, and\npromptly fell asleep in the shade on the east side. After their rescue,\nthe hobbits each took from the spoils of the tomb a finely crafted\nDúnedain knife, and continued their journey towards Bree.",
-    "other_names": "Tyrn Gorthad",
-    "position": "Central Eriador, south of the East Road and Bree, on borders the Old Forest",
-    "type": "Hills",
-    "cultures": "Barrow-wights",
-    "description": "Burial grounds for the men of the ancient Northern Kingdom"
-  },
-  {
-    "name": "March of Maedhros",
-    "lotr_page_id": "873",
-    "text": "The MARCH OF MAEDHROS was an Elven realm in the eastern Beleriand\nbetween Dorthonion and the Blue Mountains next to his younger brother's\ndomain.\n\nIt consisted of a series of hills and plains.\n\n\nHistory\n\nThe March of Maedhros was fortified by Maedhros after he moved his\nbrothers and their people out of Hithlum further east to avoid any feuds\nwith their kinsmen. He established himself on the Hill of Himring. It\nwithstood the frequent attacks by the forces of Angband throughout the\nFirst Age, standing strong in the Battles of Beleriand including the\nravages of the Dagor Bragollach (Battle of Sudden Flame). It was finally\noverrun during the Nirnaeth Arnoediad (Battle of Unnumbered Tears) in FA\n473.",
-    "position": "North-eastern Beleriand",
-    "capital": "Himring",
-    "cultures": "Noldor",
-    "governance": "Maedhros"
-  },
-  {
     "name": "Paths of the Dead",
     "lotr_page_id": "2646",
     "text": "The PATHS OF THE DEAD was a haunted pass through the White Mountains.\nThe paths started at the Dark Door at the end of the long valley of\nHarrowdale, beyond the Firienfeld and the forest of Dimholt, wedged in\nbetween the mountains Irensaga, Starkhorn, and the Dwimorberg.\n\n\nHistory\n\nAfter the Dark Door, the Paths went under the Dwimorberg, past another\ndoor where Aragorn and company found the remains of Baldor, son of the\nsecond King of Rohan, Brego. The Paths then continued past forgotten\ncities, emerging at the southern end of the White Mountains in Morthond\nvale, near the Stone of Erech.\n\nIn the Second Age, a people related to the Dunlendings had lived in the\nWhite Mountains, and they had for a time served the Dark Lord Sauron.\nThey later swore allegiance to Isildur of Gondor and Arnor, but betrayed\nhim during the Last Alliance of Elves and Men and refused to fight on\neither side. For this reason, Isildur cursed them, proclaiming that, if\nthe Alliance triumphed, they would linger in the mountains until one of\nhis heirs called them again to fight against Sauron.\n\nIsildur's curse succeeded: their people dwindled and eventually died\nout, until only their ghosts remained at the end of the Third Age. When\nAragorn and company took the Paths of the Dead and, deep within the\nmountains, summoned them to the Stone of Erech, their shades followed\nhim. At the Stone at midnight, Aragorn unfurled his banner, declared\nhimself the heir of Isildur, and commanded the dead to aid him; they\nobeyed, and defeated the armies of the Corsairs of Umbar who were\nattacking the landings in southern Gondor. (Supposedly, the only weapon\nthat they required was fear, driving their enemies to cast themselves\nmadly into the sea.) When those foes were defeated and Aragorn could\nclaim the black ships of the Corsairs for his own, he declared that the\ncurse was lifted, and the dead departed forever. When the dead had gone,\nthe men of southern Gondor joined Aragorn in the ships and sailed to the\naid of Minas Tirith.\n",
@@ -2713,6 +2689,20 @@
     "name": "Cair Andros",
     "lotr_page_id": "5395",
     "text": "CAIR ANDROS, meaning “Ship of the Long-Foam,” and pronounced “''cyre\nan-dros”, ''was an island in the river Anduin, resting nearly forty\nmiles to the north of Osgiliath.  It was of paramount importance to\nGondor during the long war with Mordor in order to prevent the enemy\nfrom crossing the river and entering into Anórien.\n\n\nHistory\n\nThe namesake of this island was derived from the long shape of the isle,\nwhich was boat-like in nature, and the effects of the water breaking\nupon what was seen as the prow of the ship.  The island was around ten\nmiles in length, and narrowed toward its northern end, creating the\nprow.  Cair Andros was one of the main sites used to cross the river\nAnduin, along with Osgiliath to the south.  As the northern parts of the\nriver were nearly impassable marshland, and the south of the river near\nLebennin became too wide to ford safely, these two locations were\ncritical to both Gondor and Mordor during the war.\n\nCair Andros had a steady garrison, and was well-maintained until the\noutbreak of the War of the Ring; military incursions were expected both\nhere and at Osgiliath, but the southern crossing was considered by\nDenethor II to be of more importance, and therefore was more heavily\nguarded.  Being a vital point in Gondorian defenses, a crucial river\njunction, and due to the fact that it was less manned than was\nOsgiliath, shortly before the Battle of the Pelennor Fields, Sauron sent\na force of orcs and Easterlings from the Morannon to lay siege to the\nfort, and the island was overrun in the Battle of Cair Andros.  Around\nthe time of the fall of Osgiliath, fugitives began arriving at Minas\nTirith from Cair Andros.\n\nAragorn, during his march toward the Black Gate, sent soldiers to\nreclaim the island for Gondor; these soldiers were young men of Rohan\nand Lossarnach, and were eventually successful in their quest to retake\nthe island.  After the fall of Sauron and the conclusion of the war, the\nisland continued to serve as a vital place of crossing, and the Captains\nof the West set sail from Cair Andros on their way down the Anduin to\nOsgiliath.  \n\n\n\nde:Cair Andros es:Cair Andros it:Cair Andros pl:Cair Andros ru:Каир\nАндрос"
+  },
+  {
+    "name": "Grey Havens",
+    "lotr_page_id": "2376",
+    "text": "GREY HAVENS, known also as MITHLOND, was an Elvish port city on the Gulf\nof Lune in the Elven realm of Lindon in Middle-earth.\n\n\nDescription\n\nBecause of its cultural and spiritual importance to the Elves, the Grey\nHavens in time became the primary Elven settlement west of the Misty\nMountains prior to the establishment of Eregion and, later, Rivendell.\nEven after the death of Gil-galad and as the Elves dwindled in numbers\nby the year, the Grey Havens remained a focal point of the history in\nthe northern part of Middle-earth.\n\nDespite being a major port, the Grey Havens had sparse population, like\nRivendell and northeastern Mirkwood.\n\n\nHistory\n\nSecond Age\n\nThe Grey Havens was founded at the beginning of the Second Age by the\nsurviving Elves of the realm of Beleriand, those who chose to remain on\nMiddle-earth after the wars against Morgoth.\n\nIt was frequently visited from the west by the Númenoreans. On SA 1700,\nTar-Minastir sent great fleets from Númenor to the Havens in assistance\nin the war against Sauron.\n\nIt was also one of the main sources for the Elven fleet of ships that\nsailed back and forth between Middle Earth and Eldamar in Aman.\n\nThird Age\n\nIn TA 1000, the Istari arrived in Middle-earth, and it was here where\nCírdan gave Narya, the Elven Ring of Fire, to Gandalf.\n\nDuring the War of the Ring, Galdor of the Havens was among the members\nof the Council of Elrond.\n\nAfter the defeat of Sauron and the coronation of Aragorn II Elessar,\nGandalf, Galadriel, and Elrond left for Valinor from the Grey Havens.\nThe Ring-bearers Bilbo Baggins and Frodo Baggins accompanied them to\nValinor. Years later, Samwise Gamgee did likewise, himself being a\nRing-bearer (although briefly).\n\n\nFate\n\nThe Grey Havens still existed into the Fourth Age under Círdan, but its\npopulation declined as did the elven presence in Middle-earth. It is\nunclear just what the Fate of the Elves of Middle-earth was in the early\nFourth Age and how long Círdan or his remaining folk dwelled at the\nHavens and continued to build the great ships that carried the Elves to\nthe Blessed Realm.\n\n\nEtymology\n\n_MITHLOND_ means “Grey Haven(s)”, from the Sindarin _mith_ (“grey”) and\n_lond_ (“haven, harbour”).",
+    "type": "City/Port, Haven",
+    "other_names": "Mithlond, The Havens",
+    "position": "Central Lindon",
+    "regions": "Eriador",
+    "governance": "Círdan the Shipwright",
+    "founded_or_built": "SA 1",
+    "lifespan": "SA 1 - Fourth Age",
+    "description": "An important coastal port, at the mouth of the Lhûn river",
+    "cultures": "Noldor, Grey Elves"
   },
   {
     "name": "Great East Road",
@@ -2911,6 +2901,16 @@
     "events": "War of the Elves and Sauron",
     "type": "Region",
     "cultures": "Men, Elves"
+  },
+  {
+    "name": "Barrow-downs",
+    "lotr_page_id": "2332",
+    "text": "The BARROW-DOWNS, or TYRN GORTHAD, was an area of low hills located to\nthe east of the Shire and the Old Forest, and west of the village of\nBree. They were made by men in the ancient days of the Northern Kingdom.\nMany of the hills were crowned with monoliths and barrows, whence comes\ntheir name. They served as resting places for the men of the north, as\nwell as the Dunedain, until evil spirits called Barrow-wights, sent by\nthe Witch-king of Angmar, began to inhabit them. During the Third Age,\nthe hills lay within the bounds of Cardolan in the region of Eriador.\n\n\nHistory\n\n\n\nThe Barrow-downs were first inhabited by Men related to the Edain in the\nFirst Age, together with men from the Hills of Evendim to the north.\nThey fled as Eriador was invaded by Easterlings, but when they\ndisappeared after the War of Wrath the Edain returned to the region.\n\nDuring the Second Age, these people were fairly numerous, and when they\nmet with the Númenóreans the Barrow-downs were the first places where\nthe Dúnedain émigrés from Númenor settled. When Elendil returned to\nMiddle-earth, the Barrow-downs were incorporated into the kingdom of\nArnor.\n\nAfter the breaking of Arnor, the area of the Barrow-downs became the\ncapital of Cardolan. After Rhudaur fell to Angmar, the Dúnedain of\nCardolan entrenched themselves here, but eventually the realm fell.\nAfter the collapse of Cardolan and the flight of the remaining Dúnedain,\nthe area was left empty. To ensure that this place would remain\nuninhabited by his enemies, the Witch-king of Angmar sent evil spirits,\nknown as Barrow-wights, to haunt the once-great tombs of the ancient\nmen. After Arthedain claimed kingship over all of Arnor, there was an\nattempt by the Dúnedain to recolonize Cardolan once again; this\nultimately failed due to the mysterious power of the barrow-wights.\n\n\n\nFleeing the Black Riders, Frodo and his fellow Hobbits were ensnared by\na wight in one of the numerous barrows. The four were separated from one\nanother in a dense fog, and, all captured, ended up in the same barrow.\nThree of the Hobbits seemed under a spell, but Frodo, almost succumbing\nto the wight, was able to call out to Tom Bombadil. Tom, hearing his\nsong, came with haste to the barrow and dispelled the evil spirit from\nthe tomb. Tom Bombadil, whose house dwells in the Old Forest near to the\nBarrow-downs, had told them earlier to pass by barrows on the western\nside; the hobbits stopped for lunch on what must have been a barrow, and\npromptly fell asleep in the shade on the east side. After their rescue,\nthe hobbits each took from the spoils of the tomb a finely crafted\nDúnedain knife, and continued their journey towards Bree.",
+    "other_names": "Tyrn Gorthad",
+    "position": "Central Eriador, south of the East Road and Bree, on borders the Old Forest",
+    "type": "Hills",
+    "cultures": "Barrow-wights",
+    "description": "Burial grounds for the men of the ancient Northern Kingdom"
   },
   {
     "name": "Thangorodrim",

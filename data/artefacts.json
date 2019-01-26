@@ -94,12 +94,6 @@
     "appearance": "Sword"
   },
   {
-    "name": "Sam's Barrow-blade",
-    "lotr_page_id": "19098",
-    "character": "Sam Gamgee",
-    "text": "SAM'S BARROW-BLADE was the Barrow-blade used by Sam during the Quest of\nthe Ring.\n\n\nHistory\n\nWhen they are saved from the Barrow-wight by Tom Bombadil, the Hobbits\nare each given a sword that Tom found in the Barrow-wights' lair, along\nwith many other treasures.\n\nSam uses his sword in almost every battle he is in. It is with this sword that Sam would kill his first\nOrc. As the sword came from the Barrow Downs, it was “woven with spells\nfor the bane of Mordor.”\n he uses it until the\nfight with the Giant Spider Shelob in her lair; after that, he uses his\nmaster Frodo Baggins' blade Sting, which becomes an heirloom of the\nGamgee family."
-  },
-  {
     "name": "Bow Of Galadhrim",
     "lotr_page_id": "40980",
     "character": "Legolas",
@@ -126,6 +120,20 @@
     "lotr_page_id": "3436",
     "character": "Thingol",
     "text": "Nimphelos was the greatest of the pearls that Thingol gave to the\nDwarves of Belegost in payment for their service in the building of\nMenegroth. Pearls were especially valuable to the Dwarves as they were\nnot fond of the sea and had no means of acquiring them except through\ntrade.\n\nNimphelos was said to have been the size of a dove's egg. It was\noriginally given to Thingol by Círdan the shipwright. It was found by\nthe Falathrim of the Isle of Balar.\n\n\nEtymology\n\nThe first part of the name “Nim” means white in Sindarin. “Phelos”\nlikely means pearl."
+  },
+  {
+    "name": "Shards of Narsil",
+    "lotr_page_id": "4446",
+    "text": "The Shards of Narsil were what was left of the broken sword Narsil.\n\n\nIn the Novels\n\nIn _The Fellowship of the Ring_, they are carried by Strider. He uses\nthe fact that he is carrying “the blade that was broken,” mentioned in\nAll that is Gold Does Not Glitter in Gandalf's letter, to try to\nconvince Sam Gamgee that he is truly Aragorn. The shards are also\nmentioned in the poem _Seek for the Sword that was broken_ that Boromir\nand Faramir hear in their dreams. In the book, the shards are reforged\nat Rivendell before the Fellowship of the Ring leaves, and Aragorn\nrenames the sword Andúril.",
+    "location": "Rivendell",
+    "character": "Aragorn",
+    "other_names": "\"Sword That Was Broken\", \"The Sword Reforged\""
+  },
+  {
+    "name": "Sam's Barrow-blade",
+    "lotr_page_id": "19098",
+    "character": "Sam Gamgee",
+    "text": "SAM'S BARROW-BLADE was the Barrow-blade used by Sam during the Quest of\nthe Ring.\n\n\nHistory\n\nWhen they are saved from the Barrow-wight by Tom Bombadil, the Hobbits\nare each given a sword that Tom found in the Barrow-wights' lair, along\nwith many other treasures.\n\nSam uses his sword in almost every battle he is in. It is with this sword that Sam would kill his first\nOrc. As the sword came from the Barrow Downs, it was “woven with spells\nfor the bane of Mordor.”\n he uses it until the\nfight with the Giant Spider Shelob in her lair; after that, he uses his\nmaster Frodo Baggins' blade Sting, which becomes an heirloom of the\nGamgee family."
   },
   {
     "name": "Faramir's sword",
@@ -164,14 +172,6 @@
     "lotr_page_id": "11511",
     "character": "Treebeard",
     "text": "The ENT-DRAUGHTS were the mysterious drafts of the Ents and possibly\ntheir primary source of nourishment in Fangorn forest.\n\n\nHistory\n\nNothing much is known about the contents of these drinks, only that they\nwere made from the river-water and possibly mixed with other things.\nThey also came in two different varieties: one that refreshes and one\nthat nourishes. They are known to have been kept in large stone jars and\nthen ladled out into large bowls. After drinking them, the Ents\npreferred to lie down so that the drink would not rise immediately to\ntheir heads.\n\nThe only known recorded time that they were given to anyone outside the\nEnts was when Merry and Pippin took them during their time in Fangorn\nforest. As a result of them drinking the draughts, they grew into the\nlargest hobbits in the Shire, adding at least two to three inches to\ntheir overall height."
-  },
-  {
-    "name": "Shards of Narsil",
-    "lotr_page_id": "4446",
-    "text": "The Shards of Narsil were what was left of the broken sword Narsil.\n\n\nIn the Novels\n\nIn _The Fellowship of the Ring_, they are carried by Strider. He uses\nthe fact that he is carrying “the blade that was broken,” mentioned in\nAll that is Gold Does Not Glitter in Gandalf's letter, to try to\nconvince Sam Gamgee that he is truly Aragorn. The shards are also\nmentioned in the poem _Seek for the Sword that was broken_ that Boromir\nand Faramir hear in their dreams. In the book, the shards are reforged\nat Rivendell before the Fellowship of the Ring leaves, and Aragorn\nrenames the sword Andúril.",
-    "location": "Rivendell",
-    "character": "Aragorn",
-    "other_names": "\"Sword That Was Broken\", \"The Sword Reforged\""
   },
   {
     "name": "Angainor",
@@ -218,6 +218,14 @@
     "character": "Witch-king"
   },
   {
+    "name": "Pipe-weed",
+    "lotr_page_id": "3131",
+    "text": "PIPE-WEED (also known as HALFLINGS' LEAF) was grown and enjoyed much by\nthe hobbits of the Shire, to whom it was first introduced by a hobbit\nnamed Tobold Hornblower. It was first grown among hobbits by Tobold\nHornblower in Longbottom (a region in the Shire) around S.R. 1070 (TA\n2670). Despite its foreign origins, the hobbits (possibly those in Bree)\nwere the first to use it for smoking.\n\nPipe-weed production is a major industry there, especially in the south.\nIt was known among the Dúnedain as _sweet galenas_ for its fragrance.\n\n\n\nIn Gondor, it is known as '''Westman's-weed '''and grows as a wild\nplant, appreciated primarily for its sweet-scented flowers. The\ncolloquial name is in reference to its origins: it was apparently\nbrought to Middle-earth by Númenóreans during the Second Age.\n\nPopular varieties of pipe-weed include Longbottom Leaf, Old Toby (which\nis named after Tobold Hornblower), Southern Star, and Southlinch, which\nis grown in Bree.\n\nThe Wizard Gandalf learned to smoke\npipe-weed from the hobbits and is known to blow elaborate smoke-rings.\nSaruman initially derided him for this, but at some point he took up\nsmoking himself. After the destruction of Isengard, pipe-weed was found\namong its stores, but the hobbits Merry and Pippin failed to realized\nthe sinister implications of the discovery that Saruman has had commerce\nwith the Shire.",
+    "other_names": "Halfling's Leaf, Westman's Weed, Longbottom Leaf, Sweet Galenas, etc.",
+    "character": "Gandalf",
+    "usage": "For smoking in a pipe"
+  },
+  {
     "name": "Key to the Side-door",
     "lotr_page_id": "22040",
     "text": "The KEY TO THE SIDE-DOOR was a small curious-looking silver key with a\nlong barrel. It was used to open the secret entrance to the Lonely\nMountain, and for it there was a hidden keyhole.\n\n\nHistory\n\nLike the map, the key was made at an unknown time by Thrór and his son\nThráin before the fall of the Lonely Mountain. It was kept by Thrór and\nthen Thráin with the map. When Thráin was captured by the Necromancer,\nit was given to Gandalf in TA 2850 by Thráin just before he died in the\ndungeons of the Necromancer. The key and the map was presented to\nThorin the day that he and his fellow Dwarves visited Bilbo at Bag End\nin late April, 2941, and from that moment he kept it fastened to a chain\naround his neck.\n\nWhen Thorin and Company were at the place of Side-door, time began to\npass and the Sun began to fall and the Moon appeared and a hole appeared\nabout three feet from the ground. As the Dwarves attempted to force the\nrock without success, Bilbo suddenly remembered the key Gandalf gave\nThorin and told Thorin to use it to open the door before the light\ndisappeared that revealed it. Thorin took the key and put it in the\nkeyhole which caused the door-cracks to appear and the door to open.\n\n\nRunes\n\nIn _The Hobbit: An Unexpected Journey_, the key is ornately wrought and\nwith Dwarven runes written on both sides of the shaft. When translated,\nthese runes read “Durins Heir”, and are a reference to Thorin's\nancestor, Durin the Deathless.\n",
@@ -232,20 +240,18 @@
     "character": "Melkor"
   },
   {
-    "name": "Pipe-weed",
-    "lotr_page_id": "3131",
-    "text": "PIPE-WEED (also known as HALFLINGS' LEAF) was grown and enjoyed much by\nthe hobbits of the Shire, to whom it was first introduced by a hobbit\nnamed Tobold Hornblower. It was first grown among hobbits by Tobold\nHornblower in Longbottom (a region in the Shire) around S.R. 1070 (TA\n2670). Despite its foreign origins, the hobbits (possibly those in Bree)\nwere the first to use it for smoking.\n\nPipe-weed production is a major industry there, especially in the south.\nIt was known among the Dúnedain as _sweet galenas_ for its fragrance.\n\n\n\nIn Gondor, it is known as '''Westman's-weed '''and grows as a wild\nplant, appreciated primarily for its sweet-scented flowers. The\ncolloquial name is in reference to its origins: it was apparently\nbrought to Middle-earth by Númenóreans during the Second Age.\n\nPopular varieties of pipe-weed include Longbottom Leaf, Old Toby (which\nis named after Tobold Hornblower), Southern Star, and Southlinch, which\nis grown in Bree.\n\nThe Wizard Gandalf learned to smoke\npipe-weed from the hobbits and is known to blow elaborate smoke-rings.\nSaruman initially derided him for this, but at some point he took up\nsmoking himself. After the destruction of Isengard, pipe-weed was found\namong its stores, but the hobbits Merry and Pippin failed to realized\nthe sinister implications of the discovery that Saruman has had commerce\nwith the Shire.",
-    "other_names": "Halfling's Leaf, Westman's Weed, Longbottom Leaf, Sweet Galenas, etc.",
-    "character": "Gandalf",
-    "usage": "For smoking in a pipe"
-  },
-  {
     "name": "Horn of Gondor",
     "lotr_page_id": "6369",
     "text": "The HORN OF GONDOR is a horn that Boromir carried with him during the\nevents in _The Fellowship of the Ring _novel.\n\n\nHistory\n\nIt was a large war-horn and tipped with silver written in ancient\ncharacters. Boromir blew it before leaving Rivendell with the\nFellowship, as he always did when setting out on a journey. He sounded\nit again in Moria, causing the Orcs and even the Balrog to pause in\ntheir advance. The third time he blew it was on the banks of Parth\nGalen, calling for help in defending Meriadoc Brandybuck and Peregrin\nTook. This last call, in addition to being heard by Aragorn, Legolas,\nand Gimli, was faintly heard by his brother Faramir and his father\nDenethor II. The horn was broken into two pieces during Boromir's last\nfight with the Orcs and Uruk-hai of Saruman at Amon Hen.\n\nAn heirloom of the house of the Stewards of Gondor, the Horn of Gondor\nhad been carried by the eldest son for generations. The horn was crafted\nbefore the line of the Kings of Gondor was broken, when \"Vorondil the\nHunter father of Mardil Voronwë hunted the wild Kine of Araw in the far\nfields of Rhûn. The story surrounding the horn mentioned that it was\nmade from the horn of \" the wild ox of the East \" and that “if it be\nblown at need anywhere within the bounds of Gondor, as the realm was of\nold, its voice will not pass unheeded.”\n\n\n\nThe Horn of Gondor was not present in Faramir's vision of his dead\nbrother in the boat from Lórien. However, when Gandalf and Pippin arrive\nin Minas Tirith, the broken horn was being held by Denethor II,\nBoromir's father.",
     "other_names": "Horn of Boromir",
     "character": "Boromir",
     "appearance": "White horn tipped with silver"
+  },
+  {
+    "name": "Elendilmir",
+    "lotr_page_id": "21827",
+    "character": "Elendil",
+    "text": "ELENDILMIR was a token of royalty\nthroughout the Kingdom of Arnor crafted and presented to the High King\nof Gondor and Arnor, Elendil the Tall.\n\n\nDescription\n\nElendilmir was a radiant white gemstone set on a silver fillet and was\nregarded as the Royal Gem of Arnor.\n\n\nHistory\n\nElendilmir was lost at the great massacre in the east, the Disaster of\nthe Gladden Fields, when King Elendil's eldest son, Isildur, and the\nDunedain of Arnor were marching home after the defeat of Sauron. The\ncompany were ambushed by a large group of Orcs from the Misty Mountains\nwho slaughtered many including Isildur, with only three men to come out\nalive. It is a mystery exactly how Elendilmir was lost, but it _is_\nknown that the One Ring was found at the bottom of the Gladden River\nwhere it had slipped off Isildur's finger when he was killed. This may\nbe where Elendilmir was lost.\n\nIn the Unfinished Tales (later published by Christopher Tolkien) it is\nstated that Aragorn II finds the Elendilmir in the tower of Orthanc.\nAfter Sauron's defeat, Aragorn (with the help of Gimli the Dwarf) finds\na hidden door and a steel cabinet. In that cabinet they find a small\ngolden tube without any inscription (the One ring was most likely hidden\nin here by Isildur), and the Elendilmir. Aragorn brings it back to Minas\nTirith and wears it once again, but only on special occasions as he will\nnot risk any more harm to it.\n\nAnother version of the Gemstone was made at a later date by Isildur's\ndescendants, a second Elendilmir, commemorating King Elendil and Isildur\nhimself. It was borne roughly around TA 2940, or most likely later."
   },
   {
     "name": "Thrór's Map",
@@ -258,12 +264,6 @@
     "lotr_page_id": "2553",
     "text": "RINGIL was the sword of Fingolfin, the High King of the Ñoldor.\n\n\nHistory\n\nThe sword was of elvish make. It bit with chilling cold, a blade that\nglittered like ice by the light of the stars. Fingolfin wielded it to\ngreat effect against Morgoth during their duel before the gates of\nAngband, wounding him seven times. However, he was slain by the Dark\nLord, who broke Fingolfin's neck with his foot. With his last breath,\nFingolfin hewed Morgoth's foot with Ringil, rendering him lame for the\nrest of his existence. Ringil's ultimate fate is unknown, it may have\nbeen broken by Morgoth's foot, or it could have been stolen, and then\nexperienced a similar fate to Glamdring and Orcrist. It is likely that\nneither Morgoth nor his subjects would wish to handle the blade, after\nthe grievous injury it dealt to Morgoth.\n\n\nEarlier versions of the legendarium\n\nBefore the tales that make up the Quenta Silmarillion evolved to their\nfinal versions, _Ringil_ was a name of one of the lamp-pillars erected\nby Melko (Melkor) during the days of the coming of the Valar into\nMiddle-earth - the name of the other pillar being _Helkar_. Melko\n(Melkor) made the two pillars, of ice, and from the light they melted,\neventually forming seas and lakes.\n\nIn the final account (the chapter “Of the Beginning of Days” of _The\nSilmarillion_), the two Lamps of the Valar themselves have names, and\nthey are Illuin and Ormal - and it is Aulë, Yavanna, and Manwë who\ninvent them. _Ringil_ remained only the name of Fingolfin's sword, and\nbears the same meaning as it had before.\n\n\nEtymology\n\nThe name _RINGIL_ may have come from the Quenya _ringa_ (“damp, cold,\nchilly”) or _ringi_ (“cold”).",
     "character": "Fingolfin"
-  },
-  {
-    "name": "Elendilmir",
-    "lotr_page_id": "21827",
-    "character": "Elendil",
-    "text": "ELENDILMIR was a token of royalty\nthroughout the Kingdom of Arnor crafted and presented to the High King\nof Gondor and Arnor, Elendil the Tall.\n\n\nDescription\n\nElendilmir was a radiant white gemstone set on a silver fillet and was\nregarded as the Royal Gem of Arnor.\n\n\nHistory\n\nElendilmir was lost at the great massacre in the east, the Disaster of\nthe Gladden Fields, when King Elendil's eldest son, Isildur, and the\nDunedain of Arnor were marching home after the defeat of Sauron. The\ncompany were ambushed by a large group of Orcs from the Misty Mountains\nwho slaughtered many including Isildur, with only three men to come out\nalive. It is a mystery exactly how Elendilmir was lost, but it _is_\nknown that the One Ring was found at the bottom of the Gladden River\nwhere it had slipped off Isildur's finger when he was killed. This may\nbe where Elendilmir was lost.\n\nIn the Unfinished Tales (later published by Christopher Tolkien) it is\nstated that Aragorn II finds the Elendilmir in the tower of Orthanc.\nAfter Sauron's defeat, Aragorn (with the help of Gimli the Dwarf) finds\na hidden door and a steel cabinet. In that cabinet they find a small\ngolden tube without any inscription (the One ring was most likely hidden\nin here by Isildur), and the Elendilmir. Aragorn brings it back to Minas\nTirith and wears it once again, but only on special occasions as he will\nnot risk any more harm to it.\n\nAnother version of the Gemstone was made at a later date by Isildur's\ndescendants, a second Elendilmir, commemorating King Elendil and Isildur\nhimself. It was borne roughly around TA 2940, or most likely later."
   },
   {
     "name": "Sceptre of Annúminas",
