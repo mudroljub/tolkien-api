@@ -70,21 +70,21 @@ Class Culture
 
 Class Location
 
-  name 446
-  text 446
-  lotr_page_id 446
-  position 249
-  type 239
-  description 189
-  cultures 184 ++
-  other_names 126
-  lifespan 100
-  governance 98
-  founded_or_built 85
+  name 448
+  text 448
+  lotr_page_id 448
+  position 251
+  type 240
+  cultures 211 ++
+  description 190
+  other_names 127
+  lifespan 101
+  governance 100
+  founded_or_built 86
+  regions 81
   events 81
-  regions 80
   major_towns 34
-  capital 31
+  capital 32
 
 Class Battle
 

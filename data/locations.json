@@ -12,7 +12,8 @@
   {
     "name": "Crickhollow",
     "lotr_page_id": "686",
-    "text": "CRICKHOLLOW was a village in Buckland located a few\nmiles north of Bucklebury.\n\n\nHistory\n\nIn TA 3018, Frodo Baggins bought a house in Crickhollow after leaving\nBag End, as he was about to exit the Shire."
+    "text": "CRICKHOLLOW was a village in Buckland located a few\nmiles north of Bucklebury.\n\n\nHistory\n\nIn TA 3018, Frodo Baggins bought a house in Crickhollow after leaving\nBag End, as he was about to exit the Shire.",
+    "cultures": "Hobbits"
   },
   {
     "name": "Eithel Sirion",
@@ -31,7 +32,8 @@
   {
     "name": "Orrostar",
     "lotr_page_id": "2569",
-    "text": "The ORROSTAR ('Eastlands') were a group of hills located in the\neasternmost province of Númenor. The hills themselves were located on\nthe northern coast of the province and they were known as the Granary of\nthe realm."
+    "text": "The ORROSTAR ('Eastlands') were a group of hills located in the\neasternmost province of Númenor. The hills themselves were located on\nthe northern coast of the province and they were known as the Granary of\nthe realm.",
+    "cultures": "Numenoreans"
   },
   {
     "name": "Durin's Tower",
@@ -46,7 +48,8 @@
   {
     "name": "Bay of Eldanna",
     "lotr_page_id": "2575",
-    "text": "The_' Bay of Eldanna_' was the westernmost and largest bay on the island\nof Númenor.\n\nIt was located between the arms of Andustar and Hyarnustar, two of the\nfive extruding points of Númenor. Its chief port was the haven\nEldalondë."
+    "text": "The_' Bay of Eldanna_' was the westernmost and largest bay on the island\nof Númenor.\n\nIt was located between the arms of Andustar and Hyarnustar, two of the\nfive extruding points of Númenor. Its chief port was the haven\nEldalondë.",
+    "cultures": "Numenoreans"
   },
   {
     "name": "Ondosto",
@@ -56,7 +59,8 @@
     "lifespan": "? presumably after SA 32 - SA 3319",
     "position": "Númenor, Forostar",
     "description": "City of Númenor in the region of Forostar",
-    "governance": "Unknown"
+    "governance": "Unknown",
+    "cultures": "Numenoreans"
   },
   {
     "name": "Eastern Seas",
@@ -77,12 +81,14 @@
     "text": "GIRDLEY ISLAND was a small island\nin the middle of the Brandywine river.\n\nGirdley Island was approximately four miles long and about a half mile\nwide and located seven or eight miles from the Brandywine Bridge,\naccording to _The Atlas of Middle-earth_.",
     "type": "Island",
     "position": "Brandywine River; in the Shire's Eastfarthing",
-    "governance": "The Shire"
+    "governance": "The Shire",
+    "cultures": "Hobbits"
   },
   {
     "name": "Folde",
     "lotr_page_id": "11493",
-    "text": "The FOLDE was a historic region in the Eastfold of Rohan. It was mainly\ntall grasslands, with a moderate climate.\n\nThe Folde was famous for having been the original homeland of Rohan's\nroyal establishment that was seated in the capital city of Aldburg."
+    "text": "The FOLDE was a historic region in the Eastfold of Rohan. It was mainly\ntall grasslands, with a moderate climate.\n\nThe Folde was famous for having been the original homeland of Rohan's\nroyal establishment that was seated in the capital city of Aldburg.",
+    "cultures": "Rohirrim"
   },
   {
     "name": "Mountains of Mithrim",
@@ -92,12 +98,14 @@
   {
     "name": "Forlond",
     "lotr_page_id": "3250",
-    "text": "FORLOND was a harbour in the sorthern part of Forlindon on the coast of\nGulf of Lhûn in the northwest of Middle-earth.\n\n\nHistory\n\nForlond was built by Elves after the drowning of Beleriand.\n\n\nEtymology\n\n_FORLOND_ is a Sindarin word that meant 'North-haven'."
+    "text": "FORLOND was a harbour in the sorthern part of Forlindon on the coast of\nGulf of Lhûn in the northwest of Middle-earth.\n\n\nHistory\n\nForlond was built by Elves after the drowning of Beleriand.\n\n\nEtymology\n\n_FORLOND_ is a Sindarin word that meant 'North-haven'.",
+    "cultures": "Elves"
   },
   {
     "name": "The Citadel",
     "lotr_page_id": "18511",
-    "text": "THE CITADEL of Gondor sits atop the seventh and highest level of Minas\nTirith, Gondor's capital. The Citadel houses the Throne of Gondor as\nwell as the Steward's Chair. The Citadel has access to the Fountain\nCourt. The Citadel also has access to the Tower of Ecthelion."
+    "text": "THE CITADEL of Gondor sits atop the seventh and highest level of Minas\nTirith, Gondor's capital. The Citadel houses the Throne of Gondor as\nwell as the Steward's Chair. The Citadel has access to the Fountain\nCourt. The Citadel also has access to the Tower of Ecthelion.",
+    "cultures": "Men of Gondor"
   },
   {
     "name": "Obel Halad",
@@ -129,7 +137,8 @@
   {
     "name": "Nindamos",
     "lotr_page_id": "2572",
-    "text": "NINDAMOS was considered the chief settlement of the fishermen of\nNúmenor, in the south of the island.\n\n\nHistory\n\nIt was set amongst the marshes at the mouth of the River Siril.\n\nNindamos was the largest of several small villages scattered throughout\nthe Hyarnustar and Hyarrostar regions of Númenor."
+    "text": "NINDAMOS was considered the chief settlement of the fishermen of\nNúmenor, in the south of the island.\n\n\nHistory\n\nIt was set amongst the marshes at the mouth of the River Siril.\n\nNindamos was the largest of several small villages scattered throughout\nthe Hyarnustar and Hyarrostar regions of Númenor.",
+    "cultures": "Numenoreans"
   },
   {
     "name": "Houses of the Dead",
@@ -143,7 +152,8 @@
   {
     "name": "Woods of Oromë",
     "lotr_page_id": "9563",
-    "text": "The WOODS OF OROMË are a forested area in southeastern Valinor between\nthe Pastures of Yavanna and the Hyamentir.\n\n\nHistory\n\nIt was used by Oromë probably for hunting purposes. It was observed by\nboth Ungoliant and Melkor as they scaled the high-points of the Pelóri\non their way to destroy the Two Trees."
+    "text": "The WOODS OF OROMË are a forested area in southeastern Valinor between\nthe Pastures of Yavanna and the Hyamentir.\n\n\nHistory\n\nIt was used by Oromë probably for hunting purposes. It was observed by\nboth Ungoliant and Melkor as they scaled the high-points of the Pelóri\non their way to destroy the Two Trees.",
+    "cultures": "Ainur"
   },
   {
     "name": "Ethring",
@@ -157,12 +167,14 @@
   {
     "name": "Oromet",
     "lotr_page_id": "38105",
-    "text": "OROMET was a hill in the Andustar region of Númenor.\n\nIt was located very close to the shoreline in the utmost west of the\nregion near the haven of Andúnië.\n\n\nHistory\n\nBeing high and as closest that a Man not on a ship could get to the\nUndying Lands, Tar-Minastir, who longed for the lands west built a high\ntower on the hill."
+    "text": "OROMET was a hill in the Andustar region of Númenor.\n\nIt was located very close to the shoreline in the utmost west of the\nregion near the haven of Andúnië.\n\n\nHistory\n\nBeing high and as closest that a Man not on a ship could get to the\nUndying Lands, Tar-Minastir, who longed for the lands west built a high\ntower on the hill.",
+    "cultures": "Numenoreans"
   },
   {
     "name": "Tuckborough",
     "lotr_page_id": "4945",
-    "text": "TUCKBOROUGH\nis a location in the Westfarthing of The Shire. Being the main village\nof Tookland, it is where most of the Took clan resided. It was located\nat the western end of the Green Hill Country. The Stock Road ran\neastward from Tuckborough to Stock.\n\nThis region was the site of the Great Smials, the ancestral home of the\nThains."
+    "text": "TUCKBOROUGH\nis a location in the Westfarthing of The Shire. Being the main village\nof Tookland, it is where most of the Took clan resided. It was located\nat the western end of the Green Hill Country. The Stock Road ran\neastward from Tuckborough to Stock.\n\nThis region was the site of the Great Smials, the ancestral home of the\nThains.",
+    "cultures": "Hobbits"
   },
   {
     "name": "Tumhalad",
@@ -181,7 +193,8 @@
     "other_names": "Merethrond",
     "position": "Citadel of Gondor in Minas Tirith",
     "description": "The feasting hall of the king in Gondor, filled with tables",
-    "type": "Hall"
+    "type": "Hall",
+    "cultures": "Men of Gondor"
   },
   {
     "name": "Harrowdale",
@@ -205,7 +218,8 @@
   {
     "name": "Harlond",
     "lotr_page_id": "3251",
-    "text": "_This article is on the Elvish-haven in northern Harlindon. For the\nports of Minas Tirith, see Harlond (Minas Tirith)._\n\nHARLOND (Sindarin for “south haven”) is a Elf-haven and a harbour on the\nnorthern shores of Harlindon in the far western parts of Middle-earth.\n\nThe southern harbour on the Gulf of Lhûn was Mithlond, the northern\nbeing Forlond."
+    "text": "HARLOND (Sindarin for “south haven”) is a Elf-haven and a harbour on the\nnorthern shores of Harlindon in the far western parts of Middle-earth.\n\nThe southern harbour on the Gulf of Lhûn was Mithlond, the northern\nbeing Forlond.",
+    "cultures": "Elves"
   },
   {
     "name": "Haudh-en-Elleth",
@@ -220,12 +234,14 @@
   {
     "name": "Tower of Turgon",
     "lotr_page_id": "19294",
-    "text": "TOWER OF TURGON or the TOWER OF THE KING was a great tower in the city\nof Gondolin built by King Turgon.\n\nIt stood in the King's Square in the very center of the city. During the\nFall of Gondolin, it was defended by the King's Household but they were\nultimately defeated and the tower thrown down. As it came crashing down,\nit landed on the King killing him."
+    "text": "TOWER OF TURGON or the TOWER OF THE KING was a great tower in the city\nof Gondolin built by King Turgon.\n\nIt stood in the King's Square in the very center of the city. During the\nFall of Gondolin, it was defended by the King's Household but they were\nultimately defeated and the tower thrown down. As it came crashing down,\nit landed on the King killing him.",
+    "cultures": "Elves"
   },
   {
     "name": "Calmindon",
     "lotr_page_id": "10174",
-    "text": "CALMINDON was a massive lighthouse built upon Tol Uinen in the Bay of\nRómenna.\n\n\nHistory\n\nCalmindon was built by the future King Aldarion who was then head of the\nGuild of Venturers in order to warn ships entering the bay. It was\ndestroyed along with Tol Uinen when Númenor was destroyed.\n\n\nEtymology\n\nCalmindon was Elvish for 'Shining-tower' or 'Light-tower'."
+    "text": "CALMINDON was a massive lighthouse built upon Tol Uinen in the Bay of\nRómenna.\n\n\nHistory\n\nCalmindon was built by the future King Aldarion who was then head of the\nGuild of Venturers in order to warn ships entering the bay. It was\ndestroyed along with Tol Uinen when Númenor was destroyed.\n\n\nEtymology\n\nCalmindon was Elvish for 'Shining-tower' or 'Light-tower'.",
+    "cultures": "Numenoreans"
   },
   {
     "name": "Chetwood",
@@ -265,7 +281,8 @@
   {
     "name": "Bay of Andúnië",
     "lotr_page_id": "2496",
-    "text": "The BAY OF ANDÚNIË was the northernmost of the three bays that ran along\nthe western coasts of the Andustar in Númenor. The greatest of the\nthree, its shores were no more than a narrow shelf of land from which\nsteep cliffs rose up. Beneath these cliffs at its eastern end was the\nfamous haven of Andúnië. There may have also been a second haven on this\nbay, named Almaida."
+    "text": "The BAY OF ANDÚNIË was the northernmost of the three bays that ran along\nthe western coasts of the Andustar in Númenor. The greatest of the\nthree, its shores were no more than a narrow shelf of land from which\nsteep cliffs rose up. Beneath these cliffs at its eastern end was the\nfamous haven of Andúnië. There may have also been a second haven on this\nbay, named Almaida.",
+    "cultures": "Numenoreans"
   },
   {
     "name": "Waymeet",
@@ -403,7 +420,8 @@
   {
     "name": "Bay of Rómenna",
     "lotr_page_id": "10208",
-    "text": "The BAY OF RÓMENNA was a bay situated just outside the city of Rómenna\nin Númenor.\n\n\nHistory\n\nWithin the bay closer to the coastline was the isle of Tol Uinen where\nstood the tower of Calmindon. For hundreds of years, the mariners of the\ngreat Númenórean navy left the island by way of this bay in their ships\nto explore the world. In SA 3319, the nine ships of the remaining\nFaithful left the doomed island for Middle-earth through this bay."
+    "text": "The BAY OF RÓMENNA was a bay situated just outside the city of Rómenna\nin Númenor.\n\n\nHistory\n\nWithin the bay closer to the coastline was the isle of Tol Uinen where\nstood the tower of Calmindon. For hundreds of years, the mariners of the\ngreat Númenórean navy left the island by way of this bay in their ships\nto explore the world. In SA 3319, the nine ships of the remaining\nFaithful left the doomed island for Middle-earth through this bay.",
+    "cultures": "Numenoreans"
   },
   {
     "name": "Dor Dínen",
@@ -420,7 +438,7 @@
     "type": "Lake",
     "position": "Eastern Dorthonion, south-west of Ladros",
     "description": "A lake of clear waters with wild heaths about it",
-    "cultures": "Barahir's outlaws"
+    "cultures": "Barahir's Outlaws"
   },
   {
     "name": "Caves of the Forgotten",
@@ -556,6 +574,7 @@
   {
     "name": "Forostar",
     "lotr_page_id": "2568",
+    "cultures": "Numenoreans",
     "text": "FOROSTAR was the northernmost province of Númenor.\n\nIt was a great north-pointing cape about 300 miles from base to tip,\nrising from infertile stony plains to chilly, windswept high-lands and\nultimately towering sea-cliffs.\n\n\nHistory\n\nThe only named settlement in the province was Ondosto located in its\nsouth eastern quarter along the main road. The Tower on Sorontil built\nby Tar-Meneldur to observe the stars on the peak of Sorontil near the\nnorthern cape of the island, was also another noted feature of the\nprovince."
   },
   {
@@ -728,6 +747,7 @@
   {
     "name": "Tower of Tar-Minastir",
     "lotr_page_id": "11236",
+    "cultures": "Numenoreans",
     "text": "The TOWER OF TAR-MINASTIR was a high tower in the western part of\nNúmenor.\n\nIt was located in the province of Andustar south of the coastal city of\nAndúnië and could be reached by a road that connected Ondosto to\nAndúnië.\n\n\nHistory\n\nThe Tower was built by Tar-Minastir, the eleventh King of Númenor\nsometime between SA 1731 and SA 1869 to gaze upon the West. Tar-Palantir\nspent much time here ever yearning for the West and watching for any\nship embarking from Tol Eressëa, but none ever did ever again. The tower\nalong with everything else perished in the Downfall of Númenor."
   },
   {
@@ -752,6 +772,7 @@
   {
     "name": "Mittalmar",
     "lotr_page_id": "2566",
+    "cultures": "Numenoreans",
     "text": "The MITTALMAR was the central province of Númenor, containing Arandor\n(or 'Kings'-land'), which itself was the most populous part of the\nrealm.\n\nThe land was Númenor's main pastoral land and consisted mainly of\ngrasslands and like most of Númenor it had a humid climate with mild\nwinters. It was oval in shape and ran about two-hundred miles from east\nto west and over one-hundred and fifty miles from north to south. In its\nnear center was the mountain of Meneltarma, the Pillar of Heaven. Its\ntwo main rivers Nunduinë and Siril (Númenor's only ones) were present\nmostly in this region."
   },
   {
@@ -840,7 +861,7 @@
     "position": "Somewhere in the Grey Mountains",
     "regions": "Grey Mountains",
     "description": "Seat of the King of Durin's Folk",
-    "cultures": "Dwarves of the Grey Mountains, Longbeards",
+    "cultures": "Dwarves of the Grey Mountains, Durin's Folk",
     "governance": "King of Durin's Folk",
     "founded_or_built": "Third Age",
     "lifespan": "Third Age - TA 2590 (possibly reclaimed afterwards)"
@@ -1383,6 +1404,7 @@
   {
     "name": "Tower of Avallónë",
     "lotr_page_id": "25134",
+    "cultures": "Teleri",
     "text": "The TOWER OF AVALLÓNË was a great white tower of the Elven city of\nAvallonë on the island of Tol Eressëa\n\nThe tower was the location of the master Palantir.\n\n\nHistory\n\nThe tower dates back to building of the city in the early Second Age by\nthe Elves returning from Middle-earth after the War of Wrath. The tower\nwas the first sight to be seen by mariners sailing to and from Aman and\ncould be clearly be seen from western Númenor and by Númenórean mariners\nlonging for the Undying Lands. By the time of the reign of Tar-Palantir,\nthe city and the tower were veiled in a great cloud and could no longer\nbe seen from Númenor. After Elendil established the Realms in Exile\nin Middle-earth, he erected towers such as Emyn Beraid throughout his\nkingdom which held the Palantíri that the Númenórean exiles brought over\nfrom Númenor, to observe his kingdom and the tower."
   },
   {
@@ -1597,6 +1619,7 @@
   {
     "name": "Andustar",
     "lotr_page_id": "2494",
+    "cultures": "Numenoreans",
     "text": "ANDUSTAR was the western region of Númenor, separated from the\nHyarnustar to the south by the wide Bay of Eldanna.\n\nIt was known as the region which was built the city of Andúnië, the\nhaven of the Faithful.\n\nAndustar was roughly rectangular in shape and size, and about 240\nkilometres west to east, and 160 kilometres north to south. To the east,\nit bordered the Forostar and Mittalmar regions, but as a coastal land it\nwas surrounded in all other directions by the Great Sea. It also\nbordered in the coastal south by the small region of Nísimaldar.\n\n\nHistory\n\nAndustar was a fertile region, except along its northern coasts, where\nthe landscape was higher and rockier, and forested by fir trees. Its\nwestern shores were broken by two bays, with the northernmost of these\nbeing the Bay of Andúnië. On the high land around this bay, the\nNúmenóreans built the port and city of Andúnië, whose Lords of Andúnië\nwere to be the ancestors of the Kings of Arnor and Kings of Gondor\ndescended from."
   },
   {
@@ -1871,7 +1894,7 @@
     "position": "Inside the Old Forest",
     "regions": "Near Buckland",
     "description": "A treeless glade in the Old Forest",
-    "cultures": "Trees",
+    "cultures": "Huorns, Hobbits",
     "lifespan": "Late Third Age (Possibly)"
   },
   {
@@ -2246,6 +2269,7 @@
   {
     "name": "Undying Lands",
     "lotr_page_id": "91",
+    "cultures": "Ainur, Elves",
     "text": "The UNDYING LANDS were a realm inhabited by Ainur and Eldar. The area\nincluded the continent of Aman and the island of Tol Eressëa. The ocean\nBelegaer separated the Undying Lands from the western shores of\nMiddle-earth. Only immortals and ring-bearers were allowed to live in\nthis realm.\n\n\nHistory\n\nEldar Days and Second Age\n\nOriginally, mortals were allowed to trade with those from Valinor in the\nUndying Lands, but were forbidden to sail west beyond the sight of\nNúmenor. However, in SA 3319 (Second Age), Sauron deceived Ar-Pharazôn,\nthe King of Númenor, that the ruler of the Undying Lands would be\ngranted immortality. To prevent the king's invasion, Ilúvatar destroyed\nNúmenor beneath the ocean and set the Undying Lands forever beyond the\nreach of mortal Men. Elves were still permitted to sail across the sea\nto the Undying Lands, if they chose to (which most did).\n\nThird Age\n\nIn TA 3021 (Third Age), Círdan the Shipwright accompanied Elrond,\nGaladriel, and Gandalf, the Keepers of the Rings, on a voyage to the\nUndying Lands, where they intended to remain. They were also joined by\nFrodo and Bilbo Baggins, Hobbits who were among the very few mortal\nbeings to be allowed passage to the Undying Lands.\n\nFourth Age\n\nEventually, Samwise Gamgee, another Hobbit of the Shire, and the Dwarf\nGimli along with his great friend Legolas made the journey to the\nUndying Lands. It is unknown how Manwë took to Gimli’s arrival, as he\nwould have killed Earendil for coming to Valinor uninvited and only\nspared him because he came on behalf of Elves and Men."
   },
   {
@@ -2264,6 +2288,7 @@
   {
     "name": "Meneltarma",
     "lotr_page_id": "2501",
+    "cultures": "Numenoreans",
     "text": "MENELTARMA was a sacred mountain in the center of Númenor. Its summit\nwas flattened and broad, but able to contain a large multitude during\nreligious ceremonies though no structures were ever erected on it.\n\nIt was sunken along with the rest of Númenor but it was however believed\nto have risen once more out of the sea as a small island of\nMiddle-earth.\n\n\nHistory\n\nSilence was required, imposed on any one who climbed the mountain. The\ntradition was so strong and universal that even foreigners felt bound by\nit. The King alone was allowed to utter prayers and thanksgivings to Eru\nIlúvatar, during the feasts of Erukyermë, Erulaitalë and Eruhantalë.\n\nBirds and other animals did not approach the place, only the Eagles of\nManwë were seen circling over the summit and were regarded as sacred\nguardians of the mountain and all the land.\n\nThe base of the mountain sloped gently and divided itself into five\nroots reaching to the five divisions of the land. The roots were called\nTarmasundar, meaning the Roots of the Pillar. On the southern slopes\nwere located the tombs of Kings and Queens of Númenor, within a valley\ncalled Noirinan.\n\nAfter the destruction of Númenor, some amongst the Exiles believed that\nthe summit of the mountain remained as an island in Belegaer. Some\nDúnedain, the descendants of the Númenoreans, are even said to have set\nsail trying to reach the island, from which the legend held that one\ncould catch a glimpse of the unreachable Aman, however, Aman was no\nlonger “in” the Earth.\n\n\nEtymology\n\n_MENELTARMA_ was a Quenya word that meant 'Heaven-Pillar' or 'Pillar\nof the Heavens'."
   },
   {
@@ -2553,27 +2578,22 @@
     "text": "GREY HAVENS, known also as MITHLOND, was an Elvish port city on the Gulf\nof Lune in the Elven realm of Lindon in Middle-earth.\n\n\nDescription\n\nBecause of its cultural and spiritual importance to the Elves, the Grey\nHavens in time became the primary Elven settlement west of the Misty\nMountains prior to the establishment of Eregion and, later, Rivendell.\nEven after the death of Gil-galad and as the Elves dwindled in numbers\nby the year, the Grey Havens remained a focal point of the history in\nthe northern part of Middle-earth.\n\nDespite being a major port, the Grey Havens had sparse population, like\nRivendell and northeastern Mirkwood.\n\n\nHistory\n\nSecond Age\n\nThe Grey Havens was founded at the beginning of the Second Age by the\nsurviving Elves of the realm of Beleriand, those who chose to remain on\nMiddle-earth after the wars against Morgoth.\n\nIt was frequently visited from the west by the Númenoreans. On SA 1700,\nTar-Minastir sent great fleets from Númenor to the Havens in assistance\nin the war against Sauron.\n\nIt was also one of the main sources for the Elven fleet of ships that\nsailed back and forth between Middle Earth and Eldamar in Aman.\n\nThird Age\n\nIn TA 1000, the Istari arrived in Middle-earth, and it was here where\nCírdan gave Narya, the Elven Ring of Fire, to Gandalf.\n\nDuring the War of the Ring, Galdor of the Havens was among the members\nof the Council of Elrond.\n\nAfter the defeat of Sauron and the coronation of Aragorn II Elessar,\nGandalf, Galadriel, and Elrond left for Valinor from the Grey Havens.\nThe Ring-bearers Bilbo Baggins and Frodo Baggins accompanied them to\nValinor. Years later, Samwise Gamgee did likewise, himself being a\nRing-bearer (although briefly).\n\n\nFate\n\nThe Grey Havens still existed into the Fourth Age under Círdan, but its\npopulation declined as did the elven presence in Middle-earth. It is\nunclear just what the Fate of the Elves of Middle-earth was in the early\nFourth Age and how long Círdan or his remaining folk dwelled at the\nHavens and continued to build the great ships that carried the Elves to\nthe Blessed Realm.\n\n\nEtymology\n\n_MITHLOND_ means “Grey Haven(s)”, from the Sindarin _mith_ (“grey”) and\n_lond_ (“haven, harbour”).",
     "type": "City/Port, Haven",
     "other_names": "Mithlond, The Havens",
-    "location": "Central Lindon",
+    "position": "Central Lindon",
     "regions": "Eriador",
-    "race": "Ñoldor, Sindar Elves",
-    "spoken_languages": "Sindarin, Westron",
     "governance": "Círdan the Shipwright",
     "founded_or_built": "SA 1",
     "lifespan": "SA 1 - Fourth Age",
     "description": "An important coastal port, at the mouth of the Lhûn river",
-    "inhabitants": "Elves of Lindon",
-    "created": "S.A. 1"
+    "cultures": "Noldor, Grey Elves"
   },
   {
     "name": "March of Maedhros",
     "lotr_page_id": "873",
     "text": "The MARCH OF MAEDHROS was an Elven realm in the eastern Beleriand\nbetween Dorthonion and the Blue Mountains next to his younger brother's\ndomain.\n\nIt consisted of a series of hills and plains.\n\n\nHistory\n\nThe March of Maedhros was fortified by Maedhros after he moved his\nbrothers and their people out of Hithlum further east to avoid any feuds\nwith their kinsmen. He established himself on the Hill of Himring. It\nwithstood the frequent attacks by the forces of Angband throughout the\nFirst Age, standing strong in the Battles of Beleriand including the\nravages of the Dagor Bragollach (Battle of Sudden Flame). It was finally\noverrun during the Nirnaeth Arnoediad (Battle of Unnumbered Tears) in FA\n473.",
-    "location": "North-eastern Beleriand",
+    "position": "North-eastern Beleriand",
     "capital": "Himring",
-    "population": "Noldor",
-    "governance": "Maedhros",
-    "founded": "F.A. 7",
-    "defeated": "By F.A. 540"
+    "cultures": "Noldor",
+    "governance": "Maedhros"
   },
   {
     "name": "Paths of the Dead",
@@ -2855,7 +2875,7 @@
     "other_names": "Udûn (S)",
     "position": "Early Iron Mountains ",
     "description": "Melkor's first fortress of Darkness, with pits extending deep into the, earth",
-    "cultures": "Orcs, Deamons",
+    "cultures": "Orcs, Demons",
     "governance": "Melkor",
     "founded_or_built": "Around the Valian Year 3400 ",
     "lifespan": "Valian Year 3400 - VY 1099 ",
@@ -2922,7 +2942,7 @@
     "position": "South-eastern Middle-earth between Gondor and Rohan",
     "regions": "Gondor, Rohan",
     "description": "Formed the border between Gondor and Rohan",
-    "cultures": "Longbeards, Orcs, Dunlendings, Drúedain",
+    "cultures": "Durin's Folk, Orcs, Dunlendings, Drúedain",
     "governance": "King of the Mountains",
     "founded_or_built": "First inhabited in the Second Age",
     "lifespan": "Years of the Lamps"
@@ -2950,7 +2970,7 @@
     "position": "Eastern Shire",
     "regions": "Arnor",
     "description": "Last remnant of a vast and ancient primordial forest dating back to the, Elder Days",
-    "cultures": "Tom Bombadil"
+    "cultures": "Huorns"
   },
   {
     "name": "Tirion",
@@ -3111,7 +3131,7 @@
     "position": "Iron Mountains north of Beleriand",
     "regions": "Far Northern Beleriand",
     "description": "Infamous fortress and prison of the Dark Lord Morgoth",
-    "cultures": "Balrogs, Orcs, Deamons",
+    "cultures": "Balrogs, Orcs, Demons",
     "governance": "Sauron, later Melkor/Morgoth",
     "founded_or_built": "YT ?",
     "lifespan": "YT ? - FA 587"
@@ -3151,7 +3171,7 @@
     "other_names": "Amon Lanc",
     "position": "Southern Mirkwood",
     "description": "Stronghold of Sauron under the guise of the Necromancer, and then his, dark servants until the end of the War of the Ring",
-    "cultures": "Ringwraiths, Orcs",
+    "cultures": "Ringwraiths, Orcs of Mordor",
     "governance": "Sauron, later Khamûl",
     "founded_or_built": "TA 1000",
     "lifespan": "TA 1000 - TA 3019",
@@ -3225,7 +3245,7 @@
     "position": "North Western Mordor between Ered Lithui and Ephel Duath",
     "regions": "Gondor, Mordor (after)",
     "description": "Iron wall containing arched two-doored entrance",
-    "cultures": "Orcs",
+    "cultures": "Orcs of Mordor",
     "governance": "Sauron",
     "founded_or_built": "SA 1600",
     "lifespan": "SA 1600 – March 25, 3019"
@@ -3294,7 +3314,7 @@
     "position": "On Bree-hill, Eriador, by the crossing of the East Road and the Greenway",
     "regions": "Arnor, Cardolan, Later Reunited Kingdom",
     "description": "Group of Cross-road Hamlets",
-    "cultures": "Men, Hobbits",
+    "cultures": "Men, Bree-hobbits",
     "governance": "Kings of Arnor, Kings of Cardolan, Later Kings of the Reunited Kingdom",
     "founded_or_built": "Third Age",
     "lifespan": "Third Age -"
@@ -3416,7 +3436,7 @@
     "position": "In Nan Curunír, at the southern tip of the Misty Mountains",
     "type": "Fortress",
     "description": "A circular wall of rock that enclosed the valley, in the centre of which, stood the stone tower of Orthanc",
-    "cultures": "Dunedain, Dunlendings, Orcs, Huorns",
+    "cultures": "Dunlendings, Uruk-hai",
     "events": "Battle of Isengard",
     "governance": "Kings of Gondor, Saruman, King of the Reunited Kingdom, Treebeard",
     "founded_or_built": "Late Second Age"
@@ -3458,7 +3478,7 @@
     "position": "Along the border between Eriador and Lindon",
     "major_towns": "Nogrod, Belegost, Thorin's Halls, Newer halls in the Southern chain",
     "description": "Known for being an ancient dwelling place of the Dwarves, the boundary, between Eriador and Lindon",
-    "cultures": "Broadbeams, Firebeards, Longbeards, Elves",
+    "cultures": "Dwarves of the Blue Mountains, Broadbeams, Firebeards, Durin's Folk",
     "governance": "King of Durin's Folk during the Third Age",
     "founded_or_built": "Established during the Years of the Trees",
     "lifespan": "Years of the Trees -"
@@ -3489,7 +3509,7 @@
     "founded_or_built": "SA 3320",
     "lifespan": "SA 3320 - FA",
     "other_names": "Minas Ithil, Tower of the Moon, Tower of the Rising Moon, Moon-tower, Tower of Black Sorcery, Dead City",
-    "cultures": "Men of Gondor, Orcs, Ringwraiths"
+    "cultures": "Men of Gondor, Orcs of Mordor, Ringwraiths"
   },
   {
     "name": "Ithilien",
@@ -3678,7 +3698,7 @@
     "lifespan": "SA 1000 - TA 3019",
     "major_towns": "Minas Morgul, Carchost, Narchost, Cirith Ungol, Durthang",
     "regions": "Nurn, Gorgoroth, Lithlad, Udûn",
-    "cultures": "Orcs, Trolls, Ringwraiths, Men, Deamons"
+    "cultures": "Orcs of Mordor, Trolls, Ringwraiths, Easterlings, Demons"
   },
   {
     "name": "Numenor",

@@ -1,15 +1,13 @@
 {
-  "name": "Frumgar",
-  "lotr_page_id": "2274",
-  "text": "FRUMGAR was the fourth Lord of the Éothéod and the ancestor of Eorl the\nYoung.\n\n\nBiography\n\nFrumgar led his people away from the Vales of Anduin in a migration to\nthe land between the rivers Langwell and Greylin after the overthrown of\nAngmar, to escape the ever increasing dangers of their former home.",
-  "titles": "Lord of the Éothéod",
-  "birth": "TA 1940",
-  "death": "TA 2001",
-  "spouse": "Unnamed wife",
-  "race": "Men",
+  "name": "Old Man Willow",
+  "lotr_page_id": "3077",
+  "text": "OLD MAN WILLOW was a great willow tree of the Old Forest; he was the\nroot cause of much of the Forest's anger and hatred towards trespassers.\nHe was most likely a Huorn, as the Old Forest was originally part of the\nsame primordial forest as Fangorn. He had great power within the Old\nForest, and was able to direct all paths in the woodland to him.\n\nTom Bombadil had power over Old Man Willow, and checked the evil in him\nas much as he could, or was willing to.\n\n\nHistory\n\nIn _The Fellowship of the Ring_, Old Man Willow casts a spell on the\nHobbits (Frodo, Sam, Merry and Pippin), causing them to feel sleepy.\nMerry and Pippin lean against his trunk and fall asleep, while Frodo\nsits on a root to dangle his feet in the water, before also falling\nasleep. The ill spirit then traps Merry and Pippin in the folds of its\ntrunk. Sam and Frodo attempt to burn Old Man Willow in order to release\ntheir friends, but Old Man Willow communicates to Merry, who is still\ninside his roots, that if the burning does not cease, the Hobbits would\nbe squeezed in two. They are saved by the timely arrival of Tom\nBombadil, who 'sings' the ancient tree to sleep. Whether or not Old Man\nWillow is truly evil remains a mystery. It is possible that he\nrepresents the anger and bitterness of nature toward those who try to\ndestroy it.",
+  "other_names": "The Great Willow; \"Old grey Willow-man\"",
+  "location": "The Old Forest",
+  "notable_for": "almost crushing Merry and Pippin to death",
+  "race": "Unknown (possibly a Huorn)",
   "gender": "Male",
-  "culture": "Éothéod",
-  "location": "North-west Rhovanion",
-  "language": "language of the Éothéod",
-  "children": "Fram"
+  "weaponry": "Spells",
+  "birth": "Unknown",
+  "culture": "The Old Forest"
 }
