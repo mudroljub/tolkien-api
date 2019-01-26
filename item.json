@@ -1,10 +1,13 @@
 {
-  "name": "Ibûn",
-  "lotr_page_id": "4426",
-  "text": "IBÛN was a Petty-dwarf, was the son of Mîm and brother of Khîm.\n\n\nBiography\n\nHe was captured with his father and brother by Túrin's outlaw band.\nDuring the Sack of Amon Rûdh, he was missing in action. He might have\nbeen killed by an orc or might of died of an accident like his brother.\nBut after the destruction of Amon Rudh, he was never seen again.\n\n\nBehind the scenes\n\nIn _The Children of Hurin_ and _Unfinished Tales_, Ibûn is last\nmentioned being held hostage by the Orcs that Mîm had aligned himself\nwith, but he is never mentioned again after that.",
-  "birth": "First age",
-  "death": "Unknown, possibly FA 489",
-  "race": "Dwarves",
-  "gender": "Male",
-  "culture": "Petty-Dwarves"
+  "name": "Hobbiton",
+  "lotr_page_id": "2594",
+  "text": "HOBBITON was a village in the Westfarthing of the Shire.\n\n\nHistory\n\nHobbiton was located in the center of the Shire in the far eastern part\nof the Westfarthing. It was the home of many illustrious Hobbits,\nincluding Bilbo Baggins, Frodo Baggins, and Samwise Gamgee. Notable\nlocations in Hobbiton include the Mill and the Baggins' Hobbit-hole in\nthe hill, and Bag End. At the end of the War of the Ring, Saruman's\ntreachery destroyed much of the Shire, and Hobbiton suffered greatly.\nThe Old Mill had been replaced with a noxious factory-like structure,\nand many trees had been cut down.\n\nAfter the servants of Saruman had been expelled from the Shire, Sam\nGamgee used magic soil from the garden of the Elf-queen Galadriel to\nheal the Shire in general, but with particular attention to Hobbiton.",
+  "type": "Village",
+  "position": "Center of the Shire, Central Eriador",
+  "description": "Known for being the home of the Hobbits",
+  "governance": "Kings of Arthedain, later Thains",
+  "founded_or_built": "Around TA 1601 (SR 1)",
+  "lifespan": "TA 1601 -",
+  "cultures": "Hobbits of the Shire",
+  "events": "Scouring of the Shire"
 }

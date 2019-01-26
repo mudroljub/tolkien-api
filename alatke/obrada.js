@@ -1,13 +1,11 @@
 const fs = require('fs')
-const podaci = require('../data/races.json')
+const podaci = require('../data/characters.json')
 
 const obradjeno = podaci
   .sort((a, b) => a.text.length - b.text.length)
   .map(x => {
-    for (const key in x) {
-      if (x[key] == "Unknown")
-        delete x[key]
-    }
+    // if (x.spouse && x.spouse.toLowerCase().startsWith("loved"))
+    //   delete x.spouse
     return x
   })
 

@@ -1,7 +1,7 @@
 const fs = require('fs')
-const podaci = require('../data/artefacts.json')
-const odrednice = require('../data/characters.json')
-const kljuc = 'character'
+const podaci = require('../data/characters.json')
+const odrednice = require('../data/locations.json')
+const kljuc = 'location'
 
 const koristeno = new Set(podaci.map(x => x[kljuc]).sort())
 const postojece = odrednice.map(x => x.name).sort()
