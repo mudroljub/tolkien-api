@@ -14,26 +14,25 @@ Otvaranje članka po id-u:
 
 Class Character
 
-  name 385
-  race 385 +
-  gender 385
-  text 385
-  lotr_page_id 385
-  culture 364 +
-  birth 345
-  death 342
-  titles 306
-  spouse 275
-  other_names 273
+  name 390
+  text 390
+  race 390 +
+  gender 390
+  lotr_page_id 390
+  culture 368 +
+  birth 350
+  death 345
+  titles 308
+  spouse 278
+  other_names 275
   hair 234
-  weapon 216
-  location 142 +
-  rule 93
-  height 71
+  weapon 218
+  location 147 +
+  rule 94
+  height 72
   eyes 64
-  parentage 44
-  siblings 29
-  house 28
+  parentage 46
+  house 29 +
 
 Class Race
 

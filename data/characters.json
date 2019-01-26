@@ -55,6 +55,19 @@
     "hair": "Golden"
   },
   {
+    "name": "Iminyë",
+    "lotr_page_id": "13988",
+    "text": "IMINYË was an Elf of Cuiviénen.\n\n\nBiography\n\nIminyë was awoken by the Elf who became her husband. She became the wife\nof Imin, the first of the Elves to awaken in Cuivienen. Not much is\nknown about her life afterwards.",
+    "location": "Cuiviénen",
+    "birth": "Y.T. 1050, Cuiviénen",
+    "parentage": "None: Firstborn",
+    "spouse": "Imin",
+    "gender": "Female",
+    "death": "Unknown",
+    "race": "Elves",
+    "culture": "Vanyar"
+  },
+  {
     "name": "Rog",
     "lotr_page_id": "29583",
     "text": "ROG was an Elf of Gondolin during the First Age. Biography Rog was the\nLord of the House of the Hammer of Wrath in Gondolin. He was the\nstrongest of the Elves there. During the time of the Fall of Gondolin,\nin which he died.",
@@ -171,14 +184,6 @@
     "hair": "Golden"
   },
   {
-    "name": "Malantur",
-    "lotr_page_id": "42376",
-    "text": "MALANTUR was a Númenorean noble, the son of Caliondo, son of Eärendur.\nHe lived during the late first millennium of the Second Age.\n\nMalantur, it is said, was to be the heir to his cousin the king\nTar-Aldarion, but when laws were altered, the King's daughter Ancalimë\nbecame heir instead.",
-    "race": "Men",
-    "gender": "Male",
-    "culture": "Numenoreans"
-  },
-  {
     "name": "Ornendil",
     "lotr_page_id": "4202",
     "text": "ORNENDIL was the elder son of King Eldacar of Gondor.\n\n\nBiography\n\nIn the siege of Osgiliath during the Kin-strife. Omendil's father was\ndriven out by Castamir the Usurper. Unfortunately, Ornendil did not\nescape with his father and was put to death by Castamir upon the fall of\nOsgiliath.",
@@ -189,8 +194,15 @@
     "house": "House of Anárion",
     "gender": "Male",
     "race": "Men",
-    "culture": "Men of Gondor",
-    "siblings": "Aldamir"
+    "culture": "Men of Gondor"
+  },
+  {
+    "name": "Malantur",
+    "lotr_page_id": "42376",
+    "text": "MALANTUR was a Númenorean noble, the son of Caliondo, son of Eärendur.\nHe lived during the late first millennium of the Second Age.\n\nMalantur, it is said, was to be the heir to his cousin the king\nTar-Aldarion, but when laws were altered, the King's daughter Ancalimë\nbecame heir instead.",
+    "race": "Men",
+    "gender": "Male",
+    "culture": "Numenoreans"
   },
   {
     "name": "Baranor",
@@ -242,27 +254,25 @@
     "gender": "Male"
   },
   {
+    "name": "Frumgar",
+    "lotr_page_id": "2274",
+    "text": "FRUMGAR was the fourth Lord of the Éothéod and the ancestor of Eorl the\nYoung.\n\n\nBiography\n\nFrumgar led his people away from the Vales of Anduin in a migration to\nthe land between the rivers Langwell and Greylin after the overthrown of\nAngmar, to escape the ever increasing dangers of their former home.",
+    "titles": "Lord of the Éothéod",
+    "birth": "TA 1940",
+    "death": "TA 2001",
+    "spouse": "Unnamed wife",
+    "race": "Men",
+    "gender": "Male",
+    "culture": "Éothéod",
+    "location": "North-west Rhovanion"
+  },
+  {
     "name": "Ebor",
     "lotr_page_id": "22855",
     "race": "Men",
     "gender": "Male",
     "culture": "Men of Brethil",
     "text": "EBOR was the son of Meleth and Agathora, and brother to Manthor, his\nlord, and Hunthor.\n\n\nHistory\n\nEbor appears in the account of the wanderings of Hurin, after the death\nof Turin Turambar. He was a captain of men of Brethil, to whom Asgon and\nhis men were brought after being captured by march-wardens."
-  },
-  {
-    "name": "Arthad",
-    "race": "Men",
-    "text": "ARTHAD was an Edain Man of the House of Bëor.\n\n\nBiography\n\nArthad was a Men of Dorthonion before the Dagor Bragollach. Afterwards,\nhe was one of Barahir's Outlaws that lived in Dorthonion deifying\nMorgoth's forces. He was killed along with the other outlaws at Tarn\nAeluin as a result of Gorlim's betrayal.",
-    "birth": "Late First Age ?",
-    "death": "FA 460",
-    "spouse": "Unknown",
-    "weapon": "Bow, sword ?",
-    "gender": "Male",
-    "culture": "Edain",
-    "lotr_page_id": "12243",
-    "other_names": "Egnor , Aikanár, Aikanáro",
-    "titles": "Lord of Dorthonion with Angrod",
-    "hair": "Golden"
   },
   {
     "name": "Borlad",
@@ -287,6 +297,21 @@
     "text": "NAN was a Giant, mentioned only in ''The Book of Lost Tales 2, ''for\nwhom the Nauglafring (the early name of the Necklace of the Dwarves) was\nmade. He and another Giant Gilim are not told of in _The Silmarillion_.\n\nNan is told in _The Tale of Tinúviel_ to have owned a particularly long\nsword, named Glend."
   },
   {
+    "name": "Arthad",
+    "race": "Men",
+    "text": "ARTHAD was an Edain Man of the House of Bëor.\n\n\nBiography\n\nArthad was a Men of Dorthonion before the Dagor Bragollach. Afterwards,\nhe was one of Barahir's Outlaws that lived in Dorthonion deifying\nMorgoth's forces. He was killed along with the other outlaws at Tarn\nAeluin as a result of Gorlim's betrayal.",
+    "birth": "Late First Age ?",
+    "death": "FA 460",
+    "spouse": "Unknown",
+    "weapon": "Bow, sword ?",
+    "gender": "Male",
+    "culture": "Edain",
+    "lotr_page_id": "12243",
+    "other_names": "Egnor , Aikanár, Aikanáro",
+    "titles": "Lord of Dorthonion with Angrod",
+    "hair": "Golden"
+  },
+  {
     "name": "Fosco Baggins",
     "race": "Hobbits",
     "text": "FOSCO BAGGINS was a Hobbit of the Shire and the grandfather of Frodo\nBaggins.\n\n\nBiography\n\nFosco was the son of Largo Baggins and Tanta (Hornblower) Baggins. Fosco\nmarried Ruby Bolger and they had three children Dora, Drogo and Dudo.\nTheir son Drogo was the father of Frodo Baggins. Fosco died in TA 2960\n(SR 1360).",
@@ -309,6 +334,20 @@
     "text": "ARTAMIR was the eldest son of King Ondoher of Gondor. He, his father,\nand his younger brother were killed in battle with the Wainriders.\n\n\nEtymology\n\nThe name _ARTAMIR_ comes from Quenya and means “noble jewel”. It is made\nfrom the words _arta_, meaning “exalted” or “noble”, and _mírë_, meaning\n“treasure” or “jewel”."
   },
   {
+    "name": "Adrahil II",
+    "race": "Men",
+    "text": "ADRAHIL II was the twenty-first Prince of Dol Amroth.\n\n\nBiography\n\nAdrahil was the only son of Angelimir. He succeeded his father on TA\n2977. He was the father of Ivriniel, Finduilas, and the famed Prince\nImrahil. He reigned for thirty-three years, during the stewardship of\nEcthelion II and the start of Denethor II's.",
+    "titles": "Prince of Dol Amroth",
+    "birth": "TA 2917",
+    "death": "TA 3010",
+    "spouse": "Unnamed wife",
+    "gender": "Male",
+    "culture": "Dunedain",
+    "lotr_page_id": "8682",
+    "other_names": "Egnor , Aikanár, Aikanáro",
+    "hair": "Golden"
+  },
+  {
     "name": "Atanatar I",
     "race": "Men",
     "text": "ATANATAR I was the tenth King of Gondor.\n\n\nBiography\n\nAtanatar was the son of Turambar and succeeded his father to the throne\nof Gondor in TA 667. His reign was uneventful and presumably peaceful.\nHe died in TA 748 and was succeeded by his son Siriondil.\n\n\nEtymology\n\nAtanatar was a Quenya word that meant 'man-father'.",
@@ -324,20 +363,6 @@
     "other_names": "Egnor , Aikanár, Aikanáro",
     "hair": "Golden",
     "location": "Gondor"
-  },
-  {
-    "name": "Adrahil II",
-    "race": "Men",
-    "text": "ADRAHIL II was the twenty-first Prince of Dol Amroth.\n\n\nBiography\n\nAdrahil was the only son of Angelimir. He succeeded his father on TA\n2977. He was the father of Ivriniel, Finduilas, and the famed Prince\nImrahil. He reigned for thirty-three years, during the stewardship of\nEcthelion II and the start of Denethor II's.",
-    "titles": "Prince of Dol Amroth",
-    "birth": "TA 2917",
-    "death": "TA 3010",
-    "spouse": "Unnamed wife",
-    "gender": "Male",
-    "culture": "Dunedain",
-    "lotr_page_id": "8682",
-    "other_names": "Egnor , Aikanár, Aikanáro",
-    "hair": "Golden"
   },
   {
     "name": "Borthand",
@@ -395,6 +420,17 @@
     "culture": "Men of Gondor"
   },
   {
+    "name": "Gilmith",
+    "lotr_page_id": "6384",
+    "text": "GILMITH was the daughter of Imrazôr and Mithrellas and the sister of\nGalador, the first Prince of Dol Amroth. Biography Gilmith probably\nlived with her family in Edhellond or Dol Amroth. Virtually nothing else\nis known about her so it is not clear what she did during her life,\nwhether she married anyone, or what eventually became of her in later\ndays.",
+    "birth": "TA 2000",
+    "death": "Unknown",
+    "spouse": "Unknown",
+    "race": "Half-elven",
+    "gender": "Female",
+    "culture": "Dunedain"
+  },
+  {
     "name": "Aranwë",
     "race": "Elves",
     "text": "ARANWË was an Elf of Gondolin and the father of Voronwë. His son\nstated that he was from the House of Fingolfin, suggesting that Aranwë\nmight have been a noble elf in Gondolin.\n\n\nEtymology\n\nThe Quenyan name ARANWË means “Kingly” or “Noble” from _ara_ (“noble”)\nand _aran_ (“king”). The suffix _-wë_ occur in many names, though not\nexclusively masculine.",
@@ -407,17 +443,6 @@
     "birth": "YT ? during the Noontide of Valinor",
     "death": "FA 455",
     "hair": "Golden"
-  },
-  {
-    "name": "Gilmith",
-    "lotr_page_id": "6384",
-    "text": "GILMITH was the daughter of Imrazôr and Mithrellas and the sister of\nGalador, the first Prince of Dol Amroth. Biography Gilmith probably\nlived with her family in Edhellond or Dol Amroth. Virtually nothing else\nis known about her so it is not clear what she did during her life,\nwhether she married anyone, or what eventually became of her in later\ndays.",
-    "birth": "TA 2000",
-    "death": "Unknown",
-    "spouse": "Unknown",
-    "race": "Half-elven",
-    "gender": "Female",
-    "culture": "Dunedain"
   },
   {
     "name": "Borin",
@@ -496,7 +521,6 @@
     "birth": "After T.A. 1516",
     "house": "House of Anárion",
     "parentage": "Minardil",
-    "siblings": "Telemnar",
     "race": "Men",
     "culture": "Men of Gondor",
     "gender": "Male"
@@ -524,7 +548,6 @@
     "death": "F.A. 375, Battle of the Gelion-Ascar Stockade",
     "house": "House of Haleth",
     "parentage": "Haldad",
-    "siblings": "Haleth (twin-sister)",
     "gender": "Male",
     "race": "Men",
     "culture": "House of Haleth"
@@ -666,17 +689,6 @@
     "culture": "Avari"
   },
   {
-    "name": "Beechbone",
-    "lotr_page_id": "3460",
-    "text": "BEECHBONE was one of the younger Ents who lived in the Fangorn Forest.\nBiography Not much is known about the life of Beechbone, apart from that\nhe took part in Battle of Isengard with the other Ents on March 3, 3019.\nIn the book _The Two Towers_, he was caught on fire by the gas let out\nby the Uruk-hai and apparently burned to death. However, this only\nencouraged the other Ents to double their efforts in destroying\nIsengard.",
-    "birth": "Unknown",
-    "death": "March 3, 3019",
-    "race": "Ents",
-    "gender": "Male",
-    "height": "Very tall",
-    "culture": "Ents of Fangorn Forest"
-  },
-  {
     "name": "Lungorthin",
     "lotr_page_id": "7165",
     "text": "LUNGORTHIN was a Balrog mentioned in earlier versions of _The\nSilmarillion_. Biography Like Gothmog, he bore the title of “Lord of\nBalrogs”. He was the captain of security in Angband and, like his\nsuperior officer, Gothmog, was fiercely loyal to his lord, Morgoth. It\nis unknown if he was an earlier version of Gothmog, but he might have\nbeen a different Balrog altogether. de:Lungorthin es:Lungorthin\nit:Lungorthin ru:Лунгортин",
@@ -688,6 +700,17 @@
     "gender": "Male",
     "hair": "Mane of red flame",
     "culture": "Demons"
+  },
+  {
+    "name": "Beechbone",
+    "lotr_page_id": "3460",
+    "text": "BEECHBONE was one of the younger Ents who lived in the Fangorn Forest.\nBiography Not much is known about the life of Beechbone, apart from that\nhe took part in Battle of Isengard with the other Ents on March 3, 3019.\nIn the book _The Two Towers_, he was caught on fire by the gas let out\nby the Uruk-hai and apparently burned to death. However, this only\nencouraged the other Ents to double their efforts in destroying\nIsengard.",
+    "birth": "Unknown",
+    "death": "March 3, 3019",
+    "race": "Ents",
+    "gender": "Male",
+    "height": "Very tall",
+    "culture": "Ents of Fangorn Forest"
   },
   {
     "name": "Snaga (Grishnakh's band)",
@@ -800,16 +823,6 @@
     "hair": "Golden"
   },
   {
-    "name": "Marcho",
-    "lotr_page_id": "9211",
-    "text": "MARCHO was a Fallohide-hobbit adventurer and one of the founders of the\nShire.\n\n\nBiography\n\nOriginally living in Bree, he and his brother Blanco and a large\nfollowing of Hobbits, having obtained permission from the King of\nArthedain seated at Fornost at the time to do so, decided to journey\nwestward in search of new lands to settle. By TA 1601, he and his\nfollowers reached a rich and fertile land, between the Brandywine River\nand the Far Downs, where they founded The Shire.",
-    "death": "Sometime after TA 1601",
-    "spouse": "Unknown",
-    "race": "Hobbits",
-    "gender": "Male",
-    "culture": "Fallohides"
-  },
-  {
     "name": "Esmeralda Brandybuck",
     "race": "Hobbits",
     "text": "ESMERALDA BRANDYBUCK was a Hobbit of the Shire.\n\n\nBiography\n\nEsmeralda was born to Adalgrim Took and his unnamed wife. She was the\nyoungest of their five children. She was a descendant of Gerontius Took,\nand younger sister to Thain Paladin Took II. She married Saradoc\nBrandybuck, the Master of Buckland making her the Mistress of Buckland\nand of Brandy Hall. Being a Took and marrying into the Brandybuck\nfamily, she was both Peregrin Took's aunt and Merry Brandybuck's\nmother.",
@@ -822,6 +835,16 @@
     "other_names": "Egnor , Aikanár, Aikanáro",
     "titles": "Lord of Dorthonion with Angrod",
     "hair": "Golden"
+  },
+  {
+    "name": "Marcho",
+    "lotr_page_id": "9211",
+    "text": "MARCHO was a Fallohide-hobbit adventurer and one of the founders of the\nShire.\n\n\nBiography\n\nOriginally living in Bree, he and his brother Blanco and a large\nfollowing of Hobbits, having obtained permission from the King of\nArthedain seated at Fornost at the time to do so, decided to journey\nwestward in search of new lands to settle. By TA 1601, he and his\nfollowers reached a rich and fertile land, between the Brandywine River\nand the Far Downs, where they founded The Shire.",
+    "death": "Sometime after TA 1601",
+    "spouse": "Unknown",
+    "race": "Hobbits",
+    "gender": "Male",
+    "culture": "Fallohides"
   },
   {
     "name": "Mentha Brandybuck",
@@ -913,20 +936,6 @@
     "hair": "Golden"
   },
   {
-    "name": "Alphros",
-    "race": "Men",
-    "text": "ALPHROS was the twenty-fourth Prince of Dol Amroth.\n\n\nBiography\n\nAlphros was the son of Elphir and was a child during the War of the\nRing. When Aragorn II Elessar became King of the Reunited Kingdom,\nAlphros succeeded his father as Prince of Dol Amroth and served under\nAragorn, until Alphros's death in FO 95.\n\n\nEtymology\n\nThe name ALPHROS means “Swan-foam”, from the Sindarin _alph_ (“swan”)\nand _ros_ (“foam”).\n\n\nOther versions of the legendarium\n\nIn earlier writings, his death date was placed in FO 98.",
-    "titles": "Prince of Dol Amroth",
-    "birth": "TA 3017",
-    "death": "FO 95 (aged 99)",
-    "spouse": "Unknown",
-    "gender": "Male",
-    "culture": "Men of Gondor",
-    "lotr_page_id": "11215",
-    "other_names": "Egnor , Aikanár, Aikanáro",
-    "hair": "Golden"
-  },
-  {
     "name": "Blanco",
     "race": "Hobbits",
     "text": "BLANCO was a Fallohide Hobbit adventurer and one of the two recognized\nfounders of the Shire.\n\n\nBiography\n\nOriginally living in Bree, Blanco and his brother Marcho and a large\nfollowing of Hobbits having obtained permission from the King of\nArthedain, Argeleb II, seated at Fornost at the time to do so, decided\nto journey westward in search of new lands to settle. By TA 1601, he and\nhis followers reached a rich and fertile land between the Brandywine\nRiver and the Far Downs where they founded The Shire.",
@@ -938,6 +947,20 @@
     "other_names": "Egnor , Aikanár, Aikanáro",
     "titles": "Lord of Dorthonion with Angrod",
     "birth": "YT ? during the Noontide of Valinor",
+    "hair": "Golden"
+  },
+  {
+    "name": "Alphros",
+    "race": "Men",
+    "text": "ALPHROS was the twenty-fourth Prince of Dol Amroth.\n\n\nBiography\n\nAlphros was the son of Elphir and was a child during the War of the\nRing. When Aragorn II Elessar became King of the Reunited Kingdom,\nAlphros succeeded his father as Prince of Dol Amroth and served under\nAragorn, until Alphros's death in FO 95.\n\n\nEtymology\n\nThe name ALPHROS means “Swan-foam”, from the Sindarin _alph_ (“swan”)\nand _ros_ (“foam”).\n\n\nOther versions of the legendarium\n\nIn earlier writings, his death date was placed in FO 98.",
+    "titles": "Prince of Dol Amroth",
+    "birth": "TA 3017",
+    "death": "FO 95 (aged 99)",
+    "spouse": "Unknown",
+    "gender": "Male",
+    "culture": "Men of Gondor",
+    "lotr_page_id": "11215",
+    "other_names": "Egnor , Aikanár, Aikanáro",
     "hair": "Golden"
   },
   {
@@ -1018,6 +1041,15 @@
     "hair": "Golden"
   },
   {
+    "name": "Aghan",
+    "lotr_page_id": "12311",
+    "race": "Men",
+    "culture": "Drúedain",
+    "gender": "Male",
+    "height": "short",
+    "text": "AGHAN was a dark-skinned man of the Drúedain tribes. He had a friend\ncalled Barach, who lived on the borders of Forest of Brethil, two miles\naway from the nearest village. Aghan took to watching their house when\norcs started raiding nearby.When his brother was ill, he made a statue\nto watch the house. When a group of orcs stared burning Barach's house,\na mysterious Drug killed the orcs and put out the fires, but was burned\nby the flames. Aghan suffered from blisters at the same time. The\nmysterious Drug turned out to be the statue."
+  },
+  {
     "name": "Ulwarth",
     "lotr_page_id": "9792",
     "text": "ULWARTH was an Easterling Man and the son of Ulfang.\n\n\nBiography\n\nLike his father, Ulwarth entered the Beleriand and pledged his service\nto the Sons of Fëanor. They served under Caranthir but their only true\nloyalty was to Morgoth, and their purpose was to betray him at the right\ntime. During a critical time during the Nirnaeth Arnoediad, he turned\non Caranthir attacking at them from the rear. When Bór and the other\nfaithful Easterlings saw what they were doing, Bór and his men slew him\nand his father and brothers Ulfast and Uldor.",
@@ -1028,15 +1060,6 @@
     "race": "Men",
     "gender": "Male",
     "culture": "Easterlings"
-  },
-  {
-    "name": "Aghan",
-    "lotr_page_id": "12311",
-    "race": "Men",
-    "culture": "Drúedain",
-    "gender": "Male",
-    "height": "short",
-    "text": "AGHAN was a dark-skinned man of the Drúedain tribes. He had a friend\ncalled Barach, who lived on the borders of Forest of Brethil, two miles\naway from the nearest village. Aghan took to watching their house when\norcs started raiding nearby.When his brother was ill, he made a statue\nto watch the house. When a group of orcs stared burning Barach's house,\na mysterious Drug killed the orcs and put out the fires, but was burned\nby the flames. Aghan suffered from blisters at the same time. The\nmysterious Drug turned out to be the statue."
   },
   {
     "name": "Berylla Boffin",
@@ -1094,20 +1117,6 @@
     "hair": "Golden"
   },
   {
-    "name": "Imin",
-    "lotr_page_id": "3299",
-    "text": "IMIN was an Elf of Cuiviénen. He was best known as the first Elf to\nawake.\n\n\nBiography\n\nImin was awoken in Cuiviénen by the divine will of Eru Ilúvatar in the\nYears of the Trees. Along with Tata and Enel, he awoke twelve other\nElves which took him as their lord. From there he founded the Minyar\nwhich later was called the Vanyar. It is not known why he wasn't chosen\nas ambassador to Valinor nor why he didn't become his clan's first king.\nHis fate is unknown but presumably he lived. His wife was Iminyë.\n\n\nEtymology\n\nHe was called IMIN, THE FIRST.",
-    "titles": "Elf-father, Leader of the Minyar",
-    "location": "Cuiviénen",
-    "birth": "Y.T. 1050, Cuiviénen",
-    "parentage": "None; one of the Firstborn",
-    "spouse": "Iminyë",
-    "gender": "Male",
-    "death": "Unknown",
-    "race": "Elves",
-    "culture": "Vanyar-elves"
-  },
-  {
     "name": "Ar-Zimrathôn",
     "race": "Men",
     "text": "AR-ZIMRATHÔN was the twenty-first King of Númenor.\n\n\nBiography\n\nLike his father Ar-Adûnakhôr, Ar-Zimrathôn opposed the Valar, and he\ntook his name in the Adûnaic tongue rather than in the traditional\nQuenya. But Númenórean scholars recorded his Quenya name Tar-Hostamir so\nas to not offend the Valar. His name in both languages means “Jewel\nGatherer”, perhaps implying a greedy nature.\n\nAr-Zimrathôn died in SA 3033, living to the age of two-hundred and\nthirty-five and ruled Númenor for seventy-one years, and was succeeded\nby his son, Ar-Sakalthôr.",
@@ -1123,6 +1132,20 @@
     "lotr_page_id": "2826",
     "hair": "Golden",
     "location": "Numenor"
+  },
+  {
+    "name": "Imin",
+    "lotr_page_id": "3299",
+    "text": "IMIN was an Elf of Cuiviénen. He was best known as the first Elf to\nawake.\n\n\nBiography\n\nImin was awoken in Cuiviénen by the divine will of Eru Ilúvatar in the\nYears of the Trees. Along with Tata and Enel, he awoke twelve other\nElves which took him as their lord. From there he founded the Minyar\nwhich later was called the Vanyar. It is not known why he wasn't chosen\nas ambassador to Valinor nor why he didn't become his clan's first king.\nHis fate is unknown but presumably he lived. His wife was Iminyë.\n\n\nEtymology\n\nHe was called IMIN, THE FIRST.",
+    "titles": "Elf-father, Leader of the Minyar",
+    "location": "Cuiviénen",
+    "birth": "Y.T. 1050, Cuiviénen",
+    "parentage": "None; one of the Firstborn",
+    "spouse": "Iminyë",
+    "gender": "Male",
+    "death": "Unknown",
+    "race": "Elves",
+    "culture": "Vanyar-elves"
   },
   {
     "name": "Primula Brandybuck",
@@ -1161,17 +1184,6 @@
     "culture": "Elves of Mirkwood"
   },
   {
-    "name": "Fladrif",
-    "lotr_page_id": "3465",
-    "text": "FLADRIF (SKINBARK) is an ent of the Fangorn Forest, and was one of the\nfirst Ents in Middle-earth. By the end of the Third Age, only he,\nLeaflock, and Treebeard remained of the original Ents. Skinbark lived on\nthe mountain slopes west of Isengard. Saruman's orcs ravaged this area,\ncutting down trees and killing Ents. Skinbark was wounded by the orcs\nand he retreated far up the mountain slopes to live among the birches\nthat he favored. He refused to come down. He took part in the Battle of\nIsengard, and is seen crushing dozens of orcs under a rolling boulder.",
-    "other_names": "Skinbark",
-    "birth": "Unknown",
-    "weapon": "Boulder (film only)",
-    "race": "Ents",
-    "gender": "Male",
-    "culture": "Ents of Fangorn Forest"
-  },
-  {
     "name": "Brodda",
     "lotr_page_id": "8562",
     "text": "BRODDA was an Easterling lord who ruled Dor-lómin for a while. He took\nAerin as his wife, and was later killed by Túrin Turambar. Biography\nBrodda was a lord of the Easterlings. He usurped the lordship of\nDor-lómin after Húrin was captured, and Morwen had since left the area.\nHe married Aerin sometime after that. A little while before the coming\nof 499, the First Age, Brodda was involved in a battle that took place\ninside the hall of his own grandious home. He was ultimately murdered by\nTúrin in his rage, even though Brodda was innocent and befriended Túrin.",
@@ -1181,6 +1193,17 @@
     "gender": "Male",
     "culture": "Easterlings",
     "location": "Dor-lómin"
+  },
+  {
+    "name": "Fladrif",
+    "lotr_page_id": "3465",
+    "text": "FLADRIF (SKINBARK) is an ent of the Fangorn Forest, and was one of the\nfirst Ents in Middle-earth. By the end of the Third Age, only he,\nLeaflock, and Treebeard remained of the original Ents. Skinbark lived on\nthe mountain slopes west of Isengard. Saruman's orcs ravaged this area,\ncutting down trees and killing Ents. Skinbark was wounded by the orcs\nand he retreated far up the mountain slopes to live among the birches\nthat he favored. He refused to come down. He took part in the Battle of\nIsengard, and is seen crushing dozens of orcs under a rolling boulder.",
+    "other_names": "Skinbark",
+    "birth": "Unknown",
+    "weapon": "Boulder (film only)",
+    "race": "Ents",
+    "gender": "Male",
+    "culture": "Ents of Fangorn Forest"
   },
   {
     "name": "Îbal",
@@ -1279,6 +1302,22 @@
     "hair": "Golden"
   },
   {
+    "name": "Wulf",
+    "lotr_page_id": "2755",
+    "text": "WULF I was a Dunlending lord who, for a short period of time, ruled\nRohan.\n\nWulf was the son of Freca, who tried to force a wedding between Wulf and\nthe daughter of the King of Rohan, Helm Hammerhand. Helm killed his\nfather, and Wulf took charge of a Dunlending army that overran Rohan.\n\nWulf took Edoras, and besieged the Rohirrim at the Hornburg in the\nrefuge which would later be called Helm's Deep.\n\nWulf's Dunlending army managed to kill Helm Hammerhand as well as his\nsons Haleth and Háma, but was in turn killed by Helm's nephew Fréaláf\nHildeson, who reclaimed Rohan for the Rohirrim.",
+    "other_names": "Wulf of Dunland",
+    "titles": "Lord of Dunland, King of Rohan (claimed & illegal)",
+    "birth": "Late Third Age ?",
+    "rule": "TA 2758",
+    "death": "TA 2759",
+    "spouse": "Unknown",
+    "weapon": "Sword, bow ?",
+    "race": "Men",
+    "gender": "Male",
+    "culture": "Dunlendings",
+    "location": "Rohan"
+  },
+  {
     "name": "Bain",
     "race": "Men",
     "text": "BAIN was a Man of Dale and the second King of the renewed Kingdom of\nDale.\n\n\nBiography\n\nBorn in the year TA 2925 of the late Third Age, Bain was a man of Dale,\nson to the famed Bard the Bowman. His rule may have been a peaceful and\nuneventful one. It was during his time as King, after his father's\npassing, that many party gifts of different varieties were ordered for\nuse at Bilbo's Farewell Birthday Party in TA 3001. Bain presumably died\nin TA 3007, as that was when his son, Brand, became King. His son would\nlater fight in the War of the Ring at the Battle of Dale, where he was\nslain.",
@@ -1296,22 +1335,6 @@
     "lotr_page_id": "2510",
     "other_names": "Egnor , Aikanár, Aikanáro",
     "location": "Dale"
-  },
-  {
-    "name": "Wulf",
-    "lotr_page_id": "2755",
-    "text": "WULF I was a Dunlending lord who, for a short period of time, ruled\nRohan.\n\nWulf was the son of Freca, who tried to force a wedding between Wulf and\nthe daughter of the King of Rohan, Helm Hammerhand. Helm killed his\nfather, and Wulf took charge of a Dunlending army that overran Rohan.\n\nWulf took Edoras, and besieged the Rohirrim at the Hornburg in the\nrefuge which would later be called Helm's Deep.\n\nWulf's Dunlending army managed to kill Helm Hammerhand as well as his\nsons Haleth and Háma, but was in turn killed by Helm's nephew Fréaláf\nHildeson, who reclaimed Rohan for the Rohirrim.",
-    "other_names": "Wulf of Dunland",
-    "titles": "Lord of Dunland, King of Rohan (claimed & illegal)",
-    "birth": "Late Third Age ?",
-    "rule": "TA 2758",
-    "death": "TA 2759",
-    "spouse": "Unknown",
-    "weapon": "Sword, bow ?",
-    "race": "Men",
-    "gender": "Male",
-    "culture": "Dunlendings",
-    "location": "Rohan"
   },
   {
     "name": "Lugdush",
@@ -1373,6 +1396,18 @@
     "titles": "Lord of Dorthonion with Angrod"
   },
   {
+    "name": "Andwise Roper",
+    "lotr_page_id": "84",
+    "text": "ANDWISE ROPER also known as ANDY was a Hobbit of the Shire.\n\n\nHistory\n\nAndwise was the uncle of Samwise Gamgee. He was the first child of\nHobson Gamgee and Rowan Greenhand and was born in TA 2923 (SR 1323).\nAndwise had three younger siblings - Halfred, May and Hamfast (the\nfather of Sam). Andwise was commonly known as Andy and had a son named\nAnson, who was born in TA 2961.\n\nAndwise and his father, Hobson, were both rope-makers and owned a\nRope-walk in the village of Tighfield. When Hobson Gamgee died in TA\n2984, Andwise took over the rope-walk. He taught Samwise Gamgee some of\nhis knowledge of ropes.",
+    "other_names": "Andy",
+    "location": "Westfarthing",
+    "birth": "S.R. 1323",
+    "parentage": "Hobson \"Roper\" Gamgee",
+    "race": "Hobbits",
+    "culture": "Hobbits of the Shire",
+    "gender": "Male"
+  },
+  {
     "name": "Narvi",
     "lotr_page_id": "783",
     "text": "NARVI (fl. SA 750?) (originally NGARVI, ÑARVI) was a dwarf of\nKhazad-dûm (Moria) during the Second Age.\n\nHe was probably of Durin's Folk.\n\n\nBiography\n\nNarvi is best known for making of the Doors of Durin for the West-gate\nof Moria, on which Celebrimbor, an elf, wrote the inscription. He worked\nclosely with the Gwaith-i-Mírdain; Celebrimbor in particular was his\nclose friend. It can be implied that the relationship between Dwarves\nand Elves was neither pivotal nor had it yet subsided; Other than the\nage of the hall or the door, this also means Narvi lived during either\nthe Early Days or the First Age.\n",
@@ -1382,19 +1417,6 @@
     "gender": "Male",
     "race": "Dwarves",
     "culture": "Dwarves of the Lonely Mountain"
-  },
-  {
-    "name": "Andwise Roper",
-    "lotr_page_id": "84",
-    "text": "ANDWISE ROPER also known as ANDY was a Hobbit of the Shire.\n\n\nHistory\n\nAndwise was the uncle of Samwise Gamgee. He was the first child of\nHobson Gamgee and Rowan Greenhand and was born in TA 2923 (SR 1323).\nAndwise had three younger siblings - Halfred, May and Hamfast (the\nfather of Sam). Andwise was commonly known as Andy and had a son named\nAnson, who was born in TA 2961.\n\nAndwise and his father, Hobson, were both rope-makers and owned a\nRope-walk in the village of Tighfield. When Hobson Gamgee died in TA\n2984, Andwise took over the rope-walk. He taught Samwise Gamgee some of\nhis knowledge of ropes.",
-    "other_names": "Andy",
-    "location": "Westfarthing",
-    "birth": "S.R. 1323",
-    "parentage": "Hobson \"Roper\" Gamgee",
-    "siblings": "Hamfast, May and Halfred",
-    "race": "Hobbits",
-    "culture": "Hobbits of the Shire",
-    "gender": "Male"
   },
   {
     "name": "Finglas",
@@ -1433,20 +1455,6 @@
     "hair": "Golden"
   },
   {
-    "name": "Angamaitë",
-    "race": "Men",
-    "text": "ANGAMAITË was the great-grandson of Castamir. Along with Sangahyando, he\nbecame an important figure amongst the Haradrim and the Corsairs of\nUmbar.\n\n\nBiography\n\nAngamaitë was a descendant of the rebel Castamir and carried on the\ntraditional hatred against Gondor. In TA 1634, King Minardil was at\nPelargir without fear of any attack. Angamaitë and Sangahyando soon\nlearned about this through spies and sacked the city, killing Minardil\nand seizing great amounts of treasure.\n\n\nEtymology\n\nThe name ANGAMAITË means “iron-handed”, from the Quenya word _anga_\n(“iron”). Angamaitë was originally called ANGOMAITË in an earlier\ntext.",
-    "birth": "Mid-Third Age",
-    "death": "Unknown",
-    "spouse": "Unknown",
-    "gender": "Male",
-    "culture": "Dunedain",
-    "lotr_page_id": "19101",
-    "other_names": "Egnor , Aikanár, Aikanáro",
-    "titles": "Lord of Dorthonion with Angrod",
-    "hair": "Golden"
-  },
-  {
     "name": "Angelica Baggins",
     "race": "Hobbits",
     "text": "ANGELICA BAGGINS was a Hobbit of the Shire.\n\n\nBiography\n\n Angelica was born in\nTA 2981 (SR 1381). She was the daughter of Ponto Baggins II and the\ngrand-niece of Bilbo Baggins, and the granddaughter of Gilly Brownlock.\nAngelica was young at the time of Bilbo's Farewell Birthday Party and\nwas noted for her vanity and considered her face to be quite shapely.\nAfter the celebration, she received a round convex mirror as a gift\nbecause she obviously admired her appearance. She apparently never\nmarried.\n\n\nEtymology\n\nLike many Female hobbits, Angelica was named after a flower. The version\nnative to Britain is a perennial herb.",
@@ -1460,6 +1468,20 @@
     "other_names": "Egnor , Aikanár, Aikanáro",
     "titles": "Lord of Dorthonion with Angrod",
     "spouse": "Loved Andreth, but remained unmarried"
+  },
+  {
+    "name": "Angamaitë",
+    "race": "Men",
+    "text": "ANGAMAITË was the great-grandson of Castamir. Along with Sangahyando, he\nbecame an important figure amongst the Haradrim and the Corsairs of\nUmbar.\n\n\nBiography\n\nAngamaitë was a descendant of the rebel Castamir and carried on the\ntraditional hatred against Gondor. In TA 1634, King Minardil was at\nPelargir without fear of any attack. Angamaitë and Sangahyando soon\nlearned about this through spies and sacked the city, killing Minardil\nand seizing great amounts of treasure.\n\n\nEtymology\n\nThe name ANGAMAITË means “iron-handed”, from the Quenya word _anga_\n(“iron”). Angamaitë was originally called ANGOMAITË in an earlier\ntext.",
+    "birth": "Mid-Third Age",
+    "death": "Unknown",
+    "spouse": "Unknown",
+    "gender": "Male",
+    "culture": "Dunedain",
+    "lotr_page_id": "19101",
+    "other_names": "Egnor , Aikanár, Aikanáro",
+    "titles": "Lord of Dorthonion with Angrod",
+    "hair": "Golden"
   },
   {
     "name": "Náin II",
@@ -1893,6 +1915,19 @@
     "hair": "Golden"
   },
   {
+    "name": "Sangahyando",
+    "lotr_page_id": "19102",
+    "text": "SANGAHYANDO was the great-grandson of Castamir of Gondor and along with\nAngamaitë, he became an important figure amongst the Haradrim and the\nCorsairs of Umbar.\n\n\nBiography\n\nSangahyando, like Angamaitë, was probably born in Umbar to an unnamed\nmother and father. As descendants of the rebel Castamir, they carried on\nthe traditional hatred against Gondor. In TA 1634, when King Minardil\nwas at Pelargir, spies of Sangahyndo and Angamaitë told them about the\nking's visit to Pelargir. Soon they raided the city, killed the king and\nseized the great amounts of treasures laying about in the city. His\nultimate fate is unknown.\n\n\nEtymology and Names\n\n_Sangahyando_ was a Quenya word that meant 'throng-cleaver'. Sangahyando\nwas originally called “Sangahyanda” in an earlier text.",
+    "birth": "Mid-Third Age ?",
+    "spouse": "Unknown",
+    "race": "Men",
+    "gender": "Male",
+    "culture": "Dúnedain (House of Anárion), Haradrim, Corsairs of Umbar",
+    "location": "Umbar",
+    "house": "House of Anárion",
+    "parentage": "unknown; great-grandson of Castamir"
+  },
+  {
     "name": "Almarian",
     "race": "Men",
     "text": "ALMARIAN was a royal Númenórean woman and Queen of Númenor during the\nearly Second Age.\n\n\nBiography\n\nAlmarian was the daughter of a Númenórean sailor Vëantur, the Captain of\nthe King's Ships under Tar-Elendil. She was married to Tar-Meneldur and\nshe was mother of Aldarion, the future Tar-Aldarion, the sixth King of\nNúmenor.\n\nShe cared little for ships and the sea, though her father was a great\nsailor. She married and gave birth to a son, Aldarion, and he soon\ndesired to follow in the footsteps of her father Vëantur which later\ndispleased his father, who wanted him to marry and settle down. However,\nAlmarian supported her son in everything he did and later served as a\nmediator between her husband and his son on the matters regarding his\nlife choices.\n\nShe was a woman of exceptional beauty.",
@@ -1906,6 +1941,19 @@
     "death": "FA 455",
     "hair": "Golden",
     "location": "Numenor"
+  },
+  {
+    "name": "Grór",
+    "lotr_page_id": "774",
+    "text": "GRÓR was the founder of the Dwarven realm in the Iron Hills and its\nfirst lord.\n\n\nBiography\n\nGrór was born in Grey Mountains as the youngest of three sons born to\nDáin I. His older brothers were Thrór and Frór. After the death of his\nfather in TA 2589, he and his brother left the Grey Mountains and while\nThrór went back to the Lonely Mountain, Grór went further into the east\nand in TA 2590 he established the Kingdom of the Dwarves in the Iron\nHills. Two hundred years later, just before the Battle of Azanulbizar in\nTA 2799, he thought himself too old to go at age 237 (physically\napproximately 68 years old), and instead sent his son Náin and grandson\nDáin II, the king of the dwarves at the Iron Hills at the time of _The\nHobbit_. Grór was indeed old, for he died not too long after in TA\n2805.",
+    "titles": "Lord of the Iron Hills",
+    "birth": "TA 2563",
+    "death": "TA 2805 (aged 242)",
+    "spouse": "Unnamed wife",
+    "weapon": "Unknown, probably a Battle axe",
+    "race": "Dwarves",
+    "gender": "Male",
+    "culture": "Dwarves of the Iron Hills"
   },
   {
     "name": "Celebrindor",
@@ -1923,19 +1971,6 @@
     "other_names": "Egnor , Aikanár, Aikanáro",
     "hair": "Golden",
     "location": "Arthedain"
-  },
-  {
-    "name": "Grór",
-    "lotr_page_id": "774",
-    "text": "GRÓR was the founder of the Dwarven realm in the Iron Hills and its\nfirst lord.\n\n\nBiography\n\nGrór was born in Grey Mountains as the youngest of three sons born to\nDáin I. His older brothers were Thrór and Frór. After the death of his\nfather in TA 2589, he and his brother left the Grey Mountains and while\nThrór went back to the Lonely Mountain, Grór went further into the east\nand in TA 2590 he established the Kingdom of the Dwarves in the Iron\nHills. Two hundred years later, just before the Battle of Azanulbizar in\nTA 2799, he thought himself too old to go at age 237 (physically\napproximately 68 years old), and instead sent his son Náin and grandson\nDáin II, the king of the dwarves at the Iron Hills at the time of _The\nHobbit_. Grór was indeed old, for he died not too long after in TA\n2805.",
-    "titles": "Lord of the Iron Hills",
-    "birth": "TA 2563",
-    "death": "TA 2805 (aged 242)",
-    "spouse": "Unnamed wife",
-    "weapon": "Unknown, probably a Battle axe",
-    "race": "Dwarves",
-    "gender": "Male",
-    "culture": "Dwarves of the Iron Hills"
   },
   {
     "name": "Hirgon",
@@ -1968,20 +2003,6 @@
     "culture": "Ainur"
   },
   {
-    "name": "Berúthiel",
-    "lotr_page_id": "4462",
-    "text": "BERÚTHIEL was a Queen of Gondor in the Third Age before the reign of the\nStewards. Biography Berúthiel was a Black Númenórean and the wife of\nTarannon Falastur of Gondor. She was noted for being “nefarious,\nsolitary, and loveless”. It is therefore of no surprise that Tarannon\ndied childless. She lived with her husband in Osgiliath but hated the\nsound and smell of the sea. She had ten cats under her service — nine\nblack and one white, with whom she conversed and set as spies to the Men\nof Gondor. Eventually, Tarannon exiled her from Gondor. He set her and\nher cats on a ship that was last seen past Umbar. Her name was removed\nfrom the Books of the Kings but not from the memory of Men. It was\nproved when Aragorn had made mention of Berúthiel and her cats more than\n2,000 years after her disappearance.",
-    "titles": "Queen of Gondor",
-    "birth": "Early Third Age ?",
-    "rule": "Early Third Age?",
-    "death": "Unknown",
-    "spouse": "Tarannon Falastur",
-    "race": "Men",
-    "gender": "Female",
-    "culture": "Numenoreans",
-    "location": "Gondor"
-  },
-  {
     "name": "Borlas",
     "race": "Men",
     "text": "BORLAS was a Man of Gondor in the Fourth Age, and a key figure in J.R.R.\nTolkien's short-lived story _The New Shadow_. He had two children, an\nunnamed daughter and a son Berelach, a friend of Saelon.\n\n\nBiography\n\nBorlas was the son of Beregond, the captain who saved Faramir from being\nburned by Denethor. After the War of the Ring, he lived in Pen-arduin,\nwhich was in Emyn Arnen. Sometime in the past he caught a young man\nstealing an apple from his garden. He scolded him describing his\nbehavior as “Orc work” but took the boy under his wing becoming his\nmaster. Years later, he learned through him of the growing shadow among\nMen and the possibility of a secret cult worshiping the old enemies of\nthe world.\n\n\nEtymology\n\n_BORLAS_ means “Enduring joy” from _bor_ (“endure”) and _glass_ or\n_galas_ (“joy”).",
@@ -1994,6 +2015,20 @@
     "other_names": "Egnor , Aikanár, Aikanáro",
     "titles": "Lord of Dorthonion with Angrod",
     "hair": "Golden"
+  },
+  {
+    "name": "Berúthiel",
+    "lotr_page_id": "4462",
+    "text": "BERÚTHIEL was a Queen of Gondor in the Third Age before the reign of the\nStewards. Biography Berúthiel was a Black Númenórean and the wife of\nTarannon Falastur of Gondor. She was noted for being “nefarious,\nsolitary, and loveless”. It is therefore of no surprise that Tarannon\ndied childless. She lived with her husband in Osgiliath but hated the\nsound and smell of the sea. She had ten cats under her service — nine\nblack and one white, with whom she conversed and set as spies to the Men\nof Gondor. Eventually, Tarannon exiled her from Gondor. He set her and\nher cats on a ship that was last seen past Umbar. Her name was removed\nfrom the Books of the Kings but not from the memory of Men. It was\nproved when Aragorn had made mention of Berúthiel and her cats more than\n2,000 years after her disappearance.",
+    "titles": "Queen of Gondor",
+    "birth": "Early Third Age ?",
+    "rule": "Early Third Age?",
+    "death": "Unknown",
+    "spouse": "Tarannon Falastur",
+    "race": "Men",
+    "gender": "Female",
+    "culture": "Numenoreans",
+    "location": "Gondor"
   },
   {
     "name": "Aldor",
@@ -2176,8 +2211,7 @@
     "culture": "Easterlings of Morgoth",
     "other_names": "\"the Accursed\"",
     "location": "Around the March of Maedhros",
-    "parentage": "Ulfang",
-    "siblings": "Ulfast and Ulwarth"
+    "parentage": "Ulfang"
   },
   {
     "name": "Squint-eyed Southerner",
@@ -2305,21 +2339,6 @@
     "house": "House of Olwë"
   },
   {
-    "name": "Boromir (House of Bëor)",
-    "race": "Men",
-    "text": "BOROMIR was an Edain of the House of Bëor.\n\n\nBiography\n\nBoromir was the elder son of Boron, the third chieftain of the folk of\nBëor, and he was the great-grandson of Bëor the Old. He also had a\nyounger brother named Belegor which not much is mentioned about him.\nBoromir became the fourth Chieftain of the House of Bëor after the death\nof his father. When the Elven Kings decided to grant lands to the\nchieftains of the Edain, Boromir was granted the land of Ladros in\nDorthonion as a fief under the Elven-lords Angrod and Aegnor, the\nyounger sons of Finarfin (the Noldorin king in Aman) and the brothers of\nKing Finrod of Nargothrond. He thus became the firstLord of Ladros.\n\nBoromir was the father of Bregor his first child and only son, _Andreth_\nhis second child and elder daughter, and _Beril_ his last child (third\nchild) and younger daughter.\n\nTwo later Lords of Gondor and warriors of renown were named after\nBoromir son of Boron, including Boromir of the Fellowship of the\nRing.",
-    "titles": "Chieftain of the House of Bëor",
-    "birth": "FA 338 ?",
-    "death": "FA 432 ?",
-    "spouse": "Unnamed wife",
-    "weapon": "Unknown",
-    "gender": "Male",
-    "culture": "Edain",
-    "lotr_page_id": "2688",
-    "other_names": "Egnor , Aikanár, Aikanáro",
-    "hair": "Golden"
-  },
-  {
     "name": "Belecthor II",
     "race": "Men",
     "text": "BELECTHOR II was the twenty-first Ruling Steward of Gondor.\n\n\nBiography\n\nBelecthor was born in TA 2752 and was the only child of Beregond. When\nhis father died in TA 2811, Belecthor succeeded him as the twenty-first\nRuling Steward. Belecthor continued his father's campaigns against the\nCorsairs of Umbar and the Orcs. The White Council met in TA 2850; at the\nmeeting, Gandalf urged an attack on Dol Guldur to drive Sauron out, but\nSaruman overruled him. Belecthor died in TA 2872 at the age of 120 years\nold after a rule of sixty-one years. When he died, the White Tree of\nGondor was neglected and eventually withered and died, and no sapling or\nseedling was found to replace it. So the withered tree was left standing\nuntil the return of the king.\n\nBelecthor was succeeded by his son Thorondir.\n\n\nEtymology\n\nThe name BELECTHOR means “Mighty eagle”, from the Sindarin _beleg_\n(“mighty”) and _thor(on)_ (“eagle”). He might have been named after\nthe fifteenth Ruling Steward, Belecthor I.",
@@ -2335,13 +2354,19 @@
     "hair": "Golden"
   },
   {
-    "name": "Thuringwethil",
-    "lotr_page_id": "5372",
-    "text": "THURINGWETHIL was a Vampire servant of Sauron in his fortress of\nTol-in-Gaurhoth (the former Tol Sirion), during her time serving Morgoth\nduring the First Age. Biography Thuringwethil was Sauron's herald and\nwas stationed at Tol-in-Gaurhoth by the time of the Quest for the\nSilmaril. She was probably slain or died during the fight between Sauron\nand Huan in the fortress. She served as a herald, or a messenger, for\nSauron at Tol-Sirion. Her origins were not mentioned, but her ability to\ntake forms suggest that she could be a Maia. She was described to have\nfingered-wings and iron claws. Lúthien was disguised as Thuringwethil\nand introduced herself as such upon infiltrating Angband. 'Thuringwethil\nI am, who cast a shadow o'er the face aghast of the sallow moon in the\ndoomed land of shivering Beleriand.' ― Lúthien in her disguise, Lay of\nLeithian, Canto XIII Etymology _THURINGWETHIL_ means “Woman of the\nSecret Shadow” from the Sindarin _thurin_ (“secret”) and _gwath_\n(“shadow”).",
-    "birth": "Unknown",
-    "death": "FA 465",
-    "race": "Vampires",
-    "gender": "Female"
+    "name": "Boromir (House of Bëor)",
+    "race": "Men",
+    "text": "BOROMIR was an Edain of the House of Bëor.\n\n\nBiography\n\nBoromir was the elder son of Boron, the third chieftain of the folk of\nBëor, and he was the great-grandson of Bëor the Old. He also had a\nyounger brother named Belegor which not much is mentioned about him.\nBoromir became the fourth Chieftain of the House of Bëor after the death\nof his father. When the Elven Kings decided to grant lands to the\nchieftains of the Edain, Boromir was granted the land of Ladros in\nDorthonion as a fief under the Elven-lords Angrod and Aegnor, the\nyounger sons of Finarfin (the Noldorin king in Aman) and the brothers of\nKing Finrod of Nargothrond. He thus became the firstLord of Ladros.\n\nBoromir was the father of Bregor his first child and only son, _Andreth_\nhis second child and elder daughter, and _Beril_ his last child (third\nchild) and younger daughter.\n\nTwo later Lords of Gondor and warriors of renown were named after\nBoromir son of Boron, including Boromir of the Fellowship of the\nRing.",
+    "titles": "Chieftain of the House of Bëor",
+    "birth": "FA 338 ?",
+    "death": "FA 432 ?",
+    "spouse": "Unnamed wife",
+    "weapon": "Unknown",
+    "gender": "Male",
+    "culture": "Edain",
+    "lotr_page_id": "2688",
+    "other_names": "Egnor , Aikanár, Aikanáro",
+    "hair": "Golden"
   },
   {
     "name": "Snaga",
@@ -2353,6 +2378,15 @@
     "race": "Orcs",
     "gender": "Male",
     "culture": "Orcs of Mordor"
+  },
+  {
+    "name": "Thuringwethil",
+    "lotr_page_id": "5372",
+    "text": "THURINGWETHIL was a Vampire servant of Sauron in his fortress of\nTol-in-Gaurhoth (the former Tol Sirion), during her time serving Morgoth\nduring the First Age. Biography Thuringwethil was Sauron's herald and\nwas stationed at Tol-in-Gaurhoth by the time of the Quest for the\nSilmaril. She was probably slain or died during the fight between Sauron\nand Huan in the fortress. She served as a herald, or a messenger, for\nSauron at Tol-Sirion. Her origins were not mentioned, but her ability to\ntake forms suggest that she could be a Maia. She was described to have\nfingered-wings and iron claws. Lúthien was disguised as Thuringwethil\nand introduced herself as such upon infiltrating Angband. 'Thuringwethil\nI am, who cast a shadow o'er the face aghast of the sallow moon in the\ndoomed land of shivering Beleriand.' ― Lúthien in her disguise, Lay of\nLeithian, Canto XIII Etymology _THURINGWETHIL_ means “Woman of the\nSecret Shadow” from the Sindarin _thurin_ (“secret”) and _gwath_\n(“shadow”).",
+    "birth": "Unknown",
+    "death": "FA 465",
+    "race": "Vampires",
+    "gender": "Female"
   },
   {
     "name": "Beren (Belemir's son)",
@@ -2607,6 +2641,22 @@
     "culture": "Hobbits of the Shire"
   },
   {
+    "name": "The King of the Dead",
+    "lotr_page_id": "5306",
+    "text": "The KING OF THE DEAD or originally KING OF THE MOUNTAINS was the King of\nthe Dead Men of the Mountains in Dwimorberg, and before that had been a\nreal Man. His spirit resided along with that of his kin in the Paths of\nthe Dead.\n\n\nBiography\n\nIn the later years of the Second Age, he and his men also served and\nworshiped Sauron, until he and his army found Gondor. Isildur was the\nKing of Gondor at that time. The King of the Dead made an oath to fight\non Isildur's side when Isildur needed him, but when Isildur needed him\nmost he did not come. Isildur cursed the King of the Dead and his army.\nThen the King of the Dead could not rest until his oath was fulfilled.\nIn _The Return of the King_, the king and his army fought with Aragorn\nand the Grey Company at Pelargir. There they defeated the Corsairs of\nUmbar and an army of Haradrim. When the battle was over and Aragorn, as\nthe Heir of Isildur, told the Army of the Dead that the oath was\nfulfilled, the king broke his spear and threw it aside. Then he bowed to\nAragorn, turned away, and, with the rest of his people, “vanished like a\nmist that is driven back by a sudden wind,” never to be seen again.",
+    "other_names": "True name unknown",
+    "titles": "King of the Mountains, King of the Dead, King of Dead Men of Dunharrow, Lord of the Paths of the Dead, Leader of the Army of the Dead, King of the Oathbreakers",
+    "birth": "Second Age",
+    "rule": "Second Age - TA 3019",
+    "death": "Sometime after the War of the Last Alliance (first death), March, 3019, (final death)",
+    "location": "Paths of the Dead",
+    "weapon": "Sword, Spear",
+    "race": "Undead",
+    "gender": "Male",
+    "height": "Tall",
+    "culture": "Army of the Dead"
+  },
+  {
     "name": "Ori",
     "lotr_page_id": "779",
     "text": "ORI was a member of Thorin's Company of Dwarves. He, alongside his\nbrothers Dori and Nori, are remote kinsman of Thorin.\n\n\nBiography\n\nThird Age\n\n\n\nOri lived in Thorin's home in the Northern Blue Mountains for many\nyears. In the year TA 2941, Ori became a member of Thorin and Company\nand travelled with the COMPANY on the quest for the Lonely Mountain and\nthe death of Smaug. Finally, he and the other Dwarves of Thorin and\nCompany fought in the Battle of the Five Armies, and he survived it.\n\nThe Final Days\n\n\n\nOri was one of the several Dwarves that accompanied Balin to Moria in TA\n2989 to begin a colony there. Though it saw initial success, the colony\nwas destroyed in TA 2994 when the Balrog and Orcs began to press back\nfrom the initial fight. After Balin died, Ori and others lived just long\nenough to bury him properly in a stone tomb before dying themselves in\nthe last stand in Mazarbul. Ori recalls his last moments in _The Book of\nMazarbul_ which Gandalf reads from when the Fellowship passes by Balin's\nTomb in _the Fellowship of the Ring_. His body is left clutching the\nscarred, bloodied, and shredded book; a warrior-scribe to the last\nbreath.",
@@ -2821,6 +2871,17 @@
     "culture": "Hobbits of the Shire"
   },
   {
+    "name": "Old Man Willow",
+    "lotr_page_id": "3077",
+    "text": "OLD MAN WILLOW was a great willow tree of the Old Forest; he was the\nroot cause of much of the Forest's anger and hatred towards trespassers.\nHe was most likely a Huorn, as the Old Forest was originally part of the\nsame primordial forest as Fangorn. He had great power within the Old\nForest, and was able to direct all paths in the woodland to him.\n\nTom Bombadil had power over Old Man Willow, and checked the evil in him\nas much as he could, or was willing to.\n\n\nHistory\n\nIn _The Fellowship of the Ring_, Old Man Willow casts a spell on the\nHobbits (Frodo, Sam, Merry and Pippin), causing them to feel sleepy.\nMerry and Pippin lean against his trunk and fall asleep, while Frodo\nsits on a root to dangle his feet in the water, before also falling\nasleep. The ill spirit then traps Merry and Pippin in the folds of its\ntrunk. Sam and Frodo attempt to burn Old Man Willow in order to release\ntheir friends, but Old Man Willow communicates to Merry, who is still\ninside his roots, that if the burning does not cease, the Hobbits would\nbe squeezed in two. They are saved by the timely arrival of Tom\nBombadil, who 'sings' the ancient tree to sleep. Whether or not Old Man\nWillow is truly evil remains a mystery. It is possible that he\nrepresents the anger and bitterness of nature toward those who try to\ndestroy it.",
+    "other_names": "The Great Willow; \"Old grey Willow-man\"",
+    "location": "The Old Forest",
+    "race": "Huorn",
+    "gender": "Male",
+    "weapon": "Spells",
+    "birth": "Unknown"
+  },
+  {
     "name": "Estë",
     "lotr_page_id": "2414",
     "text": "ESTË (Quenya; IPA: ) was a Ainu and a Vala who was responsible for the\nhealing of the hurt and weary. Biography Estë lived with her husband in\nLórien. She did not walk by day, but instead she slept upon an island of\nthe tree-shadowed Lake of Lórellin in Lórien. And all those who dwelt in\nValinor drew refreshment from the fountains of Estë and her spouse Irmo\nin Lórien. In like manner, to the gardens of Lórien, theValar themselves\noften came and would find easing and reposing there from the burdens of\nArda. Melian had formerly served both the Estë and Vána. In Lórien,\nMelian dwelt there long tending to the trees that flowered in the\nGardens of Lórien before she departed for Middle-earth . After a time,\nwhen the Elves dwelt in Valinor, the King of the Ñoldor, Finwë, was\ngrieved that his first wife had no more strength to carry on any longer.\nAfterwards, Manwë surrendered the care of Miriel to the spouse of Estë,\nIrmo in Lórien. Estë and her maidens still tended to the body of Miriel,\nand it remained unwithered, though Miriel never came back among the\nliving. It was said that Estë did not indeed attend the 'Councils of the\nValar'. Thus, she was not reckoned among the Valier but was counted\ninstead as the Chief of the Maiar. She dressed in grey. Etymology _ESTË_\nis a Quenyan word that meant 'rest'.",
@@ -2937,7 +2998,6 @@
     "text": "DORI was a Dwarf of Durin's Folk, who along with his brothers Nori and\nOri travelled with Bilbo Baggins as a member of Thorin and Company in\nThe Quest of Erebor to reclaim the Lonely Mountain from the Dragon\nSmaug.\n\nDori had a flute that he played in Bilbo's home before leaving on their\njourney. He was said to like food as much as Bilbo or any hobbit, and\nwas described by the narrative as “a decent fellow, despite his\ngrumbling.” Dori was the strongest of the company of Dwarves. He usually\nwore a purple-hooded cloak when traveling abroad.\n\n\nBiography\n\nBefore The Quest of Erebor, Dori lived in Thorin's home in the northern\nBlue Mountains with his two brothers. In TA 2941, Dori and his two\nbrothers became part of Thorin and Company befriending Bilbo Baggins and\ntravel with him in search of Smaug's treasure caverns in the Lonely\nMountain.\n\nIt fell to Dori to carry Bilbo in the tunnels of the Misty Mountains\nduring the escape from the Goblins, but Dori dropped Bilbo and the other\nDwarves blamed him for “losing their burglar.” Later, during their\nescape from the Wargs and Orcs, Bilbo grabbed Dori's legs as they were\nswooped away by the Great Eagles of their eyrie in the Misty Mountains.\n\nDori fought in and survived the Battle of the Five Armies and returned\nto the Lonely Mountain realm where he established himself and grew\nrich. He survived up until the time of the Council of Elrond and the\nWar of the Ring.",
     "birth": "Late Third Age",
     "death": "Possibly Fourth Age",
-    "siblings": "Nori, Ori",
     "weapon": "Sword, Bolas (film only), Regal Dwarf, , Mace (film only)",
     "race": "Dwarves",
     "gender": "Male",
@@ -3024,8 +3084,7 @@
     "culture": "Dwarves of the Lonely Mountain",
     "location": "Khazad-dûm",
     "house": "House of Durin",
-    "parentage": "Gróin",
-    "siblings": "Glóin"
+    "parentage": "Gróin"
   },
   {
     "name": "Araphor",
@@ -3116,51 +3175,6 @@
     "text": "UFEDHIN was an Elf of the First Age notable for his treachery of\nThingol, king of Doriath.\n\n\nHistory\n\nUfedhin was significantly one of the corrupt elves who helped\ntreacherous Dwarves from Belegost and Nogrod past the Girdle of Melian,\nand also helping to insight the Dwarves already inside the Thousand\nCaves to war after the cursed treasure of Mim. He appears in both “The\nNauglafring” and the later Quenta Noldorinwa, but then mysterious\nvanishes from other accounts of the sack of Doriath.\n\nThe novel _Beren and Lúthien_'' ''uses material from the later versions\nof the Quenta Noldorinwa which explains that “by the treachery of\ncertain Elves on whom the lust of the accursed treasure had fallen they\n passed through into Doriath secret.” It appears Christopher\nTolkien has taken a new route to explain how the dwarves bypassed the\nveil (a thorn in J.R.R. Tolkien struggled with trying to explain and had\nseveral theories, including the 'inside help from Ufedhin, but never\nsettles on one.)\n\n    The problem of the entry of the Dwarvish army into Doriath, defended\n    by the Girdle of Melian, is still solved by the device - the too\n    simple device, see II. 250 - of 'some treacherous Gnomes' (in the\n    Tale there was only one traitor); the slaying of Thingol while\n    hunting remains, and as in the Tale Melian, inviolable, left the\n    Thousand Caves seeking Beren and Luthien. Though it is not so\n    stated, it seems likely that in this version it was Melian who\n    brought the news and the warn- ing to Beren (this is the story in\n    the Quenta, p. 160).\n"
   },
   {
-    "name": "Iminyë",
-    "lotr_page_id": "13988",
-    "text": "IMINYË was an Elf of Cuiviénen.\n\n\nBiography\n\nIminyë was awoken by the Elf who became her husband. She became the wife\nof Imin, the first of the Elves to awaken in Cuivienen. Not much is\nknown about her life afterwards.",
-    "location": "Cuiviénen",
-    "affiliation": "Minyar",
-    "language": "Proto-Quendian",
-    "birth": "Y.T. 1050, Cuiviénen",
-    "notable_for": "being one of the first Elves to awake",
-    "parentage": "None: Firstborn",
-    "spouse": "Imin",
-    "gender": "Female",
-    "death": "Unknown",
-    "race": "Elves",
-    "culture": "Vanyar"
-  },
-  {
-    "name": "Sangahyando",
-    "lotr_page_id": "19102",
-    "text": "SANGAHYANDO was the great-grandson of Castamir of Gondor and along with\nAngamaitë, he became an important figure amongst the Haradrim and the\nCorsairs of Umbar.\n\n\nBiography\n\nSangahyando, like Angamaitë, was probably born in Umbar to an unnamed\nmother and father. As descendants of the rebel Castamir, they carried on\nthe traditional hatred against Gondor. In TA 1634, when King Minardil\nwas at Pelargir, spies of Sangahyndo and Angamaitë told them about the\nking's visit to Pelargir. Soon they raided the city, killed the king and\nseized the great amounts of treasures laying about in the city. His\nultimate fate is unknown.\n\n\nEtymology and Names\n\n_Sangahyando_ was a Quenya word that meant 'throng-cleaver'. Sangahyando\nwas originally called “Sangahyanda” in an earlier text.",
-    "birth": "Mid-Third Age ?",
-    "spouse": "Unknown",
-    "race": "Men",
-    "gender": "Male",
-    "culture": "Dúnedain (House of Anárion), Haradrim, Corsairs of Umbar",
-    "location": "Umbar",
-    "affiliation": "Corsairs of Umbar",
-    "house": "House of Anárion",
-    "parentage": "unknown; great-grandson of Castamir"
-  },
-  {
-    "name": "Frumgar",
-    "lotr_page_id": "2274",
-    "text": "FRUMGAR was the fourth Lord of the Éothéod and the ancestor of Eorl the\nYoung.\n\n\nBiography\n\nFrumgar led his people away from the Vales of Anduin in a migration to\nthe land between the rivers Langwell and Greylin after the overthrown of\nAngmar, to escape the ever increasing dangers of their former home.",
-    "titles": "Lord of the Éothéod",
-    "birth": "TA 1940",
-    "death": "TA 2001",
-    "spouse": "Unnamed wife",
-    "race": "Men",
-    "gender": "Male",
-    "culture": "Éothéod",
-    "location": "North-west Rhovanion",
-    "language": "language of the Éothéod",
-    "children": "Fram"
-  },
-  {
     "name": "Shagrat",
     "lotr_page_id": "263",
     "text": "\n\nSHAGRAT was a large, long-armed Black Uruk, Captain of the Tower of\nCirith Ungol, and the commander of one of the two orc patrols that found\nFrodo Baggins after he had been poisoned by Shelob. Later his Black Uruk\ntower garrison fought over possession of Frodo's Mithril mail-shirt with\nthe orc patrol from Minas Morgul led by Gorbag and sent up the Stair of\nCirith Ungol to investigate matters. Shagrat interpreted his orders\nliterally: all captives to be searched, but left unharmed and they and\ntheir possessions taken to Barad-dûr. Gorbag coveted Frodo's pretty\ndwarven mithril mail shirt for himself. A fight soon started. Gorbag\nwounded Shagrat in the arm with a knife, but was eventually killed by\nShagrat. Their respective followers began fighting also, and slaughtered\neach other wholesale over the next several hours.\n\nLater Sam, carrying the One Ring, infiltrated the Tower of Cirith Ungol\nand soon realized that the garrison was effectively wiped out.\nUnfortunately, Shagrat managed to get past him carrying Frodo's armor\nand other personal items and escaped to take them to Lugbúrz (Barad-dûr)\nas ordered.\n\nIt is possible that Shagrat was killed by Sauron or the authorities at\nBarad-dûr for the events that occurred at the Tower of Cirith Ungol.\nAlternatively, he may have been rewarded for his loyalty by being\nallowed to march to the Black Gate alongside his fellow orcs and Uruks\nas one of their captains. If so, it's unknown whether he was killed in\nthe battle or the subsequent destruction of Mordor following Sauron's\ndownfall, or if he survived and fled.",
@@ -3209,7 +3223,6 @@
     "death": "FA 420",
     "spouse": "None",
     "parentage": "Haldad",
-    "siblings": "Haldar",
     "race": "Men",
     "gender": "Female",
     "culture": "Edain",
@@ -3241,28 +3254,11 @@
     "birth": "Before T.A. 2544",
     "death": "T.A. 2570, Paths of the Dead",
     "house": "House of Eorl",
-    "siblings": "Aldor and Eofor",
     "gender": "Male",
     "race": "Men",
     "culture": "Rohirrim",
     "parentage": "Brego",
     "other_names": "\"the Hapless\""
-  },
-  {
-    "name": "The King of the Dead",
-    "lotr_page_id": "5306",
-    "text": "The KING OF THE DEAD or originally KING OF THE MOUNTAINS was the King of\nthe Dead Men of the Mountains in Dwimorberg, and before that had been a\nreal Man. His spirit resided along with that of his kin in the Paths of\nthe Dead.\n\n\nBiography\n\nIn the later years of the Second Age, he and his men also served and\nworshiped Sauron, until he and his army found Gondor. Isildur was the\nKing of Gondor at that time. The King of the Dead made an oath to fight\non Isildur's side when Isildur needed him, but when Isildur needed him\nmost he did not come. Isildur cursed the King of the Dead and his army.\nThen the King of the Dead could not rest until his oath was fulfilled.\nIn _The Return of the King_, the king and his army fought with Aragorn\nand the Grey Company at Pelargir. There they defeated the Corsairs of\nUmbar and an army of Haradrim. When the battle was over and Aragorn, as\nthe Heir of Isildur, told the Army of the Dead that the oath was\nfulfilled, the king broke his spear and threw it aside. Then he bowed to\nAragorn, turned away, and, with the rest of his people, “vanished like a\nmist that is driven back by a sudden wind,” never to be seen again.",
-    "other_names": "True name unknown",
-    "titles": "King of the Mountains, King of the Dead, King of Dead Men of Dunharrow, Lord of the Paths of the Dead, Leader of the Army of the Dead, King of the Oathbreakers",
-    "birth": "Second Age",
-    "rule": "Second Age - TA 3019",
-    "death": "Sometime after the War of the Last Alliance (first death), March, 3019, (final death)",
-    "location": "Paths of the Dead",
-    "weapon": "Sword, Spear",
-    "race": "Undead",
-    "gender": "Male",
-    "height": "Tall",
-    "culture": "Army of the Dead"
   },
   {
     "name": "Marhwini",
@@ -3928,7 +3924,6 @@
     "birth": "TA 2772",
     "death": "FO 91",
     "parentage": "Fundin",
-    "siblings": "Balin",
     "weapon": "Axe(s)",
     "race": "Dwarves",
     "gender": "Male",
@@ -3991,7 +3986,6 @@
     "death": "March 15, 3019",
     "spouse": "Finduilas",
     "parentage": "Ecthelion II",
-    "siblings": "2 older sisters",
     "weapon": "Sword and knife",
     "race": "Men",
     "gender": "Male",
@@ -4027,7 +4021,6 @@
     "rule": "SA 32 - SA 442 (410 years)",
     "death": "SA 442",
     "parentage": "Eärendil, father, Elwing, mother, Maglor, foster father",
-    "siblings": "Elrond (twin)",
     "weapon": "Aranrúth, Dramborleg",
     "race": "Half-elven",
     "gender": "Male",
@@ -4232,25 +4225,6 @@
     "location": "Alqualondë"
   },
   {
-    "name": "Anárion",
-    "race": "Men",
-    "text": "ANÁRION was the youngest son of Elendil, the High King of Gondor and\nArnor. He and his brother Isildur jointly ruled Gondor, while their\nfather dwelled in the North. Following his father's death during the\nSiege of Barad-dûr, and Isildur's death at the Disaster of the Gladden\nFields, the kingship of Gondor was committed towards the Line of Anárion\nbeginning with his son, Meneldil.\n\n\nBiography\n\nOrigins\n\nAnárion was born in SA 3219 in Númenor. He and Isildur lived at the\nhaven of Rómenna on the east coast of the island of Númenor. Their\nfather was Elendil son of Amandil, the Lords of Andunie.\n\nIn SA 3262, the Kings of Númenor, took Sauron captive and brought him to\nNúmenor. Sauron allowed himself to be taken because he wanted to corrupt\nthe Numenoreans. He used their desire for immortality and power to\nconvince them to renounce Eru and worship Morgoth.\n\nAs Sauron's influence increased, the Faithful began to prepare to leave\nNúmenor. They filled their ships with many of their prized possessions,\nincluding the Palantíri.\n\nSauron's lies convinced Ar-Pharazôn that he could achieve immortality in\nthe Undying Lands. In SA 3319, Ar-Pharazon set out with a great fleet\nintending to take the Undying Lands by force but when he set foot on the\nshore, Eru caused the Seas to open up. The fleet sank and Numenor was\ndestroyed by a great wave.\n\nFounding of Gondor\n\nThe ships of the Faithful were spared, and a great wind from the west\nsent them to the shores of Middle-earth. Elendil landed in the north,\nwhilst Isildur and Anárion came to the Mouths of the Anduin in the\nsouth. Elendil and his sons established the Northern-kingdom of Arnor\nand the Southern-kingdom of Gondor in SA 3320. Elendil was the High King\nof both realms, but he dwelled in Arnor and committed the rule of Gondor\nto his sons.\n\nIsildur and Anárion had their thrones side by side in the Great Hall of\nOsgiliath, the city they founded on the Anduin. Anárion lived in Minas\nAnor on the western side of the Anduin, while Isildur made his home in\nIthilien on the eastern side of the Anduin. Anárion had one of the\nPalantír, which he used to communicate with his brother and father.\n\nWar of the Last Alliance\n\nWhen Sauron and the forces of Mordor began attacking Gondor in SA 3429,\nIsildur and the royal family were forced to move from Minas Ithil to\nAnnúminas in Arnor. Anárion successfully defended the city and realm and\nwas able to drive the enemy from Ithilien. The War of the Last Alliance\nbegan in SA 3434. Sauron's forces were defeated in the Battle of\nDagorlad and the army of the Last Alliance entered Sauron's realm and\nlaid Siege of Barad-dûr. The siege lasted seven years and many Men and\nElves were killed. Anárion was killed in SA 3440 in Mordor when a stone\ncast from Barad-dûr, either from falling debris or by catapult, killed\nhim.\n\nHis father Elendil later fought Sauron, and his brother Isildur would be\nthe one to cut the One Ring from Sauron's hand with Isildur's broken\nsword.\n\nTwo years later, his fourth child Meneldil becomes the third King of\nGondor, and so his three older children may have been female or they\nmight have died with him.",
-    "titles": "King of Gondor (joint)",
-    "birth": "SA 3219",
-    "rule": "SA 3320 - SA 3440 (120 years)",
-    "death": "SA 3440",
-    "parentage": "Elendil",
-    "siblings": "Isildur",
-    "weapon": "Sword",
-    "gender": "Male",
-    "culture": "Numenoreans",
-    "lotr_page_id": "541",
-    "other_names": "Egnor , Aikanár, Aikanáro",
-    "spouse": "Loved Andreth, but remained unmarried",
-    "hair": "Golden",
-    "location": "Gondor"
-  },
-  {
     "name": "Anarion",
     "lotr_page_id": "541",
     "text": "ANÁRION was the youngest son of Elendil, the High King of Gondor and\nArnor. He and his brother Isildur jointly ruled Gondor, while their\nfather dwelled in the North. Following his father's death during the\nSiege of Barad-dûr, and Isildur's death at the Disaster of the Gladden\nFields, the kingship of Gondor was committed towards the Line of Anárion\nbeginning with his son, Meneldil.\n\n\nBiography\n\nOrigins\n\nAnárion was born in SA 3219 in Númenor. He and Isildur lived at the\nhaven of Rómenna on the east coast of the island of Númenor. Their\nfather was Elendil son of Amandil, the Lords of Andunie.\n\nIn SA 3262, the Kings of Númenor, took Sauron captive and brought him to\nNúmenor. Sauron allowed himself to be taken because he wanted to corrupt\nthe Númenóreans. He used their desire for immortality and power to\nconvince them to renounce Eru and worship Morgoth.\n\nAs Sauron's influence increased, the Faithful began to prepare to leave\nNúmenor. They filled their ships with many of their prized possessions,\nincluding the Palantíri.\n\nSauron's lies convinced Ar-Pharazôn that he could achieve immortality in\nthe Undying Lands. In SA 3319, Ar-Pharazon set out with a great fleet\nintending to take the Undying Lands by force but when he set foot on the\nshore, Eru caused the Seas to open up. The fleet sank and Numenor was\ndestroyed by a great wave.\n\nFounding of Gondor\n\nThe ships of the Faithful were spared, and a great wind from the west\nsent them to the shores of Middle-earth. Elendil landed in the north,\nwhilst Isildur and Anárion came to the Mouths of the Anduin in the\nsouth. Elendil and his sons established the Northern-kingdom of Arnor\nand the Southern-kingdom of Gondor in SA 3320. Elendil was the High King\nof both realms, but he dwelled in Arnor and committed the rule of Gondor\nto his sons.\n\nIsildur and Anárion had their thrones side by side in the Great Hall of\nOsgiliath, the city they founded on the Anduin. Anárion lived in Minas\nAnor on the western side of the Anduin, while Isildur made his home in\nIthilien on the eastern side of the Anduin. Anárion had one of the\nPalantír, which he used to communicate with his brother and father.\n\nWar of the Last Alliance\n\nWhen Sauron and the forces of Mordor began attacking Gondor in SA 3429,\nIsildur and the royal family were forced to move from Minas Ithil to\nAnnúminas in Arnor. Anárion successfully defended the city and realm and\nwas able to drive the enemy from Ithilien. The War of the Last Alliance\nbegan in SA 3434. Sauron's forces were defeated in the Battle of\nDagorlad and the army of the Last Alliance entered Sauron's realm and\nlaid Siege of Barad-dûr. The siege lasted seven years and many Men and\nElves were killed. Anárion was killed in SA 3440 in Mordor when a stone\ncast from Barad-dûr, either from falling debris or by catapult, killed\nhim.\n\nHis father Elendil later fought Sauron, and his brother Isildur would be\nthe one to cut the One Ring from Sauron's hand with Isildur's broken\nsword.\n\nTwo years later, his fourth child Meneldil becomes the third King of\nGondor, and so his three older children may have been female or they\nmight have died with him.",
@@ -4259,11 +4233,28 @@
     "rule": "SA 3320 - SA 3440 (120 years)",
     "death": "SA 3440",
     "parentage": "Elendil",
-    "siblings": "Isildur",
     "weapon": "Sword",
     "race": "Men",
     "gender": "Male",
     "culture": "Numenoreans",
+    "location": "Gondor"
+  },
+  {
+    "name": "Anárion",
+    "race": "Men",
+    "text": "ANÁRION was the youngest son of Elendil, the High King of Gondor and\nArnor. He and his brother Isildur jointly ruled Gondor, while their\nfather dwelled in the North. Following his father's death during the\nSiege of Barad-dûr, and Isildur's death at the Disaster of the Gladden\nFields, the kingship of Gondor was committed towards the Line of Anárion\nbeginning with his son, Meneldil.\n\n\nBiography\n\nOrigins\n\nAnárion was born in SA 3219 in Númenor. He and Isildur lived at the\nhaven of Rómenna on the east coast of the island of Númenor. Their\nfather was Elendil son of Amandil, the Lords of Andunie.\n\nIn SA 3262, the Kings of Númenor, took Sauron captive and brought him to\nNúmenor. Sauron allowed himself to be taken because he wanted to corrupt\nthe Numenoreans. He used their desire for immortality and power to\nconvince them to renounce Eru and worship Morgoth.\n\nAs Sauron's influence increased, the Faithful began to prepare to leave\nNúmenor. They filled their ships with many of their prized possessions,\nincluding the Palantíri.\n\nSauron's lies convinced Ar-Pharazôn that he could achieve immortality in\nthe Undying Lands. In SA 3319, Ar-Pharazon set out with a great fleet\nintending to take the Undying Lands by force but when he set foot on the\nshore, Eru caused the Seas to open up. The fleet sank and Numenor was\ndestroyed by a great wave.\n\nFounding of Gondor\n\nThe ships of the Faithful were spared, and a great wind from the west\nsent them to the shores of Middle-earth. Elendil landed in the north,\nwhilst Isildur and Anárion came to the Mouths of the Anduin in the\nsouth. Elendil and his sons established the Northern-kingdom of Arnor\nand the Southern-kingdom of Gondor in SA 3320. Elendil was the High King\nof both realms, but he dwelled in Arnor and committed the rule of Gondor\nto his sons.\n\nIsildur and Anárion had their thrones side by side in the Great Hall of\nOsgiliath, the city they founded on the Anduin. Anárion lived in Minas\nAnor on the western side of the Anduin, while Isildur made his home in\nIthilien on the eastern side of the Anduin. Anárion had one of the\nPalantír, which he used to communicate with his brother and father.\n\nWar of the Last Alliance\n\nWhen Sauron and the forces of Mordor began attacking Gondor in SA 3429,\nIsildur and the royal family were forced to move from Minas Ithil to\nAnnúminas in Arnor. Anárion successfully defended the city and realm and\nwas able to drive the enemy from Ithilien. The War of the Last Alliance\nbegan in SA 3434. Sauron's forces were defeated in the Battle of\nDagorlad and the army of the Last Alliance entered Sauron's realm and\nlaid Siege of Barad-dûr. The siege lasted seven years and many Men and\nElves were killed. Anárion was killed in SA 3440 in Mordor when a stone\ncast from Barad-dûr, either from falling debris or by catapult, killed\nhim.\n\nHis father Elendil later fought Sauron, and his brother Isildur would be\nthe one to cut the One Ring from Sauron's hand with Isildur's broken\nsword.\n\nTwo years later, his fourth child Meneldil becomes the third King of\nGondor, and so his three older children may have been female or they\nmight have died with him.",
+    "titles": "King of Gondor (joint)",
+    "birth": "SA 3219",
+    "rule": "SA 3320 - SA 3440 (120 years)",
+    "death": "SA 3440",
+    "parentage": "Elendil",
+    "weapon": "Sword",
+    "gender": "Male",
+    "culture": "Numenoreans",
+    "lotr_page_id": "541",
+    "other_names": "Egnor , Aikanár, Aikanáro",
+    "spouse": "Loved Andreth, but remained unmarried",
+    "hair": "Golden",
     "location": "Gondor"
   },
   {
@@ -4407,7 +4398,6 @@
     "death": "March 15, 3019",
     "spouse": "Elfhild",
     "parentage": "Thengel & Morwen",
-    "siblings": "Théodwyn, three unnamed sisters",
     "weapon": "Herugrim",
     "race": "Men",
     "gender": "Male",
@@ -4448,8 +4438,7 @@
     "gender": "Male",
     "culture": "Durin's Folk",
     "location": "Grey Mountains, Lonely Mountain",
-    "house": "House of Durin",
-    "siblings": "Frór, Grór"
+    "house": "House of Durin"
   },
   {
     "name": "Bombur",
@@ -4492,8 +4481,7 @@
     "race": "Great Eagles",
     "gender": "Male",
     "eyes": "Gold",
-    "parentage": "Unknown; descendant of Thorondor",
-    "siblings": "Landroval"
+    "parentage": "Unknown; descendant of Thorondor"
   },
   {
     "name": "Bard",
@@ -4748,8 +4736,7 @@
     "rule": "T.A. 3019 - Fo.A. 63",
     "death": "Fo.A. 63 (aged 93)",
     "house": "House of Eorl",
-    "parentage": "Éomund &Théodwyn",
-    "siblings": "Éowyn",
+    "parentage": "Éomund & Théodwyn",
     "spouse": "Lothíriel",
     "gender": "Male",
     "height": "Around 6' 6\"",
@@ -4765,7 +4752,7 @@
     "titles": "Lord of the Havens, Master of the Grey Havens, The Shipwright",
     "location": "Lindon",
     "birth": "Between Y.T. 1050 and 1149, Middle-earth",
-    "parentage": "Unknown (kinsman of Thingol and, Olwë)",
+    "parentage": "Unknown (kinsman of Thingol and Olwë)",
     "race": "Elves",
     "culture": "Teleri",
     "gender": "Male",
@@ -4846,7 +4833,6 @@
     "death": "FO 121",
     "spouse": "Aragorn II Elessar",
     "parentage": "Elrond and Celebrían",
-    "siblings": "Elladan and Elrohir",
     "gender": "Female",
     "hair": "Black",
     "eyes": "Grey",
@@ -4864,7 +4850,6 @@
     "death": "Early Fourth Age",
     "house": "House of Eorl",
     "parentage": "Éomund & Théodwyn",
-    "siblings": "Éomer",
     "spouse": "Faramir",
     "gender": "Female",
     "titles": "White Lady of Rohan, Shieldmaiden of Rohan, Lady of the Shield-arm, Lady of Ithilien, Lady of Emyn Arnen",
@@ -4950,7 +4935,6 @@
     "birth": "TA 2978",
     "death": "February 26, 3019",
     "parentage": "Denethor II and Finduilas of Dol Amroth",
-    "siblings": "Faramir",
     "weapon": "Sword, Shield, dagger (movies)",
     "gender": "Male",
     "height": "c. 6ft 4in (1.93m)",
@@ -5106,7 +5090,6 @@
     "death": "Still alive; departed to Aman on September 29, 3021",
     "spouse": "Celebrían",
     "parentage": "Eärendil, father, Elwing, mother, Maglor, foster father",
-    "siblings": "Elros (twin)",
     "weapon": "Hadhafang (films)",
     "race": "Half-elven",
     "gender": "Male",
@@ -5157,7 +5140,6 @@
     "death": "November 23, TA 2941",
     "spouse": "None",
     "parentage": "Thráin II",
-    "siblings": "Frerin, Dís",
     "weapon": "Orcrist, Axe, Dwarven Sword, Lake-town Sword, Dwarven Regal Sword, Dwarven Shield, Oaken branch",
     "race": "Dwarves",
     "gender": "Male",
@@ -5202,7 +5184,6 @@
     "death": "FA 587",
     "spouse": "None",
     "parentage": "Fëanor and Nerdanel",
-    "siblings": "Maglor, Celegorm, Caranthir, Curufin, Amrod, Amras",
     "weapon": "Elven sword",
     "race": "Elves",
     "gender": "Male",
@@ -5221,7 +5202,6 @@
     "rule": "FA 510 - SA 3441",
     "death": "SA 3441",
     "parentage": "Fingon (The Silmarillion), Orodreth (later notes)",
-    "siblings": "None (The Silmarillion), Finduilas (later notes)",
     "weapon": "Aeglos",
     "race": "Elves",
     "gender": "Male",
@@ -5270,17 +5250,6 @@
     "location": "Old Forest"
   },
   {
-    "name": "Old Man Willow",
-    "lotr_page_id": "3077",
-    "text": "OLD MAN WILLOW was a great willow tree of the Old Forest; he was the\nroot cause of much of the Forest's anger and hatred towards trespassers.\nHe was most likely a Huorn, as the Old Forest was originally part of the\nsame primordial forest as Fangorn. He had great power within the Old\nForest, and was able to direct all paths in the woodland to him.\n\nTom Bombadil had power over Old Man Willow, and checked the evil in him\nas much as he could, or was willing to.\n\n\nHistory\n\nIn _The Fellowship of the Ring_, Old Man Willow casts a spell on the\nHobbits (Frodo, Sam, Merry and Pippin), causing them to feel sleepy.\nMerry and Pippin lean against his trunk and fall asleep, while Frodo\nsits on a root to dangle his feet in the water, before also falling\nasleep. The ill spirit then traps Merry and Pippin in the folds of its\ntrunk. Sam and Frodo attempt to burn Old Man Willow in order to release\ntheir friends, but Old Man Willow communicates to Merry, who is still\ninside his roots, that if the burning does not cease, the Hobbits would\nbe squeezed in two. They are saved by the timely arrival of Tom\nBombadil, who 'sings' the ancient tree to sleep. Whether or not Old Man\nWillow is truly evil remains a mystery. It is possible that he\nrepresents the anger and bitterness of nature toward those who try to\ndestroy it.",
-    "other_names": "The Great Willow; \"Old grey Willow-man\"",
-    "location": "The Old Forest",
-    "race": "Huorn",
-    "gender": "Male",
-    "weaponry": "Spells",
-    "birth": "Unknown"
-  },
-  {
     "name": "Celeborn",
     "race": "Elves",
     "text": "CELEBORN was the_' Lord of Lothlórien_', and his wife was Galadriel,\nLady of the Golden Wood. Celeborn was said to be one of the wisest Elves\nin Middle-earth at the end of the Third Age.\n\nDuring the War of the Ring, Celeborn defended Lothlórien and led the\nassault on the Enemy castle of Dol Guldur. He remained in Middle-earth\nfor a time at the beginning of the Fourth Age, but eventually he joined\nhis wife in the Undying Lands.\n\n\nBiography\n\nOrigins\n\nCeleborn was a Prince of Doriath and a kinsman of Thingol, the King of\nDoriath. Celeborn was said to be the grandson of Thingol's brother Elmo.\nCeleborn's father was Galadhon and he had a brother named Galathil.\n\nFirst Age\n\nAround FA 52, Galadriel came to Doriath. Galadriel was one of the Ñoldor\nwho came to Middle-earth wishing to see the lands and rule a realm of\nher own. She came with the second 'group' of elves from Aman with\nFingolfin and Finrod. Celeborn and Galadriel fell in love and married\neach other.\n\nIt is not clear how long Celeborn and Galadriel dwelled in Beleriand.\nAccording to one story, they left Beleriand and crossed the Blue\nMountains into Eriador before the Fall of Nargothrond in FA 495, but\naccording to another story they remained in Beleriand until the end of\nthe First Age.\n\nAround FA 502, King Thingol of Doriath summoned dwarf craftsmen to set a\nSilmaril in Nauglamir, the fabled jeweled Necklace of the Dwarves. The\ndwarf craftsmen coveted the necklace and especially the Silmaril, and\nthey demanded that Thingol give it to them. When Thingol refused, they\nkilled him and took the necklace set with the Silmaril. The Dwarven\ncraftsmen were pursued by Elves of Doriath, who killed the Dwarves and\nretrieved the necklace. However, two Dwarves escaped and returned to\nNogrod in the Blue Mountains and rallied their kinsmen to seek vengeance\non the Elves of Doriath. An army of Dwarves attacked Doriath and\ndefeated the elves. They took the necklace once more, but Beren again\nreclaimed it.\n\nDoriath was briefly re-inhabited by Beren's son Dior Eluchíl, but the\nsons of Feanor came to try to take the Silmaril. Though Dior's daughter\nElwing escaped with the Silmaril, Dior was killed and Doriath was ruined\nand abandoned.\n\nCeleborn's distrust of Dwarves began at this time. His role in these\nevents is unknown, although in one account it is written that Celeborn\nescaped the sack of Doriath.\n\nThe First Age ended with the War of Wrath and the defeat of Morgoth.\nBeleriand was ruined and sank beneath the Sea. Many of the Ñoldor\nreturned to the Undying Lands with the pardon of the Valar, but\nGaladriel remained in Middle-earth with Celeborn.\n\nSecond Age\n\nCeleborn and Galadriel probably lived for a time in Lindon, a coastal\nregion west of the Blue Mountains. Gil-galad was the High King of the\nelves who dwelled in Lindon. However, many of the elves in Harlindon -\nthe part of Lindon south of the Gulf of Lune - were Sindarin elves like\nCeleborn, and he may have ruled a fiefdom there under Gil-galad.\n\nAt some time early in the Second Age, Celeborn and Galadriel are said to\nhave moved eastward into Eriador with a number of Elves in their\nfollowing. They may have lived for a while near Lake Evendim. Their\ndaughter Celebrian may have been born during this time. They began to\nmove eastward again around the year SA 700 because Galadriel sensed a\ngrowing evil in Middle-earth that she felt duty-bound to oppose.\n\nThe realm of Eregion was founded in SA 750, and Galadriel and Celeborn\nare said to have dwelled there for a time along with Celebrimbor and the\nElven-smiths. The Elves of Eregion had dealings with the Dwarves of\nKhazad-dûm nearby, but Celeborn still distrusted Dwarves and would not\nenter Khazad-dûm, although the Dwarves there had nothing to do with the\ndestruction of Doriath.\n\nThe Elves of Eregion also had contact with the Elves of Lothlórien on\nthe other side of the Misty Mountains. According to one story, Galadriel\nwent to dwell in Lothlórien around SA 1350 to SA 1400 while Celeborn\nremained in Eregion. However, in other versions of the story both\nGaladriel and Celeborn stayed in Eregion.\n\nSauron came to Eregion in a fair disguise as Annatar the “Lord of gifts”\nin SA 1200 and deceived the Elven-smiths, who began forging the Rings of\nPower under his instruction in SA 1500. Sauron forged the One Ring to\nrule the others around SA 1600, and Celebrimbor hid from him the Three\nElven Rings of power that he had made without Sauron knowing of its\ncreation and help. Enraged, Sauron attacked Eregion in SA 1697.\n\nCeleborn led a sortie from Eregion to meet the vanguard of Sauron's\narmy. He was able to drive the enemy back long enough to join forces\nwith Elrond, who brought reinforcements from Lindon. But Sauron's army\nwas greater than their combined forces and Eregion soon fell.\nCelebrimbor was killed, and Sauron took the Nine Rings and at least six\nof the Seven rings. Sauron would eventually be driven back to Mordor in\nSA 1701.\n\nThe movements of Celeborn and Galadriel after the fall of Eregion are\nunclear. Celeborn may have gone to Lothlórien to help strengthen their\ndefenses against Sauron. He and Galadriel may have lived there for a\ntime, but they did not become the rulers of Lothlórien then. The king of\nLothlórien at that time was Amdír, who was killed in the War of the Last\nAlliance at the end of the Second Age and was succeeded by his son\nAmroth.\n\nThird Age\n\nCeleborn and Galadriel may also have lived for a while in Rivendell, the\nhome of Elrond. At some point, they may have travelled to the coastal\nregion of Belfalas in the south to be near the sea.\n\nCeleborn and Galadriel's daughter Celebrian married Elrond in TA 109.\nElrond and Celebrian had three children: twin sons Elladan and Elrohir,\nborn in TA 130, and a daughter Arwen, born in TA 241.\n\nAround TA 1050, the Necromancer, who was actually Sauron, built the\nstronghold of Dol Guldur across the Anduin from Lothlórien. Celeborn and\nGaladriel are said to have returned to Lothlórien to investigate the\nNecromancer and ensure the safety of Lothlórien. But after a time, they\nonce again departed, possibly for Rivendell. Lothlórien remained under\nthe rule of King Amroth.\n\nA Balrog awoke in Khazad-dum in TA 1980. Many of the Elves of Lothlórien\nfled, including Amroth's lover Nimrodel. Amroth followed Nimrodel and he\nlater perished at sea. Lothlórien was left without a leader, so Celeborn\nand Galadriel returned there and became the Lord and Lady of Lothlórien\nin TA 1981. They ruled the realm from Caras Galadhon, the City of the\nTrees.\n\nCelebrian was on her way to Lothlórien to visit her parents in TA 2509\nwhen she was captured by orcs in Caradhras. Her sons Elladan and Elrohir\nrescued Celebrian, but the horror of the experience remained with her\nand she decided to leave Middle-earth the next year to dwell in the\nUndying Lands.\n\nIn TA 2941, Sauron was driven out of Dol Guldur by the White Council -\nof which Galadriel was a member. However, Sauron had been prepared for\nthe attack and returned to Mordor. He sent Nazgûl led by Khamul to\noccupy Dol Guldur.\n\nAragorn came to Lothlórien in TA 2980 and became betrothed to Arwen, who\nwas there visiting her grandparents.\n\nWar of the Ring\n\nIn December of 3018, Elladan and Elrohir brought word to Celeborn and\nGaladriel of the Fellowship of the Ring's quest to destroy the One Ring.\nThe Fellowship arrived in Lothlórien on January 15, 3019, and was\nbrought to Caras Galadhon to meet Celeborn and Galadriel on January 17.\n\n\n\nCeleborn at first welcomed Gimli despite his distrust of Dwarves and\nsaid he hoped that there could be friendship between their peoples once\nmore. Then he  learned that the Balrog had been disturbed by an\nexpedition of Dwarves to Khazad-dum led by Balin several years before,\nand that the Balrog had attacked the Fellowship resulting in the loss of\nGandalf the Grey. Celeborn was angry at first and regretted allowing the\nFellowship to enter Lothlórien, but Galadriel soothed him and he\napologized to Gimli.\n\nCeleborn promised to help the Fellowship in any way he could. On the eve\nof the Fellowship's departure from Lothlórien, he discussed what route\nthey might take, and offered them boats to ease their journey down the\nAnduin. The next day on February 16, Celeborn and Galadriel prepared a\nfeast for the Fellowship and gave them gifts. Celeborn gave them further\nadvice about navigating the Great River Anduin.\n\n\n\nLothlórien was attacked thrice by forces from Dol Guldur during the War\nof the Ring: on March 11, 15, and 22. Each time, the Galadhrim led by\nCeleborn and Galadriel repelled them. After the destruction of the One\nRing and Sauron's defeat, Celeborn led a force across the Anduin and\ncaptured Dol Guldur on March 28. The shadow was lifted from Mirkwood.\n\nOn April 6, Celeborn met Thranduil, the King of the Woodland Realm, in\nMirkwood. They renamed the forest the Wood of Greenleaves. Thranduil\nretained kingship of the northern part of the forest, while the center\npart was given to the Beornings and the Woodmen. Celeborn claimed the\nsouthern part of the forest below the Narrows of the Forest to be part\nof Lothlórien. This region was named East Lórien.\n\nCeleborn and Galadriel accompanied their granddaughter Arwen to Minas\nTirith, where she wed Aragorn on Midyear's Day. Celeborn and Galadriel\nthen travelled to Rohan and attended the funeral of the King Theoden. On\nthe way home, they met with Treebeard at Isengard.\n\nWhen Celeborn and Galadriel parted from Aragorn, Celeborn said to his\ngranddaughter's husband: _“Kinsman, farewell! May your doom be other\nthan mine, and your treasure remain with you to the end!”_\n\nCeleborn may have been anticipating the day when his own wife would\ndepart for the Undying Lands while he remained in Middle-earth. On\nSeptember 13, Celeborn and Galadriel crossed the Redhorn Gate to return\nto Lothlórien.\n\nFourth Age\n\n\n\nGaladriel left Middle-earth to return to the Undying Lands in 3021 at\nthe end of the Third Age. Celeborn remained in Lothlórien, but after a\nfew years he began to grow weary. He went to Rivendell to live with his\ngrandsons Elladan and Elrohir for awhile in the early part of the Fourth\nAge. Eventually, Celeborn went to the Grey Havens and sailed for the\nUndying Lands where his wife and daughter dwelled. It is said that “with\nhim went the last living memory of the Elder Days in Middle-earth.”\n\n\nEtymology\n\nThe name _CELEBORN_ means “Silver tree”, from the Sindarin words _celeb_\n(“silver”) and _orn_ (“tree”). His original name was TELEPORNO, a\nTelerin name which means “Silver-high”, from Quenyan _tyelpe_\n(“silver”).\n\n\nPronunciation\n\nCeleborn is pronounced ‘Keleborn’ and not ‘Seleborn’.",
@@ -5290,7 +5259,6 @@
     "death": "Sailed West in the early Fourth Age",
     "spouse": "Galadriel",
     "parentage": "Galadhon",
-    "siblings": "Galathil",
     "gender": "Male",
     "height": "6 feet 4 inches (193cm)",
     "hair": "Silver, long",
@@ -5307,7 +5275,6 @@
     "rule": "SA 3441 - TA 2 (2 years)",
     "death": "TA 2",
     "parentage": "Elendil",
-    "siblings": "Anárion",
     "weapon": "Sword",
     "race": "Men",
     "gender": "Male",
@@ -5362,7 +5329,6 @@
     "death": "February 26, 82 (aged 120)",
     "spouse": "Éowyn",
     "parentage": "Denethor II and Finduilas of Dol Amroth",
-    "siblings": "Boromir",
     "weapon": "Sword, nail-knife, bow (films)",
     "race": "Men",
     "gender": "Male",
@@ -5398,7 +5364,6 @@
     "death": "Alive; departed to Valinor on September 29, 3021",
     "spouse": "Celeborn",
     "parentage": "Finarfin and Eärwen",
-    "siblings": "Finrod, Angrod, Aegnor",
     "weapon": "Elf magic, Ring Nenya (after the destruction of the One Ring, it lost, its power)",
     "race": "Elves",
     "gender": "Female",
